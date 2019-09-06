@@ -1,6 +1,9 @@
 import re
 
+VERSION = '1.0.0'
+
 WORD_DELIMITER = '\n'
+RGX_VERSION = re.compile(r'^@version (\d+\.\d+\.\d+)$')
 RGX_ENTRY = re.compile(r'^(.+), (der|die|das)')
 RGX_LIST_ITEM = re.compile(r'^- (.+)')
 RGX_KEY_STR_VALUE = re.compile(r'$(.+): (.+)^')
@@ -47,6 +50,12 @@ class Game(object):
                     'value': word
                 }
             else:
+                match = RGX_VERSION.match(line)
+                if match is not None:
+                    return {
+                        'type': 'VERSION',
+                        'value': match[1]
+                    }
                 return None
 
     @staticmethod
@@ -69,8 +78,10 @@ class Game(object):
                     elif current_action == ACTION_ADD_EX:
                         if result['type'] == 'LIST_ITEM':
                             word.examples.append(result['value'])
-
-                    if result['type'] == 'NEW_ENTRY':
+                    if result['type'] == 'VERSION':
+                        if VERSION != result['value']:
+                            raise Exception('Invalid file version')
+                    elif result['type'] == 'NEW_ENTRY':
                         word = result['value']
                         game.add_word(word)
 

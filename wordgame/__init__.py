@@ -1,8 +1,13 @@
 from .models import Game
 
 def start(datafile):
-    game = Game.load(datafile)
+    try:
+        game = Game.load(datafile)
+    except Exception as e:
+        print(str(e))
+        exit(1)
 
+    print("Welcome to WordGame!")        
     print("Let's get the gender correctly...")
     for word in game.words:
         print("Word:\t {}\n".format(word.text))
