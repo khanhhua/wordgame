@@ -1,0 +1,11870 @@
+Zeit, die
+mn: Time
+pl: Die Zeiten 
+
+Man, der
+mn: Man
+pl: Die Männer 
+
+Hand, die
+mn: Hand
+pl: Die Hände 
+
+Tag, der
+mn: Day
+pl: Die Tagen 
+
+Weg, der
+mn: Way
+pl: Die Wege 
+
+Auge, das
+mn: Eye
+pl: Die Augen 
+
+Ding, das
+mn: Thing
+pl: Die Dinge 
+
+Kopf, der
+mn: Head
+pl: Die Köpfe 
+
+Jahr, das
+mn: Year
+pl: Die Jahre 
+
+Raum, die
+mn: Room
+pl: Die Räume 
+
+Tür, die
+mn: Door
+pl: Die Türen 
+
+Frau, die
+mn: Woman
+pl: Die Frauen 
+
+Gesicht, das
+mn: Face
+pl: Die Gesichter 
+
+Mutter, die
+mn: Mother
+pl: Die Mütter 
+
+Volk, das
+mn: People
+pl: Die Völker
+
+Nacht, die
+mn: Night
+pl: Die Nächte 
+
+Haus, das
+mn: House
+pl: Die Häuser 
+
+Vater, der
+mn: Father
+pl: Die Väter 
+
+Leben, das
+mn: Life
+pl: Die Leben 
+
+Rücken, der
+mn: Back
+pl: Die Rücken
+
+Stimme, die
+mn: Voice
+pl: Die Stimmen 
+
+Mädchen, das
+mn: Girl
+pl: Die Mädchen 
+
+Ort, der
+mn: Place
+pl: Die Orte 
+
+Junge, der
+mn: Boy
+pl: Die Jungen 
+
+Auto, das
+mn: Car
+pl: Die Autos 
+
+Seite, die
+mn: Side
+pl: Die Seiten 
+
+Arm, der
+mn: Arm
+pl: Die Arme 
+
+Kind, das
+mn: Child
+pl: Die Kinder 
+
+Wort, das
+mn: Word
+pl: Die Worte 
+
+Moment, der
+mn: Moment
+pl: Die Momente 
+
+Haar, das
+mn: Hair
+pl: Die Haare 
+
+Fuß, der
+mn: Foot
+pl: Die Füße 
+
+Wasser, das
+mn: Water
+pl: Die Wasser
+
+Licht, das
+mn: Light
+pl: Die Lichter 
+
+Welt, die
+mn: World
+pl: Die Welt 
+
+Name, der
+mn: Name
+pl: Die Namen 
+
+Freund, der
+mn: Friend
+pl: Die Freunde 
+
+Fenster, das
+mn: Window
+pl: Die Fenster 
+
+Körper, der
+mn: Body
+pl: Die Körper 
+
+Tisch, der
+mn: Table
+pl: Die Tabellen 
+
+Morgen, der
+mn: Morning
+pl: Die Morgen 
+
+Bett, das
+mn: Bed
+pl: Die Betten 
+
+Mauer, die
+mn: Wall
+pl: Die Wände 
+
+Straße, die
+mn: Street
+pl: Die Straßen 
+
+Schule, die
+mn: School
+pl: Die Schulen 
+
+Luft, die
+mn: Air
+pl: Die Lüfte 
+
+Boden, der
+mn: Floor
+pl: Die Böden 
+
+Stunde, die
+mn: Hour
+pl: Die Stunden 
+
+Ende, das
+mn: End
+pl: Die Enden 
+
+Familie, die
+mn: Family
+pl: Die Familien 
+
+Kerl, der
+mn: Guy
+pl: Die Kerle
+
+Art, die
+mn: Kind
+pl: Die Arten 
+
+Minute, die
+mn: Minute
+pl: Die Minuten 
+
+Geschichte, die
+mn: Story
+pl: Die Geschichten 
+
+Gott, der
+mn: God
+pl: Die Götter 
+
+Woche, die
+mn: Week
+pl: Die Wochen 
+
+Arbeit, die
+mn: Work
+pl: Die Werke 
+
+Schulter, die
+mn: Shoulder
+pl: Die Schultern 
+
+Teil, der
+mn: Part
+pl: Die Teile 
+
+Geist, der
+mn: Mind
+pl: Die Gemüter 
+
+Buch, das
+mn: Book
+pl: Die Bücher 
+
+Finger, der
+mn: Finger
+pl: Die Finger 
+
+Mund, der
+mn: Mouth
+pl: Die Mündungen 
+
+Kind, das
+mn: Kid
+pl: Die Kinder 
+
+Glas, das
+mn: Glass
+pl: Die Brille 
+
+Baum, der
+mn: Tree
+pl: Die Bäume 
+
+Klang, der
+mn: Sound
+pl: Die Geräusche 
+
+Linie, die
+mn: Line
+pl: Die Linien 
+
+Ehefrau, die
+mn: Wife
+pl: Die Ehefrauen 
+
+Herz, das
+mn: Heart
+pl: Die Herzen 
+
+Geld, das
+mn: Money
+pl: Die Gelder 
+
+Telefon, das
+mn: Phone
+pl: Die Telefone 
+
+Aussehen, das
+mn: Look
+pl: Die Blicke 
+
+Bein, das
+mn: Leg
+pl: Die Beine 
+
+Stuhl, der
+mn: Chair
+pl: Die Stühle 
+
+Büro, das
+mn: Office
+pl: Die Büros 
+
+Bruder, der
+mn: Brother
+pl: Die Brüder 
+
+Frage, die
+mn: Question
+pl: Die Fragen 
+
+Stadt, die
+mn: City
+pl: Die Städte 
+
+Monat, der
+mn: Month
+pl: Die Monate 
+
+Baby, das
+mn: Baby
+pl: Die Babys 
+
+Zuhause, das
+mn: Home
+pl: Die Häuser 
+
+Hund, der
+mn: Dog
+pl: Die Hunde 
+
+Straße, die
+mn: Road
+pl: Die Straßen 
+
+Idee, die
+mn: Idea
+pl: Die Ideen 
+
+Küche, die
+mn: Kitchen
+pl: Die Küchen 
+
+Los, das
+mn: Lot
+pl: Die Lose 
+
+Sohn, der
+mn: Son
+pl: Die Söhne 
+
+Beruf, der
+mn: Job
+pl: Die Jobs 
+
+Papier, das
+mn: Paper
+pl: Die Papiere 
+
+Schwester, die
+mn: Sister
+pl: Die Schwestern 
+
+Lächeln, das
+mn: Smile
+pl: Die Lächeln 
+
+Punkt, der
+mn: Point
+pl: Die Punkte 
+
+Gedanke, der
+mn: Thought
+pl: Die Gedanken 
+
+Liebe, die
+mn: Love
+pl: Die Liebe 
+
+Stadt, die
+mn: Town
+pl: Die Städte 
+
+Tod, der
+mn: Death
+pl: Die Todesfälle 
+
+Boden, der
+mn: Ground
+pl: Die Gründe 
+
+Anderen, die
+mn: Others
+pl: Die Anderen
+
+Feuer, das
+mn: Fire
+pl: Die Feuer 
+
+Schritt, der
+mn: Step
+pl: Die Schritte 
+
+Blut, das
+mn: Blood
+pl: Die Blut
+
+Tatsache, die
+mn: Fact
+pl: Die Fakten 
+
+Atem, der
+mn: Breath
+pl: Die Atem 
+
+Lippe, die
+mn: Lip
+pl: Die Lippen 
+
+Sonne, die
+mn: Sun
+pl: Die Sonnen 
+
+Gebäude, die
+mn: Building
+pl: Die Gebäude 
+
+Anzahl, die
+mn: Number
+pl: Die Nummern 
+
+Ehemann, der
+mn: Husband
+pl: Die Ehemänner 
+
+Elternteil, das
+mn: Parent
+pl: Die Eltern 
+
+Ecke, die
+mn: Corner
+pl: Die Ecken 
+
+Problem, das
+mn: Problem
+pl: Die Probleme 
+
+Ehepaar, das
+mn: Couple
+pl: Die Paare 
+
+Tochter, die
+mn: Daughter
+pl: Die Töchter 
+
+Beutel, der
+mn: Bag
+pl: Die Taschen 
+
+Hölle, die
+mn: Hell
+pl: Die Höllen 
+
+Rast, die
+mn: Rest
+pl: Die Reste 
+
+Geschäft, das
+mn: Business
+pl: Die Unternehmen 
+
+Himmel, der
+mn: Sky
+pl: Der Himmel 
+
+Kiste, die
+mn: Box
+pl: Die Boxs 
+
+Person, die
+mn: Person
+pl: Die Personen 
+
+Grund, der
+mn: Reason
+pl: Die Gründe 
+
+Recht, das
+mn: Right
+pl: Die Rechte 
+
+Haut, die
+mn: Skin
+pl: Die Häute 
+
+Vater, der
+mn: Dad
+pl: Die Väter 
+
+Fall, der
+mn: Case
+pl: Die Fälle 
+
+Stück, das
+mn: Piece
+pl: Die Stücke 
+
+Doktor, der
+mn: Doctor
+pl: Die Doktoren 
+
+Ecke, die
+mn: Edge
+pl: Die Kanten 
+
+Mama, die
+mn: Mom
+pl: Die Mütter 
+
+Bild, das
+mn: Picture
+pl: Die Bilder 
+
+Sinn, der
+mn: Sense
+pl: Die Sinne 
+
+Ohr, das
+mn: Ear
+pl: Die Ohren 
+
+Zweite, der
+mn: Second
+pl: Die Sekunden 
+
+Dame, die
+mn: Lady
+pl: Die Damen 
+
+Hals, der
+mn: Neck
+pl: Die Hälse 
+
+Wind, der
+mn: Wind
+pl: Die Winde 
+
+Schreibtisch, der
+mn: Desk
+pl: Die Schreibtische 
+
+Waffe, die
+mn: Gun
+pl: Die Waffen 
+
+Stein, der
+mn: Stone
+pl: Die Steine 
+
+Kaffee, der
+mn: Coffee
+pl: Die Kaffee 
+
+Schiff, das
+mn: Ship
+pl: Die Schiffe 
+
+Erde, die
+mn: Earth
+pl: Die Erden 
+
+Essen, das
+mn: Food
+pl: Die Lebensmittel 
+
+Pferd, das
+mn: Horse
+pl: Die Pferde 
+
+Feld, das
+mn: Field
+pl: Die Felder 
+
+Krieg, der
+mn: War
+pl: Die Kriege 
+
+Nachmittag, der
+mn: Afternoon
+pl: Die Nachmittage 
+
+Sir, die
+mn: Sir
+pl: Die Damen Und Herren 
+
+Raum, der
+mn: Space
+pl: Die Räume 
+
+Abend, der
+mn: Evening
+pl: Die Abende 
+
+Brief, der
+mn: Letter
+pl: Die Briefe 
+
+Bar, die
+mn: Bar
+pl: Die Bars 
+
+Traum, der
+mn: Dream
+pl: Die Träume 
+
+Wohnung, die
+mn: Apartment
+pl: Die Wohnungen 
+
+Brust, die
+mn: Chest
+pl: Die Truhen 
+
+Spiel, das
+mn: Game
+pl: Die Spiele 
+
+Sommer, der
+mn: Summer
+pl: Die Sommer 
+
+Grund, der
+mn: Matter
+pl: Die Angelegenheiten 
+
+Stille, die
+mn: Silence
+pl: Die Stille 
+
+Spitze, die
+mn: Top
+pl: Die Spitzen 
+
+Fels, der
+mn: Rock
+pl: Die Steine 
+
+Macht, die
+mn: Power
+pl: Die Befugnisse 
+
+Kleider, die
+mn: Clothes
+pl: Die Clotheses 
+
+Schild, das
+mn: Sign
+pl: Die Zeichen 
+
+Aufmerksamkeit, die
+mn: Attention
+pl: Die Aufmerksamkeit 
+
+Musik, die
+mn: Music
+pl: Die Musiken 
+
+Staat, der
+mn: State
+pl: Die Staaten 
+
+Tasche, die
+mn: Pocket
+pl: Die Taschen 
+
+Abendessen, das
+mn: Dinner
+pl: Die Abendessen 
+
+Halle, die
+mn: Hall
+pl: Die Hallen 
+
+Schmerz, der
+mn: Pain
+pl: Die Schmerzen 
+
+Alter, das
+mn: Age
+pl: Das Alter 
+
+Fluss, der
+mn: River
+pl: Die Flüsse 
+
+Chance, die
+mn: Chance
+pl: Die Chancen 
+
+Nase, die
+mn: Nose
+pl: Die Nasen 
+
+Schatten, der
+mn: Shadow
+pl: Die Schatten 
+
+Polizei, die
+mn: Police
+pl: Die Politiken 
+
+Gedächtnis, das
+mn: Memory
+pl: Die Erinnerungen 
+
+Farbe, die
+mn: Color
+pl: Die Farben 
+
+Knie, das
+mn: Knee
+pl: Die Knie 
+
+Holz, das
+mn: Wood
+pl: Der Wald 
+
+Hemd, das
+mn: Shirt
+pl: Die Hemden 
+
+Party, die
+mn: Party
+pl: Die Parteien 
+
+Land, das
+mn: Country
+pl: Die Länder 
+
+Lkw, der
+mn: Truck
+pl: Die Lastwagen 
+
+Zahn, der
+mn: Tooth
+pl: Die Tooths 
+
+Rechnung, die
+mn: Bill
+pl: Die Rechnungen 
+
+Szene, die
+mn: Scene
+pl: Die Szenen
+
+Land, das
+mn: Land
+pl: Die Ländereien 
+
+Stern, der
+mn: Star
+pl: Die Sterne 
+
+Vogel, der
+mn: Bird
+pl: Die Vögel 
+
+Schlafzimmer, das
+mn: Bedroom
+pl: Die Schlafzimmer 
+
+Onkel, der
+mn: Uncle
+pl: Die Onkel 
+
+Art, die
+mn: Sort
+pl: Die Sorten 
+
+Gruppe, die
+mn: Group
+pl: Die Gruppen 
+
+Wahrheit, die
+mn: Truth
+pl: Die Wahrheiten 
+
+Schwierigkeiten, die
+mn: Trouble
+pl: Die Probleme 
+
+Menge, die
+mn: Crowd
+pl: Die Menschenmengen 
+
+Bahnhof, der
+mn: Station
+pl: Die Stationen 
+
+Reiß, die
+mn: Tear
+pl: Die Tränen 
+
+Klasse, die
+mn: Class
+pl: Die Klassen 
+
+Meer, das
+mn: Sea
+pl: Die Meere 
+
+Tier, das
+mn: Animal
+pl: Die Tiere 
+
+Zentrum, das
+mn: Center
+pl: Die Zentren 
+
+Gefühl, das
+mn: Feeling
+pl: Die Gefühle 
+
+Geschäft, das
+mn: Store
+pl: Die Läden 
+
+Berg, der
+mn: Mountain
+pl: Die Berge 
+
+Nachrichten, die
+mn: News
+pl: Die Newses 
+
+Schuh, der
+mn: Shoe
+pl: Die Schuhe 
+
+Katze, die
+mn: Cat
+pl: Die Katzen 
+
+Bildschirm, der
+mn: Screen
+pl: Die Schirme 
+
+Flasche, die
+mn: Bottle
+pl: Die Flaschen 
+
+Anruf, der
+mn: Call
+pl: Die Anrufe 
+
+Lebenden, die
+mn: Living
+pl: Die Livings 
+
+Wange, die
+mn: Cheek
+pl: Die Wangen 
+
+Schüler, der
+mn: Student
+pl: Die Studenten 
+
+Ball, der
+mn: Ball
+pl: Die Bälle 
+
+Sehenswürdigkeit, die
+mn: Sight
+pl: Die Sehenswürdigkeiten 
+
+Hügel, der
+mn: Hill
+pl: Die Hügel 
+
+Unternehmen, das
+mn: Company
+pl: Die Betriebe 
+
+Kirche, die
+mn: Church
+pl: Die Kirchen 
+
+Regen, der
+mn: Rain
+pl: Die Regenzeit 
+
+Anzug, der
+mn: Suit
+pl: Die Anzüge 
+
+Eine, der
+mn: One
+pl: Die Einen 
+
+Richtung, die
+mn: Direction
+pl: Die Richtungen 
+
+Wille, der
+mn: Will
+pl: Die Testamente 
+
+Hals, der
+mn: Throat
+pl: Die Kehlen 
+
+Mitte, die
+mn: Middle
+pl: Die Middles 
+
+Antwort, die
+mn: Answer
+pl: Die Antworten 
+
+Zeug, das
+mn: Stuff
+pl: Die Stoffe 
+
+Krankenhaus, das
+mn: Hospital
+pl: Die Krankenhäuser 
+
+Kamera, die
+mn: Camera
+pl: Die Kameras 
+
+Kleid, das
+mn: Dress
+pl: Die Kleider 
+
+Karte, die
+mn: Card
+pl: Die Karten 
+
+Hof, der
+mn: Yard
+pl: Die Werften 
+
+Dunkelheit, die
+mn: Dark
+pl: Die Dunkelheiten 
+
+Scheiße, die
+mn: Shit
+pl: Die Scheiße 
+
+Bild, das
+mn: Image
+pl: Die Bilder 
+
+Maschine, die
+mn: Machine
+pl: Die Maschinen 
+
+Distanz, die
+mn: Distance
+pl: Die Abstände 
+
+Gebiet, das
+mn: Area
+pl: Die Bereiche 
+
+Erzähler, der
+mn: Narrator
+pl: Die Erzähler 
+
+Eis, das
+mn: Ice
+pl: Die Ices 
+
+Schnee, der
+mn: Snow
+pl: Der Schnee 
+
+Notiz, die
+mn: Note
+pl: Die Notizen 
+
+Spiegel, der
+mn: Mirror
+pl: Die Spiegel 
+
+König, der
+mn: King
+pl: Die Könige 
+
+Angst, die
+mn: Fear
+pl: Die Ängste 
+
+Offizier, der
+mn: Officer
+pl: Die Offiziere 
+
+Loch, das
+mn: Hole
+pl: Die Löcher 
+
+Schuss, der
+mn: Shot
+pl: Die Schüsse 
+
+Wächter, der
+mn: Guard
+pl: Die Wachen 
+
+Unterhaltung, die
+mn: Conversation
+pl: Die Gespräche 
+
+Boot, das
+mn: Boat
+pl: Die Boote 
+
+System, das
+mn: System
+pl: Die Systeme 
+
+Pflege, die
+mn: Care
+pl: Die Sorgen 
+
+Bit, die
+mn: Bit
+pl: Die Bits 
+
+Film, der
+mn: Movie
+
+Kino, das
+mn: Movie
+
+Knochen, der
+mn: Bone
+pl: Die Knochen 
+
+Seite, die
+mn: Page
+pl: Die Seiten 
+
+Kapitän, der
+mn: Captain
+pl: Die Kapitäne 
+
+Tante, die
+mn: Aunt
+pl: Die Tanten 
+
+Darkness – Dunkelheit
+pl: Die Dunkelheiten 
+
+Kontrolle, die
+mn: Control
+pl: Die Steuerelemente 
+
+Getränk, das
+mn: Drink
+pl: Die Getränke 
+
+Hotel, das
+mn: Hotel
+pl: Die Hotels 
+
+Mantel, der
+mn: Coat
+pl: Die Mäntel 
+
+Treppen, die
+mn: Stair
+pl: Die Treppe 
+
+Bestellung, die
+mn: Order
+pl: Die Aufträge 
+
+Rose, die
+mn: Rose
+pl: Die Rosen 
+
+Fehl, der
+mn: Miss
+pl: Die Fehlschüsse 
+
+Hut, der
+mn: Hat
+pl: Die Hüte 
+
+Gold, das
+mn: Gold
+pl: Die Goldmedaillen 
+
+Zigarette, die
+mn: Cigarette
+pl: Die Zigaretten 
+
+Wolke, die
+mn: Cloud
+pl: Die Wolken 
+
+Aussicht, die
+mn: View
+pl: Die Ansichten 
+
+Fahrer, der
+mn: Driver
+pl: Die Fahrer 
+
+Tasse, die
+mn: Cup
+pl: Die Tassen 
+
+Figur, die
+mn: Figure
+pl: Die Figuren 
+
+Ausdruck, der
+mn: Expression
+pl: Die Ausdrücke 
+
+Pfad, der
+mn: Path
+pl: Die Wege 
+
+Schlüssel, der
+mn: Key
+pl: Die Schlüssel 
+
+Computer, der
+mn: Computer
+pl: Die Computer 
+
+Blume, die
+mn: Flower
+pl: Die Blumen 
+
+Ring, der
+mn: Ring
+pl: Die Ringe 
+
+Bad, das
+mn: Bathroom
+pl: Die Badezimmer 
+
+Metall, das
+mn: Metal
+pl: Die Metalle 
+
+Mond, der
+mn: Moon
+pl: Die Monde 
+
+Lied, das
+mn: Song
+pl: Die Lieder 
+
+Soldat, der
+mn: Soldier
+pl: Die Soldaten 
+
+Radio, das
+mn: Radio
+pl: Die Funkgeräte 
+
+Geschichte, die
+mn: History
+pl: Die Geschichten 
+
+Welle, die
+mn: Wave
+pl: Die Wellen 
+
+Plan, der
+mn: Plan
+pl: Die Pläne 
+
+College, das
+mn: College
+pl: Die Fachhochschulen 
+
+Fisch, der
+mn: Fish
+pl: Die Fische 
+
+Garten, der
+mn: Garden
+pl: Die Gärten 
+
+Zug, der
+mn: Train
+pl: Die Züge 
+
+Geschäft, das
+mn: Shop
+pl: Die Läden 
+
+Polizist, der
+mn: Cop
+pl: Die Polizisten 
+
+Kunst, die
+mn: Art
+pl: Die Künste 
+
+Bier, das
+mn: Beer
+pl: Die Biere 
+
+North – Norden
+pl: Die Norths 
+
+Insel, die
+mn: Island
+pl: Die Inseln 
+
+Bus, der
+mn: Bus
+pl: Die Busse 
+
+Geruch, der
+mn: Smell
+pl: Die Gerüche 
+
+Geräusch, das
+mn: Noise
+pl: Die Geräusche 
+
+Mama, die
+mn: Mama ~ The Mamas 
+
+Park, der
+mn: Park
+pl: Die Parks 
+
+Süden, der
+mn: South
+pl: Die Souths 
+
+Paar, das
+mn: Pair
+pl: Die Paare 
+
+Herr, der
+mn: Lord
+pl: Die Herren 
+
+Teller, der
+mn: Plate
+pl: Die Platten 
+
+Jacke, die
+mn: Jacket
+pl: Die Jacken 
+
+Hilfe, die
+mn: Help
+pl: Die Hilft 
+
+Papa, der
+mn: Daddy
+pl: Die Väter 
+
+Gras, das
+mn: Grass
+pl: Die Gräser 
+
+Dank, die
+mn: Thanks
+pl: Die Thankses 
+
+Hitze, die
+mn: Heat
+pl: Die Heats 
+
+Schlaf, der
+mn: Sleep
+pl: Die Schlafplätze 
+
+Gehirn, das
+mn: Brain
+pl: Die Gehirne 
+
+Service, der
+mn: Service
+pl: Der Dienstleistungen 
+
+Reise, die
+mn: Trip
+pl: Die Ausflüge 
+
+Beat, der
+mn: Beat
+pl: Die Beats 
+
+Messer, das
+mn: Knife
+pl: Die Messer 
+
+Platz, der
+mn: Spot
+pl: Die Flecken 
+
+Nachricht, die
+mn: Message
+pl: Die Nachrichten 
+
+Note, die
+mn: Mark
+pl: Die Noten 
+
+Lehrer, der
+mn: Teacher
+pl: Die Lehrer 
+
+Blick, der
+mn: Gaze
+pl: Die Blicke 
+
+Dorf, das
+mn: Village
+pl: Die Dörfer 
+
+Winter, der
+mn: Winter
+pl: Die Winter 
+
+Front, die
+mn: Front
+pl: Die Fronten 
+
+Gesetz, das
+mn: Law
+pl: Die Gesetze 
+
+Oberfläche, die
+mn: Surface
+pl: Die Oberflächen 
+
+Bank, die
+mn: Bank
+pl: Die Banken 
+
+Team, das
+mn: Team
+pl: Die Teams 
+
+Maximum, das
+mn: Maximum
+pl: Die Maxima 
+
+Position, die
+mn: Position
+pl: Die Positionen 
+
+Bauch, der
+mn: Stomach
+pl: Die Mägen 
+
+Wende, die
+mn: Turn
+pl: Die Windungen 
+
+Westen, der
+mn: West
+pl: Die Wests 
+
+Mittagessen, das
+mn: Lunch
+pl: Die Mittagessen 
+
+Wechsel, der
+mn: Change
+pl: Die Veränderungen 
+
+Kreatur, die
+mn: Creature
+pl: Geschöpfe
+
+Seele, die
+mn: Soul
+pl: Die Seelen 
+
+Blatt, das
+mn: Leaf
+pl: Die Blätter 
+
+Show, die
+mn: Show
+pl: Die Shows 
+
+Gate, die
+mn: Gate
+pl: Die Tore 
+
+Palme, die
+mn: Palm
+pl: Die Handflächen 
+
+Kunststoff, der
+mn: Plastic
+pl: Die Kunststoff 
+
+Kraft, die
+mn: Force
+pl: Die Kräfte
+
+Strand, der
+mn: Beach
+pl: Die Strände 
+
+Präsident, der
+mn: President
+pl: Die Präsidenten 
+
+Form, die
+mn: Shape
+pl: Die Formen 
+
+Rauch, der
+mn: Smoke
+pl: Die Raucht 
+
+Rad, das
+mn: Wheel
+pl: Die Räder 
+
+Silber, das
+mn: Silver
+pl: Die Silber 
+
+Dach, das
+mn: Roof
+pl: Die Dächer 
+
+Gewicht, das
+mn: Weight
+pl: Die Gewichte 
+
+Zunge, die
+mn: Tongue
+pl: Die Zungen 
+
+Tee, der
+mn: Tea
+pl: Die Tees 
+
+Strecke, die
+mn: Track
+pl: Die Spuren 
+
+Winkel, der
+mn: Angle
+pl: Die Winkel 
+
+Form, die
+mn: Form
+pl: Die Formen
+
+Ton, der
+mn: Tone
+pl: Die Töne 
+
+Kreis, der
+mn: Circle
+pl: Die Kreise 
+
+Frühling, der
+mn: Spring
+pl: Die Federn 
+
+Vorhalle, die
+mn: Porch
+pl: Die Veranden 
+
+Blatt, das
+mn: Sheet
+pl: Die Blätter 
+
+Mitglied, das
+mn: Member
+pl: Die Angehörigen 
+
+Schwimmbecken, das
+mn: Pool
+pl: Die Pools 
+
+Bedürfnis, das
+mn: Need
+pl: Die Bedürfnisse 
+
+Hoffnung, die
+mn: Hope
+pl: Die Hoffnungen 
+
+See, der
+mn: Lake
+pl: Die Seen 
+
+Brust, die
+mn: Breast
+pl: Die Brüste 
+
+Überraschung, die
+mn: Surprise
+pl: Die Überraschungen 
+
+Interesse, die
+mn: Interest
+pl: Die Interessen 
+
+Boden, der
+mn: Bottom
+pl: Die Böden 
+
+Geist, der
+mn: Spirit
+pl: Die Geister 
+
+Block, der
+mn: Block
+pl: Die Blöcke 
+
+Sprache, die
+mn: Language
+pl: Die Sprachen 
+
+Brücke, die
+mn: Bridge
+pl: Die Brücken 
+
+Dust – Staub
+pl: Die Stäube 
+
+Zelle, die
+mn: Cell
+pl: Die Zellen 
+
+Wine – Wein
+pl: Die Weine 
+
+Boot, das
+mn: Boot
+pl: Die Stiefel 
+
+Wahl, die
+mn: Choice
+pl: Die Entscheidungen 
+
+Reihe, die
+mn: Row
+pl: Die Reihen 
+
+Gespräch, das
+mn: Talk
+pl: Die Gespräche 
+
+Flugzeug, das
+mn: Plane
+pl: Die Flugzeuge 
+
+Uhr, die
+mn: Watch
+pl: Die Uhren 
+
+Information, die
+mn: Information
+pl: Die Informationen 
+
+Großmutter, die
+mn: Grandmother
+pl: Die Großmütter 
+
+Flügel, der
+mn: Wing
+pl: Die Flügel 
+
+Bob, die
+mn: Bob
+pl: Die Bobs 
+
+Club, der
+mn: Club
+pl: Die Vereine 
+
+Meister, der
+mn: Master
+pl: Die Meister 
+
+Gnade, die
+mn: Grace
+pl: Die Gnaden 
+
+Wald, der
+mn: Forest
+pl: Die Wälder 
+
+Größe, die
+mn: Size
+pl: Die Größen 
+
+Satz, der
+mn: Set
+pl: Die Sätze 
+
+Ehe, die
+mn: Marriage
+pl: Die Ehen 
+
+Stirn, die
+mn: Forehead
+pl: Die Stirn 
+
+Storm – Sturm
+pl: Die Stürme 
+
+Türöffnung, die
+mn: Doorway
+pl: Die Türen 
+
+Situation, die
+mn: Situation
+pl: Die Situationen 
+
+Zähler, der
+mn: Counter
+pl: Die Zähler 
+
+Nachbar, der
+mn: Neighbor
+pl: Die Nachbarn 
+
+Foto, das
+mn: Photo
+pl: Die Fotos 
+
+Bühne, die
+mn: Stage
+pl: Die Stufen 
+
+Treffen, das
+mn: Meeting
+pl: Die Sitzungen 
+
+Krankenschwester, die
+mn: Nurse
+pl: Die Krankenschwestern 
+
+Sicherheit, die
+mn: Security
+pl: Die Wertpapiere 
+
+Waffe, die
+mn: Weapon
+pl: Die Waffen
+
+Ereignis, das
+mn: Event
+pl: Die Events 
+
+Decke, die
+mn: Ceiling
+pl: Die Decken 
+
+Motor, der
+mn: Engine
+pl: Die Motoren 
+
+Geschenk, das
+mn: Gift
+pl: Die Geschenke 
+
+Restaurant, das
+mn: Restaurant
+pl: Die Restaurants 
+
+Tafel, die
+mn: Board
+pl: Die Bretter 
+
+Flur, der
+mn: Hallway
+pl: Die Flure 
+
+Armee, die
+mn: Army
+pl: Die Armeen 
+
+Aufwand, der
+mn: Effort
+pl: Die Bemühungen
+
+Osten, der
+mn: East
+pl: Die Easts 
+
+Agent, der
+mn: Agent
+pl: Die Mittel 
+
+Zukunft, die
+mn: Future
+pl: Die Futures 
+
+Hose, die
+mn: Pant
+pl: Die Hose 
+
+Leder, das
+mn: Leather
+pl: Die Leder 
+
+Flug, der
+mn: Flight
+pl: Die Flüge 
+
+Geschlecht, das
+mn: Sex
+pl: Die Sexs 
+
+Gericht, das
+mn: Court
+pl: Die Gerichte 
+
+Kurs, der
+mn: Course
+pl: Die Kurse 
+
+Dreck, der
+mn: Dirt
+pl: Die Dirts 
+
+Ei, das
+mn: Egg
+pl: Die Eier 
+
+Kinn, das
+mn: Chin
+pl: Die Kinne 
+
+Fremde, der
+mn: Stranger
+pl: Die Fremden 
+
+Freude, die
+mn: Pleasure
+pl: Die Freuden 
+
+Detail, das
+mn: Detail
+pl: Die Details 
+
+Besatzung, die
+mn: Crew
+pl: Die Besatzungen 
+
+Herbst, der
+mn: Fall
+pl: Die Wasserfälle 
+
+Gast, der
+mn: Guest
+pl: Die Gäste 
+
+Erlebnis, das
+mn: Experience
+pl: Die Erfahrungen
+
+Witz, der
+mn: Joke
+pl: Die Witze 
+
+Sand, der
+mn: Sand
+pl: Der Sand 
+
+Faust, die
+mn: Fist
+pl: Die Fäuste 
+
+Aktion, die
+mn: Action
+pl: Die Aktionen 
+
+Wandern, das
+mn: Walk
+pl: Die Wanderungen 
+
+Hochzeit, die
+mn: Wedding
+pl: Die Hochzeiten 
+
+Deal, der
+mn: Deal
+pl: Die Angebote 
+
+Natur, die
+mn: Nature
+pl: Die Natur 
+
+Planet, der
+mn: Planet
+pl: Die Planeten 
+
+Cousin, der
+mn: Cousin
+pl: Die Cousinen 
+
+Bewegung, die
+mn: Movement
+pl: Die Bewegungen 
+
+Fleisch, das
+mn: Flesh
+pl: Die Konkretisiert 
+
+Datensatz, der
+mn: Record
+pl: Die Datensätze
+
+Camp, das
+mn: Camp
+pl: Die Lager 
+
+Zeitung, die
+mn: Newspaper
+pl: Die Zeitung 
+
+Strahl, der
+mn: Ray
+pl: Die Strahlen 
+
+Mensch, der
+mn: Human
+pl: Die Menschen 
+
+Sofa, das
+mn: Couch
+pl: Die Liegen 
+
+Bewegung, die
+mn: Motion
+pl: Die Bewegungen 
+
+Großvater, der
+mn: Grandfather
+pl: Die Großväter 
+
+Fotografie, die
+mn: Photograph
+pl: Die Photographes 
+
+Geheimnis, das
+mn: Secret
+pl: Die Geheimnisse
+
+Schönheit, die
+mn: Beauty
+pl: Die Schönheiten 
+
+Vorhandensein, das
+mn: Presence
+pl: Die Präsenzen 
+
+Glocke, die
+mn: Bell
+pl: Die Glocken 
+
+Volks, die
+mn: Folk
+pl: Die Leute 
+
+Knopf, der
+mn: Button
+pl: Die Knöpfe 
+
+Liste, die
+mn: List
+pl: Die Listen 
+
+Level, das
+mn: Level
+pl: Die Niveaus 
+
+Datum, das
+mn: Date
+pl: Die Daten 
+
+Thema, das
+mn: Subject
+pl: Die Fächer 
+
+Unterschied, der
+mn: Difference
+pl: Die Unterschiede 
+
+Pause, die
+mn: Pause
+pl: Die Pausen 
+
+Van, der
+mn: Van
+pl: Die Wagen 
+
+Klinge, die
+mn: Blade
+pl: Die Klingen 
+
+Fernsehen, das
+mn: Television
+pl: Die Fernseher 
+
+Titelseite, die
+mn: Cover
+pl: Die Abdeckungen 
+
+Vergangenheit, die
+mn: Past
+pl: Die Vergangenheit 
+
+Bauernhof, der
+mn: Farm
+pl: Die Bauernhöfe 
+
+Runden, die
+mn: Lap
+pl: Die Runden 
+
+Band, die
+mn: Band
+pl: Die Bands 
+
+Anwalt, der
+mn: Lawyer
+pl: Die Anwälte 
+
+Magazin, das
+mn: Magazine
+pl: Die Zeitschriften 
+
+Ast, der
+mn: Branch
+pl: Die Zweige 
+
+Rahmen, der
+mn: Frame
+pl: Die Rahmen 
+
+Deck, das
+mn: Deck
+pl: Die Decks 
+
+Effekt, der
+mn: Effect
+pl: Die Effekte 
+
+Tanz, der
+mn: Dance
+pl: Die Tänze 
+
+Sicht, die
+mn: Vision
+pl: Die Visionen 
+
+Gespenst, das
+mn: Ghost
+pl: Die Geister 
+
+Esel, der
+mn: Ass
+pl: Die Esel 
+
+Charakter, der
+mn: Character
+pl: Die Charaktere 
+
+Blick, der
+mn: Glance
+pl: Die Blicke 
+
+Auf Wiedersehen, das
+mn: GoodBye
+pl: Die Verabschiedungen 
+
+Park, das
+mn: Parking
+pl: Die Parkplätze 
+
+Frühstück, das
+mn: Breakfast
+pl: Das Frühstück 
+
+Geste, die
+mn: Gesture
+pl: Die Gesten 
+
+Glück, das
+mn: Luck
+pl: Die Lucks 
+
+Decke, die
+mn: Blanket
+pl: Die Decken 
+
+Gas, das
+mn: Gas
+pl: Die Gase 
+
+Korridor, der
+mn: Corridor
+pl: Die Flure 
+
+Professor, der
+mn: Professor
+pl: Die Professoren 
+
+Spiel, das
+mn: Play
+pl: Die Spiele 
+
+Fehler, der
+mn: Mistake
+pl: Die Fehler 
+
+Universität, die
+mn: University
+pl: Die Universitäten 
+
+Ozean, der
+mn: Ocean
+pl: Die Ozeane 
+
+Jahrhundert, das
+mn: Century
+pl: Die Jahrhunderte 
+
+Honig, der
+mn: Honey
+pl: Die Honige
+
+Stapel, der
+mn: Pile
+pl: Die Pfähle 
+
+Schale, die
+mn: Bowl
+pl: Die Schalen 
+
+Base – Basis
+pl: Die Basen 
+
+Zaun, der
+mn: Fence
+pl: Die Zäune 
+
+Regel, die
+mn: Rule
+pl: Die Regeln 
+
+Gelächter, das
+mn: Laughter
+pl: Die Gelächter
+
+Wut, die
+mn: Anger
+pl: Die Angers 
+
+Schweiß, der
+mn: Sweat
+pl: Die Schweißausbrüche 
+
+Unfall, der
+mn: Accident
+pl: Die Unfälle 
+
+Wetter, das
+mn: Weather
+pl: Die Wind Und Wetter 
+
+Entscheidung, die
+mn: Decision
+pl: Die Entscheidungen 
+
+Engel, der
+mn: Angel
+pl: Die Engel 
+
+Stärke, die
+mn: Strength
+pl: Die Stärken 
+
+Huhn, das
+mn: Chicken
+pl: Die Hühner 
+
+Studium, die
+mn: Study
+pl: Die Studien 
+
+Band, das
+mn: Tape
+pl: Die Bänder 
+
+Handgelenk, das
+mn: Wrist
+pl: Die Handgelenke 
+
+Halt, der
+mn: Stop
+pl: Die Anschläge 
+
+Hüfte, die
+mn: Hip
+pl: Die Hüften 
+
+Regierung, die
+mn: Government
+pl: Die Regierungen 
+
+Bauch, der
+mn: Belly
+pl: Die Bäuche 
+
+Königin, die
+mn: Queen
+pl: Die Königinnen 
+
+Report – Bericht
+pl: Die Berichte 
+
+Schweif, der
+mn: Tail
+pl: Die Schwänze 
+
+Pflanze, die
+mn: Plant
+pl: Die Pflanzen 
+
+Flamme, die
+mn: Flame
+pl: Die Flammen 
+
+Himmel, der
+mn: Heaven
+pl: Die Himmel 
+
+Gürtel, der
+mn: Belt
+pl: Die Gürtel 
+
+Nachbarschaft, die
+mn: Neighborhood
+pl: Die Nachbarschaften 
+
+Energie, die
+mn: Energy
+pl: Die Energien 
+
+Grün, das
+mn: Green
+pl: Die Grünen 
+
+Viertel, das
+mn: Quarter
+pl: Die Viertel 
+
+Feind, der
+mn: Enemy
+pl: Die Feinde 
+
+Bewegung, die
+mn: Move
+pl: Die Züge 
+
+Eingang, der
+mn: Entrance
+pl: Die Zugänge 
+
+Bibliothek, die
+mn: Library
+pl: Die Bibliotheken 
+
+Verfasser, der
+mn: Writer
+pl: Die Autoren 
+
+Frieden, der
+mn: Peace
+pl: Die Peaces 
+
+Berührung, die
+mn: Touch
+pl: Die Berührungen 
+
+Topf, der
+mn: Pot
+pl: Die Töpfe 
+
+Typ, der
+mn: Type
+pl: Die Typen 
+
+Grund, der
+mn: Cause
+pl: Die Gründe 
+
+Seil, das
+mn: Rope
+pl: Die Seile 
+
+Muskel, der
+mn: Muscle
+pl: Die Muskeln 
+
+Gemälde, das
+mn: Painting
+pl: Die Gemälde 
+
+Gardine, die
+mn: Curtain
+pl: Die Vorhänge 
+
+Mahlzeit, die
+mn: Meal
+pl: Die Essen 
+
+Akt, der
+mn: Act
+pl: Die Handlungen 
+
+Wolf, der
+mn: Wolf
+pl: Die Wölfe 
+
+Kajüte, die
+mn: Cabin
+pl: Die Kabinen 
+
+Ladung, die
+mn: Charge
+pl: Die Ladungen 
+
+Uhr, die
+mn: Clock
+pl: Die Uhren 
+
+Passagier, der
+mn: Passenger
+pl: Die Passagiere 
+
+Kumpel, der
+mn: Buddy
+pl: Die Freunde 
+
+Medikament, das
+mn: Drug
+pl: Die Arzneimittel 
+
+Verwendung, die
+mn: Use
+pl: Die Verwendungen 
+
+Bank, die
+mn: Bench
+pl: Die Bänke 
+
+Verkehr, der
+mn: Traffic
+pl: Die Verkehre 
+
+Relief, das
+mn: Relief
+pl: Die Reliefs 
+
+Kappe, die
+mn: Cap
+pl: Die Kappen 
+
+Rudel, das
+mn: Pack
+pl: Die Packungen 
+
+Wochenende, das
+mn: Weekend
+pl: Die Wochenenden 
+
+Stand, der
+mn: Stand
+pl: Die Stände 
+
+Aufzug, der
+mn: Elevator
+pl: Die Aufzüge 
+
+Geburtstag, der
+mn: Birthday
+pl: Die Geburtstage 
+
+Lilie, die
+mn: Lily
+pl: Die Lilien 
+
+Bügeleisen, das
+mn: Iron
+pl: Die Eisen 
+
+Fleisch, das
+mn: Meat
+pl: Das Fleisch 
+
+Augenbraue, die
+mn: Eyebrow
+pl: Die Augenbrauen 
+
+Antwort, die
+mn: Response
+pl: Die Antworten 
+
+Geschwindigkeit, die
+mn: Speed
+pl: Die Geschwindigkeiten 
+
+Absicht, die
+mn: Purpose
+pl: Die Zwecke 
+
+Rock, der
+mn: Skirt
+pl: Die Röcke 
+
+Quadrat, das
+mn: Square
+pl: Die Quadrate 
+
+Fahrt, die
+mn: Drive
+pl: Die Antriebe 
+
+Article – Den Artikel
+pl: Die Artikel 
+
+Englisch, das
+mn: English
+pl: Die Englishes 
+
+Turm, der
+mn: Tower
+pl: Die Türme 
+
+Kampf, der
+mn: Battle
+pl: Die Schlachten 
+
+Film, der
+mn: Film
+pl: Die Filme 
+
+Rennen, das
+mn: Race
+pl: Die Rennen 
+
+Schock, der
+mn: Shock
+pl: Die Schocks 
+
+Sektion, die
+mn: Section
+pl: Die Abschnitte 
+
+Methode, die
+mn: Manner
+pl: Die Sitten 
+
+Schwert, das
+mn: Sword
+pl: Die Schwerter 
+
+Stock, der
+mn: Stick
+pl: Die Stöcke 
+
+Datei, die
+mn: File
+pl: Die Dateien 
+
+Brot, das
+mn: Bread
+pl: Die Brote 
+
+Öl, das
+mn: Oil
+pl: Die Öle 
+
+Kette, die
+mn: Chain
+pl: Die Ketten 
+
+Abteilung, die
+mn: Department
+pl: Die Abteilungen 
+
+Project – Projekt
+pl: Die Projekte 
+
+Mord, der
+mn: Murder
+pl: Die Morde 
+
+Bär, der
+mn: Bear
+pl: Die Bären 
+
+Test, der
+mn: Test
+pl: Die Tests 
+
+Besuch, der
+mn: Visit
+pl: Die Besuche 
+
+Milch, die
+mn: Milk
+pl: Die Milch 
+
+Chef, der
+mn: Boss
+pl: Die Bosse 
+
+Ellbogen, der
+mn: Elbow
+pl: Die Ellbogen 
+
+Verlangen, das
+mn: Desire
+pl: Die Wünsche 
+
+Patient, der
+mn: Patient
+pl: Die Patienten 
+
+Grinsen, das
+mn: Grin
+pl: Die Grins 
+
+Liebhaber, der
+mn: Lover
+pl: Die Liebhaber 
+
+Preis, der
+mn: Price
+pl: Die Preise 
+
+Karte, die
+mn: Map
+pl: Die Karten 
+
+Wissen, das
+mn: Knowledge
+pl: Die Erkenntnisse 
+
+Anfang, der
+mn: Beginning
+pl: Die Anfänge 
+
+Kälte, die
+mn: Cold
+pl: Die Erkältung 
+
+Schrank, der
+mn: Closet
+pl: Die Schränke 
+
+Morgendämmerung, die
+mn: Dawn
+ex:
+- Im Morgengrauen
+
+Tempel, der
+mn: Temple
+pl: Die Tempel 
+
+Spaß, der
+mn: Joy
+pl: Die Freuden 
+
+Pflicht, die
+mn: Duty
+pl: Die Aufgaben 
+
+Übung, die
+mn: Practice
+pl: Die Praktiken 
+
+Ferse, die
+mn: Heel
+pl: Die Fersen 
+
+Tal, das
+mn: Valley
+pl: Die Täler 
+
+Kampf, der
+mn: Fight
+pl: Die Kämpfe 
+
+Kabel, das
+mn: Wire
+pl: Die Drähte 
+
+Jeans, die
+mn: Jeans
+pl: Die Jeanses 
+
+Kuss, der
+mn: Kiss
+pl: Die Küsse 
+
+Kiefer, der
+mn: Jaw
+pl: Die Backen 
+
+Lauf, die
+mn: Run
+pl: Die Läufe 
+
+Halt, der
+mn: Hold
+pl: Die Laderäume 
+
+Verhältnis, das
+mn: Relationship
+pl: Die Beziehungen 
+
+Objekt, das
+mn: Object
+pl: Die Objekte 
+
+Angriff, der
+mn: Attack
+pl: Die Angriffe 
+
+Gericht, das
+mn: Dish
+pl: Das Geschirr 
+
+Autobahn, die
+mn: Highway
+pl: Die Autobahnen 
+
+Schattierung, die
+mn: Shade
+pl: Die Schatten 
+
+Verbrechen, das
+mn: Crime
+pl: Die Verbrechen 
+
+Weiß, das
+mn: White
+pl: Die Weißen 
+
+Partner, der
+mn: Partner
+pl: Die Partner 
+
+Priester, der
+mn: Priest
+pl: Die Priester 
+
+Rasen, der
+mn: Lawn
+pl: Der Rasen 
+
+Lachen, das
+mn: Laugh
+pl: Die Lachen
+
+Kofferraum, der
+mn: Trunk
+pl: Die Stämme 
+
+Weinen, das
+mn: Cry
+pl: Die Schreie 
+
+Programm, das
+mn: Program
+pl: Die Programme 
+
+Fahrt, die
+mn: Ride
+pl: Die Fahrten 
+
+Regal, das
+mn: Shelf
+pl: Die Regale 
+
+Gentleman, der
+mn: Gentleman ~ The Gentlemans 
+
+Sein, das
+mn: Being
+pl: Die Wesen 
+
+Stahl, der
+mn: Steel
+pl: Die Stähle 
+
+Bürgersteig, der
+mn: Sidewalk
+pl: Die Bürgersteige 
+
+Uniform, die
+mn: Uniform
+pl: Die Uniformen 
+
+Muster, das
+mn: Pattern
+pl: Die Muster 
+
+Beweis, der
+mn: Evidence
+pl: Die Beweise 
+
+Spieler, der
+mn: Player
+pl: Die Spieler 
+
+Roman, der
+mn: Novel
+pl: Die Romane 
+
+Kissen, das
+mn: Pillow
+pl: Die Kissen 
+
+Lampe, die
+mn: Lamp
+pl: Die Lampen 
+
+Schublade, die
+mn: Drawer
+pl: Die Schubladen 
+
+Gefahr, die
+mn: Danger
+pl: Die Gefahren 
+
+Detektiv, der
+mn: Detective
+pl: Die Detektive 
+
+Instant, die
+mn: Instant
+pl: Die Zeitpunkte 
+
+Denken, das
+mn: Thinking
+pl: Die Gedanken 
+
+Riss, der
+mn: Crack
+pl: Die Risse 
+
+Gebet, das
+mn: Prayer
+pl: Die Gebete 
+
+Handtuch, das
+mn: Towel
+pl: Die Handtücher 
+
+Handschuh, der
+mn: Glove
+pl: Die Handschuhe 
+
+Bucht, die
+mn: Bay
+pl: Die Buchten 
+
+Publikum, das
+mn: Audience
+pl: Das Publikum 
+
+Dose, die
+mn: Can
+pl: Die Dosen 
+
+Bedingung, die
+mn: Condition
+pl: Die Bedingungen 
+
+Pfad, der
+mn: Trail
+pl: Die Wanderwege 
+
+Taille, die
+mn: Waist
+pl: Die Taille 
+
+Druck, der
+mn: Pressure
+pl: Die Drücke 
+
+Telefon, das
+mn: Telephone
+pl: Die Telefone 
+
+Waschbecken, das
+mn: Sink
+pl: Die Waschbecken 
+
+Rückkehr, die
+mn: Return
+pl: Die Renditen 
+
+Brise, die
+mn: Breeze
+pl: Die Lüfte 
+
+Geschmack, der
+mn: Taste
+pl: Die Geschmäcker 
+
+Fehler, der
+mn: Fault
+pl: Die Fehler 
+
+Strom, der
+mn: Stream
+pl: Die Bäche
+
+Ergebnis, das
+mn: Result
+pl: Die Ergebnisse 
+
+Autor, der
+mn: Author
+pl: Die Autoren 
+
+Trinkgeld, das
+mn: Tip
+pl: Die Spitzen 
+
+Dusche, die
+mn: Shower
+pl: Die Duschen 
+
+Zehe, die
+mn: Toe
+pl: Die Zehen 
+
+Jahreszeit, die
+mn: Season
+pl: Die Jahreszeiten 
+
+Hälfte, die
+mn: Half
+pl: Die Hälften 
+
+Dummkopf, der
+mn: Fool
+pl: Die Narren 
+
+Tunnel, der
+mn: Tunnel
+pl: Die Tunnel 
+
+Klient, der
+mn: Client
+pl: Die Clients 
+
+Garage, die
+mn: Garage
+pl: Die Garagen 
+
+Mission, die
+mn: Mission
+pl: Die Missionen 
+
+Chef, der
+mn: Chief
+pl: Die Häuptlinge 
+
+Kugel, die
+mn: Bullet
+pl: Die Kugeln 
+
+Markt, der
+mn: Market
+pl: Die Märkte 
+
+Verlust, der
+mn: Loss
+pl: Die Verluste 
+
+Reihe, die
+mn: Series
+pl: Die Serieses 
+
+Stift, der
+mn: Pen
+pl: Die Stifte 
+
+Begriff, der
+mn: Term
+pl: Die Begriffe 
+
+Gedicht, das
+mn: Poem
+pl: Die Gedichte 
+
+Prinz, der
+mn: Prince
+pl: Die Fürsten 
+
+Ton, der
+mn: Clay
+pl: Die Tone 
+
+Schloss, das
+mn: Lock
+pl: Die Schlösser 
+
+Realität, die
+mn: Reality
+pl: Die Wirklichkeiten 
+
+Schlange, die
+mn: Snake
+pl: Die Schlangen 
+
+Apfel, der
+mn: Apple
+pl: Die Äpfel 
+
+Maske, die
+mn: Mask
+pl: Die Masken 
+
+Customer – Dem Kunden
+pl: Die Kunden 
+
+Geburt, die
+mn: Birth
+pl: Die Geburten 
+
+Pause, die
+mn: Break
+pl: Die Pausen 
+
+Wunder, das
+mn: Wonder
+pl: Die Wunder
+
+Sonnenlicht, das
+mn: Sunlight
+pl: Die Sunlights 
+
+Panzer, der
+mn: Tank
+pl: Die Tanks 
+
+Personal, das
+mn: Staff
+pl: Die Mitarbeiter 
+
+Lüge, die
+mn: Lie
+pl: Die Lügen 
+
+Glaube, der
+mn: Faith
+pl: Die Glaubensrichtungen 
+
+Ehre, die
+mn: Honor
+pl: Die Ehrungen
+
+Creme, die
+mn: Cream
+pl: Die Cremes 
+
+Wohl, das
+mn: Sake
+pl: Die Willen 
+
+Opfer, das
+mn: Victim
+pl: Die Opfer 
+
+Möglichkeit, die
+mn: Possibility
+pl: Die Möglichkeiten 
+
+Kontakt, der
+mn: Contact
+pl: Die Kontakte 
+
+Stimmung, die
+mn: Mood
+pl: Die Stimmungen 
+
+Daumen, der
+mn: Thumb
+pl: Die Daumen 
+
+Lesen, das
+mn: Reading
+pl: Die Messwerte 
+
+Spaß, der
+mn: Fun
+pl: Die Funs 
+
+Kerze, die
+mn: Candle
+pl: Die Kerzen 
+
+Höhle, die
+mn: Cave
+pl: Die Höhlen 
+
+Post, die
+mn: Post
+pl: Die Pfosten 
+
+Gefängnis, das
+mn: Prison
+pl: Die Gefängnisse 
+
+Emotion, die
+mn: Emotion
+pl: Die Emotionen 
+
+Führer, der
+mn: Leader
+pl: Die Führer 
+
+Grad, der
+mn: Degree
+pl: Die Grade
+
+Eigenschaft, die
+mn: Feature
+pl: Die Funktionen 
+
+Ticket, das
+mn: Ticket
+pl: Die Tickets 
+
+Alien, das
+mn: Alien
+pl: Die Aliens 
+
+Unterricht, der
+mn: Lesson
+pl: Die Stunden 
+
+Wüste, die
+mn: Desert
+pl: Die Wüsten 
+
+Schnitt, der
+mn: Cut
+pl: Die Schnitte 
+
+Unordnung, die
+mn: Mess
+pl: Die Kasinos 
+
+Warnung, die
+mn: Warning
+pl: Die Warnungen 
+
+Märchen, das
+mn: Tale
+pl: Die Geschichten 
+
+Begräbnis, das
+mn: Funeral
+pl: Die Beerdigungen 
+
+Taxi, das
+mn: Cab
+pl: Die Kabinen 
+
+Reporter, der
+mn: Reporter
+pl: Die Reporter 
+
+Geschenk, das
+mn: Present
+pl: Die Geschenke 
+
+Theater, das
+mn: Theater
+pl: Die Theater 
+
+Länge, die
+mn: Length
+pl: Die Längen 
+
+Schlamm, der
+mn: Mud
+pl: Die Schlämme 
+
+Wissenschaft, die
+mn: Science
+pl: Die Wissenschaften 
+
+Fall, der
+mn: Drop
+pl: Die Tropfen 
+
+Schnur, die
+mn: String
+pl: Die Streicher 
+
+Rede, die
+mn: Speech
+pl: Die Reden 
+
+Kopie, die
+mn: Copy
+pl: Die Kopien 
+
+Kuh, die
+mn: Cow
+pl: Die Kühe 
+
+Arbeiter, der
+mn: Worker
+pl: Die Arbeiter 
+
+Oberschenkel, der
+mn: Thigh
+pl: Die Thighes 
+
+Labor, das
+mn: Lab
+pl: Die Labore 
+
+Rolle, die
+mn: Roll
+pl: Die Walzen 
+
+Obst, das
+mn: Fruit
+pl: Die Früchte 
+
+Patch, der
+mn: Patch
+pl: Die Patches 
+
+Seide, die
+mn: Silk
+pl: Die Seide 
+
+Buck, der
+mn: Buck
+pl: Die Böcke 
+
+Ziegel, die
+mn: Brick
+pl: Die Ziegel 
+
+Gewehr, das
+mn: Rifle
+pl: Die Gewehre 
+
+Karriere, die
+mn: Career
+pl: Die Karrieren 
+
+Thema, das
+mn: Issue
+pl: Die Probleme 
+
+Gelegenheit, die
+mn: Opportunity
+pl: Die Chancen 
+
+Direktor, der
+mn: Director
+pl: Die Direktoren 
+
+Monster, das
+mn: Monster
+pl: Die Monster 
+
+Fahrzeug, das
+mn: Vehicle
+pl: Die Fahrzeuge 
+
+Gasse, die
+mn: Alley
+pl: Die Gassen 
+
+Hülse, die
+mn: Sleeve
+pl: Die Ärmel 
+
+Grab, das
+mn: Grave
+pl: Die Gräber 
+
+Busch, der
+mn: Bush
+pl: Die Büsche 
+
+Speisesaal, der
+mn: Dining
+pl: Die Dinings 
+
+Eröffnung, die
+mn: Opening
+pl: Die Öffnungen 
+
+Zwilling, der
+mn: Twin
+pl: Die Zwillinge 
+
+Scheune, die
+mn: Barn
+pl: Die Scheunen 
+
+Pfund, das
+mn: Pound
+pl: Die Pfunde 
+
+Standort, der
+mn: Site
+pl: Die Websites 
+
+Blitz, der
+mn: Flash
+pl: Die Blitze 
+
+Richter, der
+mn: Judge
+pl: Die Richter 
+
+Masse, die
+mn: Mass
+pl: Die Massen 
+
+Prozess, der
+mn: Process
+pl: Die Prozesse 
+
+Band, das
+mn: Tie
+pl: Die Bande 
+
+Geldbeutel, der
+mn: Purse
+pl: Die Geldbeutel 
+
+Rohr, das
+mn: Pipe
+pl: Die Röhren 
+
+Drache, der
+mn: Dragon
+pl: Die Drachen 
+
+Horizont, der
+mn: Horizon
+pl: Die Horizonte 
+
+Schale, die
+mn: Tray
+pl: Die Traies 
+
+Umschlag, der
+mn: Envelope
+pl: Die Umschläge 
+
+Prüfung, die
+mn: Check
+pl: Die Kontrollen 
+
+Erwachsene, die
+mn: Adult
+pl: Die Erwachsenen 
+
+Notfall, der
+mn: Emergency
+pl: Die Emergencys 
+
+Material, das
+mn: Material
+pl: Die Materialien 
+
+Kindheit, die
+mn: Childhood
+pl: Die Kindheit 
+
+Angewohnheit, die
+mn: Habit
+pl: Die Gewohnheiten 
+
+Künstler, der
+mn: Artist
+pl: Die Artisten 
+
+Adresse, die
+mn: Address
+pl: Die Adressen 
+
+Duft, der
+mn: Scent
+pl: Die Düfte 
+
+Universum, das
+mn: Universe
+pl: Die Universen 
+
+Kopfnicken, das
+mn: Nod
+pl: Die Nickt 
+
+Muschel, die
+mn: Shell
+pl: Die Schalen 
+
+Gemeinde, die
+mn: Community
+pl: Die Gemeinden 
+
+Anfang, der
+mn: Start
+
+Beginnt, der
+mn: Beginning
+
+Wunde, die
+mn: Wound
+pl: Die Wunden 
+
+Maus, die
+mn: Mouse
+pl: Die Mäuse 
+
+Pilot, der
+mn: Pilot
+pl: Die Piloten 
+
+Klasse, die
+mn: Grade
+pl: Die Noten 
+
+Video, das
+mn: Video
+pl: Die Videos 
+
+Korb, der
+mn: Basket
+pl: Die Körbe 
+
+Wagen, der
+mn: Wagon
+pl: Die Wagen 
+
+Versuch, der
+mn: Attempt
+pl: Die Versuche 
+
+Sofa, das
+mn: Sofa
+pl: Die Sofas 
+
+Kuchen, der
+mn: Cake
+pl: Die Kuchen 
+
+Kerl, der
+mn: Fellow
+pl: Die Kerle 
+
+Affäre, die
+mn: Affair
+pl: Die Angelegenheiten 
+
+Küste, die
+mn: Shore
+pl: Die Ufer 
+
+Allgemeine, die
+mn: General
+pl: Die Generäle 
+
+Ursprung, der
+mn: Root
+pl: Die Wurzeln 
+
+Robe, die
+mn: Robe
+pl: Die Gewänder 
+
+Sorge, die
+mn: Concern
+pl: Die Bedenken 
+
+Presse, die
+mn: Press
+pl: Die Pressen 
+
+Ratte, die
+mn: Rat
+pl: Die Ratten 
+
+Gesellschaft, die
+mn: Society
+pl: Die Gesellschaften 
+
+Stil, der
+mn: Style
+pl: Die Stile 
+
+Kreis, die
+mn: County
+pl: Die Landkreise 
+
+Befehl, der
+mn: Command
+pl: Die Befehle 
+
+Besucher, der
+mn: Visitor
+pl: Die Besucher 
+
+Model, das
+mn: Model
+pl: Die Modelle 
+
+Kammer, die
+mn: Chamber
+pl: Die Kammern 
+
+Biest, das
+mn: Beast
+pl: Die Tiere 
+
+Bündel, das
+mn: Bunch
+pl: Die Trauben 
+
+Hintergrund, der
+mn: Background
+pl: Die Hintergründe 
+
+Einheit, die
+mn: Unit
+pl: Die Einheiten 
+
+Möbel, die
+mn: Furniture
+pl: Die Möbel 
+
+Nagel, der
+mn: Nail
+pl: Die Nägel 
+
+Schrei, der
+mn: Scream
+pl: Die Schreie 
+
+Eigenschaft, die
+mn: Property
+pl: Die Eigenschaften
+
+Ausrüstung, die
+mn: Equipment
+pl: Die Ausrüstungen 
+
+Auffahrt, die
+mn: Driveway
+pl: Die Einfahrten 
+
+Griff, der
+mn: Grip
+pl: Die Griffe 
+
+Rohr, das
+mn: Tube
+pl: Die Röhren 
+
+Asche, die
+mn: Ash
+pl: Die Asche 
+
+Fan, der
+mn: Fan
+pl: Die Fans 
+
+Meinung, die
+mn: Opinion
+pl: Die Ansichten 
+
+Daten, die
+mn: Data
+pl: Die Daten 
+
+Verbindung, die
+mn: Connection
+pl: Die Verbindungen 
+
+Trick, der
+mn: Trick
+pl: Die Tricks 
+
+Mysterium, das
+mn: Mystery
+pl: Die Geheimnisse 
+
+Periode, die
+mn: Period
+pl: Die Perioden 
+
+Schreiben, das
+mn: Writing
+pl: Die Schriften 
+
+Horror, der
+mn: Horror
+pl: Die Schrecken 
+
+Süßigkeit, die
+mn: Candy
+pl: Die Bonbons 
+
+Bitch, die
+mn: Bitch
+pl: Die Hündinnen 
+
+Gesundheit, die
+mn: Health
+pl: Die Healths 
+
+Geschäftsführer, der
+mn: Manager
+pl: Die Manager 
+
+Sicherheit, die
+mn: Safety
+pl: Die Sicherheiten 
+
+Höhe, die
+mn: Height
+pl: Die Höhen 
+
+Erscheinung, die
+mn: Appearance
+pl: Die Erscheinungen 
+
+Seufzer, der
+mn: Sigh
+pl: Die Sighes 
+
+Mine, die
+mn: Mine
+pl: Die Bergwerke 
+
+Kleidung, die
+mn: Cloth
+pl: Die Tücher 
+
+Reaktion, die
+mn: Reaction
+pl: Die Reaktionen 
+
+Quelle, die
+mn: Source
+pl: Die Quellen 
+
+Ich, das
+mn: Self
+pl: Die Selfs 
+
+Pistole, die
+mn: Pistol
+pl: Die Pistolen 
+
+Flughafen, der
+mn: Airport
+pl: Die Flughäfen 
+
+Held, der
+mn: Hero
+pl: Die Helden 
+
+Versprechen, das
+mn: Promise
+pl: Die Versprechen 
+
+Bogen, der
+mn: Bow
+pl: Die Bögen 
+
+Zelt, das
+mn: Tent
+pl: Die Zelte 
+
+Messestand, der
+mn: Booth
+pl: Die Stände 
+
+Geld, das
+mn: Cash
+pl: Die Kassen 
+
+Straße, die
+mn: Avenue
+pl: Die Alleen 
+
+TShirt, das
+mn: TShirt
+pl: Die TShirts 
+
+Teppich, der
+mn: Carpet
+pl: Die Teppiche 
+
+Keller, der
+mn: Basement
+pl: Die Keller 
+
+Freundin, die
+mn: Girlfriend
+pl: Die Freundinnen 
+
+Bart, der
+mn: Beard
+pl: Die Bärte 
+
+Stirn, die
+mn: Brow
+pl: Die Augenbrauen 
+
+Bildschirm, der
+mn: Display
+pl: Die Anzeigen 
+
+Signal, das
+mn: Signal
+pl: Die Signale 
+
+Diener, der
+mn: Servant
+pl: Die Diener 
+
+Flüstern, das
+mn: Whisper
+pl: Das Flüstern 
+
+Zweifel, der
+mn: Doubt
+pl: Die Zweifel 
+
+Konto, das
+mn: Account
+pl: Die Accounts 
+
+Magie, die
+mn: Magic
+pl: Die Magie 
+
+Hank, die
+mn: Hank
+pl: Die Stränge 
+
+Glied, das
+mn: Limb
+pl: Die Schenkel 
+
+Bastard, der
+mn: Bastard
+pl: Die Bastarde 
+
+Schädel, der
+mn: Skull
+pl: Die Schädel 
+
+Satz, der
+mn: Sentence
+pl: Die Sätze 
+
+Kragen, der
+mn: Collar
+pl: Die Kragen 
+
+Horn, das
+mn: Horn
+pl: Die Hörner 
+
+Eiche, die
+mn: Oak
+pl: Die Eichen 
+
+Knöchel, der
+mn: Ankle
+pl: Die Knöchel 
+
+Puppe, die
+mn: Doll
+pl: Die Puppen 
+
+Sandwich, das
+mn: Sandwich
+pl: Die Sandwiches 
+
+Rotkehlchen, das
+mn: Robin
+pl: Die Rotkehlchen 
+
+Justiz, die
+mn: Justice
+pl: Die Richter 
+
+Stolz, der
+mn: Pride
+pl: Die Rudel 
+
+Jugend, die
+mn: Youth
+pl: Die Jugendlichen 
+
+Sekretär, der
+mn: Secretary
+pl: Die Sekretäre 
+
+Forschung, die
+mn: Research
+pl: Die Forschungen 
+
+Sport, der
+mn: Sport
+pl: Die Sport 
+
+Aufgabe, die
+mn: Task
+pl: Die Aufgaben 
+
+Zuschuss, der
+mn: Grant
+pl: Die Zuschüsse 
+
+Sheriff, der
+mn: Sheriff
+pl: Die Sheriffs 
+
+Mitternachts, die
+mn: Midnight
+pl: Die Mitternächte 
+
+Chip, der
+mn: Chip
+pl: Die Chips 
+
+Theorie, die
+mn: Theory
+pl: Die Theorien
+
+Alarm – Den Wecker
+pl: Die Alarme 
+
+Sammlung, die
+mn: Collection
+pl: Die Sammlungen 
+
+Kreuz, das
+mn: Cross
+pl: Die Kreuze 
+
+Kiefer, die
+mn: Pine
+pl: Die Kiefern 
+
+Generation, die
+mn: Generation
+pl: Die Generationen 
+
+Autorität, die
+mn: Authority
+pl: Die Behörden 
+
+Papa, die
+mn: Papa
+pl: Die Papas 
+
+Reise, die
+mn: Journey
+pl: Die Reisen 
+
+Perle, die
+mn: Pearl
+pl: Die Perlen 
+
+Toilette, die
+mn: Toilet
+pl: Die Toiletten 
+
+Mörder, der
+mn: Killer
+pl: Die Mörder 
+
+Werkzeug, das
+mn: Tool
+pl: Die Werkzeuge 
+
+Medizin, die
+mn: Medicine
+pl: Die Medikamente 
+
+Zucker, der
+mn: Sugar
+pl: Die Zucker 
+
+Prinzessin, die
+mn: Princess
+pl: Die Prinzessinnen 
+
+Argument, das
+mn: Argument
+pl: Die Argumente 
+
+Klippe, die
+mn: Cliff
+pl: Die Klippen 
+
+Wagen, der
+mn: Cart
+pl: Die Wagen 
+
+Kristall, der
+mn: Crystal
+pl: Die Kristalle 
+
+Bohne, die
+mn: Bean
+pl: Die Bohnen 
+
+Käfig, der
+mn: Cage
+pl: Die Käfige 
+
+Schokolade, die
+mn: Chocolate
+pl: Die Pralinen 
+
+Küste, die
+mn: Coast
+pl: Die Küsten 
+
+Jahrzehnt, das
+mn: Decade
+pl: Die Jahrzehnte 
+
+Bedeutung, die
+mn: Meaning
+pl: Die Bedeutungen 
+
+Getriebe, das
+mn: Gear
+pl: Die Zahnräder 
+
+Koffer, der
+mn: Suitcase
+pl: Die Koffer 
+
+Operation, die
+mn: Operation
+pl: Die Operationen 
+
+Atem, das
+mn: Breathing
+pl: Die Breathings 
+
+Rolle, die
+mn: Role
+pl: Die Rollen 
+
+Version, die
+mn: Version
+pl: Die Fassungen
+
+Gefangene, der
+mn: Prisoner
+pl: Die Gefangenen 
+
+Match, das
+mn: Match
+pl: Die Spiele 
+
+Strahl, der
+mn: Beam
+pl: Die Strahlen 
+
+Burg, die
+mn: Castle
+pl: Die Schlösser 
+
+Ansturm, der
+mn: Rush
+pl: Die Binsen 
+
+Fahrspur, die
+mn: Lane
+pl: Die Bahnen 
+
+Bekleidung, die
+mn: Clothing
+pl: Die Garnituren 
+
+Pol, der
+mn: Pole
+pl: Die Pole 
+
+Freiheit, die
+mn: Freedom
+pl: Die Freiheiten 
+
+Können, das
+mn: Skill
+pl: Die Fähigkeiten 
+
+Leidenschaft, die
+mn: Passion
+pl: Die Leidenschaften 
+
+Aktivität, die
+mn: Activity
+pl: Die Aktivitäten 
+
+Fuck – Zum Teufel
+pl: Die Fickt 
+
+Platform, die
+mn: Platform
+pl: Die Plattformen 
+
+Salz, das
+mn: Salt
+pl: Die Salze 
+
+Fahrrad, das
+mn: Bike
+pl: Die Fahrräder 
+
+Stapel, der
+mn: Stack
+pl: Die Stapel 
+
+Begleiter, der
+mn: Companion
+pl: Die Gefährten 
+
+Schicksal, das
+mn: Fate
+pl: Die Schicksale 
+
+Wut, die
+mn: Rage
+pl: Die Wütet 
+
+Versorgung, die
+mn: Supply
+pl: Die Lieferungen 
+
+Wal, der
+mn: Whale
+pl: Die Wale 
+
+Schwein, das
+mn: Pig
+pl: Die Schweine 
+
+Hase, der
+mn: Rabbit
+pl: Die Hasen 
+
+Gang, der
+mn: Aisle
+pl: Die Gänge 
+
+Bildschirm, der
+mn: Monitor
+pl: Die Monitore 
+
+Helm, der
+mn: Helmet
+pl: Die Helme 
+
+Respekt, der
+mn: Respect
+pl: Die Beziehung 
+
+Aufregung, die
+mn: Excitement
+pl: Die Aufregungen 
+
+Lobby, die
+mn: Lobby
+pl: Die Lobbys 
+
+Freund, der
+mn: Boyfriend
+pl: Die Freunde 
+
+Fell, das
+mn: Fur
+pl: Die Felle 
+
+Bereich, der
+mn: Range
+pl: Die Bereiche 
+
+Dick, die
+mn: Dick
+pl: Die Schwänze 
+
+Code, der
+mn: Code
+pl: Die Codes 
+
+Kapitel, das
+mn: Chapter
+pl: Die Kapitel 
+
+Reflexion, die
+mn: Reflection
+pl: Die Reflexionen 
+
+Post, die
+mn: Mail
+pl: Die EMails 
+
+Flug, der
+mn: Fly
+pl: Die Fliegen 
+
+Kabinett, das
+mn: Cabinet
+pl: Die Schränke 
+
+Spielzeug, das
+mn: Toy
+pl: Die Spielzeuge 
+
+Baseball, die
+mn: Baseball ~ The Baseballs 
+
+Innere, das
+mn: Inside
+pl: Die Innenseiten 
+
+Geschwindigkeit, die
+mn: Pace
+pl: Die Schritte 
+
+Griff, der
+mn: Handle
+pl: Die Griffe 
+
+Führung, die
+mn: Lead
+pl: Die Zuleitungen 
+
+Summe, die
+mn: Amount
+pl: Die Beträge 
+
+Nerv, der
+mn: Nerve
+pl: Die Nerven 
+
+Schrecken, der
+mn: Terror
+pl: Die Schrecken 
+
+Pullover, der
+mn: Sweater
+pl: Die Pullover 
+
+Qualität, die
+mn: Quality
+pl: Die Qualitäten 
+
+Jäger, der
+mn: Hunter
+pl: Die Jäger 
+
+Farbe, die
+mn: Paint
+pl: Die Anstriche 
+
+Buster, die
+mn: Buster ~ The Busters 
+
+Baumwolle, die
+mn: Cotton
+pl: Die Baumwollstoffe 
+
+Wachtmeister, der
+mn: Sergeant
+pl: Die Feldwebel 
+
+Kredit, der
+mn: Credit
+pl: Die Kredite 
+
+Schlag, der
+mn: Blow
+pl: Die Schläge 
+
+Teufel, der
+mn: Devil
+pl: Die Teufel 
+
+Bedrohung, die
+mn: Threat
+pl: Die Drohungen 
+
+Erfolg, der
+mn: Success
+pl: Die Erfolge
+
+Eve – Dem Vorabend
+pl: Die Eves 
+
+Kabel, das
+mn: Cable
+pl: Die Kabel 
+
+Pfanne, die
+mn: Pan
+pl: Die Pfannen 
+
+Angestellte, der
+mn: Clerk
+pl: Die Schreiber 
+
+Title – Den Titel
+pl: Die Titel 
+
+Messgerät, das
+mn: Meter
+pl: Die Zähler 
+
+Schande, die
+mn: Shame
+pl: Die Schande 
+
+Nadel, die
+mn: Needle
+pl: Die Nadeln 
+
+Lunge, die
+mn: Lung
+pl: Die Lungen 
+
+Krieger, der
+mn: Warrior
+pl: Die Krieger 
+
+Umstand, der
+mn: Circumstance
+pl: Die Umstände 
+
+Studio, das
+mn: Studio
+pl: Die Studios 
+
+Panik, die
+mn: Panic
+pl: Die Panik 
+
+Mangel, der
+mn: Lack
+pl: Das Fehlt 
+
+Bauer, der
+mn: Farmer
+pl: Die Bauern 
+
+Akzent, der
+mn: Accent
+pl: Die Akzente 
+
+Bombe, die
+mn: Bomb
+pl: Die Bomben 
+
+Platte, die
+mn: Panel
+pl: Die Paneele 
+
+Fähigkeit, die
+mn: Ability
+pl: Die Das Können 
+
+Glück, das
+mn: Fortune
+pl: Die Geschicke 
+
+Sieger, der
+mn: Victor
+pl: Die Sieger 
+
+Feder, die
+mn: Feather
+pl: Die Federn 
+
+Oma, die
+mn: Grandma
+pl: Die Großmütter 
+
+Glühen, das
+mn: Glow
+pl: Die Glüht 
+
+Verhalten, das
+mn: Behavior
+pl: Die Verhaltensweisen 
+
+Durchgang, der
+mn: Passage
+pl: Die Durchgänge 
+
+Slave, die
+mn: Slave
+pl: Die Sklaven 
+
+Leutnant, der
+mn: Lieutenant
+pl: Die Leutnants 
+
+Lauf, der
+mn: Barrel
+pl: Die Fässer 
+
+Wärme, die
+mn: Warmth
+pl: Die Warmths 
+
+Eindruck, der
+mn: Impression
+pl: Die Eindrücke 
+
+Maurer, der
+mn: Mason
+pl: Die Maurer 
+
+Braut, die
+mn: Bride
+pl: Die Bräute 
+
+Paket, das
+mn: Package
+pl: Die Pakete 
+
+Nebel, der
+mn: Fog
+pl: Die Nebel 
+
+Gehen, das
+mn: Walking
+pl: Die Wanderungen 
+
+Balance, die
+mn: Balance
+pl: Die Salden 
+
+Socke, die
+mn: Sock
+pl: Die Socken 
+
+Roboter, der
+mn: Robot
+pl: Die Roboter 
+
+Kartoffel, die
+mn: Potato
+pl: Die Kartoffeln 
+
+Gegenstand, der
+mn: Item
+pl: Die Gegenstände 
+
+Bad, das
+mn: Bath
+pl: Die Bäder 
+
+Diamant, der
+mn: Diamond
+pl: Die Diamanten 
+
+Leiche, die
+mn: Corpse
+pl: Die Leichen 
+
+Erklärung, die
+mn: Explanation
+pl: Die Erläuterungen 
+
+Struktur, die
+mn: Structure
+pl: Die Strukturen 
+
+Ausgang, der
+mn: Exit
+pl: Die Ausgänge 
+
+Pad, das
+mn: Pad
+pl: Die Pads 
+
+Herd, der
+mn: Stove
+pl: Die Öfen 
+
+Blaue, das
+mn: Blue
+pl: Der Blues 
+
+Amerikaner, die
+mn: American
+pl: Die Amerikaner 
+
+Rubin, der
+mn: Ruby
+pl: Die Rubinen 
+
+Blitz, der
+mn: Lightning
+pl: Die Blitze
+
+Grube, die
+mn: Pit
+pl: Die Gruben 
+
+Oberst, der
+mn: Colonel
+pl: Die Obersten 
+
+Dock, das
+mn: Dock
+pl: Die Docks 
+
+Bach, der
+mn: Creek
+pl: Die Bäche 
+
+Ratschlag, der
+mn: Advice
+pl: Die Ratschläge 
+
+Tourist, der
+mn: Tourist
+pl: Die Touristen 
+
+Trauer, die
+mn: Grief
+pl: Die Schmerzen 
+
+Verteidigung, die
+mn: Defense
+pl: Die Abwehrkräfte 
+
+Biss, der
+mn: Bite
+pl: Die Bisse 
+
+Museum, das
+mn: Museum
+pl: Die Museen 
+
+Gunst, die
+mn: Favor
+pl: Die Wohltaten
+
+Abendessen, das
+mn: Supper
+pl: Die Abendessen 
+
+Komfort, der
+mn: Comfort
+pl: Die Komfort
+
+Dekan, der
+mn: Dean
+pl: Die Dekane 
+
+Wert, der
+mn: Value
+pl: Die Werte 
+
+Marsch, der
+mn: March
+pl: Die Märsche 
+
+Anwesen, das
+mn: Estate
+pl: Die Stände 
+
+Poet, der
+mn: Poet
+pl: Die Dichter 
+
+Palast, der
+mn: Palace
+pl: Die Paläste 
+
+Suppe, die
+mn: Soup
+pl: Die Suppen 
+
+Nation, die
+mn: Nation
+pl: Die Nationen 
+
+Gefäss, das
+mn: Jar
+pl: Die Gläser 
+
+Ständige, der
+mn: Standing
+pl: Die Tabellenführung 
+
+Sack, der
+mn: Sack
+pl: Die Säcke 
+
+Dämon, der
+mn: Demon
+pl: Die Dämonen 
+
+Konferenz, die
+mn: Conference
+pl: Die Konferenzen 
+
+Saft, der
+mn: Juice
+pl: Die Säfte 
+
+Verantwortung, die
+mn: Responsibility
+pl: Die Zuständigkeiten 
+
+Pinsel, der
+mn: Brush
+pl: Die Bürsten 
+
+Route, die
+mn: Route
+pl: Die Strecken 
+
+Käse, der
+mn: Cheese
+pl: Die Käse 
+
+Haube, die
+mn: Hood
+pl: Die Hauben 
+
+Ente, die
+mn: Duck
+pl: Die Ente 
+
+Heilige, der
+mn: Saint
+pl: Die Heiligen 
+
+Pass, der
+mn: Pass
+pl: Die Pässe 
+
+Ziel, das
+mn: Target
+pl: Die Ziele 
+
+Orange, die
+mn: Orange
+pl: Die Orangen 
+
+Kultur, die
+mn: Culture
+pl: Die Kulturen 
+
+Reise, die
+mn: Tour
+pl: Die Touren 
+
+Kommandant, der
+mn: Commander
+pl: Die Kommandeure 
+
+Haken, der
+mn: Hook
+pl: Die Haken 
+
+Nebel, der
+mn: Mist
+pl: Die Nebel 
+
+Training, das
+mn: Training
+pl: Die Trainings 
+
+Suche, die
+mn: Search
+pl: Die Suche 
+
+Münze, die
+mn: Coin
+pl: Die Münzen 
+
+Wunder, das
+mn: Miracle
+pl: Die Wunder 
+
+Vorteil, der
+mn: Advantage
+pl: Die Vorteile 
+
+Austausch, der
+mn: Exchange
+pl: Die Börsen 
+
+Fiktion, die
+mn: Fiction
+pl: Die Fiktionen
+
+Teich, der
+mn: Pond
+pl: Die Teiche 
+
+Assistent, der
+mn: Assistant
+pl: Die Assistenten 
+
+Design, das
+mn: Design
+pl: Die Entwürfe 
+
+Angel, die
+mn: Fishing
+pl: Die Fishings 
+
+Piste, die
+mn: Slope
+pl: Die Pisten 
+
+Graf, der
+mn: Earl
+pl: Die Grafen 
+
+Kommentar, der
+mn: Comment
+pl: Kommentare
+
+Kellner, der
+mn: Waiter
+pl: Die Kellner 
+
+Grocery – Von Lebensmittel
+pl: Die Lebensmittel 
+
+Leiter, die
+mn: Ladder
+pl: Die Leitern 
+
+Kurve, die
+mn: Curve
+pl: Die Kurven 
+
+Volumen, das
+mn: Volume
+pl: Die Volumina 
+
+Risiko, das
+mn: Risk
+pl: Die Risiken 
+
+Albtraum, der
+mn: Nightmare
+pl: Die Alpträume 
+
+Existenz, die
+mn: Existence
+pl: Die Existenzen 
+
+Spur, die
+mn: Trace
+pl: Die Spuren 
+
+Krankheit, die
+mn: Disease
+pl: Die Krankheiten 
+
+Unterstützung, die
+mn: Support
+pl: Die Stützen 
+
+Zeuge, der
+mn: Witness
+pl: Die Zeugen 
+
+Aktie, die
+mn: Stock
+pl: Die Bestände 
+
+Gerät, das
+mn: Device
+pl: Die Vorrichtungen 
+
+Landschaft, die
+mn: Landscape
+pl: Die Landschaften 
+
+Urlaub, der
+mn: Holiday
+pl: Die Feiertage 
+
+Ass, das
+mn: Ace
+pl: Die Asse 
+
+Klavier, das
+mn: Piano
+pl: Die Klaviere 
+
+Eingeweide, die
+mn: Gut
+pl: Die Eingeweide 
+
+Talent, das
+mn: Talent
+pl: Die Talente 
+
+Phantasie, die
+mn: Imagination
+pl: Die Vorstellungen 
+
+Schwarze, die
+mn: Black
+pl: Die Schwarzen 
+
+Reed, der
+mn: Reed
+pl: Das Schilf 
+
+Deckel, der
+mn: Lid
+pl: Die Deckel 
+
+Hinweis, der
+mn: Hint
+pl: Die Hinweise 
+
+Wanderer, der
+mn: Walker
+pl: Die Wanderer 
+
+Kälte, die
+mn: Chill ~ Schüttelfrost 
+
+Studie, die
+mn: Trial
+pl: Die Prüfungen 
+
+Interview, das
+mn: Interview
+pl: Die Interviews 
+
+Ansatz, der
+mn: Approach
+pl: Die Ansätze 
+
+Narbe, die
+mn: Scar
+pl: Die Narben 
+
+Mode, die
+mn: Fashion
+pl: Die Mode 
+
+Kanal, der
+mn: Channel
+pl: Die Kanäle 
+
+Tritt, die
+mn: Footstep
+pl: Die Schritte 
+
+Aufnehmer, der
+mn: Pickup
+pl: Die Pickups 
+
+Habicht, der
+mn: Hawk
+pl: Die Falken 
+
+Anhänger, der
+mn: Trailer
+pl: Die Anhänger 
+
+Statue, die
+mn: Statue
+pl: Die Statuen 
+
+Pille, die
+mn: Pill
+pl: Die Pillen 
+
+Käfer, der
+mn: Bug
+pl: Die Bugs 
+
+Eimer, der
+mn: Bucket
+pl: Die Eimer 
+
+Vacation – Den Urlaub
+pl: Die Urlaub 
+
+Arten, die
+mn: Species
+pl: Die Specieses 
+
+Kolumne, die
+mn: Column
+pl: Die Spalten 
+
+Schaden, der
+mn: Damage
+pl: Die Schäden 
+
+Instrument, das
+mn: Instrument
+pl: Die Instrumente 
+
+Hafen, der
+mn: Port
+pl: Die Ports 
+
+Schicht, die
+mn: Layer
+pl: Die Schichten 
+
+Streifen, der
+mn: Strip
+pl: Die Streifen 
+
+Müll, der
+mn: Garbage
+pl: Die Garbages 
+
+Rippe, die
+mn: Rib
+pl: Die Rippen 
+
+Notebook, das
+mn: Notebook
+pl: Die Notizbücher 
+
+Mais, der
+mn: Corn
+pl: Die Hühneraugen 
+
+Angebot, das
+mn: Offer
+pl: Die Angebote 
+
+Zeichnung, die
+mn: Drawing
+pl: Die Zeichnungen 
+
+Aussage, die
+mn: Statement
+pl: Die Aussagen 
+
+Intelligenz, die
+mn: Intelligence
+pl: Die Intelligenzen 
+
+Entschuldigung, die
+mn: Excuse
+pl: Die Ausreden 
+
+Landung, die
+mn: Landing
+pl: Die Landungen 
+
+Urheberrechts, der
+mn: Copyright
+pl: Die Urheberrechte 
+
+Stange, die
+mn: Rod
+pl: Die Stäbe 
+
+Fantasie, die
+mn: Fantasy
+pl: Die Phantasien 
+
+Neugier, die
+mn: Curiosity
+pl: Die Kuriositäten 
+
+Kleid, das
+mn: Gown
+pl: Die Kleider 
+
+Grenze, die
+mn: Border
+pl: Die Grenzen 
+
+Poesie, die
+mn: Poetry
+pl: Die Dichtungen 
+
+Firma, die
+mn: Firm
+pl: Die Firmen 
+
+Aufgang, der
+mn: Rise
+pl: Der Anstieg 
+
+Handvoll, die
+mn: Handful
+pl: Die Hände Voll 
+
+China, die
+mn: China
+pl: Die Chinas 
+
+Franzosen, die
+mn: French
+pl: Die Frenches 
+
+Durchschnitts, die
+mn: Mean
+pl: Die Mittel 
+
+Reh, das
+mn: Deer
+pl: Die Hirsche 
+
+Druck, die
+mn: Print
+pl: Die Drucke 
+
+Schiene, die
+mn: Rail
+pl: Die Schienen 
+
+Rate, die
+mn: Rate
+pl: Die Preise 
+
+Mut, der
+mn: Courage
+pl: Die Courages 
+
+Ankunft, die
+mn: Arrival
+pl: Die Ankünfte 
+
+Wunsch, der
+mn: Wish
+pl: Die Wünsche
+
+Grat, der
+mn: Ridge
+pl: Die Grate 
+
+Idiot, der
+mn: Idiot
+pl: Die Idioten 
+
+Bulle, der
+mn: Bull
+pl: Die Bullen 
+
+Saat, die
+mn: Seed
+pl: Die Samen 
+
+Fortschritt, der
+mn: Progress
+pl: Die Fortschritte 
+
+Gefühl, das
+mn: Feel
+ex:
+- Es Fühlt Sich An
+
+Shorts, die
+mn: Shorts
+pl: Die Shortses 
+
+Bürger, der
+mn: Citizen
+pl: Die Bürger 
+
+Müll, der
+mn: Trash
+pl: Die Trashes 
+
+Protokoll, das
+mn: Log
+pl: Die Protokolle 
+
+Geduld, die
+mn: Patience
+pl: Die Patiencen 
+
+Fledermaus, die
+mn: Bat
+pl: Die Fledermäuse 
+
+Fußball, der
+mn: Football
+pl: Die Fußbälle 
+
+Routine, die
+mn: Routine
+pl: Die Routinen 
+
+Explosion, die
+mn: Explosion
+pl: Die Explosionen 
+
+Inhalt, der
+mn: Content
+pl: Die Inhalte 
+
+Wissenschaftler, der
+mn: Scientist
+pl: Die Wissenschaftler 
+
+Versagen, das
+mn: Failure
+pl: Die Ausfälle 
+
+Sünde, die
+mn: Sin
+pl: Die Sünden 
+
+Hintern, der
+mn: Butt
+pl: Die Füße 
+
+Verwirrung, die
+mn: Confusion
+pl: Die Verwirrungen 
+
+Verständnis, das
+mn: Understanding
+pl: Die Absprachen 
+
+Handel, der
+mn: Trade
+pl: Das Handwerk 
+
+Kühlschrank, der
+mn: Refrigerator
+pl: Die Kühlschränke 
+
+Herr, der
+mn: Mister
+pl: Die Misters 
+
+Taschenlampe, die
+mn: Flashlight
+pl: Die Taschenlampen 
+
+Internet, das
+mn: Net
+pl: Die Netze 
+
+Seemann, der
+mn: Sailor
+pl: Die Matrosen 
+
+Attitüde, die
+mn: Attitude
+pl: Die Haltungen 
+
+Schuld, die
+mn: Guilt
+pl: Die Schuldgefühle 
+
+Weinen, das
+mn: Crying
+pl: Die Geschrei 
+
+Sip, die
+mn: Sip ~ Sips 
+
+Reise, die
+mn: Travel
+pl: Die Reisen 
+
+Keks, der
+mn: Cookie
+pl: Die Kekse 
+
+Flucht, die
+mn: Escape
+pl: Die Fluchten 
+
+Anleitung, die
+mn: Instruction
+pl: Die Anleitungen 
+
+Gewebe, das
+mn: Fabric
+pl: Die Stoffe 
+
+Marmor, der
+mn: Marble
+pl: Die Murmeln 
+
+Blick, der
+mn: Glimpse
+pl: Die Einblicke 
+
+Dämmerung, die
+mn: Dusk
+pl: Die Dämmerungen 
+
+Hütte, die
+mn: Cottage
+pl: Die Ferienhäuser 
+
+Affe, der
+mn: Monkey
+pl: Die Affen 
+
+Makeup, das
+mn: Makeup
+pl: Die MakeUps 
+
+Doc, die
+mn: Doc
+pl: Die Docs 
+
+Bluse, die
+mn: Blouse
+pl: Die Blusen 
+
+Rhythmus, der
+mn: Rhythm
+pl: Die Rhythmen 
+
+Dampf, der
+mn: Steam
+pl: Die Dämpfe 
+
+Satz, der
+mn: Phrase
+pl: Die Phrasen 
+
+Mutter, die
+mn: Nut
+pl: Die Muttern 
+
+Bleistift, der
+mn: Pencil
+pl: Die Stifte 
+
+Koch, der
+mn: Cook
+pl: Die Köche 
+
+Flagge, die
+mn: Flag
+pl: Die Fahnen 
+
+Trainer, der
+mn: Coach
+pl: Die Trainer 
+
+Schaukel, die
+mn: Swing
+pl: Die Schaukeln 
+
+Lautsprecher, der
+mn: Speaker
+pl: Die Lautsprecher 
+
+Bolzen, der
+mn: Bolt
+pl: Die Bolzen 
+
+Fett, das
+mn: Fat
+pl: Die Fette 
+
+Teppich, der
+mn: Rug
+pl: Die Teppiche 
+
+Klopf, die
+mn: Knock
+pl: Die Schläge 
+
+Zauber, der
+mn: Spell
+pl: Die Zaubersprüche 
+
+Taxi, das
+mn: Taxi
+pl: Die Taxis 
+
+Runde, die
+mn: Round
+pl: Die Runden 
+
+Strohhalm, der
+mn: Straw
+pl: Die Halme 
+
+Luke, die
+mn: Hatch
+pl: Die Luken 
+
+Gabel, die
+mn: Fork
+pl: Die Gabeln 
+
+Böse, das
+mn: Evil
+pl: Die Übel 
+
+Dienstmädchen, das
+mn: Maid
+pl: Die Zimmermädchen 
+
+Relative, die
+mn: Relative
+pl: Die Verwandten 
+
+Hexe, die
+mn: Witch
+pl: Die Hexen 
+
+Hof, der
+mn: Courtyard
+pl: Die Höfe 
+
+Sensation, die
+mn: Sensation
+pl: Die Empfindungen 
+
+Blase, die
+mn: Bubble
+pl: Die Blasen 
+
+Leser, der
+mn: Reader
+pl: Die Leser 
+
+Locke, die
+mn: Curl
+pl: Die Locken 
+
+Kuchen, der
+mn: Pie
+pl: Die Torten 
+
+Strahl, der
+mn: Jet
+pl: Die Jets 
+
+Verschiebung, die
+mn: Shift
+pl: Die Verschiebungen 
+
+Union, die
+mn: Union
+pl: Die Gewerkschaften 
+
+Teenager, der
+mn: Teenager
+pl: Die Teenager 
+
+Ebene, die
+mn: Plain
+pl: Die Ebenen 
+
+Kellnerin, die
+mn: Waitress
+pl: Die Kellnerinnen 
+
+Antwort, die
+mn: Reply
+pl: Die Antworten 
+
+Gerücht, das
+mn: Rumor
+pl: Gerüchte
+
+Schwerkraft, die
+mn: Gravity
+pl: Die Gewichte 
+
+Zuflucht, die
+mn: Shelter
+pl: Die Unterstände 
+
+Abenteuer, das
+mn: Adventure
+pl: Die Abenteuer 
+
+Löwe, der
+mn: Lion
+pl: Die Löwen 
+
+Wirbelsäule, die
+mn: Spine
+pl: Die Stacheln 
+
+Vertrauen, das
+mn: Confidence
+pl: Die Vertraulichkeiten 
+
+Tiefe, die
+mn: Depth
+pl: Die Tiefen 
+
+Reichweite, die
+mn: Reach
+pl: Die Reichweiten 
+
+Hammer, der
+mn: Hammer
+pl: Die Hämmer 
+
+Bibel, die
+mn: Bible
+pl: Die Bibeln 
+
+Vertrag, der
+mn: Contract
+pl: Die Verträge 
+
+Geldbeutel, der
+mn: Wallet
+pl: Die Brieftaschen 
+
+Dschungel, der
+mn: Jungle
+pl: Die Dschungel 
+
+Fabrik, die
+mn: Factory
+pl: Die Fabriken 
+
+Indische, die
+mn: Indian
+pl: Die Indianer 
+
+Balkon, der
+mn: Balcony
+pl: Die Balkone 
+
+Reis, der
+mn: Rice
+pl: Die Reis 
+
+Knoten, der
+mn: Knot
+pl: Die Knoten 
+
+Schnur, die
+mn: Cord
+pl: Die Schnüre 
+
+Kollege, der
+mn: Colleague
+pl: Die Kollegen 
+
+Absicht, die
+mn: Intention
+pl: Die Absichten 
+
+Stare, die
+mn: Stare
+pl: Die Blicke 
+
+Motel, das
+mn: Motel
+pl: Die Motels 
+
+Anwalt, der
+mn: Attorney
+pl: Die Anwälte 
+
+Liebling, der
+mn: Darling
+pl: Die Lieblinge 
+
+Diskussion, die
+mn: Discussion
+pl: Die Diskussionen 
+
+Atmosphere – Atmosphäre
+pl: Die Atmosphären 
+
+Leistung, die
+mn: Performance
+pl: Die Aufführungen 
+
+Spannung, die
+mn: Tension
+pl: Die Spannungen 
+
+Text, der
+mn: Text
+pl: Die Texte 
+
+Strang, der
+mn: Strand
+pl: Die Litzen 
+
+Mittags, die
+mn: Noon
+pl: Die Noons 
+
+Vene, die
+mn: Vein
+pl: Die Venen 
+
+Experte, der
+mn: Expert
+pl: Die Experten 
+
+Gruppe, die
+mn: Gang
+pl: Die Banden 
+
+Polizist, der
+mn: Policeman
+pl: Die Police 
+
+Krebs, der
+mn: Cancer
+pl: Die Krebs 
+
+Fuchs, der
+mn: Fox
+pl: Die Foxs 
+
+Scheidung, die
+mn: Divorce
+pl: Die Scheidungen 
+
+Impuls, die
+mn: Pulse
+pl: Die Pulse 
+
+Abwesenheit, die
+mn: Absence
+pl: Die Abwesenheiten 
+
+Gewalt, die
+mn: Violence
+pl: Die Gewalten 
+
+Humor, der
+mn: Humor
+pl: Die Körpersäfte 
+
+Stuhl, der
+mn: Stool
+pl: Die Stühle 
+
+Kies, der
+mn: Gravel
+pl: Die Kiese 
+
+Schatz, der
+mn: Treasure
+pl: Schätze
+
+Butter, die
+mn: Butter
+pl: Die Butter 
+
+Schalter, der
+mn: Switch
+pl: Die Schalter 
+
+Zigarre, die
+mn: Cigar
+pl: Die Zigarren 
+
+Leinwand, die
+mn: Canvas
+pl: Die Leinwände 
+
+Fröhlichkeit, die
+mn: Happiness
+pl: Die Seligkeiten 
+
+Führer, der
+mn: Guide
+pl: Die Führungen 
+
+Stift, der
+mn: Pin
+pl: Die Stifte 
+
+Schauspieler, der
+mn: Actor
+pl: Die Akteure 
+
+Ganze, das
+mn: Whole
+pl: Die Löcher 
+
+Vereinbarung, die
+mn: Arrangement
+pl: Die Vereinbarungen 
+
+Braune, die
+mn: Brown
+pl: Die Brauntöne 
+
+Gastgeber, der
+mn: Host
+pl: Die Gastgeber 
+
+Farbband, das
+mn: Ribbon
+pl: Die Bänder 
+
+Schal, der
+mn: Scarf
+pl: Die Schals 
+
+Skala, die
+mn: Scale
+pl: Die Waagen 
+
+Beweis, der
+mn: Proof
+pl: Die Beweise 
+
+Pfeil, der
+mn: Arrow
+pl: Die Pfeile 
+
+Temperatur, die
+mn: Temperature
+pl: Die Temperaturen 
+
+Technologie, die
+mn: Technology
+pl: Technologien
+
+Erlaubnis, die
+mn: Permission
+pl: Die Berechtigungen 
+
+Ort, der
+mn: Location
+pl: Die Standorte 
+
+Klaue, die
+mn: Claw
+pl: Die Krallen 
+
+Cowboy, der
+mn: Cowboy
+pl: Die Cowboies 
+
+Agentur, die
+mn: Agency
+pl: Die Agenturen 
+
+Konstruktion, die
+mn: Construction
+pl: Die Konstruktionen 
+
+Jagd, das
+mn: Hunting
+pl: Die Jagden 
+
+Gemüse, das
+mn: Vegetable
+pl: Das Gemüse 
+
+Dose, die
+mn: Tin
+pl: Die Dosen 
+
+Hubschrauber, der
+mn: Helicopter
+pl: Die Hubschrauber 
+
+Falle, die
+mn: Trap
+pl: Die Fallen 
+
+Pat, das
+mn: Pat
+pl: Die Streicheleinheiten 
+
+Lücke, die
+mn: Gap
+pl: Die Lücken 
+
+Haustier, das
+mn: Pet
+pl: Die Haustiere 
+
+Bildung, die
+mn: Education
+pl: Die Ausbildungen 
+
+Einkaufen, das
+mn: Shopping
+pl: Die Einkäufe 
+
+Schuppen, der
+mn: Shed
+pl: Die Schuppen 
+
+Vereinbarung, die
+mn: Agreement
+pl: Vereinbarungen
+
+Erde, die
+mn: Soil
+pl: Die Böden 
+
+Herzog, der
+mn: Duke
+pl: Die Herzöge 
+
+Schrotflinte, die
+mn: Shotgun
+pl: Die Schrotflinten 
+
+Vorstellung, die
+mn: Notion
+pl: Die Begriffe 
+
+Rear – Es Gibt
+pl: Die Hintern 
+
+Zeremonie, die
+mn: Ceremony
+pl: Die Zeremonien 
+
+Löffel, der
+mn: Spoon
+pl: Die Löffel 
+
+Wanne, die
+mn: Tub
+pl: Die Wannen 
+
+Schlüssel, der
+mn: Clue
+pl: Die Hinweise 
+
+Iris, die
+mn: Iris
+pl: Die Iris 
+
+Vorfall, der
+mn: Incident
+pl: Die Vorfälle 
+
+Absturz, der
+mn: Crash
+pl: Die Abstürze 
+
+Tagebuch, das
+mn: Journal
+pl: Die Zeitschriften 
+
+Zugriffs, die
+mn: Access
+pl: Die Zugriffe 
+
+Brass – Erz
+pl: Die Brasses 
+
+Mama, die
+mn: Mommy
+pl: Die Mamas 
+
+Seitenleiste, die
+mn: Sidebar
+pl: Die Seitenleisten 
+
+Schaf, das
+mn: Sheep
+pl: Die Schafe 
+
+Ingenieur, der
+mn: Engineer
+pl: Die Ingenieure 
+
+Rumpf, der
+mn: Hull
+pl: Die Rümpfe 
+
+Geruch, der
+mn: Odor
+pl: Die Gerüche 
+
+Termin, der
+mn: Appointment
+pl: Die Termine 
+
+Einladung, die
+mn: Invitation
+pl: Die Einladungen 
+
+Lappen, die
+mn: Rag
+pl: Die Lumpen 
+
+Gute, das
+mn: Good
+pl: Die Güter 
+
+Kumpel, der
+mn: Dude
+pl: Die Dudes 
+
+Behandlung, die
+mn: Treatment
+pl: Behandlungen
+
+Weisheit, die
+mn: Wisdom
+pl: Die Weisheiten 
+
+Preis, der
+mn: Prize
+pl: Die Preise 
+
+Element, das
+mn: Element
+pl: Die Elemente 
+
+Gigant, der
+mn: Giant
+pl: Die Riesen 
+
+Serviette, die
+mn: Napkin
+pl: Die Servietten 
+
+Wäsche, die
+mn: Laundry
+pl: Die Wäschereien 
+
+Option, die
+mn: Option
+pl: Die Optionen 
+
+Regal, das
+mn: Rack
+pl: Die Zahnstangen 
+
+Anforderung, die
+mn: Request
+pl: Die Anfragen 
+
+Gefängnis, das
+mn: Jail
+pl: Die Gefängnisse 
+
+Opa, der
+mn: Grandpa
+pl: Die Großväter 
+
+Ranch, die
+mn: Ranch
+pl: Die Ranches 
+
+Punkt, der
+mn: Dot
+pl: Die Punkte 
+
+Skript, das
+mn: Script
+pl: Die Skripte 
+
+Einkaufshalle, die
+mn: Mall
+pl: Die Einkaufszentren 
+
+Ford, der
+mn: Ford
+pl: Die Furten 
+
+Übung, die
+mn: Exercise
+pl: Die Übungen 
+
+Witwe, die
+mn: Widow
+pl: Die Witwen 
+
+Krähe, die
+mn: Crow
+pl: Die Krähen 
+
+Faden, der
+mn: Thread
+pl: Die Fäden 
+
+Selbstmord, die
+mn: Suicide
+pl: Die Selbstmorde 
+
+Notiz, die
+mn: Notice
+pl: Die Bekanntmachungen 
+
+Sonnenuntergang, der
+mn: Sunset
+pl: Die Sonne Geht Unter 
+
+Gallerie, die
+mn: Gallery
+pl: Die Galerien 
+
+Schiff, das
+mn: Vessel
+pl: Die Gefäße 
+
+Donner, der
+mn: Thunder
+pl: Der Donner 
+
+Seife, die
+mn: Soap
+pl: Seifen
+
+Whisky, der
+mn: Whiskey
+pl: Die Whiskys 
+
+Weibchen, das
+mn: Female
+pl: Die Weibchen 
+
+Bürgermeister, der
+mn: Mayor
+pl: Die Bürgermeister 
+
+Hub, der
+mn: Stroke
+pl: Die Striche 
+
+Klick, der
+mn: Click
+pl: Die Klicks 
+
+Ruf, der
+mn: Reputation
+pl: Der Ruf 
+
+Müller, der
+mn: Miller
+pl: Die Müller 
+
+Rat, der
+mn: Council
+pl: Die Räte 
+
+Stundenplan, der
+mn: Schedule
+pl: Der Spielplan 
+
+Friedhof, der
+mn: Cemetery
+pl: Die Friedhöfe 
+
+Kampf, der
+mn: Struggle
+pl: Die Kämpfe 
+
+Instinkt, der
+mn: Instinct
+pl: Die Instinkte 
+
+Ruhe, die
+mn: Calm
+pl: Die Beruhigt 
+
+Arbeitnehmer, der
+mn: Employee
+pl: Die Angestellten 
+
+Nest, das
+mn: Nest
+pl: Die Nester 
+
+Limit, das
+mn: Limit
+pl: Die Grenzwerte 
+
+Deutsche, der
+mn: German
+pl: Die Deutschen 
+
+Mönch, der
+mn: Monk
+pl: Die Mönche 
+
+Wurm, der
+mn: Worm
+pl: Die Würmer 
+
+Dokument, das
+mn: Document
+pl: Die Dokumente 
+
+Traurigkeit, die
+mn: Sadness
+pl: Die Traurigkeiten 
+
+Hütte, die
+mn: Hut
+pl: Die Hütten 
+
+Lebensdauer, die
+mn: Lifetime
+pl: Die Lebensdauern 
+
+Tänzerin, die
+mn: Dancer
+pl: Die Tänzer 
+
+Versicherung, die
+mn: Insurance
+pl: Die Versicherungen 
+
+Schwierigkeit, die
+mn: Difficulty
+pl: Die Schwierigkeiten 
+
+Matratze, die
+mn: Mattress
+pl: Die Matratzen 
+
+Mann, der
+mn: Male
+pl: Die Männchen 
+
+Klinik, die
+mn: Clinic
+pl: Die Kliniken 
+
+Ad, die
+mn: Ad
+pl: Die Anzeigen 
+
+Becher, der
+mn: Mug
+pl: Die Becher 
+
+Kit, das
+mn: Kit
+pl: Die Kits 
+
+Kommunikation, die
+mn: Communication
+pl: Die Kommunikations 
+
+Unglück, das
+mn: Disaster
+pl: Die Katastrophen 
+
+Fliese, die
+mn: Tile
+pl: Die Fliesen 
+
+Empfänger, der
+mn: Receiver
+pl: Die Empfänger 
+
+Gebrüll, das
+mn: Roar
+pl: Die Brüllt 
+
+Truppe, die
+mn: Troop
+pl: Die Truppen 
+
+Sarg, der
+mn: Coffin
+pl: Die Särge 
+
+Freundschaft, die
+mn: Friendship
+pl: Die Freundschaften 
+
+Ermittlung, die
+mn: Investigation
+pl: Die Untersuchungen 
+
+Verkauf, der
+mn: Sale
+pl: Die Verkäufe 
+
+Ziel, das
+mn: Goal
+pl: Die Ziele 
+
+Krankenwagen, der
+mn: Ambulance
+pl: Die Krankenwagen 
+
+Mondlicht, das
+mn: Moonlight
+pl: Die Mondlicht 
+
+Ward – The Ward
+pl: Die Schutzzauber 
+
+Hosen, die
+mn: Trousers
+pl: Die Trouserses 
+
+Wolle, die
+mn: Wool
+pl: Die Wolle 
+
+Mac, die
+mn: Mac
+pl: Die Macs 
+
+Minister, der
+mn: Minister
+pl: Die Minister 
+
+Eintritt, der
+mn: Entry
+pl: Die Einträge 
+
+Dieb, der
+mn: Thief
+pl: Die Diebe 
+
+Aktentasche, die
+mn: Briefcase
+pl: Die Aktentaschen 
+
+Mitleid, das
+mn: Pity
+pl: Die Bemitleidet 
+
+Finger, die
+mn: Fingertip
+pl: Die Fingerspitzen 
+
+Marine, die
+mn: Navy
+pl: Die Marinen 
+
+Insekt, das
+mn: Insect
+pl: Die Insekten 
+
+Velvet – The Velvet
+pl: Die Samt 
+
+Biene, die
+mn: Bee
+pl: Die Bienen 
+
+Stock, der
+mn: Cane
+pl: Die Stöcke 
+
+Gen, das
+mn: Gene
+pl: Die Gene 
+
+Salat, der
+mn: Salad
+pl: Die Salate 
+
+Windschutzscheibe, die
+mn: Windshield
+pl: Die Windschutzscheiben 
+
+Outfit, das
+mn: Outfit
+pl: Die Outfits 
+
+Shuttle, der
+mn: Shuttle
+pl: Die Shuttles 
+
+Schrei, der
+mn: Shout
+pl: Die Rufe 
+
+Wut, die
+mn: Fury
+pl: Die Furien 
+
+Herausforderung, die
+mn: Challenge
+pl: Die Herausforderungen 
+
+Zufriedenheit, die
+mn: Satisfaction
+pl: Die Zufriedenheiten 
+
+Motor, der
+mn: Motor
+pl: Die Motoren 
+
+Produkt, das
+mn: Product
+pl: Die Produkte 
+
+Unkraut, das
+mn: Weed
+pl: Das Unkraut 
+
+Strecke, die
+mn: Stretch
+pl: Die Strecken 
+
+Fitnesscenter, das
+mn: Gym
+pl: Die FitnessStudios 
+
+Kapital, das
+mn: Capital
+pl: Die Hauptstädte 
+
+Rand, der
+mn: Rim
+pl: Die Felgen 
+
+Pfote, die
+mn: Paw
+pl: Die Pfoten 
+
+Festung, die
+mn: Fort
+pl: Die Forts 
+
+Kosten, die
+mn: Cost
+pl: Die Kosten 
+
+Plakat, das
+mn: Poster
+pl: Die Poster 
+
+Vampir, der
+mn: Vampire
+pl: Die Vampire 
+
+Welle, die
+mn: Shaft
+pl: Die Wellen 
+
+Identität, die
+mn: Identity
+pl: Die Identitäten 
+
+Bürgersteig, der
+mn: Pavement
+pl: Die Bürgersteige 
+
+Arschloch, das
+mn: Asshole
+pl: Die Arschlöcher 
+
+Gurt, der
+mn: Strap
+pl: Die Gurte 
+
+Wohnzimmer, das
+mn: Parlor
+pl: Die Stuben 
+
+Hafen, der
+mn: Harbor
+pl: Die Häfen 
+
+Beispiel, das
+mn: Example
+pl: Beispiele
+
+Netz, das
+mn: Web
+pl: Die Stege 
+
+Golf, der
+mn: Golf
+pl: Die Golfplätze 
+
+Freude, die
+mn: Delight
+pl: Die Freuden 
+
+Decke, die
+mn: Quilt
+pl: Diese Decken 
+
+Steuer, die
+mn: Tax
+pl: Die Taxs 
+
+Falte, die
+mn: Fold
+pl: Die Falten 
+
+Porträt, das
+mn: Portrait
+pl: Die Porträts 
+
+Gewebe, das
+mn: Tissue
+pl: Die Gewebe 
+
+Glaube, der
+mn: Belief
+pl: Die Überzeugungen 
+
+Kostüm, das
+mn: Costume
+pl: Die Kostüme 
+
+Maß, das
+mn: Measure
+ex:
+- Maßnahmen
+
+Wagen, der
+mn: Carriage
+pl: Die Wagen 
+
+Gitarre, die
+mn: Guitar
+pl: Die Gitarren 
+
+Ritter, der
+mn: Knight
+pl: Die Ritter 
+
+Rang, der
+mn: Rank
+pl: Die Reihen 
+
+Bürgermeister, der
+mn: Major
+pl: Die Majors 
+
+Brunnen, der
+mn: Fountain
+pl: Die Brunnen 
+
+Stall, der
+mn: Stall
+pl: Die Stände 
+
+Ladung, die
+mn: Load
+pl: Die Lasten 
+
+Funke, der
+mn: Spark
+pl: Die Funken 
+
+Müll, der
+mn: Waste
+pl: Die Abfälle 
+
+Champagner, der
+mn: Champagne
+pl: Die Champagner 
+
+Viertel, das
+mn: District
+pl: Die Bezirke 
+
+Schutz, der
+mn: Protection
+pl: Die Schutz 
+
+Urteil, das
+mn: Judgment
+pl: Die Urteile 
+
+Sympathie, die
+mn: Sympathy
+pl: Die Sympathien 
+
+Violett, das
+mn: Violet
+pl: Die Veilchen 
+
+Aufprall, der
+mn: Impact
+pl: Die Auswirkungen 
+
+Enttäuschung, die
+mn: Disappointment
+pl: Die Enttäuschungen 
+
+Trink, das
+mn: Drinking
+pl: Die Drinkings 
+
+Bewusstsein, das
+mn: Consciousness
+pl: Die Bewussts 
+
+Taschentuch, das
+mn: Handkerchief
+pl: Die Taschentücher 
+
+Tanzen, das
+mn: Dancing
+pl: Die Dancings 
+
+Parfüm, das
+mn: Perfume
+pl: Die Düfte 
+
+Netzwerk, das
+mn: Network
+pl: Die Netzwerke 
+
+Anspruch, der
+mn: Claim
+pl: Die Ansprüche 
+
+Nonne, die
+mn: Nun
+pl: Die Nonnen 
+
+Krone, die
+mn: Crown
+pl: Die Kronen 
+
+Geländer, das
+mn: Railing
+pl: Die Geländer 
+
+Lizenz, die
+mn: License
+pl: Die Lizenzen 
+
+Barmherzigkeit, die
+mn: Mercy
+pl: Die Barmherzigkeit 
+
+Ballon, der
+mn: Balloon
+pl: Die Ballons 
+
+Chaos, das
+mn: Chaos
+pl: Die Chaoses 
+
+Fieber, das
+mn: Fever
+pl: Die Fieber 
+
+Schließfach, das
+mn: Locker
+pl: Die Schließfächer 
+
+Sitzung, die
+mn: Session
+pl: Die Sitzungen 
+
+Burst, die
+mn: Burst
+pl: Die Bursts 
+
+Spitzer, der
+mn: Peak
+pl: Die Peaks 
+
+Trommel, die
+mn: Drum
+pl: Die Trommeln 
+
+Fokus, der
+mn: Focus
+pl: Die Schwerpunkte 
+
+Frosch, der
+mn: Frog
+pl: Die Frösche 
+
+Vorteil, der
+mn: Benefit
+pl: Die Vorteile 
+
+Bemerkung, die
+mn: Remark
+pl: Die Bemerkungen 
+
+Gezeiten, die
+mn: Tide
+pl: Die Gezeiten 
+
+Verdacht, der
+mn: Suspicion
+pl: Der Verdacht 
+
+Jeep, der
+mn: Jeep
+pl: Die Jeeps 
+
+Sorge, die
+mn: Worry
+pl: Die Sorgen 
+
+Literatur, die
+mn: Literature
+pl: Die Literaturen 
+
+Bogenschütze, der
+mn: Archer
+pl: Die Bogenschützen 
+
+Haushalt, der
+mn: Household
+pl: Die Haushalte 
+
+Pulver, das
+mn: Powder
+pl: Die Pulver 
+
+Hirte, der
+mn: Shepherd
+pl: Die Hirten 
+
+Linse, die
+mn: Lens
+pl: Die Linsen 
+
+Favorit, der
+mn: Favorite
+pl: Die Favoriten 
+
+Madame, die
+mn: Madame
+pl: Die Madames 
+
+Villa, die
+mn: Mansion
+pl: Die Herrenhäuser 
+
+Boom, der
+mn: Boom
+pl: Die Ausleger 
+
+Spitze, die
+mn: Lace
+pl: Die Schnürsenkel 
+
+Überprüfung, die
+mn: Review
+pl: Die Bewertungen 
+
+Rezeption, die
+mn: Reception
+pl: Die Empfänge 
+
+Schrott, der
+mn: Scrap
+pl: Die Fetzen 
+
+Wulst, der
+mn: Bead
+pl: Die Perlen 
+
+Blendung, die
+mn: Glare
+pl: Die Blicke 
+
+Strömung, die
+mn: Flow
+pl: Die Ströme 
+
+Cafe, das
+mn: Cafe
+pl: Die Cafés 
+
+Status, der
+mn: Status
+pl: Die Zustände 
+
+Pochen, das
+mn: Pounding
+pl: Die Poundings 
+
+Rakete, die
+mn: Rocket
+pl: Die Raketen 
+
+Schlucht, die
+mn: Canyon
+pl: Die Schluchten 
+
+Trauer, die
+mn: Sorrow
+pl: Die Leiden 
+
+Spinne, die
+mn: Spider
+pl: Die Spinnen 
+
+Explosion, die
+mn: Blast
+pl: Die Blasten 
+
+Persönlichkeit, die
+mn: Personality
+pl: Die Persönlichkeiten 
+
+Campus, der
+mn: Campus
+pl: Die Campus 
+
+Fluch, der
+mn: Curse
+pl: Die Flüche 
+
+Treppenhaus, das
+mn: Staircase
+pl: Die Treppenhäuser 
+
+Drang, der
+mn: Urge
+pl: Die Triebe 
+
+Frustration, die
+mn: Frustration
+pl: Die Frustrationen 
+
+Pumpe, die
+mn: Pump
+pl: Die Pumpen 
+
+Leichtigkeit, die
+mn: Ease
+pl: Die Kungen 
+
+Zählung, die
+mn: Count
+pl: Die Grafen 
+
+Lösung, die
+mn: Solution
+pl: Die Lösungen 
+
+Schmuck, der
+mn: Jewelry
+pl: Die Schmuck 
+
+Sirene, die
+mn: Siren
+pl: Die Sirenen 
+
+Schlag, der
+mn: Hit
+pl: Die Treffer 
+
+Tradition, die
+mn: Tradition
+pl: Die Traditionen 
+
+Leer, das
+mn: Curb
+pl: Die Bordsteine 
+
+Vielfalt, die
+mn: Variety
+pl: Die Sorten 
+
+Pirat, der
+mn: Pirate
+pl: Die Piraten 
+
+Beschreibung, die
+mn: Description
+pl: Beschreibungen
+
+Liebe, der
+mn: Dear
+pl: Die Lieben 
+
+Angst, die
+mn: Anxiety
+pl: Die Ängste 
+
+Tonhöhe, die
+mn: Pitch
+pl: Die Stellplätze 
+
+Pizza, die
+mn: Pizza
+pl: Die Pizzas 
+
+Elefant, der
+mn: Elephant
+pl: Die Elefanten 
+
+Politik, die
+mn: Politics
+pl: Die Politicses 
+
+Tennis, der
+mn: Tennis
+pl: Die Tennises 
+
+Hunger, der
+mn: Hunger
+pl: Die Hungert 
+
+Genie, das
+mn: Genius
+pl: Die Genies 
+
+Ziege, die
+mn: Goat
+pl: Die Ziegen 
+
+Sieg, der
+mn: Victory
+pl: Die Siege 
+
+Kombination, die
+mn: Combination
+pl: Kombinationen
+
+Zugehörigkeit, die
+mn: Affiliation
+pl: Die Zugehörigkeiten 
+
+Momma, das
+mn: Momma
+pl: Die Mommas 
+
+Umhang, der
+mn: Cape
+pl: Die Umhänge 
+
+Scheinwerfer, der
+mn: Headlight
+pl: Die Scheinwerfer 
+
+Gouverneur, der
+mn: Governor
+pl: Die Gouverneure 
+
+Sauerstoff, die
+mn: Oxygen
+pl: Sauerstoffe
+
+Bischof, der
+mn: Bishop
+pl: Die Bischöfe 
+
+Bündel, das
+mn: Bundle
+pl: Die Bündel 
+
+Entwicklung, die
+mn: Development
+pl: Die Entwicklungen 
+
+Fingernagel, der
+mn: Fingernail
+pl: Die Fingernägel 
+
+Punktzahl, die
+mn: Score
+pl: Die Noten 
+
+Steuermann, der
+mn: Mate
+pl: Die Mates 
+
+Fahrer, der
+mn: Rider
+pl: Die Fahrer 
+
+Umlaufbahn, die
+mn: Orbit
+pl: Die Bahnen 
+
+Weinstock, der
+mn: Vine
+pl: Die Reben 
+
+Suite, die
+mn: Suite
+pl: Die Suiten 
+
+Barkeeper, der
+mn: Bartender
+pl: Die Barkeeper 
+
+Koks, der
+mn: Coke
+pl: Die Kokse 
+
+Melodie, die
+mn: Tune
+pl: Die Melodien 
+
+Herrlichkeit, die
+mn: Glory
+pl: Die Herrlichkeiten 
+
+Rabbi, der
+mn: Rabbi
+pl: Die Rabbiner 
+
+Operation, die
+mn: Surgery
+pl: Die Operationen 
+
+Vieh, das
+mn: Cattle
+pl: Die Rinder 
+
+Ritual, das
+mn: Ritual
+pl: Die Rituale 
+
+Begrüßung, die
+mn: Greeting
+pl: Die Grüße 
+
+Scheibe, die
+mn: Slice
+pl: Die Scheiben 
+
+Homer, die
+mn: Homer
+pl: Die Home Runs 
+
+Kamin, der
+mn: Fireplace
+pl: Die Kamine 
+
+Trikot, das
+mn: Jersey
+pl: Die Trikots 
+
+Medien, die
+mn: Media
+pl: Die Medien 
+
+Pop, die
+mn: Pop ~ The Pops 
+
+Fracht, die
+mn: Cargo
+pl: Die Ladungen 
+
+Gasthaus, das
+mn: Inn
+pl: Die Gasthöfe 
+
+Stellvertretende, der
+mn: Deputy
+pl: Die Abgeordneten 
+
+Verzweiflung, die
+mn: Despair
+pl: Die Verzweiflungen 
+
+Territorium, das
+mn: Territory
+pl: Die Gebiete 
+
+Schlag, der
+mn: Punch
+pl: Die Stempel 
+
+Jazz, die
+mn: Jazz
+pl: Die Jazzs 
+
+Umarmung, die
+mn: Hug
+pl: Die Umarmungen 
+
+Pfeife, die
+mn: Whistle
+pl: Die Pfeifen 
+
+Menschlichkeit, die
+mn: Humanity
+pl: Geisteswissenschaften
+
+Handwerk, das
+mn: Craft
+pl: Das Handwerk 
+
+Tageslicht, das
+mn: Daylight
+pl: Die Daylighies 
+
+Wert, der
+mn: Worth
+pl: Die Inneren Werte 
+
+Slip, der
+mn: Slip
+pl: Die Schieber 
+
+Rüstung, die
+mn: Armor
+pl: Die Rüstungen 
+
+Rucksack, der
+mn: Backpack
+pl: Die Rucksäcke 
+
+Vorschlag, der
+mn: Suggestion
+pl: Die Vorschläge 
+
+Höhle, die
+mn: Den ~ Dens 
+
+Symbol, das
+mn: Symbol
+pl: Die Symbole 
+
+Kolonie, die
+mn: Colony
+pl: Die Kolonien 
+
+Fazit, das
+mn: Conclusion
+pl: Die Schlussfolgerungen 
+
+Nasenloch, das
+mn: Nostril
+pl: Die Nasenlöcher 
+
+Speer, der
+mn: Spear
+pl: Die Speere 
+
+Impuls, der
+mn: Impulse
+pl: Die Impulse 
+
+Tomate, die
+mn: Tomato
+pl: Die Tomaten 
+
+Kalb, das
+mn: Calf
+pl: Die Kälber 
+
+Herbst, der
+mn: Autumn
+pl: Die Herbste 
+
+Fund, der
+mn: Discovery
+pl: Die Entdeckungen 
+
+Klassenzimmer, das
+mn: Classroom
+pl: Die Klassenzimmer 
+
+Lieferung, die
+mn: Delivery
+pl: Die Einteilungen 
+
+Spray, das
+mn: Spray
+pl: Die Spraies 
+
+Flüssigkeit, die
+mn: Liquid
+pl: Die Flüssigkeiten 
+
+Kraftstoff, die
+mn: Fuel
+pl: Die Kraftstoffe 
+
+Unterwäsche, die
+mn: Underwear
+pl: Die Unterwäsche 
+
+Kuppel, die
+mn: Dome
+pl: Die Kuppeln 
+
+Bevölkerung, die
+mn: Population
+pl: Die Populationen 
+
+Neigung, die
+mn: Affection
+pl: Die Neigungen 
+
+Religion, die
+mn: Religion
+pl: Die Religionen 
+
+Sänger, der
+mn: Singer
+pl: Die Sänger 
+
+Begleiter, der
+mn: Attendant
+pl: Die Teilnehmer 
+
+Illusion, die
+mn: Illusion
+pl: Die Illusionen 
+
+Link, der
+mn: Link ~ Links 
+
+Wohnzimmer, das
+mn: Lounge
+pl: Die Lounges 
+
+Innenraum, der
+mn: Interior
+pl: Die Innenräume 
+
+Achselzucken, die
+mn: Shrug
+pl: Die Zuckt Mit Den Schultern 
+
+Zone, die
+mn: Zone
+pl: Die Zonen 
+
+Standard, der
+mn: Standard
+pl: Die Standards 
+
+Kohlen, die
+mn: Coal
+pl: Die Kohlen 
+
+Jagd, die
+mn: Chase
+pl: Die Verfolgungsjagden 
+
+Klumpen, der
+mn: Lump
+pl: Die Klumpen 
+
+Charm, der
+mn: Charm
+pl: Der Charme 
+
+Legende, die
+mn: Legend
+pl: Die Legenden 
+
+Konsequenz, die
+mn: Consequence
+pl: Die Konsequenzen 
+
+Beobachtung, die
+mn: Observation
+pl: Die Beobachtungen 
+
+Fahrrad, das
+mn: Bicycle
+pl: Die Fahrräder 
+
+Schaden, der
+mn: Harm
+pl: Die Schäden 
+
+Zahlung, die
+mn: Pay
+pl: Das Zahlt 
+
+Prospekt, das
+mn: Prospect
+pl: Die Aussichten 
+
+UBahn, die
+mn: Subway
+pl: Die UBahnen 
+
+Muster, das
+mn: Sample
+pl: Die Beispiele 
+
+Kirsche, die
+mn: Cherry
+pl: Die Kirschen 
+
+Händler, der
+mn: Dealer
+pl: Die Händler 
+
+Zuordnung, die
+mn: Assignment
+pl: Die Zuordnungen 
+
+Eile, die
+mn: Hurry
+pl: Die Eilt 
+
+Geliebte, die
+mn: Mistress
+pl: Die Mätressen 
+
+Hügel, der
+mn: Mound
+pl: Die Hügel 
+
+Unsinn, der
+mn: Nonsense
+pl: Die Unsinn 
+
+Komitee, das
+mn: Committee
+pl: Die Ausschüsse 
+
+Echo, das
+mn: Echo
+pl: Die Echos 
+
+Durchhang, der
+mn: Slack
+pl: Die Hose 
+
+Decker, die
+mn: Decker
+pl: Die Decker 
+
+Warenhaus, das
+mn: Warehouse
+pl: Die Lagerhäuser 
+
+Kampf, der
+mn: Bout
+pl: Die Kämpfe 
+
+Toast, der
+mn: Toast
+pl: Die Toasts 
+
+Einrichtung, die
+mn: Facility
+pl: Die Einrichtungen 
+
+Basketball, der
+mn: Basketball
+pl: Die Basketbälle 
+
+Schnurrbart, der
+mn: Mustache
+pl: Die Schnurrbärte 
+
+Senator, der
+mn: Senator
+pl: Die Senatoren 
+
+Teilen, das
+mn: Share
+pl: Die Aktien 
+
+Augenlid, das
+mn: Eyelid
+pl: Die Augenlider 
+
+Begeisterung, die
+mn: Enthusiasm
+pl: Die Begeisterung 
+
+Chunk, die
+mn: Chunk
+pl: Die Brocken 
+
+Schildkröte, die
+mn: Turtle
+pl: Die Schildkröten 
+
+Alkohol, der
+mn: Alcohol
+pl: Die Alkohole 
+
+Gummi, die
+mn: Gum
+pl: Die Gummis 
+
+Truthahn, der
+mn: Turkey
+pl: Die Truthähne 
+
+Prediger, der
+mn: Preacher
+pl: Die Prediger 
+
+Besitz, der
+mn: Possession
+pl: Die Besitzungen 
+
+Dolly, der
+mn: Dolly
+pl: Die Dollies 
+
+Leinen, das
+mn: Linen
+pl: Die Bettwäsche 
+
+Entschuldigung, die
+mn: Apology
+pl: Die Entschuldigung 
+
+Vortrag, der
+mn: Lecture
+pl: Die Vorträge 
+
+Stein, der
+mn: Boulder
+pl: Die Felsbrocken 
+
+Heap, der
+mn: Heap
+pl: Die Haufen 
+
+Fotograf, der
+mn: Photographer
+pl: Die Fotografen 
+
+Bremse, die
+mn: Brake
+pl: Die Bremsen 
+
+Nachfrage, die
+mn: Demand
+pl: Die Forderungen 
+
+Schürze, die
+mn: Apron
+pl: Die Schürzen 
+
+Mantel, der
+mn: Cloak
+pl: Die Umhänge 
+
+Jury, die
+mn: Jury
+pl: Jurys
+
+Anhörung, die
+mn: Hearing
+pl: Die Anhörungen 
+
+Graue, das
+mn: Gray
+pl: Die Grautöne 
+
+Kiste, die
+mn: Crate
+pl: Die Kisten 
+
+Methode, die
+mn: Method
+pl: Die Methoden
+
+Referenz, die
+mn: Reference
+pl: Die Verweise 
+
+Ekel, der
+mn: Disgust
+pl: Die Ekelt 
+
+Flotte, die
+mn: Liquor
+pl: Die Flotten 
+
+Lippenstift, der
+mn: Lipstick
+pl: Die Lippenstifte
+
+Kern, der
+mn: Core
+pl: Die Kerne 
+
+Einzelne, der
+mn: Individual
+pl: Die Personen 
+
+Container, der
+mn: Container
+pl: Die Behälter 
+
+Hure, die
+mn: Whore
+pl: Die Huren 
+
+Kleinkind, das
+mn: Infant
+pl: Die Säuglinge 
+
+Sonnenbrille, die
+mn: Sunglasses
+pl: Die Sunglasseses 
+
+Schlauch, der
+mn: Hose
+pl: Die Schläuche 
+
+Konzert, das
+mn: Concert
+pl: Die Konzerte
+
+Bullshit, das
+mn: Bullshit
+pl: Die Bullshits 
+
+Eisenbahn, die
+mn: Railroad
+pl: Die Eisenbahnen 
+
+Parade, die
+mn: Parade
+pl: Die Paraden 
+
+Fach, das
+mn: Compartment
+pl: Die Abteile 
+
+Bewohner, der
+mn: Resident
+pl: Die Bewohner 
+
+Backofen, der
+mn: Oven
+pl: Die Öfen 
+
+Techniker, der
+mn: Technician
+pl: Die Techniker 
+
+Verfahren, das
+mn: Procedure
+pl: Die Verfahren 
+
+Kämpfer, der
+mn: Fighter
+pl: Die Kämpfer 
+
+Korn, das
+mn: Grain
+pl: Die Körner 
+
+Picknick, das
+mn: Picnic
+pl: Die Picknicks 
+
+Stamm, der
+mn: Tribe
+pl: Die Stämme 
+
+Knospe, die
+mn: Bud
+pl: Die Knospen 
+
+Wiese, die
+mn: Meadow
+pl: Die Wiesen 
+
+Öffentlichkeit, die
+mn: Public
+pl: Die Öffentlichkeit 
+
+Gift, das
+mn: Poison
+pl: Die Gifte 
+
+Büffel, der
+mn: Buffalo
+pl: Die Büffel 
+
+Region, die
+mn: Region
+pl: Die Regionen 
+
+Produktion, die
+mn: Production
+pl: Die Produktionen 
+
+Rennen, das
+mn: Running
+pl: Die Vorlauf 
+
+Schleife, die
+mn: Loop
+pl: Die Schlaufen 
+
+Schlaf, der
+mn: Sleeping
+pl: Die Übernachtungsplätzen 
+
+Soda, die
+mn: Soda
+pl: Die Limonaden 
+
+Eule, die
+mn: Owl
+pl: Die Eulen 
+
+Menü, das
+mn: Menu
+pl: Die Menüs 
+
+Kick, der
+mn: Kick
+pl: Die Tritte 
+
+Ruine, die
+mn: Ruin
+pl: Die Ruinen 
+
+Rampe, die
+mn: Ramp
+pl: Die Rampen 
+
+Streifen, der
+mn: Streak
+pl: Die Streifen 
+
+Forearm – Unterarm
+pl: Die Unterarme 
+
+Büro, das
+mn: Bureau
+pl: Die Büros 
+
+Achsschenkel, der
+mn: Knuckle
+pl: Die Knöchel 
+
+Gans, die
+mn: Goose
+pl: Die Gänse 
+
+Vormarsch, der
+mn: Advance
+pl: Die Fortschritte 
+
+Fee, die
+mn: Fairy
+pl: Die Feen 
+
+Krankheit, die
+mn: Illness
+pl: Die Krankheiten 
+
+Mannschaft, die
+mn: Squad
+pl: Die Kader 
+
+Offizielle, das
+mn: Official
+pl: Die Beamten 
+
+Marke, die
+mn: Brand
+pl: Die Marken 
+
+Orgel, die
+mn: Organ
+pl: Die Organe 
+
+Schmetterling, der
+mn: Butterfly
+pl: Die Schmetterlinge 
+
+Reich, das
+mn: Empire
+pl: Die Reiche 
+
+Profil, das
+mn: Profile
+pl: Die Profile 
+
+Freiheit, die
+mn: Liberty
+pl: Die Freiheiten
+
+Unglaube, der
+mn: Disbelief
+pl: Die Unglauben 
+
+Hain, der
+mn: Grove
+pl: Die Haine 
+
+Schild, das
+mn: Shield
+pl: Die Abschirmungen 
+
+Sattel, der
+mn: Saddle
+pl: Die Sättel 
+
+Chancen, die
+mn: Odds
+pl: Die Oddses 
+
+Cluster, die
+mn: Cluster
+pl: Die Cluster 
+
+Satellit, der
+mn: Satellite
+pl: Die Satelliten 
+
+Abzug, der
+mn: Trigger
+pl: Die Auslöser 
+
+Welpe, der
+mn: Puppy
+pl: Die Welpen 
+
+Warte, die
+mn: Waiting
+pl: Die Erwartungen 
+
+Glühbirne, die
+mn: Bulb
+pl: Die Zwiebeln 
+
+Kommode, die
+mn: Dresser
+pl: Die Kommoden 
+
+Patrouille, die
+mn: Patrol
+pl: Die Patrouillen 
+
+Adler, der
+mn: Eagle
+pl: Die Adler 
+
+Privatsphäre, der
+mn: Privacy
+pl: Die Privatsphären 
+
+Fluid, das
+mn: Fluid
+pl: Die Fluide
+
+Herde, die
+mn: Herd
+pl: Die Herden 
+
+Kopfschmerz, der
+mn: Headache
+pl: Die Kopfschmerzen 
+
+Vergnügungspark, der
+mn: Amusement
+pl: Die Vergnügungen
+
+Rollstuhl, der
+mn: Wheelchair
+pl: Die Rollstühle 
+
+Richtlinie, die
+mn: Policy
+pl: Die Politik 
+
+Belle, das
+mn: Belle
+pl: Die Belles 
+
+Tabak, die
+mn: Tobacco
+pl: Die Tabake 
+
+Einstellung, die
+mn: Setting
+pl: Die Einstellungen
+
+Tätowierung, die
+mn: Tattoo
+pl: Die Tattoos 
+
+Last, die
+mn: Burden
+pl: Die Lasten 
+
+Händler, der
+mn: Merchant
+pl: Die Kaufleute 
+
+Rutsche, die
+mn: Slide
+pl: Die Schieber 
+
+Fleck, der
+mn: Stain
+pl: Die Flecken 
+
+Essen, das
+mn: Eating
+pl: Die Eatings 
+
+Bindung, die
+mn: Bond
+pl: Die Anleihen 
+
+Schwimmen, das
+mn: Swimming
+pl: Die Swimming 
+
+Grundlage, die
+mn: Foundation
+pl: Die Grundlagen 
+
+Verletzung, die
+mn: Injury
+pl: Die Verletzungen Haben 
+
+Liga, die
+mn: League
+pl: Die Ligen 
+
+Batterie, die
+mn: Battery
+pl: Die Batterien 
+
+Regenschirm, der
+mn: Umbrella
+pl: Die Sonnenschirme 
+
+Kaiser, der
+mn: Emperor
+pl: Die Kaiser 
+
+Pier, der
+mn: Pier
+pl: Die Pfeiler 
+
+Wasserhahn, der
+mn: Tap
+pl: Die Wasserhähne 
+
+Witz, der
+mn: Wit
+pl: Die Verstand 
+
+Cutter, der
+mn: Cutter
+pl: Die Schneidwerkzeuge 
+
+Dachboden, der
+mn: Attic
+pl: Die Dachböden 
+
+Tiger, der
+mn: Tiger
+pl: Die Tiger 
+
+Pal, die
+mn: Pal
+pl: Die Kumpels 
+
+Vorfahr, der
+mn: Ancestor
+pl: Die Vorfahren 
+
+Konzentration, die
+mn: Concentration
+pl: Die Konzentrationen 
+
+Berg, der
+mn: Mount
+pl: Die Halterungen 
+
+Aufwand, der
+mn: Expense
+pl: Die Kosten 
+
+Segen, der
+mn: Blessing
+pl: Die Segnungen 
+
+Urlaub, der
+mn: Leave
+pl: Das Laub 
+
+Leiste, die
+mn: Ledge
+pl: Die Leisten 
+
+Fackel, die
+mn: Torch
+pl: Die Fackeln 
+
+Tinten, die
+mn: Ink
+pl: Die Tinten 
+
+Handlung, die
+mn: Plot
+pl: Die Grundstücke 
+
+Miete, die
+mn: Rent
+pl: Die Mieten 
+
+Maultier, das
+mn: Mule
+pl: Die Maultiere 
+
+Bogen, der
+mn: Arch
+pl: Die Bögen 
+
+Umgebung, die
+mn: Environment
+pl: Die Umgebungen 
+
+Stirnrunzeln, das
+mn: Frown
+pl: Die Stirn Runzelt 
+
+Inspektor, der
+mn: Inspector
+pl: Die Inspektoren 
+
+Mitten, die
+mn: Midst
+pl: Die Midsts 
+
+Verlegenheit, die
+mn: Embarrassment
+pl: Die Peinlichkeiten 
+
+Beschwerde, die
+mn: Complaint
+pl: Die Beschwerden 
+
+Portion, die
+mn: Portion
+pl: Die Portionen 
+
+Spannfutter, das
+mn: Chuck
+pl: Die Spann 
+
+Clearing, die
+mn: Clearing
+pl: Die Lichtungen 
+
+Krise, die
+mn: Crisis
+pl: Die Krisen 
+
+Halskette, die
+mn: Necklace
+pl: Die Halsketten 
+
+Laterne, die
+mn: Lantern
+pl: Die Laternen 
+
+Reichtum, der
+mn: Wealth
+pl: Die Reichtümer 
+
+Mörder, der
+mn: Murderer
+pl: Die Mörder 
+
+Zivilisation, die
+mn: Civilization
+pl: Die Zivilisationen 
+
+Konzept, das
+mn: Concept
+pl: Die Konzepte 
+
+Lamm, das
+mn: Lamb
+pl: Die Lämmer 
+
+Schritt, die
+mn: Stride
+pl: Die Fortschritte 
+
+Manschette, die
+mn: Cuff
+pl: Die Manschetten 
+
+Jungfrau, die
+mn: Virgin
+pl: Die Jungfrauen 
+
+Eichhörnchen, das
+mn: Squirrel
+pl: Die Eichhörnchen 
+
+Kind, das
+mn: Babe
+pl: Die Babes 
+
+Star, der
+mn: Starling
+pl: Die Stare 
+
+Depression, die
+mn: Depression
+pl: Die Vertiefungen 
+
+Speicher, das
+mn: Storage
+pl: Die Speicher 
+
+Altar, der
+mn: Altar
+pl: Die Altäre 
+
+Tragödie, die
+mn: Tragedy
+pl: Die Tragödien 
+
+Ressource, die
+mn: Resource
+pl: Die Mittel 
+
+Reisende, der
+mn: Traveler
+pl: Die Reisenden 
+
+Vertrauen, das
+mn: Trust
+pl: Die Trusts 
+
+Bogen, die
+mn: Arc
+pl: Die Bögen 
+
+Königreich, das
+mn: Kingdom
+pl: Die Königreiche 
+
+Juwel, das
+mn: Jewel
+pl: Die Juwelen 
+
+Musiker, der
+mn: Musician
+pl: Die Musiker 
+
+Flugzeug, das
+mn: Airplane
+pl: Die Flugzeuge 
+
+Junk, die
+mn: Junk
+pl: Die Dschunken 
+
+Sonnenschein, der
+mn: Sunshine
+pl: Die Sonne Scheint 
+
+Knabe, der
+mn: Lad
+pl: Die Jungs 
+
+Elf, der
+mn: Elf
+pl: Die Elfen 
+
+Protest, der
+mn: Protest
+pl: Die Proteste 
+
+Jagd, die
+mn: Hunt
+pl: Die Jagden 
+
+Exekutive, die
+mn: Executive
+pl: Die Führungskräfte 
+
+Tagebuch, das
+mn: Diary
+pl: Die Tagebücher 
+
+Aspekt, das
+mn: Aspect
+pl: Die Aspekte 
+
+Zifferblatt, das
+mn: Dial
+pl: Die Zifferblätter 
+
+Hausschuh, der
+mn: Slipper
+pl: Die Pantoffeln 
+
+Schauspielerin, die
+mn: Actress
+pl: Die Schauspielerinnen 
+
+Shooting, das
+mn: Shooting
+pl: Die Dreharbeiten 
+
+Ohrring, der
+mn: Earring
+pl: Die Ohrringe 
+
+Ameise, die
+mn: Ant
+pl: Die Ameisen 
+
+Patty, die
+mn: Patty
+pl: Die Bratlinge 
+
+Sauce, die
+mn: Sauce
+pl: Die Soßen 
+
+Rakete, die
+mn: Missile
+pl: Die Raketen 
+
+Intensität, die
+mn: Intensity
+pl: Die Intensitäten 
+
+Graben, der
+mn: Ditch
+pl: Die Gräben 
+
+Gänseblümchen, das
+mn: Daisy
+pl: Das Gänseblümchen 
+
+Kapelle, die
+mn: Chapel
+pl: Die Kapellen 
+
+Sumpf, der
+mn: Swamp
+pl: Die Sümpfe 
+
+Beziehung, die
+mn: Relation
+pl: Die Beziehungen 
+
+Vermutung, die
+mn: Guess
+pl: Die Vermutungen 
+
+Kran, der
+mn: Crane
+pl: Die Kräne 
+
+Begegnung, die
+mn: Encounter
+pl: Die Begegnungen 
+
+Sequenz, die
+mn: Sequence
+pl: Die Sequenzen 
+
+Fragment, das
+mn: Fragment
+pl: Die Fragmente 
+
+Entwurf, der
+mn: Draft
+pl: Die Entwürfe 
+
+Diner, das
+mn: Diner ~ Diners 
+
+Funktion, die
+mn: Function
+pl: Die Funktionen 
+
+Organisation, die
+mn: Organization
+pl: Die Organisationen 
+
+Skelett, das
+mn: Skeleton
+pl: Die Skelette 
+
+Elend, das
+mn: Misery
+pl: Das Elend 
+
+Kraut, das
+mn: Herb
+pl: Die Kräuter 
+
+Stumpf, der
+mn: Stump
+pl: Die Stümpfe 
+
+Einsatz, der
+mn: Stake
+pl: Die Einsätze 
+
+Puff, die
+mn: Puff
+pl: Die Windbeutel 
+
+Kreation, die
+mn: Creation
+pl: Die Kreationen 
+
+Gefolge, das
+mn: Wake
+pl: Die Totenwache 
+
+Zauberer, der
+mn: Wizard
+pl: Die Zauberer 
+
+Matte, die
+mn: Mat
+pl: Die Matten 
+
+Dichtung, die
+mn: Seal
+pl: Die Dichtungen 
+
+Zwielicht, das
+mn: Twilight
+pl: Die Dämmerungen 
+
+Grunzen, das
+mn: Grunt
+pl: Das Grunzen 
+
+Strafe, die
+mn: Punishment
+pl: Die Strafen 
+
+Clan, der
+mn: Clan
+pl: Die Clans 
+
+Kupfer, das
+mn: Copper
+pl: Die Kupfer 
+
+Trümmer, die
+mn: Debris
+pl: Die Debrises 
+
+Maler, der
+mn: Painter
+pl: Die Maler 
+
+Steuer, das
+mn: Steering
+pl: Die Lenkungen 
+
+Mathematik, die
+mn: Math
+pl: Die Mathematik 
+
+Erkennung, die
+mn: Recognition
+pl: Die Anerkennungen 
+
+Stimmung, die
+mn: Temper
+pl: Die Gemüter 
+
+Bedauern, das
+mn: Regret
+pl: Die Reue 
+
+Ziel, das
+mn: Destination
+pl: Die Ziele 
+
+Mühle, die
+mn: Mill
+pl: Die Mühlen 
+
+Fehler, der
+mn: Error
+pl: Die Fehler 
+
+Romantik, die
+mn: Romance
+pl: Die Romane 
+
+Thema, das
+mn: Topic
+pl: Die Themen 
+
+Terrasse, die
+mn: Patio
+pl: Die Innenhöfe 
+
+Schaufel, die
+mn: Shovel
+pl: Die Schaufeln
+
+Schlafanzüge, die
+mn: Pajamas
+pl: Die Pajamases 
+
+Email, die
+mn: EMail
+pl: Die EMails 
+
+Taube, die
+mn: Pigeon
+pl: Die Tauben 
+
+Dinosaurier, der
+mn: Dinosaur
+pl: Die Dinosaurier 
+
+Branche, die
+mn: Industry
+pl: Die Industrie 
+
+Betreiber, der
+mn: Operator
+pl: Die Betreiber 
+
+Lift, der
+mn: Lift
+pl: Die Lifte 
+
+Ratgeber, der
+mn: Counselor
+pl: Die Berater 
+
+Versammlung, die
+mn: Gathering
+pl: Die Versammlungen 
+
+Prinzip, das
+mn: Principle
+pl: Die Grundsätze 
+
+Drama, das
+mn: Drama
+pl: Die Dramen 
+
+Küken, das
+mn: Chick
+pl: Die Küken 
+
+Diagramm, das
+mn: Chart
+pl: Die Charts 
+
+Kampagne, die
+mn: Campaign
+pl: Die Kampagnen 
+
+Lorbeer, der
+mn: Laurel
+pl: Die Lorbeeren 
+
+Steak, das
+mn: Steak
+pl: Die Steaks 
+
+Kriminelle, der
+mn: Criminal
+pl: Die Verbrecher 
+
+Globus, der
+mn: Globe
+pl: Die Kugeln 
+
+Bluterguss, der
+mn: Bruise
+pl: Die Blauen Flecken 
+
+Knopf, der
+mn: Knob
+pl: Die Noppen 
+
+Töten, das
+mn: Killing
+pl: Die Morde 
+
+Schatz, der
+mn: Sweetheart
+pl: Die Lieblinge 
+
+Oper, die
+mn: Opera
+pl: Die Opern 
+
+Frost, der
+mn: Frost
+pl: Die Fröste 
+
+Nippel, der
+mn: Nipple
+pl: Die Brustwarzen 
+
+Pfarrer, der
+mn: Reverend
+pl: Die Pastoren 
+
+Trübung, die
+mn: Haze
+pl: Die Trübungen 
+
+Hochwasser, das
+mn: Flood
+pl: Die Fluten 
+
+Weihnachtslied, das
+mn: Carol
+pl: Die Weihnachtslieder 
+
+Schwäche, die
+mn: Weakness
+pl: Die Schwächen
+
+Kochen, das
+mn: Cooking
+pl: Die Cookings 
+
+Metzger, der
+mn: Butcher
+pl: Die Metzger 
+
+Würfel, der
+mn: Cube
+pl: Die Würfel 
+
+Keller, der
+mn: Cellar
+pl: Die Keller 
+
+Hohl, der
+mn: Hollow
+pl: Die Hohlräume 
+
+Höcker, der
+mn: Bump
+pl: Die Höcker 
+
+Halt, der
+mn: Halt
+pl: Die Haltepunkte 
+
+Heu, das
+mn: Hay ~ Hays 
+
+Rinde, die
+mn: Bark
+pl: Die Rinden 
+
+Überlebens, die
+mn: Survival
+pl: Die Überreste 
+
+Etagen, die
+mn: Bunk
+pl: Die Kojen 
+
+Biegung, die
+mn: Bend
+pl: Die Biegungen 
+
+Freigabe, die
+mn: Approval
+pl: Die Zulassungen 
+
+Unternehmensbereich, der
+mn: Division
+pl: Die Abteilungen 
+
+Cocktail, der
+mn: Cocktail
+pl: Die Cocktails 
+
+Wettbewerb, der
+mn: Contest
+pl: Die Neuesten Informationen 
+
+Paradies, das
+mn: Paradise
+pl: Die Paradiese 
+
+Rasiermesser, das
+mn: Razor
+pl: Die Rasierer 
+
+Fang, der
+mn: Catch
+pl: Die Fänge 
+
+Blüte, die
+mn: Blossom
+pl: Die Blüten 
+
+Pfütze, die
+mn: Puddle
+pl: Die Pfützen 
+
+Strom, der
+mn: Electricity
+pl: Die Elektricitäten 
+
+Zwiebel, die
+mn: Onion
+pl: Die Zwiebeln 
+
+Laser, die
+mn: Laser
+pl: Die Laser 
+
+Kissen, das
+mn: Cushion
+pl: Die Kissen 
+
+Einfluss, der
+mn: Influence
+pl: Die Einflüsse 
+
+Sprung, der
+mn: Jump
+pl: Die Sprünge 
+
+Zement, der
+mn: Cement
+pl: Die Zemente 
+
+Gelbe, die
+mn: Amber ~ The Ambers 
+
+Göttin, die
+mn: Goddess
+pl: Die Göttinnen 
+
+Shack – The Shack
+pl: Die Baracken 
+
+Verkäufe, die
+mn: Sales
+pl: Die Saleses 
+
+Drift, die
+mn: Drift
+pl: Die Drifts 
+
+Kämpfe, die
+mn: Fighting
+pl: Die Kämpfe 
+
+Geflecht, das
+mn: Braid
+pl: Die Zöpfe 
+
+Thema, das
+mn: Theme
+pl: Die Themen 
+
+Würde, die
+mn: Dignity
+pl: Die Dignität 
+
+Zitrone, die
+mn: Lemon
+pl: Die Zitronen 
+
+Clown, der
+mn: Clown
+pl: Die Clowns 
+
+Angriff, der
+mn: Assault
+pl: Die Angriffe 
+
+Brille, die
+mn: Goggle
+pl: Die Schutzbrillen 
+
+Zerstörung, die
+mn: Destruction
+pl: Die Zerstörungen 
+
+Ausnahme, die
+mn: Exception
+pl: Die Ausnahmen 
+
+Pfirsich, der
+mn: Peach
+pl: Die Pfirsiche 
+
+Wasch, die
+mn: Wash
+pl: Die Wasch 
+
+Befreiung, die
+mn: Release
+pl: Die Freigaben 
+
+Spion, der
+mn: Spy
+pl: Die Spione 
+
+Tag, die
+mn: Tag
+pl: Die Tags 
+
+Bh, der
+mn: Bra
+pl: Die Bhs 
+
+Schuld, die
+mn: Debt
+pl: Die Schulden 
+
+Terrasse, die
+mn: Terrace
+pl: Die Terrassen 
+
+Überbleibsel, die
+mn: Remains
+pl: Die Remainses 
+
+Logik, die
+mn: Logic
+pl: Die Logik 
+
+Joint, der
+mn: Joint
+pl: Die Gelenke 
+
+Krug, der
+mn: Pitcher
+pl: Die Krüge 
+
+Perspektive, die
+mn: Perspective
+pl: Die Perspektiven 
+
+Ernte, die
+mn: Crop
+pl: Die Ernte 
+
+Diplom, der
+mn: Graduate
+pl: Die Absolventen 
+
+Chor, der
+mn: Chorus
+pl: Die Chöre 
+
+Überlebende, der
+mn: Survivor
+pl: Die Überlebenden 
+
+Bezahlung, die
+mn: Payment
+pl: Die Zahlungen
+
+Wette, die
+mn: Bet
+pl: Die Wetten 
+
+Rache, die
+mn: Revenge
+pl: Die Rache 
+
+Platz, der
+mn: Plaza
+pl: Die Plätze 
+
+Ältere, der
+mn: Elder
+pl: Die Ältesten 
+
+Ingwer, der
+mn: Ginger
+pl: Die Ingwer 
+
+Chirurg, der
+mn: Surgeon
+pl: Die Chirurgen 
+
+Bindestrich, der
+mn: Dash
+pl: Die Striche 
+
+Sandale, die
+mn: Sandal
+pl: Die Sandalen 
+
+Hass, der
+mn: Hatred
+pl: Die Hass 
+
+Abfahrt, die
+mn: Departure
+pl: Die Abfahrten 
+
+Umriss, der
+mn: Outline
+pl: Die Umrisse 
+
+Rabe, der
+mn: Raven
+pl: Die Raben 
+
+Läufer, der
+mn: Runner
+pl: Die Läufer 
+
+Vorfreude, die
+mn: Anticipation
+pl: Die Erwartungen 
+
+Übersetzung, die
+mn: Translation
+pl: Die Übersetzungen 
+
+Hauptquartier, das
+mn: Headquarters
+pl: Die Headquarterses 
+
+Celebration – Feier
+pl: Die Feiern 
+
+Qual, die
+mn: Agony
+pl: Die Qualen 
+
+Turnschuhe, die
+mn: Sneakers
+pl: Die Sneakerses 
+
+Terminal, das
+mn: Terminal
+pl: Die Endgeräte 
+
+Erwartung, die
+mn: Expectation
+pl: Die Erwartungen 
+
+Weide, die
+mn: Pasture
+pl: Die Weiden 
+
+Konsole, die
+mn: Console
+pl: Die Konsolen 
+
+Streik, der
+mn: Strike
+pl: Die Streiks 
+
+Rettung, die
+mn: Rescue
+pl: Die Rettungsaktionen 
+
+Abzeichen, das
+mn: Badge
+pl: Die Badges
+
+Fonds, der
+mn: Fund
+pl: Die Mittel 
+
+Versuch, der
+mn: Try
+pl: Die Versuche 
+
+Foyer, das
+mn: Foyer
+pl: Die Foyeies 
+
+Pastor, der
+mn: Pastor
+pl: Die Pastoren 
+
+Umarmung, die
+mn: Embrace
+pl: Die Umarmungen 
+
+Puzzle, das
+mn: Puzzle
+pl: Die Rätsel 
+
+Kanal, der
+mn: Canal
+pl: Die Kanäle 
+
+Wohlfahrt, die
+mn: Charity
+pl: Die Wohltätigkeitsorganisationen 
+
+Direktor, der
+mn: Principal
+pl: Die Auftraggeber 
+
+Applaus, der
+mn: Applause
+pl: Die Beifall 
+
+Philosophie, die
+mn: Philosophy
+pl: Die Philosophien 
+
+Graben, der
+mn: Trench
+pl: Die Gräben 
+
+Bis, die
+mn: Up
+pl: Die Höhen 
+
+Neffe, der
+mn: Nephew
+pl: Die Neffen 
+
+Aufsatz, der
+mn: Essay
+pl: Die Aufsätze 
+
+Reparatur, die
+mn: Repair
+pl: Die Reparaturen 
+
+Mix, der
+mn: Mix
+pl: Die Mixs 
+
+Mob, der
+mn: Mob
+pl: Die Mobs 
+
+Barriere, die
+mn: Barrier
+pl: Die Barrieren 
+
+Platte, die
+mn: Disk
+pl: Die Scheiben 
+
+Güte, die
+mn: Goodness
+pl: Die Goodnesses 
+
+Scout, der
+mn: Scout
+pl: Die Pfadfinder 
+
+Wichtigkeit, die
+mn: Importance
+pl: Die Wichtigkeiten 
+
+Schicksal, das
+mn: Destiny
+pl: Die Schicksale 
+
+Beihilfen, die
+mn: Aid
+pl: Die Beihilfen 
+
+Mikrofon, das
+mn: Microphone
+pl: Die Mikrofone 
+
+Etikett, das
+mn: Label
+pl: Die Etiketten 
+
+Pfeffer, der
+mn: Pepper
+pl: Die Paprika 
+
+Kojote, der
+mn: Coyote
+pl: Die Kojoten 
+
+Lehren, das
+mn: Teaching
+pl: Die Lehren 
+
+Brennvorgang, der
+mn: Burn
+pl: Die Verbrennungen 
+
+Weste, die
+mn: Vest
+pl: Die Westen 
+
+Pony, das
+mn: Pony
+pl: Die Ponys 
+
+Esel, der
+mn: Donkey
+pl: Die Esel 
+
+Kreislauf, der
+mn: Cycle
+pl: Die Zyklen 
+
+Keuchen, das
+mn: Gasp
+pl: Die Keuchen 
+
+Ironie, die
+mn: Irony
+pl: Die Ironien 
+
+Auszeichnung, die
+mn: Award
+pl: Die Auszeichnungen 
+
+Traube, die
+mn: Grape
+pl: Die Trauben 
+
+Zögern, das
+mn: Hesitation
+pl: Die Bedenken 
+
+Taverne, die
+mn: Tavern
+pl: Die Tavernen 
+
+Lästige Pflicht, die
+mn: Chore
+pl: Die Hausarbeiten 
+
+Kugel, die
+mn: Sphere
+pl: Die Kugeln 
+
+Segel, das
+mn: Sail
+pl: Die Segel 
+
+Silhouette, die
+mn: Silhouette
+pl: Die Silhouetten 
+
+Institut, das
+mn: Institute
+pl: Die Institute 
+
+Lügner, der
+mn: Liar
+pl: Die Lügner 
+
+Technik, die
+mn: Technique
+pl: Die Techniken 
+
+Index, der
+mn: Index
+pl: Die Indexs 
+
+Brett, das
+mn: Plank
+pl: Die Bretter 
+
+Ruck, der
+mn: Jerk
+pl: Die Idioten 
+
+Wachstum, das
+mn: Growth
+pl: Die Wucherungen 
+
+Strumpf, der
+mn: Stocking
+pl: Die Strümpfe 
+
+Schwärze, die
+mn: Blackness
+pl: Die Schwärzen 
+
+Teenager, der
+mn: Teen
+pl: Die Jugendlichen 
+
+Armband, das
+mn: Bracelet
+pl: Die Armbänder 
+
+Jelly – Gelee
+pl: Die Gelees 
+
+Diät, die
+mn: Diet
+pl: Die Diäten 
+
+Fleisch, das
+mn: Beef
+pl: Die Beefs 
+
+Beton, der
+mn: Concrete
+pl: Die Betone 
+
+Kontrast, der
+mn: Contrast
+pl: Die Gegensätze 
+
+Banner, das
+mn: Banner
+pl: Die Banner 
+
+Widerstand, der
+mn: Resistance
+pl: Die Widerstände 
+
+Aufenthalt, der
+mn: Stay
+pl: Die Aufenthalte 
+
+Haltung, die
+mn: Posture
+pl: Die Haltungen 
+
+Wodka, der
+mn: Vodka
+pl: Die Wodkas 
+
+Album, das
+mn: Album
+pl: Die Alben 
+
+Ära, die
+mn: Era
+pl: Die Epochen 
+
+Bekanntschaft, die
+mn: Acquaintance
+pl: Die Bekannten 
+
+Revolution, die
+mn: Revolution
+pl: Die Revolutionen 
+
+Nap, der
+mn: Nap
+pl: Die Noppen 
+
+Schleier, der
+mn: Veil
+pl: Die Schleier 
+
+Schauspiel, das
+mn: Spectacle
+pl: Die Brille 
+
+Wettbewerb, der
+mn: Competition
+pl: Die Wettbewerbe 
+
+Kopfhaut, die
+mn: Scalp
+pl: Die Kopfhaut 
+
+Stechpalme, die
+mn: Holly ~ The Hollies 
+
+Gewinner, der
+mn: Winner
+pl: Die Gewinner 
+
+Appetit, der
+mn: Appetite
+pl: Die Appetit 
+
+Efeu, der
+mn: Ivy
+pl: Die Efeu 
+
+Cue, der
+mn: Cue
+pl: Die Stichworte 
+
+Stamm, der
+mn: Strain
+pl: Die Stämme 
+
+Nichte, die
+mn: Niece
+pl: Die Nichten 
+
+Galaxie, die
+mn: Galaxy
+pl: Die Galaxien 
+
+Nacht, die
+mn: Bedside
+pl: Die Bettseiten 
+
+Verrücktheit, die
+mn: Madness
+pl: Die Verrücktheiten 
+
+Bäcker, der
+mn: Baker
+pl: Die Bäcker 
+
+Virus, das
+mn: Virus
+pl: Die Viren 
+
+Leiden, das
+mn: Suffering
+pl: Die Leiden 
+
+Schlitz, der
+mn: Slot
+pl: Die Schlitze 
+
+Ordner, der
+mn: Folder
+pl: Die Hefte 
+
+Bekenntnis, das
+mn: Confession
+pl: Die Geständnisse 
+
+Gepäckträger, der
+mn: Porter
+pl: Die Torhüter 
+
+Dessert, das
+mn: Dessert
+pl: Die Desserts 
+
+Müllhalde, die
+mn: Dump
+pl: Die Deponien 
+
+Paket, das
+mn: Packet
+pl: Die Pakete 
+
+Gewinn, der
+mn: Profit
+pl: Die Gewinne 
+
+Enkel, der
+mn: Grandchild
+pl: Die Enkelkinder 
+
+Tratsch, der
+mn: Gossip
+pl: Der Klatsch 
+
+Stute, die
+mn: Mare
+pl: Die Stuten 
+
+Dna, die
+mn: Dna
+pl: Die Dnas 
+
+Rumpf, der
+mn: Torso
+pl: Die Torsi 
+
+Besen, der
+mn: Broom
+pl: Die Besen 
+
+Huf, der
+mn: Hoof
+pl: Die Hufe 
+
+Sensor, der
+mn: Sensor
+pl: Die Sensoren 
+
+Bauer, der
+mn: Peasant
+pl: Die Bauern 
+
+Gelehrte, der
+mn: Scholar
+pl: Die Gelehrten 
+
+Therapie, die
+mn: Therapy
+pl: Die Therapie 
+
+Erdnuss, die
+mn: Peanut
+pl: Die Erdnüsse 
+
+Schlagzeile, die
+mn: Headline
+pl: Die Schlagzeilen
+
+Speck, der
+mn: Bacon
+pl: Die Speck 
+
+Heck, das
+mn: Stern
+pl: Die Hecks 
+
+Geige, die
+mn: Violin
+pl: Die Violinen 
+
+Pest, die
+mn: Plague
+pl: Die Plagen 
+
+Unschärfe, die
+mn: Blur
+pl: Die Unschärfen 
+
+Zwischenzeit, die
+mn: Meantime
+pl: Die Zwischenzeiten 
+
+Diakon, der
+mn: Deacon
+pl: Die Diakone 
+
+Lanze, die
+mn: Lance
+pl: Die Lanzen 
+
+Festnahme, die
+mn: Arrest
+pl: Die Verhaftungen 
+
+Banane, die
+mn: Banana
+pl: Die Bananen 
+
+Gin, der
+mn: Gin
+pl: Die Gins 
+
+Weide, die
+mn: Willow
+pl: Die Weiden 
+
+Hai, der
+mn: Shark
+pl: Die Haie 
+
+Vorbereitung, die
+mn: Preparation
+pl: Die Vorbereitungen 
+
+Kratz, die
+mn: Scratch
+pl: Die Kratzer 
+
+Verband, der
+mn: Dressing
+pl: Die Verbände 
+
+Unterschrift, die
+mn: Signature
+pl: Die Unterschriften
+
+Admiral, der
+mn: Admiral
+pl: Die Admirale 
+
+Analyse, die
+mn: Analysis
+pl: Die Analysisies 
+
+Regenbogen, der
+mn: Rainbow
+pl: Die Regenbogen 
+
+Eidechse, die
+mn: Lizard
+pl: Die Eidechsen 
+
+Zwerg, der
+mn: Dwarf
+pl: Die Zwerge 
+
+Stress, der
+mn: Stress
+pl: Die Belastungen 
+
+Hausaufgabe, die
+mn: Homework
+pl: Die Hausaufgaben 
+
+Mischung, die
+mn: Mixture
+pl: Die Mischungen 
+
+Vers, der
+mn: Verse
+pl: Die Verse 
+
+Überzeugung, die
+mn: Conviction
+pl: Die Überzeugungen 
+
+Rover, der
+mn: Rover
+pl: Die Rover 
+
+Zaunkönig, der
+mn: Wren
+pl: Die Zaunkönige 
+
+Verbindung, die
+mn: Compound
+pl: Die Verbindungen 
+
+Expedition, die
+mn: Expedition
+pl: Die Expeditionen 
+
+Belohnung, die
+mn: Reward
+pl: Die Belohnungen 
+
+Säulen, die
+mn: Pillar
+pl: Die Säulen 
+
+Marmelade, die
+mn: Jam
+pl: Die Marmeladen 
+
+Schnaps, der
+mn: Brandy
+pl: Die Brände 
+
+Residenz, die
+mn: Residence
+pl: Die Residenzen 
+
+Baron, der
+mn: Baron
+pl: Die Barone 
+
+Unternehmen, das
+mn: Enterprise
+pl: Die Unternehmen 
+
+Komplex, der
+mn: Complex
+pl: Die Complexs 
+
+Kandidat, der
+mn: Candidate
+pl: Die Kandidaten 
+
+Triumph, der
+mn: Triumph
+pl: Die Triumphes 
+
+Wendung, die
+mn: Twist
+pl: Die Drehungen 
+
+Skizze, die
+mn: Sketch
+pl: Die Skizzen 
+
+Register, das
+mn: Register
+pl: Die Register 
+
+Herzschlag, der
+mn: Heartbeat
+pl: Die Herzschläge 
+
+Cafeteria, die
+mn: Cafeteria
+pl: Die Cafeterien 
+
+Gebühr, die
+mn: Fee
+pl: Die Gebühren 
+
+Hang, die
+mn: Hillside
+pl: Die Hänge 
+
+Labyrinth, das
+mn: Maze
+pl: Die Labyrinthe 
+
+Fischer, der
+mn: Fisherman
+pl: Das Fishermans 
+
+Brummen, das
+mn: Hum
+pl: Die Summt 
+
+Kätzchen, das
+mn: Kitten
+pl: Die Kätzchen 
+
+Dread – The Dread
+pl: Die Dreads 
+
+Substanz, die
+mn: Substance
+pl: Die Substanzen 
+
+Melodie, die
+mn: Melody
+pl: Die Melodien 
+
+Knall, der
+mn: Bang
+pl: Der Pony 
+
+Dolch, der
+mn: Dagger
+pl: Die Dolche 
+
+Absicht, die
+mn: Intent
+pl: Die Absichten 
+
+Con, das
+mn: Con
+pl: Die Nachteile 
+
+Einsamkeit, die
+mn: Loneliness
+pl: Die Einsamkeiten 
+
+Motorrad, das
+mn: Motorcycle
+pl: Die Motorräder 
+
+Staunen, das
+mn: Amazement
+pl: Die Amazements 
+
+Peer, die
+mn: Peer
+pl: Die Peers 
+
+Tech, die
+mn: Tech
+pl: Die Teches 
+
+Beleidigung, die
+mn: Insult
+pl: Die Beleidigungen 
+
+Kapazität, die
+mn: Capacity
+pl: Die Kapazität 
+
+Ehrfurcht, die
+mn: Awe
+pl: Die Awes 
+
+Chili, die
+mn: Chili
+pl: Die Chilis 
+
+Lodge, die
+mn: Lodge
+pl: Die Logen 
+
+Clip, der
+mn: Clip
+pl: Die Clips 
+
+Limousine, die
+mn: Limo
+pl: Die Limousinen 
+
+Mücke, die
+mn: Mosquito
+pl: Die Mücken 
+
+Würfel, der
+mn: Dice
+pl: Die Würfel 
+
+Shake, der
+mn: Shake
+pl: Die Shakes 
+
+Festmahl, das
+mn: Feast
+pl: Die Feste 
+
+Casino, das
+mn: Casino
+pl: Die Casinos 
+
+Erbse, die
+mn: Pea
+pl: Die Erbsen 
+
+Murmeln, das
+mn: Murmur
+pl: Das Murmeln 
+
+Konflikt, der
+mn: Conflict
+pl: Die Konflikte 
+
+Stamm, der
+mn: Stem
+pl: Die Stiele 
+
+Genosse, der
+mn: Comrade
+pl: Die Genossen 
+
+Herde, die
+mn: Flock
+pl: Die Herden 
+
+Sob – Sob
+pl: Das Schluchzen 
+
+Schwangerschaft, die
+mn: Pregnancy
+pl: Die Schwangerschaften
+
+Verdächtige, der
+mn: Suspect
+pl: Die Verdächtigen 
+
+Zusammentreffen, das
+mn: Coincidence
+pl: Die Zufälle 
+
+Waldläufer, der
+mn: Ranger
+pl: Die Ranger 
+
+Karikatur, die
+mn: Cartoon
+pl: Die Karikaturen 
+
+Mitbewohner, der
+mn: Roommate
+pl: Die Mitbewohner 
+
+Freundlichkeit, die
+mn: Kindness
+pl: Die Freundlichkeiten 
+
+Kreuzer, der
+mn: Cruiser
+pl: Die Kreuzer 
+
+Bramme, die
+mn: Slab
+pl: Die Brammen 
+
+Gewissen, das
+mn: Conscience
+pl: Das Gewissen 
+
+Cheer, die
+mn: Cheer
+pl: Der Jubel 
+
+Konus, der
+mn: Cone
+pl: Die Kegel 
+
+Schaltung, die
+mn: Circuit
+pl: Die Schaltkreise 
+
+Elfenbein, das
+mn: Ivory
+pl: Die Elfenbeinarbeiten 
+
+Zimmermann, der
+mn: Carpenter
+pl: Die Zimmerleute 
+
+Reich, das
+mn: Realm
+pl: Die Reiche 
+
+Penner, der
+mn: Bum
+pl: Die Bums 
+
+Donna, die
+mn: Donna ~ The Donnas 
+
+Reservierung, die
+mn: Reservation
+pl: Die Reservierungen
+
+Unterhaltung, die
+mn: Entertainment
+pl: Die Unterhaltungen 
+
+Krabbe, die
+mn: Crab
+pl: Die Krabben 
+
+Stöhnen, das
+mn: Groan
+pl: Das Stöhnen 
+
+Akademie, die
+mn: Academy
+pl: Die Akademien 
+
+Sehnsucht, die
+mn: Longing
+pl: Die Sehnsüchte 
+
+Kip, die
+mn: Kip
+pl: Die Kips 
+
+Bohrer, der
+mn: Drill
+pl: Die Bohrer 
+
+Gepäck, das
+mn: Luggage
+pl: Die Den Gepäck 
+
+Baldachin, der
+mn: Canopy
+pl: Die Baldachine 
+
+Nervenkitzel, der
+mn: Thrill ~ Den Nervenkitzel 
+
+Tugend, die
+mn: Virtue
+pl: Die Tugenden 
+
+Sumpf, der
+mn: Marsh
+pl: Die Sümpfe 
+
+Schornstein, der
+mn: Chimney
+pl: Die Schornsteine 
+
+Anker, die
+mn: Anchor
+pl: Die Anker 
+
+Harmonie, die
+mn: Harmony
+pl: Die Harmonien 
+
+Ahorn, das
+mn: Maple
+pl: Die Ahorne 
+
+Kaninchen, das
+mn: Bunny
+pl: Die Hasen 
+
+Modus, der
+mn: Mode
+pl: Die Modi 
+
+Thron, der
+mn: Throne
+pl: Die Throne 
+
+Antrag, der
+mn: Application
+pl: Die Anwendungen
+
+Physik, die
+mn: Physics
+pl: Die Physicsies 
+
+Neon, das
+mn: Neon
+pl: Die Neons 
+
+Luftschleuse, die
+mn: Airlock
+pl: Die Luftschleusen 
+
+Ermüdungs, die
+mn: Fatigue
+pl: Die Strapazen 
+
+Danksagung, die
+mn: Thanksgiving
+pl: Die Danksagungen 
+
+Manuskript, das
+mn: Manuscript
+pl: Die Handschriften 
+
+Basis, die
+mn: Basis
+pl: Die Basises 
+
+Denkmal, das
+mn: Memorial
+pl: Die Gedenkstätten
+
+Schrank, der
+mn: Cupboard
+pl: Die Schränke 
+
+Sprung, der
+mn: Leap
+pl: Die Sprünge 
+
+Japaner, die
+mn: Japanese
+pl: Die Japaneses 
+
+Engineering, das
+mn: Engineering
+pl: Die Engineerings 
+
+Linke, die
+mn: Left
+pl: Die Linke 
+
+Schmerz, der
+mn: Ache
+pl: Die Schmerzen 
+
+Bronze, die
+mn: Bronze
+pl: Die Bronzen 
+
+Assoziation, die
+mn: Association
+pl: Die Verbände 
+
+Flotte, die
+mn: Fleet
+pl: Die Flotten 
+
+Marker, der
+mn: Marker
+pl: Die Marker 
+
+Beute, die
+mn: Prey
+pl: Die Beute 
+
+Taube, die
+mn: Dove
+pl: Die Tauben 
+
+Griff, der
+mn: Grasp
+pl: Die Griffe 
+
+Episode, die
+mn: Episode
+pl: Die Episoden 
+
+Ursprung, der
+mn: Origin
+pl: Die Ursprünge 
+
+Vakuum, das
+mn: Vacuum
+pl: Die Staubsauger 
+
+Kathedrale, die
+mn: Cathedral
+pl: Die Kathedralen 
+
+Management, das
+mn: Management
+pl: Die Unternehmensleitungen 
+
+Nach Unten, die
+mn: Down
+pl: Die Tiefen 
+
+Kontinent, der
+mn: Continent
+pl: Die Kontinente 
+
+Dickens – Zum Teufel
+pl: Die Dickenses 
+
+Freiwillige, die
+mn: Volunteer
+pl: Die Freiwilligen 
+
+Soccer – Fußball
+pl: Die Soccers 
+
+Saum, der
+mn: Hem
+pl: Die Säume 
+
+Erwähnung, die
+mn: Mention
+pl: Die Nennungen
+
+Lust, die
+mn: Lust
+pl: Die Begierden 
+
+Kichern, die
+mn: Giggle
+pl: Das Kichern 
+
+Klassenkameraden, die
+mn: Classmate
+pl: Die Klassenkameraden 
+
+Reinigung, die
+mn: Cleaning
+pl: Die Reinigungen 
+
+Rezeptionist, der
+mn: Receptionist ~ An Der Rezeption 
+
+Anrufer, der
+mn: Caller
+pl: Die Anrufer 
+
+Streben, das
+mn: Pursuit
+pl: Die Beschäftigungen 
+
+Verachtung, die
+mn: Contempt
+pl: Die Geringschätzungen 
+
+Opfer, das
+mn: Sacrifice
+pl: Die Opfer 
+
+Großeltern, die
+mn: Grandparent
+pl: Die Großeltern 
+
+Grenzbereich, der
+mn: Threshold
+pl: Die Schwellen 
+
+Tat, die
+mn: Deed
+pl: Die Taten 
+
+Landschaft, die
+mn: Countryside
+pl: Die Landschaften 
+
+Artefakt, das
+mn: Artifact
+pl: Die Artefakte 
+
+Falten, die
+mn: Wrinkle
+pl: Die Falten 
+
+Magier, der
+mn: Magician
+pl: Die Zauberer 
+
+Stich, der
+mn: Pang
+pl: Die Stiche 
+
+Italienische, die
+mn: Italian
+pl: Die Italiener 
+
+Ewigkeit, die
+mn: Eternity
+pl: Die Ewigkeit 
+
+Schiefer, der
+mn: Slate
+pl: Die Schiefertafeln 
+
+Treppenhaus, das
+mn: Stairwell
+pl: Die Treppenhäuser 
+
+Ankündigung, die
+mn: Announcement
+pl: Die Ankündigungen 
+
+Motiv, das
+mn: Motive
+pl: Die Motive 
+
+Mechaniker, der
+mn: Mechanic
+pl: Die Mechanik 
+
+Verbündete, der
+mn: Ally
+pl: Die Alliierten
+
+Vase, die
+mn: Vase
+pl: Die Vasen 
+
+Verkäufer, der
+mn: Salesman
+pl: Die Salesmans 
+
+Therapeut, der
+mn: Therapist
+pl: Die Therapeuten 
+
+Oma, die
+mn: Granny
+pl: Die Omas 
+
+Außenseiter, der
+mn: Maverick
+pl: Die Mavericks 
+
+Bandage, die
+mn: Bandage
+pl: Die Bandagen 
+
+Schinken, der
+mn: Ham
+pl: Die Schinken 
+
+Fuhrmann, der
+mn: Carter
+pl: Die Fuhr 
+
+Investition, die
+mn: Investment
+pl: Die Investitionen 
+
+Beschwerde, die
+mn: Appeal
+pl: Die Rechtsmittel 
+
+Unschuld, die
+mn: Innocence
+pl: Die Innocences 
+
+Kalender, der
+mn: Calendar
+pl: Die Kalender 
+
+Dach, die
+mn: Rooftop
+pl: Die Dächer 
+
+Kampf, der
+mn: Combat
+pl: Die Kämpfe 
+
+Offenbarung, die
+mn: Revelation
+pl: Die Enthüllungen 
+
+Pfannkuchen, der
+mn: Pancake
+pl: Die Pfannkuchen 
+
+Asteroid, der
+mn: Asteroid
+pl: Die Asteroiden 
+
+Postkarte, die
+mn: Postcard
+pl: Die Postkarten 
+
+Kleidungsstück, das
+mn: Garment
+pl: Die Kleidungsstücke 
+
+Bestimmung, die
+mn: Determination
+pl: Die Bestimmungen 
+
+Traktor, der
+mn: Tractor
+pl: Die Traktoren 
+
+Beere, die
+mn: Berry
+pl: Die Beeren 
+
+Umgebung, die
+mn: Surroundings
+pl: Die Surroundingses 
+
+Klumpen, der
+mn: Clump
+pl: Die Klumpen 
+
+Straftat, die
+mn: Offense
+pl: Die Straftaten 
+
+Einleitung, die
+mn: Introduction
+pl: Die Einleitungen 
+
+Butler, der
+mn: Butler ~ The Butlers 
+
+Husten, der
+mn: Cough
+pl: Die Coughes 
+
+Granit, der
+mn: Granite
+pl: Die Granite 
+
+Botschafter, der
+mn: Ambassador
+pl: Die Botschafter 
+
+Wende, der
+mn: Turning
+pl: Die Späne 
+
+Sitzung, die
+mn: Sitting
+pl: Die Sitzungen 
+
+Kompliment, das
+mn: Compliment
+pl: Die Komplimente 
+
+Karton, der
+mn: Carton
+pl: Die Schachteln 
+
+Türklingel, die
+mn: Doorbell
+pl: Die Türklingeln 
+
+Gewissheit, die
+mn: Certainty
+pl: Die Gewissheiten 
+
+Politiker, der
+mn: Politician
+pl: Die Politiker 
+
+Dankbarkeit, die
+mn: Gratitude
+pl: Die Danksagungen 
+
+Jetzige, die
+mn: Current
+pl: Die Ströme 
+
+Dunkel, das
+mn: Gloom
+pl: Die Düsterkeit 
+
+Putz, der
+mn: Plaster
+pl: Die Pflaster 
+
+Siedlung, die
+mn: Settlement
+pl: Die Siedlungen 
+
+Chop, die
+mn: Chop
+pl: Die Koteletts 
+
+Mordkommission, die
+mn: Homicide
+pl: Die Tötungsdelikte 
+
+Aluminium, die
+mn: Aluminum
+pl: Die Aluminums 
+
+Boulevard, der
+mn: Boulevard
+pl: Die Boulevards 
+
+Schüler, der
+mn: Pupil
+pl: Die Schülerinnen Und Schüler 
+
+Schwimmer, der
+mn: Float
+pl: Die Schwimmer 
+
+Beruf, der
+mn: Profession
+pl: Die Berufe
+
+Rückzug, der
+mn: Retreat
+pl: Die Exerzitien 
+
+Schnittpunkt, der
+mn: Intersection
+pl: Die Schnittpunkte 
+
+Regelung, die
+mn: Scheme
+pl: Die Systeme 
+
+Leere, die
+mn: Emptiness
+pl: Die Emptinesses 
+
+Verlag, der
+mn: Publisher
+pl: Die Verleger 
+
+Zirkus, der
+mn: Circus
+pl: Die Zirkusse 
+
+Abmessung, die
+mn: Dimension
+pl: Die Dimensionen 
+
+Tierpark, der
+mn: Zoo
+pl: Die Zoos 
+
+Krankheit, die
+mn: Sickness
+pl: Die Krankheiten 
+
+Bote, der
+mn: Messenger
+pl: Die Boten 
+
+Beau, das
+mn: Beau
+pl: Die Beaus 
+
+Gewirr, das
+mn: Tangle
+pl: Die Tangles 
+
+Personal, das
+mn: Personnel
+pl: Die Personnels 
+
+Strategie, die
+mn: Strategy
+pl: Die Strategien 
+
+Verzweiflung, die
+mn: Desperation
+pl: Die Verzweiflungen 
+
+Geschäftsmann, der
+mn: Businessman
+pl: Die Business 
+
+Pod – The Pod
+pl: Die Schoten 
+
+Abfluss, der
+mn: Drain
+pl: Die Drain 
+
+Erdbeere, die
+mn: Strawberry
+pl: Die Erdbeeren 
+
+Jahrestag, der
+mn: Anniversary
+pl: Die Jahrestage 
+
+Fernglas, das
+mn: Binoculars
+pl: Die Binocularses 
+
+Kluft, die
+mn: Gulf
+pl: Die Buchten 
+
+Disziplin, die
+mn: Discipline
+pl: Die Disziplinen 
+
+Hecke, die
+mn: Hedge
+pl: Die Hecken 
+
+Stöhnen, das
+mn: Moan
+pl: Das Stöhnen 
+
+Einkommen, das
+mn: Income
+pl: Die Einkommen 
+
+Mythos, der
+mn: Myth
+pl: Die Mythen 
+
+Verschluss, der
+mn: Shutter
+pl: Die Fensterläden 
+
+Floß, das
+mn: Raft
+pl: Die Flöße 
+
+Arzt, der
+mn: Physician
+pl: Die Ärzte 
+
+Ehrgeiz, der
+mn: Ambition
+pl: Die Ambitionen 
+
+Kamel, das
+mn: Camel
+pl: Die Kamele 
+
+Schlagen, das
+mn: Beating
+pl: Die Schläge 
+
+Säure, die
+mn: Acid
+pl: Die Säuren 
+
+Müsli, das
+mn: Cereal
+pl: Die Getreide
+
+Becken, das
+mn: Basin
+pl: Die Becken 
+
+Nachthemd, das
+mn: Nightgown
+pl: Die Nachthemden 
+
+Internet, das
+mn: Internet
+pl: Die Internets 
+
+Cockpit, das
+mn: Cockpit
+pl: Die Cockpits 
+
+Wrack, das
+mn: Wreck
+pl: Die Wracks 
+
+Perücke, die
+mn: Wig
+pl: Die Perücken 
+
+Rein – Darin
+pl: Die Zügel 
+
+Recorder, der
+mn: Recorder
+pl: Die Rekorder 
+
+Schweinefleisch, das
+mn: Pork
+pl: Die Porks 
+
+Hund, der
+mn: Hound
+pl: Die Hunde 
+
+Grenze, die
+mn: Boundary
+pl: Die Grenzen 
+
+Prüfung, die
+mn: Exam
+pl: Die Prüfungen 
+
+Höflichkeit, die
+mn: Courtesy
+pl: Die Höflichkeiten 
+
+Hilfe, die
+mn: Assistance
+pl: Die Unterstützungen 
+
+Wangenknochen, die
+mn: Cheekbone
+pl: Die Wangenknochen 
+
+Peitsche, die
+mn: Whip
+pl: Die Peitschen 
+
+Pilger, der
+mn: Pilgrim
+pl: Die Pilger 
+
+Fett, das
+mn: Grease
+pl: Die Fette 
+
+Kollaps, der
+mn: Collapse
+pl: Die Zusammenbrüche 
+
+Fakultät, die
+mn: Faculty
+pl: Die Fakultäten 
+
+Erinnerung, die
+mn: Reminder
+pl: Die Erinnerungen 
+
+Weise, der
+mn: Sage
+pl: Die Weisen 
+
+Asphalt, der
+mn: Asphalt
+pl: Die Asphalte 
+
+Privileg, das
+mn: Privilege
+pl: Die Privilegien 
+
+Treppenhaus, das
+mn: Stairway
+pl: Die Treppen 
+
+Wartung, die
+mn: Maintenance
+pl: Die Wartungen 
+
+Süße, die
+mn: Sweetie
+pl: Die Süßigkeiten 
+
+Obstgarten, der
+mn: Orchard
+pl: Die Obstgärten 
+
+Kinderbett, das
+mn: Cot
+pl: Die Kinderbetten 
+
+Beutel, der
+mn: Pouch
+pl: Die Taschen 
+
+Feuerzeug, das
+mn: Lighter
+pl: Die Feuerzeuge 
+
+Katze, die
+mn: Kitty
+pl: Die Kätzchen 
+
+Formation, die
+mn: Formation
+pl: Die Formationen 
+
+Snack, die
+mn: Snack
+pl: Die Snacks 
+
+Reden, das
+mn: Talking
+pl: Die Gesprächen 
+
+Op, die
+mn: Op
+pl: Die Ops 
+
+Schrei, der
+mn: Shriek
+pl: Die Schreie 
+
+Skulptur, die
+mn: Sculpture
+pl: Die Skulpturen 
+
+Vorsitzende, der
+mn: Chairman
+pl: Die Chair 
+
+Summe, die
+mn: Sum
+pl: Die Summen 
+
+Karotte, die
+mn: Carrot
+pl: Die Karotten 
+
+Welligkeit, die
+mn: Ripple
+pl: Die Wellen 
+
+Streifen, der
+mn: Stripe
+pl: Die Streifen 
+
+Höhle, die
+mn: Cavern
+pl: Die Höhlen 
+
+Radar, die
+mn: Radar
+pl: Die Radare 
+
+Pferdeschwanz, der
+mn: Ponytail
+pl: Die Pferdeschwänze 
+
+Designer, der
+mn: Designer
+pl: Die Designer 
+
+Stoß, die
+mn: Surge
+pl: Die Überspannungen 
+
+Erbe, der
+mn: Heir
+pl: Die Erben 
+
+Bunker, der
+mn: Vault
+pl: Die Gewölbe 
+
+Sissy, die
+mn: Sissy
+pl: Die Weicheier 
+
+Schotten, die
+mn: Scotch
+pl: Die Bremsschuhe 
+
+Stille, die
+mn: Stillness
+pl: Die Stillnesses 
+
+Tunika, die
+mn: Tunic
+pl: Die Tuniken 
+
+Think, der
+mn: Think
+pl: Das Denkt 
+
+Penis, der
+mn: Penis
+pl: Die Penisse 
+
+Einheimische, der
+mn: Native
+pl: Die Eingeborenen 
+
+Liebesspiel, das
+mn: Lovemaking
+pl: Die Lovemakings 
+
+Adjutant, der
+mn: Aide
+pl: Die Helfer 
+
+Großteil, der
+mn: Bulk
+pl: Die Massen 
+
+Poker, die
+mn: Poker
+pl: Die Poker 
+
+Kalk, der
+mn: Lime
+pl: Der Limes 
+
+Überwachungs, das
+mn: Surveillance
+pl: Die Anwendungsbeobachtungen 
+
+Versammlung, die
+mn: Assembly
+pl: Die Baugruppen 
+
+Enkel, der
+mn: Grandson
+pl: Die Enkel 
+
+Chopper, der
+mn: Chopper
+pl: Die Zerhacker 
+
+Träger, der
+mn: Carrier
+pl: Die Träger 
+
+Verlobung, die
+mn: Engagement
+pl: Die Engagements 
+
+Kin, das
+mn: Kin
+pl: Die Kins 
+
+Mama, die
+mn: Mum
+pl: Die Mütter 
+
+Beleuchtung, die
+mn: Lighting
+pl: Die Beleuchtung 
+
+Passform, die
+mn: Fit
+pl: Die Anfälle 
+
+Pull, die
+mn: Pull
+pl: Die Zieht 
+
+Verge – The Verge
+pl: Die Seitenstreifen 
+
+Bauernhaus, das
+mn: Farmhouse
+pl: Die Bauernhäuser 
+
+Warten, das
+mn: Wait
+pl: Die Wartezeiten 
+
+Attentäter, der
+mn: Assassin
+pl: Die Attentäter 
+
+Schaum, der
+mn: Foam
+pl: Die Schäume 
+
+Schlepper, der
+mn: Tug
+pl: Die Schlepper 
+
+Journalist, der
+mn: Journalist
+pl: Die Journalisten 
+
+Aufnahme, die
+mn: Recording
+pl: Die Aufnahmen 
+
+Heilung, die
+mn: Cure
+pl: Die Heilungen 
+
+Abstieg, der
+mn: Descent
+pl: Die Abfahrten 
+
+Klingeln, das
+mn: Ringing
+pl: Die Ringings 
+
+Schere, die
+mn: Scissors
+pl: Die Scissorses 
+
+Zweig, der
+mn: Twig
+pl: Die Zweige 
+
+Urlaubsort, der
+mn: Resort
+pl: Die Ferienorte 
+
+Beschützer, der
+mn: Guardian
+pl: Die Wächter 
+
+Gegner, der
+mn: Opponent
+pl: Die Gegner 
+
+Küchenchef, der
+mn: Chef
+pl: Die Köche 
+
+Weizen, der
+mn: Wheat
+pl: Die Weizen 
+
+Hurrikan, der
+mn: Hurricane
+pl: Die Hurrikane 
+
+Spielplatz, der
+mn: Playground
+pl: Die Spielplätze 
+
+Pilz, der
+mn: Mushroom
+pl: Die Pilze 
+
+Tastatur, die
+mn: Keyboard
+pl: Die Keyboaries 
+
+Zeder, die
+mn: Cedar
+pl: Die Zedern 
+
+Wappen, das
+mn: Crest
+pl: Die Kämme 
+
+Jasmin, der
+mn: Jasmine
+pl: Die Jasmin 
+
+Sessel, der
+mn: Armchair
+pl: Die Sessel 
+
+Attraktion, die
+mn: Attraction
+pl: Die Attraktionen
+
+Blind – Blinde
+pl: Die Blinds 
+
+Cylinder – Zylinder
+pl: Die Zylinder 
+
+Schwalbe, die
+mn: Swallow
+pl: Die Schwalben 
+
+Berühmtheit, die
+mn: Celebrity
+pl: Die Prominenten 
+
+Wildnis, die
+mn: Wilderness
+pl: Die Wildnis 
+
+Dreieck, das
+mn: Triangle
+pl: Die Dreiecke 
+
+Gestank, der
+mn: Stench
+pl: Die Gestank 
+
+Labor, das
+mn: Laboratory
+pl: Die Laboratorien 
+
+Array, das
+mn: Array
+pl: Die Arraies 
+
+Valentine – The Valentine
+pl: Die Valentines 
+
+Renten, das
+mn: Retirement
+pl: Die Pensionierungen 
+
+Ski, der
+mn: Ski
+pl: Die Skier 
+
+Ausgabe, die
+mn: Edition
+pl: Die Ausgaben 
+
+Supervisor, der
+mn: Supervisor
+pl: Die Aufsichtsbehörden 
+
+Weite, die
+mn: Expanse
+pl: Die Weiten 
+
+Ende, das
+mn: Ending
+pl: Die Endungen 
+
+Moos, das
+mn: Moss
+pl: Die Moose 
+
+Sturm, der
+mn: Gale
+pl: Die Stürme 
+
+Treue, die
+mn: Loyalty
+pl: Die Loyalitäten 
+
+Lavendel, der
+mn: Lavender
+pl: Die Lavendel 
+
+Begnadigung, die
+mn: Pardon
+pl: Die Begnadigungen 
+
+Aschenbecher, der
+mn: Ashtray
+pl: Die Aschenbecher 
+
+Scherbe, die
+mn: Shard
+pl: Die Scherben 
+
+Unternehmen, das
+mn: Corporation
+pl: Die Konzerne 
+
+Ablenkung, die
+mn: Distraction
+pl: Die Ablenkungen 
+
+Majestät, die
+mn: Majesty
+pl: Die Majestäten 
+
+Pyramide, die
+mn: Pyramid
+pl: Die Pyramiden 
+
+Ruhm, der
+mn: Fame
+pl: Die Fames 
+
+Schulabschluss, der
+mn: Graduation
+pl: Die Unterteilungen 
+
+Not, die
+mn: Distress
+pl: Die Nöte 
+
+Magier, der
+mn: Mage
+pl: Die Magier 
+
+Unabhängigkeit, die
+mn: Independence
+pl: Die Unabhängigkeiten 
+
+Schwarm, der
+mn: Crush
+pl: Die Zermalmt 
+
+Lachen, das
+mn: Chuckle
+pl: Die Kichert 
+
+Dime, die
+mn: Dime
+pl: Die Dimes 
+
+Ziel, das
+mn: Aim
+pl: Die Ziele 
+
+Böen, die
+mn: Gust
+pl: Die Böen 
+
+Russe, der
+mn: Russian
+pl: Die Russen 
+
+Festlichkeit, der
+mn: Treat
+pl: Die Leckereien 
+
+Ausländer, der
+mn: Foreigner
+pl: Die Ausländer 
+
+Gehalt, das
+mn: Salary
+pl: Die Gehälter 
+
+Anwendungsbereich, der
+mn: Scope
+pl: Die Bereiche 
+
+Rebell, der
+mn: Rebel
+pl: Die Rebellen 
+
+Schläger, der
+mn: Thug
+pl: Die Schläger 
+
+Grab, das
+mn: Tomb
+pl: Die Gräber 
+
+Kühlschrank, der
+mn: Fridge
+pl: Die Kühlschränke 
+
+Steckdose, die
+mn: Socket
+pl: Die Buchsen 
+
+Dosis, die
+mn: Dose
+pl: Die Dosen 
+
+Wahl, die
+mn: Election
+pl: Die Wahlen 
+
+Flüchtling, der
+mn: Refugee
+pl: Die Flüchtlinge 
+
+Phase, die
+mn: Phase
+pl: Die Phasen 
+
+Kürbis, der
+mn: Pumpkin
+pl: Die Kürbisse 
+
+Dorn, der
+mn: Thorn
+pl: Die Dornen 
+
+Haut, die
+mn: Hide
+pl: Die Häute 
+
+Wurst, die
+mn: Sausage
+pl: Die Würste 
+
+Dig, die
+mn: Dig
+pl: Die Ausgrabungen 
+
+Tan, der
+mn: Tan
+pl: Die Bräunt 
+
+Darlehen, das
+mn: Loan
+pl: Die Kredite 
+
+Dorn, der
+mn: Spike
+pl: Die Spikes 
+
+Krume, die
+mn: Crumb
+pl: Die Krümel 
+
+Wachs, das
+mn: Wax ~ Waxs 
+
+Knurren, das
+mn: Growl
+pl: Die Growls 
+
+Vermietung, die
+mn: Rental
+pl: Die Vermietungen
+
+Futter, das
+mn: Feed
+pl: Die Zuführungen 
+
+Eskorte, die
+mn: Escort
+pl: Die Begleitpersonen 
+
+Erstaunen, das
+mn: Astonishment
+pl: Die Erstaunlichkeiten 
+
+Flora, die
+mn: Flora
+pl: Die Floren 
+
+Fest, das
+mn: Festival
+pl: Die Feste 
+
+Debatte, die
+mn: Debate
+pl: Die Debatten 
+
+Kritiker, der
+mn: Critic
+pl: Die Kritiker 
+
+Besetzung, die
+mn: Cast
+pl: Die Modelle 
+
+Blüte, die
+mn: Bloom
+pl: Die Blüten 
+
+Loft, das
+mn: Loft
+pl: Die Dachböden 
+
+Kommission, die
+mn: Commission
+pl: Die Kommissionen 
+
+Flimmern, das
+mn: Flicker
+pl: Die Flackert 
+
+Wirtschaft, die
+mn: Economy
+pl: Die Volkswirtschaften 
+
+Strahlung, die
+mn: Radiation
+pl: Die Strahlungen 
+
+Leibwächter, der
+mn: Bodyguard
+pl: Die Bodyguaries 
+
+Umsetzung, die
+mn: Realization
+pl: Die Erkenntnisse 
+
+Krater, der
+mn: Crater
+pl: Die Krater 
+
+Reise, die
+mn: Voyage
+pl: Die Reisen 
+
+Kongress, das
+mn: Congress
+pl: Die Kongresse 
+
+Wahl, die
+mn: Vote
+pl: Die Stimmen 
+
+Antrag, der
+mn: Proposal
+pl: Die Vorschläge
+
+Braten, der
+mn: Fry
+pl: Die Pommes 
+
+Zittern, das
+mn: Shiver ~ Gänsehaut 
+
+Verpflichtung, die
+mn: Obligation
+pl: Die Verpflichtungen
+
+Verlierer, der
+mn: Loser
+pl: Die Verlierer 
+
+Lehrer, der
+mn: Instructor
+pl: Die Ausbilder 
+
+Zuzwinkern, die
+mn: Wink
+pl: Die Zwinkert 
+
+Kies, die
+mn: Pebble
+pl: Die Kieselsteine 
+
+Notwendigkeit, die
+mn: Necessity
+pl: Die Notwendigkeiten 
+
+Workshop, der
+mn: Workshop
+pl: Die Workshops 
+
+Sonnenaufgang, der
+mn: Sunrise
+pl: Die Sonnenaufgang
+
+Erschöpfung, die
+mn: Exhaustion
+pl: Die Erschöpfungs 
+
+Zelle, die
+mn: Cubicle
+pl: Die Schränke 
+
+Doppelgänger, der
+mn: Double
+pl: Die Doppelgänger
+
+Umfang, der
+mn: Perimeter
+pl: Die Umfänge 
+
+Kamm, der
+mn: Comb
+pl: Die Kämme 
+
+Ende, das
+mn: Finish
+pl: Die Oberflächen 
+
+Kauf, der
+mn: Purchase
+pl: Die Käufe 
+
+Intervall, das
+mn: Interval
+pl: Die Intervalle 
+
+Spritz, der
+mn: Splash
+pl: Die Spritzer 
+
+Konvention, die
+mn: Convention
+pl: Die Konventionen 
+
+Bewusstsein, das
+mn: Awareness
+pl: Die Gewahrsein 
+
+Pose, die
+mn: Pose
+pl: Die Posen 
+
+Wiege, die
+mn: Cradle
+pl: Die Wiegen 
+
+Stößel, der
+mn: Ram
+pl: Die Widder 
+
+Adel, der
+mn: Gentry
+pl: Die Gentries 
+
+Naht, die
+mn: Seam
+pl: Die Nähte 
+
+Assoziierte Unternehmen, das
+mn: Associate
+pl: Die Mitarbeiter 
+
+Scheibe, die
+mn: Pane
+pl: Die Scheiben 
+
+Punk, der
+mn: Punk
+pl: Die Punks 
+
+Überrest, der
+mn: Remnant
+pl: Die Reste 
+
+Cracker, der
+mn: Cracker
+pl: Die Cracker 
+
+Bluff, der
+mn: Bluff
+pl: Die Klippen 
+
+Düne, die
+mn: Dune
+pl: Die Dünen 
+
+Zahnarzt, der
+mn: Dentist
+pl: Die Zahnärzte 
+
+Zuflucht, die
+mn: Refuge
+pl: Die Schutzhütten 
+
+Satin, die
+mn: Satin
+pl: Die Satins 
+
+Verbreitung, die
+mn: Spread
+pl: Die Spreads 
+
+Unternehmen, das
+mn: Entity
+pl: Die Entitäten 
+
+Postfach, das
+mn: Mailbox
+pl: Die Mailboxs 
+
+Ärger, der
+mn: Annoyance
+pl: Die Ärgernisse 
+
+Zischen, das
+mn: Hiss
+pl: Die Zischt 
+
+Lokal, das
+mn: Local
+pl: Die Einheimischen 
+
+Bums, der
+mn: Thud
+pl: Die Schläge 
+
+Bestürzung, die
+mn: Dismay
+pl: Die Bestürzt 
+
+Mehl, das
+mn: Flour
+pl: Die Mehle 
+
+Freak, der
+mn: Freak
+pl: Die Freaks 
+
+Haarschnitt, der
+mn: Haircut
+pl: Die Abschläge 
+
+Süße, die
+mn: Sweet
+pl: Die Süßigkeiten 
+
+Waise, die
+mn: Orphan
+pl: Die Waisen 
+
+Schach, das
+mn: Chess
+pl: Die Chesses 
+
+Blütenblatt, die
+mn: Petal
+pl: Die Blütenblätter 
+
+Schreibarbeit, die
+mn: Paperwork
+pl: Die Papierarbeiten 
+
+Psychiater, der
+mn: Psychiatrist
+pl: Die Psychiater 
+
+Gesang, der
+mn: Singing
+pl: Die Gesänge 
+
+Interrupt, das
+mn: Interrupt
+pl: Die Interrupts 
+
+Untersuchung, die
+mn: Examination
+pl: Die Untersuchungen
+
+Bewunderung, die
+mn: Admiration
+pl: Die Bewunderung 
+
+Gefrier, das
+mn: Freezer
+pl: Die Gefriergeräte 
+
+Illustration, die
+mn: Illustration
+pl: Die Abbildungen
+
+Eintopf, der
+mn: Stew
+pl: Die Eintöpfe 
+
+Ermittler, der
+mn: Investigator
+pl: Die Ermittler 
+
+Vorort, der
+mn: Suburb
+pl: Der Stadtrand 
+
+Keks, der
+mn: Biscuit
+pl: Die Kekse 
+
+Holster, das
+mn: Holster
+pl: Die Holster 
+
+Faktor, der
+mn: Factor
+pl: Die Faktoren 
+
+Intimität, die
+mn: Intimacy
+pl: Die Intimitäten 
+
+Peitsche, die
+mn: Lash
+pl: Die Wimpern 
+
+Einsparung, die
+mn: Saving
+pl: Die Einsparungen 
+
+Software, die
+mn: Software
+pl: Die Software 
+
+Henne, die
+mn: Hen
+pl: Die Hennen 
+
+Birke, die
+mn: Birch
+pl: Die Birken 
+
+Untersuchung, die
+mn: Inquiry
+pl: Die Anfragen 
+
+Kindergarten, der
+mn: Nursery
+pl: Die Baumschulen 
+
+Transport, der
+mn: Transport
+pl: Die Transporte 
+
+Ausmaß, das
+mn: Extent
+pl: Die Ausdehnungen 
+
+Definition, die
+mn: Definition
+pl: Die Definitionen 
+
+Monument, das
+mn: Monument
+pl: Die Denkmäler 
+
+Pflaume, die
+mn: Plum
+pl: Die Pflaumen 
+
+Nichts, das
+mn: Void
+pl: Die Hohlräume 
+
+Verzögerung, die
+mn: Delay
+pl: Die Verzögerungen 
+
+Inspektion, die
+mn: Inspection
+pl: Die Inspektionen 
+
+Essenz, die
+mn: Essence
+pl: Die Essenzen 
+
+Kanone, die
+mn: Cannon
+pl: Die Kanonen 
+
+Fransen, die
+mn: Fringe
+pl: Die Fransen 
+
+Stereo, die
+mn: Stereo
+pl: Die Stereoanlagen 
+
+Fella, die
+mn: Fella
+pl: Die Fellas
+
+Lob, das
+mn: Praise
+pl: Das Lob 
+
+Pinguin, der
+mn: Penguin
+pl: Die Pinguine 
+
+Folter, die
+mn: Torture
+pl: Die Qualen 
+
+Briefmarke, die
+mn: Stamp
+pl: Die Briefmarken 
+
+Partikel, die
+mn: Particle
+pl: Die Teilchen 
+
+Übersetzer, der
+mn: Translator
+pl: Die Übersetzer 
+
+Easter – Ostern
+pl: Die Easters 
+
+Einfrieren, das
+mn: Freeze
+pl: Die Friert 
+
+Pew, die
+mn: Pew
+pl: Die Bänke 
+
+Pfropfen, der
+mn: Wad
+pl: Die Bündel 
+
+Höschen, das
+mn: Panties
+pl: Die Pantieses 
+
+Gegenleistung, die
+mn: Consideration
+pl: Die Überlegungen
+
+Spieß, der
+mn: Spit
+pl: Die Spieße 
+
+Kühler, der
+mn: Cooler
+pl: Die Kühler 
+
+Grill, der
+mn: Grill
+pl: Die Grills 
+
+Krug, der
+mn: Jug
+pl: Die Krüge 
+
+Spitzname, der
+mn: Nickname
+pl: Die Spitznamen 
+
+Revolver, der
+mn: Revolver
+pl: Die Revolver 
+
+Maschinen, die
+mn: Machinery
+pl: Die Maschinen 
+
+Damen Und Herren, die
+mn: Madam
+pl: Die Herren 
+
+Hecht, der
+mn: Pike ~ Pikes 
+
+Terrorist, der
+mn: Terrorist
+pl: Die Terroristen 
+
+Laptop, der
+mn: Laptop
+pl: Die Laptops 
+
+Angebot, das
+mn: Offering
+pl: Das Angebot 
+
+Schnabel, der
+mn: Beak
+pl: Die Schnäbel 
+
+Institution, die
+mn: Institution
+pl: Die Institutionen 
+
+Vergleich, der
+mn: Comparison
+pl: Die Vergleiche
+
+Macher, der
+mn: Maker
+pl: Die Macher 
+
+Einsicht, die
+mn: Insight
+pl: Die Erkenntnisse 
+
+Geschwister, die
+mn: Sibling
+pl: Die Geschwister 
+
+Kleiderschrank, der
+mn: Wardrobe
+pl: Die Schränke 
+
+Klappe, die
+mn: Flap
+pl: Die Klappen 
+
+Einzige, der
+mn: Sole
+pl: Die Sohlen 
+
+Mitgefühl, das
+mn: Compassion
+pl: Die Barmherzigkeit 
+
+Ego, das
+mn: Ego
+pl: Die Egos 
+
+Antennen, die
+mn: Antenna
+pl: Die Antennen 
+
+Grille, die
+mn: Cricket
+pl: Die Grillen 
+
+Troll, der
+mn: Troll
+pl: Die Trolle 
+
+Bücherladen, der
+mn: Bookstore
+pl: Die Buchhandlungen 
+
+Ankunft, die
+mn: Coming
+pl: Das Kommen 
+
+Einwand, der
+mn: Objection
+pl: Die Einwände 
+
+Halter, der
+mn: Holder
+pl: Die Inhaber 
+
+Backseat – Rücksitz
+pl: Die Rücksitze 
+
+Unwissenheit, die
+mn: Ignorance
+pl: Die Unwissenheit 
+
+Budget, das
+mn: Budget
+pl: Die Budgets 
+
+Flugzeug, das
+mn: Aircraft
+pl: Die Flugzeuge 
+
+Korps, das
+mn: Corps
+pl: Die Leichen 
+
+Brot, das
+mn: Loaf
+pl: Die Laibe 
+
+Erweiterung, die
+mn: Extension
+pl: Die Verlängerungen 
+
+Autobahn, die
+mn: Freeway
+pl: Die Autobahnen 
+
+Einsamkeit, die
+mn: Solitude
+pl: Die Einsamkeit 
+
+Chemische, die
+mn: Chemical
+pl: Die Chemikalien
+
+Dorfbewohner, der
+mn: Villager
+pl: Die Dorfbewohner 
+
+Perfektion, die
+mn: Perfection
+pl: Die Vollkommen 
+
+Papst, der
+mn: Pope
+pl: Die Päpste 
+
+Semester, das
+mn: Semester
+pl: Die Semester 
+
+Leber, die
+mn: Liver
+pl: Die Lebern 
+
+Untertasse, die
+mn: Saucer
+pl: Die Untertassen 
+
+Dringlichkeit, die
+mn: Urgency
+pl: Die Dringlichkeiten 
+
+Vulkan, der
+mn: Volcano
+pl: Die Vulkane 
+
+Würze, die
+mn: Spice
+pl: Die Gewürze 
+
+Geisel, die
+mn: Hostage
+pl: Die Geiseln 
+
+Chor, der
+mn: Choir
+pl: Die Chöre 
+
+Teig, der
+mn: Dough
+pl: Die Teigrunder 
+
+Aufregung, die
+mn: Commotion
+pl: Die Unruhen 
+
+Courthouse – Gerichtsgebäude
+pl: Die Gerichtsgebäuden 
+
+Lachs, der
+mn: Salmon
+pl: Die Lachse 
+
+Boxer, der
+mn: Boxer
+pl: Die Boxer 
+
+Besorgung, die
+mn: Errand
+pl: Die Besorgungen 
+
+Mechanism – Wobei Der Mechanismus
+pl: Die Mechanismen 
+
+Teleskop, das
+mn: Telescope
+pl: Die Teleskope 
+
+Fähre, die
+mn: Ferry
+pl: Die Fähren 
+
+Nigger, der
+mn: Nigger
+pl: Die Nigger 
+
+Passant, der
+mn: PasserBy
+pl: Die Passanten 
+
+Reizung, die
+mn: Irritation
+pl: Die Irritationen 
+
+Limousine, die
+mn: Sedan
+pl: Die Limousinen 
+
+Engagement, das
+mn: Commitment
+pl: Die Verpflichtungen
+
+Feigling, der
+mn: Coward
+pl: Die Feiglinge 
+
+Git, die
+mn: Git
+pl: Die Gits 
+
+Fackel, die
+mn: Flare
+pl: Die Fackeln 
+
+Heulen, das
+mn: Howl
+pl: Das Heulen 
+
+Fang, die
+mn: Fang
+pl: Die Reißzähne 
+
+Römisch, die
+mn: Roman
+pl: Die Römer 
+
+Farbton, der
+mn: Hue
+pl: Die Farbtöne 
+
+Unbehagen, das
+mn: Discomfort
+pl: Die Unannehmlichkeiten 
+
+Entlüftungs, das
+mn: Vent
+pl: Die Lüftungsschlitze 
+
+Kanu, das
+mn: Canoe
+pl: Die Kanus 
+
+Rezept, das
+mn: Recipe
+pl: Die Rezepte 
+
+Hamburger, der
+mn: Hamburger
+pl: Die Hamburger 
+
+Traufe, die
+mn: Eave
+pl: Die Traufe 
+
+Barbier, der
+mn: Barber
+pl: Die Barbiere 
+
+Ableben, das
+mn: Passing
+pl: Die Passings 
+
+Verrat, der
+mn: Betrayal
+pl: Der Verrat 
+
+Sweatshirt, das
+mn: Sweatshirt
+pl: Die Sweatshirts 
+
+Tentakel, die
+mn: Tentacle
+pl: Die Tentakeln 
+
+Brandung, die
+mn: Surf
+pl: Die Brandungen 
+
+Plaid, das
+mn: Plaid
+pl: Die Plaids 
+
+Gehweg, der
+mn: Walkway
+pl: Die Gehwege 
+
+Hinken, das
+mn: Limp
+pl: Die Hinkt 
+
+Verwaltung, die
+mn: Administration
+pl: Die Verwaltungen 
+
+Bequemlichkeit, die
+mn: Convenience
+pl: Die Bequemlichkeiten
+
+Windel, die
+mn: Diaper
+pl: Die Windeln 
+
+Maulwurf, der
+mn: Mole
+pl: Die Maulwürfe 
+
+Reiniger, der
+mn: Cleaner
+pl: Die Reinigungskräfte 
+
+Dünung, die
+mn: Swell
+pl: Die Schwillt 
+
+Erwachsene, der
+mn: GrownUp
+pl: Die Erwachsenen 
+
+Scan, die
+mn: Scan
+pl: Die Abtastungen 
+
+Klarheit, die
+mn: Clarity
+pl: Die Klarheiten 
+
+Salon, der
+mn: Salon
+pl: Die Salons 
+
+Produzent, der
+mn: Producer
+pl: Die Hersteller 
+
+Flug, die
+mn: Flying
+pl: Die Flusen 
+
+Rechtsmittelgrund, der
+mn: Plea
+pl: Die Rechtsmittelgründe 
+
+Prärie, die
+mn: Prairie
+pl: Die Prärien 
+
+Pass, der
+mn: Passport
+pl: Die Pässe 
+
+Alternative, die
+mn: Alternative
+pl: Die Alternativen
+
+Eitelkeit, die
+mn: Vanity
+pl: Die Eitelkeiten 
+
+Damm, der
+mn: Dam
+pl: Die Dämme 
+
+Missbrauch, der
+mn: Abuse
+pl: Die Missbräuche 
+
+Olive, die
+mn: Olive
+pl: Die Oliven 
+
+Bergmann, der
+mn: Miner
+pl: Die Bergleute 
+
+Reserve, die
+mn: Reserve
+pl: Die Reserven 
+
+Sicherungs, die
+mn: Backup
+pl: Die Sicherungen 
+
+Gegensprechanlage, die
+mn: Intercom
+pl: Die Gegensprechanlagen 
+
+Tuch, das
+mn: Shawl
+pl: Die Schals 
+
+Plattenteller, der
+mn: Platter
+pl: Die Platten 
+
+Implikation, die
+mn: Implication
+pl: Die Auswirkungen 
+
+Poltern, das
+mn: Rumble
+pl: Die Rumpelt 
+
+Ansager, der
+mn: Announcer
+pl: Die Ansager 
+
+Trümmer, die
+mn: Rubble
+pl: Die Trümmern 
+
+Axt, die
+mn: Axe
+pl: Die Achsen 
+
+Übertragungs, die
+mn: Transmission
+pl: Die Übertragungen 
+
+Krippe, die
+mn: Crib
+pl: Die Krippen 
+
+Sprung, die
+mn: Hop
+pl: Der Hopfen 
+
+Friedhof, der
+mn: Graveyard
+pl: Die Friedhöfe 
+
+Aroma, das
+mn: Aroma
+pl: Die Aromen 
+
+Dialog, der
+mn: Dialogue
+pl: Die Dialoge 
+
+Walze, die
+mn: Roller
+pl: Die Rollen 
+
+Congregation – Gemeinde
+pl: Die Gemeinden 
+
+Gelände, das
+mn: Terrain
+pl: Die Terrains 
+
+Transfer, der
+mn: Transfer
+pl: Die Transfers 
+
+Hardware, die
+mn: Hardware
+pl: Die Hardwares 
+
+Generator, der
+mn: Generator
+pl: Die Generatoren 
+
+Luxus, die
+mn: Luxury
+pl: Der Luxus 
+
+Auditorium, das
+mn: Auditorium
+pl: Die Auditorien 
+
+Kobold, der
+mn: Goblin
+pl: Die Goblins 
+
+Zapfen, der
+mn: Peg
+pl: Die Zapfen 
+
+Niederlage, die
+mn: Defeat
+pl: Die Niederlagen 
+
+Haven – The Haven
+pl: Die Oasen 
+
+Probe, die
+mn: Specimen
+pl: Die Proben 
+
+Herd, der
+mn: Hearth
+pl: Die Feuerstellen 
+
+Zulassung, die
+mn: Admission
+pl: Die Zulassungs 
+
+Besessenheit, die
+mn: Obsession
+pl: Die Obsessionen 
+
+Start, der
+mn: Launch
+pl: Die Starts 
+
+Patsy, die
+mn: Patsy
+pl: Die Sündenböcke 
+
+Wohnheim, das
+mn: Dorm
+pl: Die Schlafsäle 
+
+Glen – The Glen
+pl: Die Täler 
+
+Säge, die
+mn: Saw
+pl: Die Sägen 
+
+Til, die
+mn: Til
+pl: Die Tils 
+
+Affe, der
+mn: Ape
+pl: Die Affen 
+
+Staffelungs, der
+mn: Stagger
+pl: Die Wankt 
+
+Fotze, die
+mn: Pussy
+pl: Die Fotzen 
+
+Sammler, der
+mn: Collector
+pl: Die Kollektoren 
+
+Erdbeben, das
+mn: Earthquake
+pl: Die Erdbeben 
+
+Flocke, die
+mn: Flake
+pl: Die Flocken 
+
+Silbe, die
+mn: Syllable
+pl: Die Silben 
+
+Bouquet, das
+mn: Bouquet
+pl: Die Blumensträuße 
+
+Auswahl, die
+mn: Selection
+pl: Die Selektionen 
+
+Schwur, der
+mn: Vow
+pl: Die Gelübde 
+
+Enkelin, die
+mn: Granddaughter
+pl: Die Enkel 
+
+Symptom, das
+mn: Symptom
+pl: Die Symptome 
+
+Szenario, das
+mn: Scenario
+pl: Die Szenarien 
+
+Aufruhr, der
+mn: Riot
+pl: Die Unruhen 
+
+Timing, das
+mn: Timing
+pl: Die Zeitpunkte 
+
+Burger, der
+mn: Burger
+pl: Die Burger 
+
+Plus, die
+mn: Plus
+pl: Die Pluspunkte 
+
+Spatz, der
+mn: Sparrow
+pl: Die Spatzen 
+
+Botschaft, die
+mn: Embassy
+pl: Die Botschaften 
+
+Podium, das
+mn: Podium
+pl: Die Podestplätze 
+
+Vorwurf, der
+mn: Accusation
+pl: Die Vorwürfe 
+
+Herrenhaus, das
+mn: Manor
+pl: Die Herrenhäuser 
+
+Schlurfen, das
+mn: Shuffling
+pl: Die Shufflings 
+
+Delfin, der
+mn: Dolphin
+pl: Die Delphine 
+
+Wasserkocher, der
+mn: Kettle
+pl: Die Kessel 
+
+Soldat, der
+mn: Trooper
+pl: Die Soldaten 
+
+Rettung, die
+mn: Salvation
+pl: Die Rettungen 
+
+Tierarzt, der
+mn: Vet
+pl: Die Tierärzte 
+
+Landebahn, die
+mn: Runway
+pl: Die Start Und Landebahnen 
+
+Mohn, der
+mn: Poppy
+pl: Der Mohn 
+
+Upstairs – Im Obergeschoss
+pl: Die Upstairses 
+
+Lava, die
+mn: Lava
+pl: Die Laven 
+
+Inspiration, die
+mn: Inspiration
+pl: Die Inspirationen 
+
+Busen, der
+mn: Bosom
+pl: Die Busen 
+
+Eindringling, der
+mn: Intruder
+pl: Die Eindringlinge 
+
+Supermarkt, der
+mn: Supermarket
+pl: Die Supermärkte 
+
+Pokal, der
+mn: Trophy
+pl: Die Trophäen 
+
+Eifersucht, die
+mn: Jealousy
+pl: Die Eifersucht 
+
+Aufseher, der
+mn: Warden
+pl: Die Des Direktors
+
+Durchgang, der
+mn: Passageway
+pl: Die Durchgänge 
+
+Yachthafen, der
+mn: Marina
+pl: Die Jachthäfen 
+
+Lebewohl, das
+mn: Farewell
+pl: Die Abschiede 
+
+Gegenstände, die
+mn: Belongings
+pl: Der Zugehörigkeit 
+
+Prozession, die
+mn: Procession
+pl: Die Prozessionen 
+
+Astronaut, der
+mn: Astronaut
+pl: Die Astronauten 
+
+Schritt, der
+mn: Crotch
+pl: Die Gabelungen 
+
+Sweep, die
+mn: Sweep
+pl: Die Sweeps 
+
+Erholung, die
+mn: Recovery
+pl: Die Wiederfindungen 
+
+Kabelbaum, der
+mn: Harness
+pl: Die Kabelbäume 
+
+Angst, die
+mn: Anguish
+pl: Die Ängste 
+
+Logo, das
+mn: Logo
+pl: Die Logos 
+
+Wurf, der
+mn: Litter
+pl: Die Würfe 
+
+Marine, die
+mn: Marine
+pl: Die Marines 
+
+Groll, der
+mn: Resentment
+pl: Die Ressentiments 
+
+CoOp, der
+mn: CoOp
+pl: Die Genossenschaften 
+
+Drake – The Drake
+pl: Die Drachen 
+
+Zigeuner, der
+mn: Gypsy
+pl: Die Zigeuner 
+
+Nachahmung, die
+mn: Imitation
+pl: Die Imitationen 
+
+Arbeitgeber, der
+mn: Employer
+pl: Die Arbeitgeber
+
+Neuling, der
+mn: Freshman
+pl: Die Freshmans 
+
+Phänomen, das
+mn: Phenomenon
+pl: Die Phänomene 
+
+Flöte, die
+mn: Flute
+pl: Die Flöten 
+
+Grieche, der
+mn: Greek
+pl: Die Griechen 
+
+Wohnung, die
+mn: Condo
+pl: Die Eigentumswohnungen 
+
+Zeigefinger, der
+mn: Forefinger
+pl: Die Zeigefingern 
+
+Begräbnis, das
+mn: Burial
+pl: Die Bestattungen 
+
+Republik, die
+mn: Republic
+pl: Die Republiken 
+
+Smaragd, der
+mn: Emerald
+pl: Die Smaragde 
+
+Bademantel, der
+mn: Bathrobe
+pl: Die Bademäntel 
+
+Zeugnis, das
+mn: Testimony
+pl: Die Zeugenaussagen 
+
+Scharnier, das
+mn: Hinge
+pl: Die Scharniere 
+
+Bäckerei, die
+mn: Bakery
+pl: Die Bäckereien 
+
+Kontext, der
+mn: Context
+pl: Die Kontexte 
+
+Schnäppchen, das
+mn: Bargain
+pl: Die Schnäppchen 
+
+Sprichwort, das
+mn: Saying
+pl: Die Sprüche 
+
+Vorarbeiter, der
+mn: Foreman
+pl: Die Foremans 
+
+Schwan, der
+mn: Swan
+pl: Die Schwäne 
+
+Flanell, die
+mn: Flannel
+pl: Die Waschlappen 
+
+Angabe, die
+mn: Indication
+pl: Die Indikationen 
+
+Signifikanz, die
+mn: Significance
+pl: Die Bedeutungen 
+
+Käfer, der
+mn: Beetle
+pl: Die Käfer 
+
+Lern, die
+mn: Learning
+pl: Die Erkenntnisse 
+
+Lokal, das
+mn: Pub
+pl: Die Pubs 
+
+Fraktion, die
+mn: Fraction
+pl: Die Fraktionen 
+
+Forelle, die
+mn: Trout
+pl: Die Forellen 
+
+Kruste, die
+mn: Crust
+pl: Die Krusten 
+
+Überzugs, die
+mn: Overcoat
+pl: Die Mäntel 
+
+Glitzern, das
+mn: Glint
+pl: Die Reflexen 
+
+Medaille, die
+mn: Medal
+pl: Die Medaillen 
+
+Wahrnehmung, die
+mn: Perception
+pl: Die Wahrnehmungen 
+
+Willkommen, das
+mn: Welcome
+pl: Die Willkommen 
+
+Wörterbuch, das
+mn: Dictionary
+pl: Die Wörterbücher 
+
+Metapher, die
+mn: Metaphor
+pl: Die Metaphern 
+
+Armut, die
+mn: Poverty
+pl: Die Poverties 
+
+Haupt, die
+mn: Main
+pl: Die Netz
+
+Anstieg, der
+mn: Climb
+pl: Die Anstiege 
+
+Leine, die
+mn: Leash
+pl: Die Leinen

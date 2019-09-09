@@ -26,9 +26,13 @@ class Word(object):
 class Game(object):
     def __init__(self):
         self.words = []
+        self.results = []
 
     def add_word(self, word):
         self.words.append(word)
+
+    def collect_result(self, word_text, correct):
+        self.results.append((word_text, correct))
 
     @staticmethod
     def parse_line(line):
