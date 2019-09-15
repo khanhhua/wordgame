@@ -3,15 +3,16 @@ import sys
 
 from .models import Game
 from .noun_gender import run as NounGender
+from .word_meaning import run as WordMeaning
 
 
 def make_signal_handler(game):
     def signal_handler(sig, frame):
-        print("\nFINAL REPORT\nWord\t\t\t\tResult\n"
+        print("\nFINAL REPORT\nWord\t\t\t\t\t\tResult\n"
               "-----------------------------------------------")
 
-        for (word_text, correct) in game.results:
-            print("{}\t{}".format(word_text.ljust(24), "correct" if correct else "wrong"))
+        for (word_text, correct, count) in game.results:
+            print("{}\t{}\t(x{})".format(word_text.ljust(24), "correct" if correct else "wrong", count))
         print("===============================================")
 
         correct_total = len([item for item in game.results if item[1]])
@@ -29,4 +30,13 @@ def start(datafile):
         print(str(e))
         exit(1)
 
-    NounGender(game)
+    print('Games:\n'
+          '1. Noun gender (der/die/das)\n'
+          '2. Word meaning')
+    choice = input('Choose your game: ')
+    options = {
+        '1': NounGender,
+        '2': WordMeaning
+    }
+
+    options[choice](game)

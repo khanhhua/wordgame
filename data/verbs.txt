@@ -1,0 +1,297 @@
+ändern (v)
+mn: to change
+
+antworten (v)
+mn: to reply
+
+arbeiten (v)
+mn: to work
+
+beginnen (v)
+mn: to start
+pt: begann, begonnen
+
+bleiben (v)
+mn: to stay
+pt: blieb, geblieben
+
+brauchen (v)
+mn: to need
+
+bringen (v)
+mn: to bring
+pt: brachte, gebracht
+
+erhalten (v)
+mn: to receive
+pt: erhielt, erhalten
+
+erklären (v)
+mn: to explain
+pt: erklärte, erklärt
+
+erwarten (v)
+mn: to expect
+pt: erwartete, erwartet
+
+essen (v)
+mn: to eat
+pt: aß, gegessen
+
+fallen (v)
+mn: to fall
+pt: fiel, gefallen
+
+fehlen (v)
+mn: to miss
+
+finden (v)
+mn: to find
+pt: fand, gefunden
+
+folgen (v)
+mn: to follow
+
+fragen (v)
+mn: to ask
+
+fühlen (v)
+mn: to feel
+
+freuen (v), sich
+mn: to make glad
+
+geben (v)
+mn: to give
+pt: gab, gegeben
+
+gehen (v)
+mn: to walk
+pt: ging, gagangen
+
+gehören (v)
+mn: to belong
+pt: gehörte, gehört
+
+gewinnen (v)
+mn: to win
+pt: gewann, gewonnen
+
+glauben (v)
+mn: to believe
+
+haben (v)
+mn: to have
+pt: hat, gahabt
+
+halten (v)
+mn: to hold
+pt: hielt, gehalten
+
+helfen (v)
+mn: to help
+pt: half, geholfen
+
+hören (v)
+mn: to hear
+
+kämmen (v), sich
+mn: to comb
+
+kennen (v)
+mn: to know
+
+kommen (v)
+mn: to come
+pt: kam, gekommen
+
+können (v)
+mn: can
+pt: konnte, gekonnt
+
+lachen (v)
+mn: to laugh
+
+laufen (v)
+mn: to run
+pt: lief, gelaufen
+
+leben (v)
+mn: to live
+
+lernen (v)
+mn: to learn
+
+lesen (v)
+mn: to read
+pt: las, gelesen
+
+lieben (v)
+mn: to love
+
+liegen (v)
+mn: to lie (down)
+pt: lag, gelegen
+
+machen (v)
+mn: to make / to do
+
+meinen (v)
+mn: to mean
+
+mögen (v)
+mn: to like
+pt: mochte, gemocht
+
+müssen (v)
+mn: to have to / must
+pt: musste, gemußt
+
+nehmen (v)
+mn: to take
+pt: nahm, genommen
+
+öffnen (v)
+mn: to open
+
+rechnen (v)
+mn: to calculate
+
+rennen (v)
+mn: to run
+pt: rannte, gerannt
+
+riechen (v)
+mn: to smell
+pt: roch, gerochen
+
+sagen (v)
+mn: to say
+
+scheinen (v)
+mn: to seem
+pt: schien, geschienen
+
+schieben (v)
+mn: to push
+pt: schob, geschoben
+
+schlafen (v)
+mn: to sleep
+pt: schlief, geschlafen
+
+schließen (v)
+mn: to close
+
+schminken (v), sich
+mn: to make up
+
+streiten (v), sich
+mn: to argue
+pt: stritt, gestritten
+
+rasieren (v), sich
+mn: to shave
+pt: rasierte, rasiert
+
+schreiben (v)
+mn: to write
+pt: schrieb, geschrieben
+
+sehen (v)
+mn: to see
+pt: sah, gesehen
+
+sein (v)
+mn: to be
+pt: war, gewesen
+
+singen (v)
+mn: to sing
+pt: sang, gesungen
+
+sitzen (v)
+mn: to sit
+pt: saß, gesessen
+
+sollen (v)
+mn: should
+pt: sollte, gesollt
+
+spielen (v)
+mn: to play
+
+sprechen (v)
+mn: to talk / to speak
+pt: sprach, gesprochen
+
+stehen (v)
+mn: to stand
+pt: stand, gestanden
+
+suchen (v)
+mn: to search
+
+teilen (v), sich
+mn: to share
+
+tragen (v), sich
+mn: to carry
+pt: trug, getragen
+
+treffen (v), sich
+mn: to meet
+pt: traf, getroffen
+
+trinken (v)
+mn: to drink
+pt: trank, getrunken
+
+verlassen (v), sich
+mn: to leave
+pt: verließ, verlassen
+
+verlieren (v)
+mn: to lose
+pt: verlor, verloren
+
+verstehen (v)
+mn: to understand
+pt: verstand, verstanden
+
+versuchen (v)
+mn: to try
+pt: versuchte, versucht
+
+verwenden (v)
+mn: to use
+pt: verwandte, verwandt
+
+waschen (v)
+mn: to wash
+pt: wusch, gewaschen
+
+werden (v)
+mn: to become
+pt: wurde, geworden
+
+wissen (v)
+mn: to know
+pt: wusste, gewußt
+
+wohnen (v)
+mn: to live / to reside
+
+wollen (v)
+mn: to want
+pt: woll, gewollt
+
+zählen (v)
+mn: to count
+
+zeigen (v)
+mn: to show
+
+ziehen (v)
+mn: to pull
+pt: zog, gezogen

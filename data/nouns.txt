@@ -1,10186 +1,10186 @@
-Zeit, die
+Zeit (n), die
 mn: Time
 pl: Die Zeiten 
 
-Man, der
+Man (n), der
 mn: Man
 pl: Die Männer 
 
-Hand, die
+Hand (n), die
 mn: Hand
 pl: Die Hände 
 
-Tag, der
+Tag (n), der
 mn: Day
 pl: Die Tagen 
 
-Weg, der
+Weg (n), der
 mn: Way
 pl: Die Wege 
 
-Auge, das
+Auge (n), das
 mn: Eye
 pl: Die Augen 
 
-Ding, das
+Ding (n), das
 mn: Thing
 pl: Die Dinge 
 
-Kopf, der
+Kopf (n), der
 mn: Head
 pl: Die Köpfe 
 
-Jahr, das
+Jahr (n), das
 mn: Year
 pl: Die Jahre 
 
-Raum, die
+Raum (n), die
 mn: Room
 pl: Die Räume 
 
-Tür, die
+Tür (n), die
 mn: Door
 pl: Die Türen 
 
-Frau, die
+Frau (n), die
 mn: Woman
 pl: Die Frauen 
 
-Gesicht, das
+Gesicht (n), das
 mn: Face
 pl: Die Gesichter 
 
-Mutter, die
+Mutter (n), die
 mn: Mother
 pl: Die Mütter 
 
-Volk, das
+Volk (n), das
 mn: People
 pl: Die Völker
 
-Nacht, die
+Nacht (n), die
 mn: Night
 pl: Die Nächte 
 
-Haus, das
+Haus (n), das
 mn: House
 pl: Die Häuser 
 
-Vater, der
+Vater (n), der
 mn: Father
 pl: Die Väter 
 
-Leben, das
+Leben (n), das
 mn: Life
 pl: Die Leben 
 
-Rücken, der
+Rücken (n), der
 mn: Back
 pl: Die Rücken
 
-Stimme, die
+Stimme (n), die
 mn: Voice
 pl: Die Stimmen 
 
-Mädchen, das
+Mädchen (n), das
 mn: Girl
 pl: Die Mädchen 
 
-Ort, der
+Ort (n), der
 mn: Place
 pl: Die Orte 
 
-Junge, der
+Junge (n), der
 mn: Boy
 pl: Die Jungen 
 
-Auto, das
+Auto (n), das
 mn: Car
 pl: Die Autos 
 
-Seite, die
+Seite (n), die
 mn: Side
 pl: Die Seiten 
 
-Arm, der
+Arm (n), der
 mn: Arm
 pl: Die Arme 
 
-Kind, das
+Kind (n), das
 mn: Child
 pl: Die Kinder 
 
-Wort, das
+Wort (n), das
 mn: Word
 pl: Die Worte 
 
-Moment, der
+Moment (n), der
 mn: Moment
 pl: Die Momente 
 
-Haar, das
+Haar (n), das
 mn: Hair
 pl: Die Haare 
 
-Fuß, der
+Fuß (n), der
 mn: Foot
 pl: Die Füße 
 
-Wasser, das
+Wasser (n), das
 mn: Water
 pl: Die Wasser
 
-Licht, das
+Licht (n), das
 mn: Light
 pl: Die Lichter 
 
-Welt, die
+Welt (n), die
 mn: World
 pl: Die Welt 
 
-Name, der
+Name (n), der
 mn: Name
 pl: Die Namen 
 
-Freund, der
+Freund (n), der
 mn: Friend
 pl: Die Freunde 
 
-Fenster, das
+Fenster (n), das
 mn: Window
 pl: Die Fenster 
 
-Körper, der
+Körper (n), der
 mn: Body
 pl: Die Körper 
 
-Tisch, der
+Tisch (n), der
 mn: Table
 pl: Die Tabellen 
 
-Morgen, der
+Morgen (n), der
 mn: Morning
 pl: Die Morgen 
 
-Bett, das
+Bett (n), das
 mn: Bed
 pl: Die Betten 
 
-Mauer, die
+Mauer (n), die
 mn: Wall
 pl: Die Wände 
 
-Straße, die
+Straße (n), die
 mn: Street
 pl: Die Straßen 
 
-Schule, die
+Schule (n), die
 mn: School
 pl: Die Schulen 
 
-Luft, die
+Luft (n), die
 mn: Air
 pl: Die Lüfte 
 
-Boden, der
+Boden (n), der
 mn: Floor
 pl: Die Böden 
 
-Stunde, die
+Stunde (n), die
 mn: Hour
 pl: Die Stunden 
 
-Ende, das
+Ende (n), das
 mn: End
 pl: Die Enden 
 
-Familie, die
+Familie (n), die
 mn: Family
 pl: Die Familien 
 
-Kerl, der
+Kerl (n), der
 mn: Guy
 pl: Die Kerle
 
-Art, die
+Art (n), die
 mn: Kind
 pl: Die Arten 
 
-Minute, die
+Minute (n), die
 mn: Minute
 pl: Die Minuten 
 
-Geschichte, die
+Geschichte (n), die
 mn: Story
 pl: Die Geschichten 
 
-Gott, der
+Gott (n), der
 mn: God
 pl: Die Götter 
 
-Woche, die
+Woche (n), die
 mn: Week
 pl: Die Wochen 
 
-Arbeit, die
+Arbeit (n), die
 mn: Work
 pl: Die Werke 
 
-Schulter, die
+Schulter (n), die
 mn: Shoulder
 pl: Die Schultern 
 
-Teil, der
+Teil (n), der
 mn: Part
 pl: Die Teile 
 
-Geist, der
+Geist (n), der
 mn: Mind
 pl: Die Gemüter 
 
-Buch, das
+Buch (n), das
 mn: Book
 pl: Die Bücher 
 
-Finger, der
+Finger (n), der
 mn: Finger
 pl: Die Finger 
 
-Mund, der
+Mund (n), der
 mn: Mouth
 pl: Die Mündungen 
 
-Kind, das
+Kind (n), das
 mn: Kid
 pl: Die Kinder 
 
-Glas, das
+Glas (n), das
 mn: Glass
 pl: Die Brille 
 
-Baum, der
+Baum (n), der
 mn: Tree
 pl: Die Bäume 
 
-Klang, der
+Klang (n), der
 mn: Sound
 pl: Die Geräusche 
 
-Linie, die
+Linie (n), die
 mn: Line
 pl: Die Linien 
 
-Ehefrau, die
+Ehefrau (n), die
 mn: Wife
 pl: Die Ehefrauen 
 
-Herz, das
+Herz (n), das
 mn: Heart
 pl: Die Herzen 
 
-Geld, das
+Geld (n), das
 mn: Money
 pl: Die Gelder 
 
-Telefon, das
+Telefon (n), das
 mn: Phone
 pl: Die Telefone 
 
-Aussehen, das
+Aussehen (n), das
 mn: Look
 pl: Die Blicke 
 
-Bein, das
+Bein (n), das
 mn: Leg
 pl: Die Beine 
 
-Stuhl, der
+Stuhl (n), der
 mn: Chair
 pl: Die Stühle 
 
-Büro, das
+Büro (n), das
 mn: Office
 pl: Die Büros 
 
-Bruder, der
+Bruder (n), der
 mn: Brother
 pl: Die Brüder 
 
-Frage, die
+Frage (n), die
 mn: Question
 pl: Die Fragen 
 
-Stadt, die
+Stadt (n), die
 mn: City
 pl: Die Städte 
 
-Monat, der
+Monat (n), der
 mn: Month
 pl: Die Monate 
 
-Baby, das
+Baby (n), das
 mn: Baby
 pl: Die Babys 
 
-Zuhause, das
+Zuhause (n), das
 mn: Home
 pl: Die Häuser 
 
-Hund, der
+Hund (n), der
 mn: Dog
 pl: Die Hunde 
 
-Straße, die
+Straße (n), die
 mn: Road
 pl: Die Straßen 
 
-Idee, die
+Idee (n), die
 mn: Idea
 pl: Die Ideen 
 
-Küche, die
+Küche (n), die
 mn: Kitchen
 pl: Die Küchen 
 
-Los, das
+Los (n), das
 mn: Lot
 pl: Die Lose 
 
-Sohn, der
+Sohn (n), der
 mn: Son
 pl: Die Söhne 
 
-Beruf, der
+Beruf (n), der
 mn: Job
 pl: Die Jobs 
 
-Papier, das
+Papier (n), das
 mn: Paper
 pl: Die Papiere 
 
-Schwester, die
+Schwester (n), die
 mn: Sister
 pl: Die Schwestern 
 
-Lächeln, das
+Lächeln (n), das
 mn: Smile
 pl: Die Lächeln 
 
-Punkt, der
+Punkt (n), der
 mn: Point
 pl: Die Punkte 
 
-Gedanke, der
+Gedanke (n), der
 mn: Thought
 pl: Die Gedanken 
 
-Liebe, die
+Liebe (n), die
 mn: Love
 pl: Die Liebe 
 
-Stadt, die
+Stadt (n), die
 mn: Town
 pl: Die Städte 
 
-Tod, der
+Tod (n), der
 mn: Death
 pl: Die Todesfälle 
 
-Boden, der
+Boden (n), der
 mn: Ground
 pl: Die Gründe 
 
-Anderen, die
+Anderen (n), die
 mn: Others
 pl: Die Anderen
 
-Feuer, das
+Feuer (n), das
 mn: Fire
 pl: Die Feuer 
 
-Schritt, der
+Schritt (n), der
 mn: Step
 pl: Die Schritte 
 
-Blut, das
+Blut (n), das
 mn: Blood
 pl: Die Blut
 
-Tatsache, die
+Tatsache (n), die
 mn: Fact
 pl: Die Fakten 
 
-Atem, der
+Atem (n), der
 mn: Breath
 pl: Die Atem 
 
-Lippe, die
+Lippe (n), die
 mn: Lip
 pl: Die Lippen 
 
-Sonne, die
+Sonne (n), die
 mn: Sun
 pl: Die Sonnen 
 
-Gebäude, die
+Gebäude (n), die
 mn: Building
 pl: Die Gebäude 
 
-Anzahl, die
+Anzahl (n), die
 mn: Number
 pl: Die Nummern 
 
-Ehemann, der
+Ehemann (n), der
 mn: Husband
 pl: Die Ehemänner 
 
-Elternteil, das
+Elternteil (n), das
 mn: Parent
 pl: Die Eltern 
 
-Ecke, die
+Ecke (n), die
 mn: Corner
 pl: Die Ecken 
 
-Problem, das
+Problem (n), das
 mn: Problem
 pl: Die Probleme 
 
-Ehepaar, das
+Ehepaar (n), das
 mn: Couple
 pl: Die Paare 
 
-Tochter, die
+Tochter (n), die
 mn: Daughter
 pl: Die Töchter 
 
-Beutel, der
+Beutel (n), der
 mn: Bag
 pl: Die Taschen 
 
-Hölle, die
+Hölle (n), die
 mn: Hell
 pl: Die Höllen 
 
-Rast, die
+Rast (n), die
 mn: Rest
 pl: Die Reste 
 
-Geschäft, das
+Geschäft (n), das
 mn: Business
 pl: Die Unternehmen 
 
-Himmel, der
+Himmel (n), der
 mn: Sky
 pl: Der Himmel 
 
-Kiste, die
+Kiste (n), die
 mn: Box
 pl: Die Boxs 
 
-Person, die
+Person (n), die
 mn: Person
 pl: Die Personen 
 
-Grund, der
+Grund (n), der
 mn: Reason
 pl: Die Gründe 
 
-Recht, das
+Recht (n), das
 mn: Right
 pl: Die Rechte 
 
-Haut, die
+Haut (n), die
 mn: Skin
 pl: Die Häute 
 
-Vater, der
+Vater (n), der
 mn: Dad
 pl: Die Väter 
 
-Fall, der
+Fall (n), der
 mn: Case
 pl: Die Fälle 
 
-Stück, das
+Stück (n), das
 mn: Piece
 pl: Die Stücke 
 
-Doktor, der
+Doktor (n), der
 mn: Doctor
 pl: Die Doktoren 
 
-Ecke, die
+Ecke (n), die
 mn: Edge
 pl: Die Kanten 
 
-Mama, die
+Mama (n), die
 mn: Mom
 pl: Die Mütter 
 
-Bild, das
+Bild (n), das
 mn: Picture
 pl: Die Bilder 
 
-Sinn, der
+Sinn (n), der
 mn: Sense
 pl: Die Sinne 
 
-Ohr, das
+Ohr (n), das
 mn: Ear
 pl: Die Ohren 
 
-Zweite, der
+Zweite (n), der
 mn: Second
 pl: Die Sekunden 
 
-Dame, die
+Dame (n), die
 mn: Lady
 pl: Die Damen 
 
-Hals, der
+Hals (n), der
 mn: Neck
 pl: Die Hälse 
 
-Wind, der
+Wind (n), der
 mn: Wind
 pl: Die Winde 
 
-Schreibtisch, der
+Schreibtisch (n), der
 mn: Desk
 pl: Die Schreibtische 
 
-Waffe, die
+Waffe (n), die
 mn: Gun
 pl: Die Waffen 
 
-Stein, der
+Stein (n), der
 mn: Stone
 pl: Die Steine 
 
-Kaffee, der
+Kaffee (n), der
 mn: Coffee
 pl: Die Kaffee 
 
-Schiff, das
+Schiff (n), das
 mn: Ship
 pl: Die Schiffe 
 
-Erde, die
+Erde (n), die
 mn: Earth
 pl: Die Erden 
 
-Essen, das
+Essen (n), das
 mn: Food
 pl: Die Lebensmittel 
 
-Pferd, das
+Pferd (n), das
 mn: Horse
 pl: Die Pferde 
 
-Feld, das
+Feld (n), das
 mn: Field
 pl: Die Felder 
 
-Krieg, der
+Krieg (n), der
 mn: War
 pl: Die Kriege 
 
-Nachmittag, der
+Nachmittag (n), der
 mn: Afternoon
 pl: Die Nachmittage 
 
-Sir, die
+Sir (n), die
 mn: Sir
 pl: Die Damen Und Herren 
 
-Raum, der
+Raum (n), der
 mn: Space
 pl: Die Räume 
 
-Abend, der
+Abend (n), der
 mn: Evening
 pl: Die Abende 
 
-Brief, der
+Brief (n), der
 mn: Letter
 pl: Die Briefe 
 
-Bar, die
+Bar (n), die
 mn: Bar
 pl: Die Bars 
 
-Traum, der
+Traum (n), der
 mn: Dream
 pl: Die Träume 
 
-Wohnung, die
+Wohnung (n), die
 mn: Apartment
 pl: Die Wohnungen 
 
-Brust, die
+Brust (n), die
 mn: Chest
 pl: Die Truhen 
 
-Spiel, das
+Spiel (n), das
 mn: Game
 pl: Die Spiele 
 
-Sommer, der
+Sommer (n), der
 mn: Summer
 pl: Die Sommer 
 
-Grund, der
+Grund (n), der
 mn: Matter
 pl: Die Angelegenheiten 
 
-Stille, die
+Stille (n), die
 mn: Silence
 pl: Die Stille 
 
-Spitze, die
+Spitze (n), die
 mn: Top
 pl: Die Spitzen 
 
-Fels, der
+Fels (n), der
 mn: Rock
 pl: Die Steine 
 
-Macht, die
+Macht (n), die
 mn: Power
 pl: Die Befugnisse 
 
-Kleider, die
+Kleider (n), die
 mn: Clothes
 pl: Die Clotheses 
 
-Schild, das
+Schild (n), das
 mn: Sign
 pl: Die Zeichen 
 
-Aufmerksamkeit, die
+Aufmerksamkeit (n), die
 mn: Attention
 pl: Die Aufmerksamkeit 
 
-Musik, die
+Musik (n), die
 mn: Music
 pl: Die Musiken 
 
-Staat, der
+Staat (n), der
 mn: State
 pl: Die Staaten 
 
-Tasche, die
+Tasche (n), die
 mn: Pocket
 pl: Die Taschen 
 
-Abendessen, das
+Abendessen (n), das
 mn: Dinner
 pl: Die Abendessen 
 
-Halle, die
+Halle (n), die
 mn: Hall
 pl: Die Hallen 
 
-Schmerz, der
+Schmerz (n), der
 mn: Pain
 pl: Die Schmerzen 
 
-Alter, das
+Alter (n), das
 mn: Age
 pl: Das Alter 
 
-Fluss, der
+Fluss (n), der
 mn: River
 pl: Die Flüsse 
 
-Chance, die
+Chance (n), die
 mn: Chance
 pl: Die Chancen 
 
-Nase, die
+Nase (n), die
 mn: Nose
 pl: Die Nasen 
 
-Schatten, der
+Schatten (n), der
 mn: Shadow
 pl: Die Schatten 
 
-Polizei, die
+Polizei (n), die
 mn: Police
 pl: Die Politiken 
 
-Gedächtnis, das
+Gedächtnis (n), das
 mn: Memory
 pl: Die Erinnerungen 
 
-Farbe, die
+Farbe (n), die
 mn: Color
 pl: Die Farben 
 
-Knie, das
+Knie (n), das
 mn: Knee
 pl: Die Knie 
 
-Holz, das
+Holz (n), das
 mn: Wood
 pl: Der Wald 
 
-Hemd, das
+Hemd (n), das
 mn: Shirt
 pl: Die Hemden 
 
-Party, die
+Party (n), die
 mn: Party
 pl: Die Parteien 
 
-Land, das
+Land (n), das
 mn: Country
 pl: Die Länder 
 
-Lkw, der
+Lkw (n), der
 mn: Truck
 pl: Die Lastwagen 
 
-Zahn, der
+Zahn (n), der
 mn: Tooth
 pl: Die Tooths 
 
-Rechnung, die
+Rechnung (n), die
 mn: Bill
 pl: Die Rechnungen 
 
-Szene, die
+Szene (n), die
 mn: Scene
 pl: Die Szenen
 
-Land, das
+Land (n), das
 mn: Land
 pl: Die Ländereien 
 
-Stern, der
+Stern (n), der
 mn: Star
 pl: Die Sterne 
 
-Vogel, der
+Vogel (n), der
 mn: Bird
 pl: Die Vögel 
 
-Schlafzimmer, das
+Schlafzimmer (n), das
 mn: Bedroom
 pl: Die Schlafzimmer 
 
-Onkel, der
+Onkel (n), der
 mn: Uncle
 pl: Die Onkel 
 
-Art, die
+Art (n), die
 mn: Sort
 pl: Die Sorten 
 
-Gruppe, die
+Gruppe (n), die
 mn: Group
 pl: Die Gruppen 
 
-Wahrheit, die
+Wahrheit (n), die
 mn: Truth
 pl: Die Wahrheiten 
 
-Schwierigkeiten, die
+Schwierigkeiten (n), die
 mn: Trouble
 pl: Die Probleme 
 
-Menge, die
+Menge (n), die
 mn: Crowd
 pl: Die Menschenmengen 
 
-Bahnhof, der
+Bahnhof (n), der
 mn: Station
 pl: Die Stationen 
 
-Reiß, die
+Reiß (n), die
 mn: Tear
 pl: Die Tränen 
 
-Klasse, die
+Klasse (n), die
 mn: Class
 pl: Die Klassen 
 
-Meer, das
+Meer (n), das
 mn: Sea
 pl: Die Meere 
 
-Tier, das
+Tier (n), das
 mn: Animal
 pl: Die Tiere 
 
-Zentrum, das
+Zentrum (n), das
 mn: Center
 pl: Die Zentren 
 
-Gefühl, das
+Gefühl (n), das
 mn: Feeling
 pl: Die Gefühle 
 
-Geschäft, das
+Geschäft (n), das
 mn: Store
 pl: Die Läden 
 
-Berg, der
+Berg (n), der
 mn: Mountain
 pl: Die Berge 
 
-Nachrichten, die
+Nachrichten (n), die
 mn: News
 pl: Die Newses 
 
-Schuh, der
+Schuh (n), der
 mn: Shoe
 pl: Die Schuhe 
 
-Katze, die
+Katze (n), die
 mn: Cat
 pl: Die Katzen 
 
-Bildschirm, der
+Bildschirm (n), der
 mn: Screen
 pl: Die Schirme 
 
-Flasche, die
+Flasche (n), die
 mn: Bottle
 pl: Die Flaschen 
 
-Anruf, der
+Anruf (n), der
 mn: Call
 pl: Die Anrufe 
 
-Lebenden, die
+Lebenden (n), die
 mn: Living
 pl: Die Livings 
 
-Wange, die
+Wange (n), die
 mn: Cheek
 pl: Die Wangen 
 
-Schüler, der
+Schüler (n), der
 mn: Student
 pl: Die Studenten 
 
-Ball, der
+Ball (n), der
 mn: Ball
 pl: Die Bälle 
 
-Sehenswürdigkeit, die
+Sehenswürdigkeit (n), die
 mn: Sight
 pl: Die Sehenswürdigkeiten 
 
-Hügel, der
+Hügel (n), der
 mn: Hill
 pl: Die Hügel 
 
-Unternehmen, das
+Unternehmen (n), das
 mn: Company
 pl: Die Betriebe 
 
-Kirche, die
+Kirche (n), die
 mn: Church
 pl: Die Kirchen 
 
-Regen, der
+Regen (n), der
 mn: Rain
 pl: Die Regenzeit 
 
-Anzug, der
+Anzug (n), der
 mn: Suit
 pl: Die Anzüge 
 
-Eine, der
+Eine (n), der
 mn: One
 pl: Die Einen 
 
-Richtung, die
+Richtung (n), die
 mn: Direction
 pl: Die Richtungen 
 
-Wille, der
+Wille (n), der
 mn: Will
 pl: Die Testamente 
 
-Hals, der
+Hals (n), der
 mn: Throat
 pl: Die Kehlen 
 
-Mitte, die
+Mitte (n), die
 mn: Middle
 pl: Die Middles 
 
-Antwort, die
+Antwort (n), die
 mn: Answer
 pl: Die Antworten 
 
-Zeug, das
+Zeug (n), das
 mn: Stuff
 pl: Die Stoffe 
 
-Krankenhaus, das
+Krankenhaus (n), das
 mn: Hospital
 pl: Die Krankenhäuser 
 
-Kamera, die
+Kamera (n), die
 mn: Camera
 pl: Die Kameras 
 
-Kleid, das
+Kleid (n), das
 mn: Dress
 pl: Die Kleider 
 
-Karte, die
+Karte (n), die
 mn: Card
 pl: Die Karten 
 
-Hof, der
+Hof (n), der
 mn: Yard
 pl: Die Werften 
 
-Dunkelheit, die
+Dunkelheit (n), die
 mn: Dark
 pl: Die Dunkelheiten 
 
-Scheiße, die
+Scheiße (n), die
 mn: Shit
 pl: Die Scheiße 
 
-Bild, das
+Bild (n), das
 mn: Image
 pl: Die Bilder 
 
-Maschine, die
+Maschine (n), die
 mn: Machine
 pl: Die Maschinen 
 
-Distanz, die
+Distanz (n), die
 mn: Distance
 pl: Die Abstände 
 
-Gebiet, das
+Gebiet (n), das
 mn: Area
 pl: Die Bereiche 
 
-Erzähler, der
+Erzähler (n), der
 mn: Narrator
 pl: Die Erzähler 
 
-Eis, das
+Eis (n), das
 mn: Ice
 pl: Die Ices 
 
-Schnee, der
+Schnee (n), der
 mn: Snow
 pl: Der Schnee 
 
-Notiz, die
+Notiz (n), die
 mn: Note
 pl: Die Notizen 
 
-Spiegel, der
+Spiegel (n), der
 mn: Mirror
 pl: Die Spiegel 
 
-König, der
+König (n), der
 mn: King
 pl: Die Könige 
 
-Angst, die
+Angst (n), die
 mn: Fear
 pl: Die Ängste 
 
-Offizier, der
+Offizier (n), der
 mn: Officer
 pl: Die Offiziere 
 
-Loch, das
+Loch (n), das
 mn: Hole
 pl: Die Löcher 
 
-Schuss, der
+Schuss (n), der
 mn: Shot
 pl: Die Schüsse 
 
-Wächter, der
+Wächter (n), der
 mn: Guard
 pl: Die Wachen 
 
-Unterhaltung, die
+Unterhaltung (n), die
 mn: Conversation
 pl: Die Gespräche 
 
-Boot, das
+Boot (n), das
 mn: Boat
 pl: Die Boote 
 
-System, das
+System (n), das
 mn: System
 pl: Die Systeme 
 
-Pflege, die
+Pflege (n), die
 mn: Care
 pl: Die Sorgen 
 
-Bit, die
+Bit (n), die
 mn: Bit
 pl: Die Bits 
 
-Film, der
+Film (n), der
 mn: Movie
 
-Kino, das
+Kino (n), das
 mn: Movie
 
-Knochen, der
+Knochen (n), der
 mn: Bone
 pl: Die Knochen 
 
-Seite, die
+Seite (n), die
 mn: Page
 pl: Die Seiten 
 
-Kapitän, der
+Kapitän (n), der
 mn: Captain
 pl: Die Kapitäne 
 
-Tante, die
+Tante (n), die
 mn: Aunt
 pl: Die Tanten 
 
 Darkness – Dunkelheit
 pl: Die Dunkelheiten 
 
-Kontrolle, die
+Kontrolle (n), die
 mn: Control
 pl: Die Steuerelemente 
 
-Getränk, das
+Getränk (n), das
 mn: Drink
 pl: Die Getränke 
 
-Hotel, das
+Hotel (n), das
 mn: Hotel
 pl: Die Hotels 
 
-Mantel, der
+Mantel (n), der
 mn: Coat
 pl: Die Mäntel 
 
-Treppen, die
+Treppen (n), die
 mn: Stair
 pl: Die Treppe 
 
-Bestellung, die
+Bestellung (n), die
 mn: Order
 pl: Die Aufträge 
 
-Rose, die
+Rose (n), die
 mn: Rose
 pl: Die Rosen 
 
-Fehl, der
+Fehl (n), der
 mn: Miss
 pl: Die Fehlschüsse 
 
-Hut, der
+Hut (n), der
 mn: Hat
 pl: Die Hüte 
 
-Gold, das
+Gold (n), das
 mn: Gold
 pl: Die Goldmedaillen 
 
-Zigarette, die
+Zigarette (n), die
 mn: Cigarette
 pl: Die Zigaretten 
 
-Wolke, die
+Wolke (n), die
 mn: Cloud
 pl: Die Wolken 
 
-Aussicht, die
+Aussicht (n), die
 mn: View
 pl: Die Ansichten 
 
-Fahrer, der
+Fahrer (n), der
 mn: Driver
 pl: Die Fahrer 
 
-Tasse, die
+Tasse (n), die
 mn: Cup
 pl: Die Tassen 
 
-Figur, die
+Figur (n), die
 mn: Figure
 pl: Die Figuren 
 
-Ausdruck, der
+Ausdruck (n), der
 mn: Expression
 pl: Die Ausdrücke 
 
-Pfad, der
+Pfad (n), der
 mn: Path
 pl: Die Wege 
 
-Schlüssel, der
+Schlüssel (n), der
 mn: Key
 pl: Die Schlüssel 
 
-Computer, der
+Computer (n), der
 mn: Computer
 pl: Die Computer 
 
-Blume, die
+Blume (n), die
 mn: Flower
 pl: Die Blumen 
 
-Ring, der
+Ring (n), der
 mn: Ring
 pl: Die Ringe 
 
-Bad, das
+Bad (n), das
 mn: Bathroom
 pl: Die Badezimmer 
 
-Metall, das
+Metall (n), das
 mn: Metal
 pl: Die Metalle 
 
-Mond, der
+Mond (n), der
 mn: Moon
 pl: Die Monde 
 
-Lied, das
+Lied (n), das
 mn: Song
 pl: Die Lieder 
 
-Soldat, der
+Soldat (n), der
 mn: Soldier
 pl: Die Soldaten 
 
-Radio, das
+Radio (n), das
 mn: Radio
 pl: Die Funkgeräte 
 
-Geschichte, die
+Geschichte (n), die
 mn: History
 pl: Die Geschichten 
 
-Welle, die
+Welle (n), die
 mn: Wave
 pl: Die Wellen 
 
-Plan, der
+Plan (n), der
 mn: Plan
 pl: Die Pläne 
 
-College, das
+College (n), das
 mn: College
 pl: Die Fachhochschulen 
 
-Fisch, der
+Fisch (n), der
 mn: Fish
 pl: Die Fische 
 
-Garten, der
+Garten (n), der
 mn: Garden
 pl: Die Gärten 
 
-Zug, der
+Zug (n), der
 mn: Train
 pl: Die Züge 
 
-Geschäft, das
+Geschäft (n), das
 mn: Shop
 pl: Die Läden 
 
-Polizist, der
+Polizist (n), der
 mn: Cop
 pl: Die Polizisten 
 
-Kunst, die
+Kunst (n), die
 mn: Art
 pl: Die Künste 
 
-Bier, das
+Bier (n), das
 mn: Beer
 pl: Die Biere 
 
 North – Norden
 pl: Die Norths 
 
-Insel, die
+Insel (n), die
 mn: Island
 pl: Die Inseln 
 
-Bus, der
+Bus (n), der
 mn: Bus
 pl: Die Busse 
 
-Geruch, der
+Geruch (n), der
 mn: Smell
 pl: Die Gerüche 
 
-Geräusch, das
+Geräusch (n), das
 mn: Noise
 pl: Die Geräusche 
 
-Mama, die
+Mama (n), die
 mn: Mama ~ The Mamas 
 
-Park, der
+Park (n), der
 mn: Park
 pl: Die Parks 
 
-Süden, der
+Süden (n), der
 mn: South
 pl: Die Souths 
 
-Paar, das
+Paar (n), das
 mn: Pair
 pl: Die Paare 
 
-Herr, der
+Herr (n), der
 mn: Lord
 pl: Die Herren 
 
-Teller, der
+Teller (n), der
 mn: Plate
 pl: Die Platten 
 
-Jacke, die
+Jacke (n), die
 mn: Jacket
 pl: Die Jacken 
 
-Hilfe, die
+Hilfe (n), die
 mn: Help
 pl: Die Hilft 
 
-Papa, der
+Papa (n), der
 mn: Daddy
 pl: Die Väter 
 
-Gras, das
+Gras (n), das
 mn: Grass
 pl: Die Gräser 
 
-Dank, die
+Dank (n), die
 mn: Thanks
 pl: Die Thankses 
 
-Hitze, die
+Hitze (n), die
 mn: Heat
 pl: Die Heats 
 
-Schlaf, der
+Schlaf (n), der
 mn: Sleep
 pl: Die Schlafplätze 
 
-Gehirn, das
+Gehirn (n), das
 mn: Brain
 pl: Die Gehirne 
 
-Service, der
+Service (n), der
 mn: Service
 pl: Der Dienstleistungen 
 
-Reise, die
+Reise (n), die
 mn: Trip
 pl: Die Ausflüge 
 
-Beat, der
+Beat (n), der
 mn: Beat
 pl: Die Beats 
 
-Messer, das
+Messer (n), das
 mn: Knife
 pl: Die Messer 
 
-Platz, der
+Platz (n), der
 mn: Spot
 pl: Die Flecken 
 
-Nachricht, die
+Nachricht (n), die
 mn: Message
 pl: Die Nachrichten 
 
-Note, die
+Note (n), die
 mn: Mark
 pl: Die Noten 
 
-Lehrer, der
+Lehrer (n), der
 mn: Teacher
 pl: Die Lehrer 
 
-Blick, der
+Blick (n), der
 mn: Gaze
 pl: Die Blicke 
 
-Dorf, das
+Dorf (n), das
 mn: Village
 pl: Die Dörfer 
 
-Winter, der
+Winter (n), der
 mn: Winter
 pl: Die Winter 
 
-Front, die
+Front (n), die
 mn: Front
 pl: Die Fronten 
 
-Gesetz, das
+Gesetz (n), das
 mn: Law
 pl: Die Gesetze 
 
-Oberfläche, die
+Oberfläche (n), die
 mn: Surface
 pl: Die Oberflächen 
 
-Bank, die
+Bank (n), die
 mn: Bank
 pl: Die Banken 
 
-Team, das
+Team (n), das
 mn: Team
 pl: Die Teams 
 
-Maximum, das
+Maximum (n), das
 mn: Maximum
 pl: Die Maxima 
 
-Position, die
+Position (n), die
 mn: Position
 pl: Die Positionen 
 
-Bauch, der
+Bauch (n), der
 mn: Stomach
 pl: Die Mägen 
 
-Wende, die
+Wende (n), die
 mn: Turn
 pl: Die Windungen 
 
-Westen, der
+Westen (n), der
 mn: West
 pl: Die Wests 
 
-Mittagessen, das
+Mittagessen (n), das
 mn: Lunch
 pl: Die Mittagessen 
 
-Wechsel, der
+Wechsel (n), der
 mn: Change
 pl: Die Veränderungen 
 
-Kreatur, die
+Kreatur (n), die
 mn: Creature
 pl: Geschöpfe
 
-Seele, die
+Seele (n), die
 mn: Soul
 pl: Die Seelen 
 
-Blatt, das
+Blatt (n), das
 mn: Leaf
 pl: Die Blätter 
 
-Show, die
+Show (n), die
 mn: Show
 pl: Die Shows 
 
-Gate, die
+Gate (n), die
 mn: Gate
 pl: Die Tore 
 
-Palme, die
+Palme (n), die
 mn: Palm
 pl: Die Handflächen 
 
-Kunststoff, der
+Kunststoff (n), der
 mn: Plastic
 pl: Die Kunststoff 
 
-Kraft, die
+Kraft (n), die
 mn: Force
 pl: Die Kräfte
 
-Strand, der
+Strand (n), der
 mn: Beach
 pl: Die Strände 
 
-Präsident, der
+Präsident (n), der
 mn: President
 pl: Die Präsidenten 
 
-Form, die
+Form (n), die
 mn: Shape
 pl: Die Formen 
 
-Rauch, der
+Rauch (n), der
 mn: Smoke
 pl: Die Raucht 
 
-Rad, das
+Rad (n), das
 mn: Wheel
 pl: Die Räder 
 
-Silber, das
+Silber (n), das
 mn: Silver
 pl: Die Silber 
 
-Dach, das
+Dach (n), das
 mn: Roof
 pl: Die Dächer 
 
-Gewicht, das
+Gewicht (n), das
 mn: Weight
 pl: Die Gewichte 
 
-Zunge, die
+Zunge (n), die
 mn: Tongue
 pl: Die Zungen 
 
-Tee, der
+Tee (n), der
 mn: Tea
 pl: Die Tees 
 
-Strecke, die
+Strecke (n), die
 mn: Track
 pl: Die Spuren 
 
-Winkel, der
+Winkel (n), der
 mn: Angle
 pl: Die Winkel 
 
-Form, die
+Form (n), die
 mn: Form
 pl: Die Formen
 
-Ton, der
+Ton (n), der
 mn: Tone
 pl: Die Töne 
 
-Kreis, der
+Kreis (n), der
 mn: Circle
 pl: Die Kreise 
 
-Frühling, der
+Frühling (n), der
 mn: Spring
 pl: Die Federn 
 
-Vorhalle, die
+Vorhalle (n), die
 mn: Porch
 pl: Die Veranden 
 
-Blatt, das
+Blatt (n), das
 mn: Sheet
 pl: Die Blätter 
 
-Mitglied, das
+Mitglied (n), das
 mn: Member
 pl: Die Angehörigen 
 
-Schwimmbecken, das
+Schwimmbecken (n), das
 mn: Pool
 pl: Die Pools 
 
-Bedürfnis, das
+Bedürfnis (n), das
 mn: Need
 pl: Die Bedürfnisse 
 
-Hoffnung, die
+Hoffnung (n), die
 mn: Hope
 pl: Die Hoffnungen 
 
-See, der
+See (n), der
 mn: Lake
 pl: Die Seen 
 
-Brust, die
+Brust (n), die
 mn: Breast
 pl: Die Brüste 
 
-Überraschung, die
+Überraschung (n), die
 mn: Surprise
 pl: Die Überraschungen 
 
-Interesse, die
+Interesse (n), die
 mn: Interest
 pl: Die Interessen 
 
-Boden, der
+Boden (n), der
 mn: Bottom
 pl: Die Böden 
 
-Geist, der
+Geist (n), der
 mn: Spirit
 pl: Die Geister 
 
-Block, der
+Block (n), der
 mn: Block
 pl: Die Blöcke 
 
-Sprache, die
+Sprache (n), die
 mn: Language
 pl: Die Sprachen 
 
-Brücke, die
+Brücke (n), die
 mn: Bridge
 pl: Die Brücken 
 
 Dust – Staub
 pl: Die Stäube 
 
-Zelle, die
+Zelle (n), die
 mn: Cell
 pl: Die Zellen 
 
 Wine – Wein
 pl: Die Weine 
 
-Boot, das
+Boot (n), das
 mn: Boot
 pl: Die Stiefel 
 
-Wahl, die
+Wahl (n), die
 mn: Choice
 pl: Die Entscheidungen 
 
-Reihe, die
+Reihe (n), die
 mn: Row
 pl: Die Reihen 
 
-Gespräch, das
+Gespräch (n), das
 mn: Talk
 pl: Die Gespräche 
 
-Flugzeug, das
+Flugzeug (n), das
 mn: Plane
 pl: Die Flugzeuge 
 
-Uhr, die
+Uhr (n), die
 mn: Watch
 pl: Die Uhren 
 
-Information, die
+Information (n), die
 mn: Information
 pl: Die Informationen 
 
-Großmutter, die
+Großmutter (n), die
 mn: Grandmother
 pl: Die Großmütter 
 
-Flügel, der
+Flügel (n), der
 mn: Wing
 pl: Die Flügel 
 
-Bob, die
+Bob (n), die
 mn: Bob
 pl: Die Bobs 
 
-Club, der
+Club (n), der
 mn: Club
 pl: Die Vereine 
 
-Meister, der
+Meister (n), der
 mn: Master
 pl: Die Meister 
 
-Gnade, die
+Gnade (n), die
 mn: Grace
 pl: Die Gnaden 
 
-Wald, der
+Wald (n), der
 mn: Forest
 pl: Die Wälder 
 
-Größe, die
+Größe (n), die
 mn: Size
 pl: Die Größen 
 
-Satz, der
+Satz (n), der
 mn: Set
 pl: Die Sätze 
 
-Ehe, die
+Ehe (n), die
 mn: Marriage
 pl: Die Ehen 
 
-Stirn, die
+Stirn (n), die
 mn: Forehead
 pl: Die Stirn 
 
 Storm – Sturm
 pl: Die Stürme 
 
-Türöffnung, die
+Türöffnung (n), die
 mn: Doorway
 pl: Die Türen 
 
-Situation, die
+Situation (n), die
 mn: Situation
 pl: Die Situationen 
 
-Zähler, der
+Zähler (n), der
 mn: Counter
 pl: Die Zähler 
 
-Nachbar, der
+Nachbar (n), der
 mn: Neighbor
 pl: Die Nachbarn 
 
-Foto, das
+Foto (n), das
 mn: Photo
 pl: Die Fotos 
 
-Bühne, die
+Bühne (n), die
 mn: Stage
 pl: Die Stufen 
 
-Treffen, das
+Treffen (n), das
 mn: Meeting
 pl: Die Sitzungen 
 
-Krankenschwester, die
+Krankenschwester (n), die
 mn: Nurse
 pl: Die Krankenschwestern 
 
-Sicherheit, die
+Sicherheit (n), die
 mn: Security
 pl: Die Wertpapiere 
 
-Waffe, die
+Waffe (n), die
 mn: Weapon
 pl: Die Waffen
 
-Ereignis, das
+Ereignis (n), das
 mn: Event
 pl: Die Events 
 
-Decke, die
+Decke (n), die
 mn: Ceiling
 pl: Die Decken 
 
-Motor, der
+Motor (n), der
 mn: Engine
 pl: Die Motoren 
 
-Geschenk, das
+Geschenk (n), das
 mn: Gift
 pl: Die Geschenke 
 
-Restaurant, das
+Restaurant (n), das
 mn: Restaurant
 pl: Die Restaurants 
 
-Tafel, die
+Tafel (n), die
 mn: Board
 pl: Die Bretter 
 
-Flur, der
+Flur (n), der
 mn: Hallway
 pl: Die Flure 
 
-Armee, die
+Armee (n), die
 mn: Army
 pl: Die Armeen 
 
-Aufwand, der
+Aufwand (n), der
 mn: Effort
 pl: Die Bemühungen
 
-Osten, der
+Osten (n), der
 mn: East
 pl: Die Easts 
 
-Agent, der
+Agent (n), der
 mn: Agent
 pl: Die Mittel 
 
-Zukunft, die
+Zukunft (n), die
 mn: Future
 pl: Die Futures 
 
-Hose, die
+Hose (n), die
 mn: Pant
 pl: Die Hose 
 
-Leder, das
+Leder (n), das
 mn: Leather
 pl: Die Leder 
 
-Flug, der
+Flug (n), der
 mn: Flight
 pl: Die Flüge 
 
-Geschlecht, das
+Geschlecht (n), das
 mn: Sex
 pl: Die Sexs 
 
-Gericht, das
+Gericht (n), das
 mn: Court
 pl: Die Gerichte 
 
-Kurs, der
+Kurs (n), der
 mn: Course
 pl: Die Kurse 
 
-Dreck, der
+Dreck (n), der
 mn: Dirt
 pl: Die Dirts 
 
-Ei, das
+Ei (n), das
 mn: Egg
 pl: Die Eier 
 
-Kinn, das
+Kinn (n), das
 mn: Chin
 pl: Die Kinne 
 
-Fremde, der
+Fremde (n), der
 mn: Stranger
 pl: Die Fremden 
 
-Freude, die
+Freude (n), die
 mn: Pleasure
 pl: Die Freuden 
 
-Detail, das
+Detail (n), das
 mn: Detail
 pl: Die Details 
 
-Besatzung, die
+Besatzung (n), die
 mn: Crew
 pl: Die Besatzungen 
 
-Herbst, der
+Herbst (n), der
 mn: Fall
 pl: Die Wasserfälle 
 
-Gast, der
+Gast (n), der
 mn: Guest
 pl: Die Gäste 
 
-Erlebnis, das
+Erlebnis (n), das
 mn: Experience
 pl: Die Erfahrungen
 
-Witz, der
+Witz (n), der
 mn: Joke
 pl: Die Witze 
 
-Sand, der
+Sand (n), der
 mn: Sand
 pl: Der Sand 
 
-Faust, die
+Faust (n), die
 mn: Fist
 pl: Die Fäuste 
 
-Aktion, die
+Aktion (n), die
 mn: Action
 pl: Die Aktionen 
 
-Wandern, das
+Wandern (n), das
 mn: Walk
 pl: Die Wanderungen 
 
-Hochzeit, die
+Hochzeit (n), die
 mn: Wedding
 pl: Die Hochzeiten 
 
-Deal, der
+Deal (n), der
 mn: Deal
 pl: Die Angebote 
 
-Natur, die
+Natur (n), die
 mn: Nature
 pl: Die Natur 
 
-Planet, der
+Planet (n), der
 mn: Planet
 pl: Die Planeten 
 
-Cousin, der
+Cousin (n), der
 mn: Cousin
 pl: Die Cousinen 
 
-Bewegung, die
+Bewegung (n), die
 mn: Movement
 pl: Die Bewegungen 
 
-Fleisch, das
+Fleisch (n), das
 mn: Flesh
 pl: Die Konkretisiert 
 
-Datensatz, der
+Datensatz (n), der
 mn: Record
 pl: Die Datensätze
 
-Camp, das
+Camp (n), das
 mn: Camp
 pl: Die Lager 
 
-Zeitung, die
+Zeitung (n), die
 mn: Newspaper
 pl: Die Zeitung 
 
-Strahl, der
+Strahl (n), der
 mn: Ray
 pl: Die Strahlen 
 
-Mensch, der
+Mensch (n), der
 mn: Human
 pl: Die Menschen 
 
-Sofa, das
+Sofa (n), das
 mn: Couch
 pl: Die Liegen 
 
-Bewegung, die
+Bewegung (n), die
 mn: Motion
 pl: Die Bewegungen 
 
-Großvater, der
+Großvater (n), der
 mn: Grandfather
 pl: Die Großväter 
 
-Fotografie, die
+Fotografie (n), die
 mn: Photograph
 pl: Die Photographes 
 
-Geheimnis, das
+Geheimnis (n), das
 mn: Secret
 pl: Die Geheimnisse
 
-Schönheit, die
+Schönheit (n), die
 mn: Beauty
 pl: Die Schönheiten 
 
-Vorhandensein, das
+Vorhandensein (n), das
 mn: Presence
 pl: Die Präsenzen 
 
-Glocke, die
+Glocke (n), die
 mn: Bell
 pl: Die Glocken 
 
-Volks, die
+Volks (n), die
 mn: Folk
 pl: Die Leute 
 
-Knopf, der
+Knopf (n), der
 mn: Button
 pl: Die Knöpfe 
 
-Liste, die
+Liste (n), die
 mn: List
 pl: Die Listen 
 
-Level, das
+Level (n), das
 mn: Level
 pl: Die Niveaus 
 
-Datum, das
+Datum (n), das
 mn: Date
 pl: Die Daten 
 
-Thema, das
+Thema (n), das
 mn: Subject
 pl: Die Fächer 
 
-Unterschied, der
+Unterschied (n), der
 mn: Difference
 pl: Die Unterschiede 
 
-Pause, die
+Pause (n), die
 mn: Pause
 pl: Die Pausen 
 
-Van, der
+Van (n), der
 mn: Van
 pl: Die Wagen 
 
-Klinge, die
+Klinge (n), die
 mn: Blade
 pl: Die Klingen 
 
-Fernsehen, das
+Fernsehen (n), das
 mn: Television
 pl: Die Fernseher 
 
-Titelseite, die
+Titelseite (n), die
 mn: Cover
 pl: Die Abdeckungen 
 
-Vergangenheit, die
+Vergangenheit (n), die
 mn: Past
 pl: Die Vergangenheit 
 
-Bauernhof, der
+Bauernhof (n), der
 mn: Farm
 pl: Die Bauernhöfe 
 
-Runden, die
+Runden (n), die
 mn: Lap
 pl: Die Runden 
 
-Band, die
+Band (n), die
 mn: Band
 pl: Die Bands 
 
-Anwalt, der
+Anwalt (n), der
 mn: Lawyer
 pl: Die Anwälte 
 
-Magazin, das
+Magazin (n), das
 mn: Magazine
 pl: Die Zeitschriften 
 
-Ast, der
+Ast (n), der
 mn: Branch
 pl: Die Zweige 
 
-Rahmen, der
+Rahmen (n), der
 mn: Frame
 pl: Die Rahmen 
 
-Deck, das
+Deck (n), das
 mn: Deck
 pl: Die Decks 
 
-Effekt, der
+Effekt (n), der
 mn: Effect
 pl: Die Effekte 
 
-Tanz, der
+Tanz (n), der
 mn: Dance
 pl: Die Tänze 
 
-Sicht, die
+Sicht (n), die
 mn: Vision
 pl: Die Visionen 
 
-Gespenst, das
+Gespenst (n), das
 mn: Ghost
 pl: Die Geister 
 
-Esel, der
+Esel (n), der
 mn: Ass
 pl: Die Esel 
 
-Charakter, der
+Charakter (n), der
 mn: Character
 pl: Die Charaktere 
 
-Blick, der
+Blick (n), der
 mn: Glance
 pl: Die Blicke 
 
-Auf Wiedersehen, das
+Auf Wiedersehen (n), das
 mn: GoodBye
 pl: Die Verabschiedungen 
 
-Park, das
+Park (n), das
 mn: Parking
 pl: Die Parkplätze 
 
-Frühstück, das
+Frühstück (n), das
 mn: Breakfast
 pl: Das Frühstück 
 
-Geste, die
+Geste (n), die
 mn: Gesture
 pl: Die Gesten 
 
-Glück, das
+Glück (n), das
 mn: Luck
 pl: Die Lucks 
 
-Decke, die
+Decke (n), die
 mn: Blanket
 pl: Die Decken 
 
-Gas, das
+Gas (n), das
 mn: Gas
 pl: Die Gase 
 
-Korridor, der
+Korridor (n), der
 mn: Corridor
 pl: Die Flure 
 
-Professor, der
+Professor (n), der
 mn: Professor
 pl: Die Professoren 
 
-Spiel, das
+Spiel (n), das
 mn: Play
 pl: Die Spiele 
 
-Fehler, der
+Fehler (n), der
 mn: Mistake
 pl: Die Fehler 
 
-Universität, die
+Universität (n), die
 mn: University
 pl: Die Universitäten 
 
-Ozean, der
+Ozean (n), der
 mn: Ocean
 pl: Die Ozeane 
 
-Jahrhundert, das
+Jahrhundert (n), das
 mn: Century
 pl: Die Jahrhunderte 
 
-Honig, der
+Honig (n), der
 mn: Honey
 pl: Die Honige
 
-Stapel, der
+Stapel (n), der
 mn: Pile
 pl: Die Pfähle 
 
-Schale, die
+Schale (n), die
 mn: Bowl
 pl: Die Schalen 
 
 Base – Basis
 pl: Die Basen 
 
-Zaun, der
+Zaun (n), der
 mn: Fence
 pl: Die Zäune 
 
-Regel, die
+Regel (n), die
 mn: Rule
 pl: Die Regeln 
 
-Gelächter, das
+Gelächter (n), das
 mn: Laughter
 pl: Die Gelächter
 
-Wut, die
+Wut (n), die
 mn: Anger
 pl: Die Angers 
 
-Schweiß, der
+Schweiß (n), der
 mn: Sweat
 pl: Die Schweißausbrüche 
 
-Unfall, der
+Unfall (n), der
 mn: Accident
 pl: Die Unfälle 
 
-Wetter, das
+Wetter (n), das
 mn: Weather
 pl: Die Wind Und Wetter 
 
-Entscheidung, die
+Entscheidung (n), die
 mn: Decision
 pl: Die Entscheidungen 
 
-Engel, der
+Engel (n), der
 mn: Angel
 pl: Die Engel 
 
-Stärke, die
+Stärke (n), die
 mn: Strength
 pl: Die Stärken 
 
-Huhn, das
+Huhn (n), das
 mn: Chicken
 pl: Die Hühner 
 
-Studium, die
+Studium (n), die
 mn: Study
 pl: Die Studien 
 
-Band, das
+Band (n), das
 mn: Tape
 pl: Die Bänder 
 
-Handgelenk, das
+Handgelenk (n), das
 mn: Wrist
 pl: Die Handgelenke 
 
-Halt, der
+Halt (n), der
 mn: Stop
 pl: Die Anschläge 
 
-Hüfte, die
+Hüfte (n), die
 mn: Hip
 pl: Die Hüften 
 
-Regierung, die
+Regierung (n), die
 mn: Government
 pl: Die Regierungen 
 
-Bauch, der
+Bauch (n), der
 mn: Belly
 pl: Die Bäuche 
 
-Königin, die
+Königin (n), die
 mn: Queen
 pl: Die Königinnen 
 
 Report – Bericht
 pl: Die Berichte 
 
-Schweif, der
+Schweif (n), der
 mn: Tail
 pl: Die Schwänze 
 
-Pflanze, die
+Pflanze (n), die
 mn: Plant
 pl: Die Pflanzen 
 
-Flamme, die
+Flamme (n), die
 mn: Flame
 pl: Die Flammen 
 
-Himmel, der
+Himmel (n), der
 mn: Heaven
 pl: Die Himmel 
 
-Gürtel, der
+Gürtel (n), der
 mn: Belt
 pl: Die Gürtel 
 
-Nachbarschaft, die
+Nachbarschaft (n), die
 mn: Neighborhood
 pl: Die Nachbarschaften 
 
-Energie, die
+Energie (n), die
 mn: Energy
 pl: Die Energien 
 
-Grün, das
+Grün (n), das
 mn: Green
 pl: Die Grünen 
 
-Viertel, das
+Viertel (n), das
 mn: Quarter
 pl: Die Viertel 
 
-Feind, der
+Feind (n), der
 mn: Enemy
 pl: Die Feinde 
 
-Bewegung, die
+Bewegung (n), die
 mn: Move
 pl: Die Züge 
 
-Eingang, der
+Eingang (n), der
 mn: Entrance
 pl: Die Zugänge 
 
-Bibliothek, die
+Bibliothek (n), die
 mn: Library
 pl: Die Bibliotheken 
 
-Verfasser, der
+Verfasser (n), der
 mn: Writer
 pl: Die Autoren 
 
-Frieden, der
+Frieden (n), der
 mn: Peace
 pl: Die Peaces 
 
-Berührung, die
+Berührung (n), die
 mn: Touch
 pl: Die Berührungen 
 
-Topf, der
+Topf (n), der
 mn: Pot
 pl: Die Töpfe 
 
-Typ, der
+Typ (n), der
 mn: Type
 pl: Die Typen 
 
-Grund, der
+Grund (n), der
 mn: Cause
 pl: Die Gründe 
 
-Seil, das
+Seil (n), das
 mn: Rope
 pl: Die Seile 
 
-Muskel, der
+Muskel (n), der
 mn: Muscle
 pl: Die Muskeln 
 
-Gemälde, das
+Gemälde (n), das
 mn: Painting
 pl: Die Gemälde 
 
-Gardine, die
+Gardine (n), die
 mn: Curtain
 pl: Die Vorhänge 
 
-Mahlzeit, die
+Mahlzeit (n), die
 mn: Meal
 pl: Die Essen 
 
-Akt, der
+Akt (n), der
 mn: Act
 pl: Die Handlungen 
 
-Wolf, der
+Wolf (n), der
 mn: Wolf
 pl: Die Wölfe 
 
-Kajüte, die
+Kajüte (n), die
 mn: Cabin
 pl: Die Kabinen 
 
-Ladung, die
+Ladung (n), die
 mn: Charge
 pl: Die Ladungen 
 
-Uhr, die
+Uhr (n), die
 mn: Clock
 pl: Die Uhren 
 
-Passagier, der
+Passagier (n), der
 mn: Passenger
 pl: Die Passagiere 
 
-Kumpel, der
+Kumpel (n), der
 mn: Buddy
 pl: Die Freunde 
 
-Medikament, das
+Medikament (n), das
 mn: Drug
 pl: Die Arzneimittel 
 
-Verwendung, die
+Verwendung (n), die
 mn: Use
 pl: Die Verwendungen 
 
-Bank, die
+Bank (n), die
 mn: Bench
 pl: Die Bänke 
 
-Verkehr, der
+Verkehr (n), der
 mn: Traffic
 pl: Die Verkehre 
 
-Relief, das
+Relief (n), das
 mn: Relief
 pl: Die Reliefs 
 
-Kappe, die
+Kappe (n), die
 mn: Cap
 pl: Die Kappen 
 
-Rudel, das
+Rudel (n), das
 mn: Pack
 pl: Die Packungen 
 
-Wochenende, das
+Wochenende (n), das
 mn: Weekend
 pl: Die Wochenenden 
 
-Stand, der
+Stand (n), der
 mn: Stand
 pl: Die Stände 
 
-Aufzug, der
+Aufzug (n), der
 mn: Elevator
 pl: Die Aufzüge 
 
-Geburtstag, der
+Geburtstag (n), der
 mn: Birthday
 pl: Die Geburtstage 
 
-Lilie, die
+Lilie (n), die
 mn: Lily
 pl: Die Lilien 
 
-Bügeleisen, das
+Bügeleisen (n), das
 mn: Iron
 pl: Die Eisen 
 
-Fleisch, das
+Fleisch (n), das
 mn: Meat
 pl: Das Fleisch 
 
-Augenbraue, die
+Augenbraue (n), die
 mn: Eyebrow
 pl: Die Augenbrauen 
 
-Antwort, die
+Antwort (n), die
 mn: Response
 pl: Die Antworten 
 
-Geschwindigkeit, die
+Geschwindigkeit (n), die
 mn: Speed
 pl: Die Geschwindigkeiten 
 
-Absicht, die
+Absicht (n), die
 mn: Purpose
 pl: Die Zwecke 
 
-Rock, der
+Rock (n), der
 mn: Skirt
 pl: Die Röcke 
 
-Quadrat, das
+Quadrat (n), das
 mn: Square
 pl: Die Quadrate 
 
-Fahrt, die
+Fahrt (n), die
 mn: Drive
 pl: Die Antriebe 
 
 Article – Den Artikel
 pl: Die Artikel 
 
-Englisch, das
+Englisch (n), das
 mn: English
 pl: Die Englishes 
 
-Turm, der
+Turm (n), der
 mn: Tower
 pl: Die Türme 
 
-Kampf, der
+Kampf (n), der
 mn: Battle
 pl: Die Schlachten 
 
-Film, der
+Film (n), der
 mn: Film
 pl: Die Filme 
 
-Rennen, das
+Rennen (n), das
 mn: Race
 pl: Die Rennen 
 
-Schock, der
+Schock (n), der
 mn: Shock
 pl: Die Schocks 
 
-Sektion, die
+Sektion (n), die
 mn: Section
 pl: Die Abschnitte 
 
-Methode, die
+Methode (n), die
 mn: Manner
 pl: Die Sitten 
 
-Schwert, das
+Schwert (n), das
 mn: Sword
 pl: Die Schwerter 
 
-Stock, der
+Stock (n), der
 mn: Stick
 pl: Die Stöcke 
 
-Datei, die
+Datei (n), die
 mn: File
 pl: Die Dateien 
 
-Brot, das
+Brot (n), das
 mn: Bread
 pl: Die Brote 
 
-Öl, das
+Öl (n), das
 mn: Oil
 pl: Die Öle 
 
-Kette, die
+Kette (n), die
 mn: Chain
 pl: Die Ketten 
 
-Abteilung, die
+Abteilung (n), die
 mn: Department
 pl: Die Abteilungen 
 
 Project – Projekt
 pl: Die Projekte 
 
-Mord, der
+Mord (n), der
 mn: Murder
 pl: Die Morde 
 
-Bär, der
+Bär (n), der
 mn: Bear
 pl: Die Bären 
 
-Test, der
+Test (n), der
 mn: Test
 pl: Die Tests 
 
-Besuch, der
+Besuch (n), der
 mn: Visit
 pl: Die Besuche 
 
-Milch, die
+Milch (n), die
 mn: Milk
 pl: Die Milch 
 
-Chef, der
+Chef (n), der
 mn: Boss
 pl: Die Bosse 
 
-Ellbogen, der
+Ellbogen (n), der
 mn: Elbow
 pl: Die Ellbogen 
 
-Verlangen, das
+Verlangen (n), das
 mn: Desire
 pl: Die Wünsche 
 
-Patient, der
+Patient (n), der
 mn: Patient
 pl: Die Patienten 
 
-Grinsen, das
+Grinsen (n), das
 mn: Grin
 pl: Die Grins 
 
-Liebhaber, der
+Liebhaber (n), der
 mn: Lover
 pl: Die Liebhaber 
 
-Preis, der
+Preis (n), der
 mn: Price
 pl: Die Preise 
 
-Karte, die
+Karte (n), die
 mn: Map
 pl: Die Karten 
 
-Wissen, das
+Wissen (n), das
 mn: Knowledge
 pl: Die Erkenntnisse 
 
-Anfang, der
+Anfang (n), der
 mn: Beginning
 pl: Die Anfänge 
 
-Kälte, die
+Kälte (n), die
 mn: Cold
 pl: Die Erkältung 
 
-Schrank, der
+Schrank (n), der
 mn: Closet
 pl: Die Schränke 
 
-Morgendämmerung, die
+Morgendämmerung (n), die
 mn: Dawn
 ex:
 - Im Morgengrauen
 
-Tempel, der
+Tempel (n), der
 mn: Temple
 pl: Die Tempel 
 
-Spaß, der
+Spaß (n), der
 mn: Joy
 pl: Die Freuden 
 
-Pflicht, die
+Pflicht (n), die
 mn: Duty
 pl: Die Aufgaben 
 
-Übung, die
+Übung (n), die
 mn: Practice
 pl: Die Praktiken 
 
-Ferse, die
+Ferse (n), die
 mn: Heel
 pl: Die Fersen 
 
-Tal, das
+Tal (n), das
 mn: Valley
 pl: Die Täler 
 
-Kampf, der
+Kampf (n), der
 mn: Fight
 pl: Die Kämpfe 
 
-Kabel, das
+Kabel (n), das
 mn: Wire
 pl: Die Drähte 
 
-Jeans, die
+Jeans (n), die
 mn: Jeans
 pl: Die Jeanses 
 
-Kuss, der
+Kuss (n), der
 mn: Kiss
 pl: Die Küsse 
 
-Kiefer, der
+Kiefer (n), der
 mn: Jaw
 pl: Die Backen 
 
-Lauf, die
+Lauf (n), die
 mn: Run
 pl: Die Läufe 
 
-Halt, der
+Halt (n), der
 mn: Hold
 pl: Die Laderäume 
 
-Verhältnis, das
+Verhältnis (n), das
 mn: Relationship
 pl: Die Beziehungen 
 
-Objekt, das
+Objekt (n), das
 mn: Object
 pl: Die Objekte 
 
-Angriff, der
+Angriff (n), der
 mn: Attack
 pl: Die Angriffe 
 
-Gericht, das
+Gericht (n), das
 mn: Dish
 pl: Das Geschirr 
 
-Autobahn, die
+Autobahn (n), die
 mn: Highway
 pl: Die Autobahnen 
 
-Schattierung, die
+Schattierung (n), die
 mn: Shade
 pl: Die Schatten 
 
-Verbrechen, das
+Verbrechen (n), das
 mn: Crime
 pl: Die Verbrechen 
 
-Weiß, das
+Weiß (n), das
 mn: White
 pl: Die Weißen 
 
-Partner, der
+Partner (n), der
 mn: Partner
 pl: Die Partner 
 
-Priester, der
+Priester (n), der
 mn: Priest
 pl: Die Priester 
 
-Rasen, der
+Rasen (n), der
 mn: Lawn
 pl: Der Rasen 
 
-Lachen, das
+Lachen (n), das
 mn: Laugh
 pl: Die Lachen
 
-Kofferraum, der
+Kofferraum (n), der
 mn: Trunk
 pl: Die Stämme 
 
-Weinen, das
+Weinen (n), das
 mn: Cry
 pl: Die Schreie 
 
-Programm, das
+Programm (n), das
 mn: Program
 pl: Die Programme 
 
-Fahrt, die
+Fahrt (n), die
 mn: Ride
 pl: Die Fahrten 
 
-Regal, das
+Regal (n), das
 mn: Shelf
 pl: Die Regale 
 
-Gentleman, der
+Gentleman (n), der
 mn: Gentleman ~ The Gentlemans 
 
-Sein, das
+Sein (n), das
 mn: Being
 pl: Die Wesen 
 
-Stahl, der
+Stahl (n), der
 mn: Steel
 pl: Die Stähle 
 
-Bürgersteig, der
+Bürgersteig (n), der
 mn: Sidewalk
 pl: Die Bürgersteige 
 
-Uniform, die
+Uniform (n), die
 mn: Uniform
 pl: Die Uniformen 
 
-Muster, das
+Muster (n), das
 mn: Pattern
 pl: Die Muster 
 
-Beweis, der
+Beweis (n), der
 mn: Evidence
 pl: Die Beweise 
 
-Spieler, der
+Spieler (n), der
 mn: Player
 pl: Die Spieler 
 
-Roman, der
+Roman (n), der
 mn: Novel
 pl: Die Romane 
 
-Kissen, das
+Kissen (n), das
 mn: Pillow
 pl: Die Kissen 
 
-Lampe, die
+Lampe (n), die
 mn: Lamp
 pl: Die Lampen 
 
-Schublade, die
+Schublade (n), die
 mn: Drawer
 pl: Die Schubladen 
 
-Gefahr, die
+Gefahr (n), die
 mn: Danger
 pl: Die Gefahren 
 
-Detektiv, der
+Detektiv (n), der
 mn: Detective
 pl: Die Detektive 
 
-Instant, die
+Instant (n), die
 mn: Instant
 pl: Die Zeitpunkte 
 
-Denken, das
+Denken (n), das
 mn: Thinking
 pl: Die Gedanken 
 
-Riss, der
+Riss (n), der
 mn: Crack
 pl: Die Risse 
 
-Gebet, das
+Gebet (n), das
 mn: Prayer
 pl: Die Gebete 
 
-Handtuch, das
+Handtuch (n), das
 mn: Towel
 pl: Die Handtücher 
 
-Handschuh, der
+Handschuh (n), der
 mn: Glove
 pl: Die Handschuhe 
 
-Bucht, die
+Bucht (n), die
 mn: Bay
 pl: Die Buchten 
 
-Publikum, das
+Publikum (n), das
 mn: Audience
 pl: Das Publikum 
 
-Dose, die
+Dose (n), die
 mn: Can
 pl: Die Dosen 
 
-Bedingung, die
+Bedingung (n), die
 mn: Condition
 pl: Die Bedingungen 
 
-Pfad, der
+Pfad (n), der
 mn: Trail
 pl: Die Wanderwege 
 
-Taille, die
+Taille (n), die
 mn: Waist
 pl: Die Taille 
 
-Druck, der
+Druck (n), der
 mn: Pressure
 pl: Die Drücke 
 
-Telefon, das
+Telefon (n), das
 mn: Telephone
 pl: Die Telefone 
 
-Waschbecken, das
+Waschbecken (n), das
 mn: Sink
 pl: Die Waschbecken 
 
-Rückkehr, die
+Rückkehr (n), die
 mn: Return
 pl: Die Renditen 
 
-Brise, die
+Brise (n), die
 mn: Breeze
 pl: Die Lüfte 
 
-Geschmack, der
+Geschmack (n), der
 mn: Taste
 pl: Die Geschmäcker 
 
-Fehler, der
+Fehler (n), der
 mn: Fault
 pl: Die Fehler 
 
-Strom, der
+Strom (n), der
 mn: Stream
 pl: Die Bäche
 
-Ergebnis, das
+Ergebnis (n), das
 mn: Result
 pl: Die Ergebnisse 
 
-Autor, der
+Autor (n), der
 mn: Author
 pl: Die Autoren 
 
-Trinkgeld, das
+Trinkgeld (n), das
 mn: Tip
 pl: Die Spitzen 
 
-Dusche, die
+Dusche (n), die
 mn: Shower
 pl: Die Duschen 
 
-Zehe, die
+Zehe (n), die
 mn: Toe
 pl: Die Zehen 
 
-Jahreszeit, die
+Jahreszeit (n), die
 mn: Season
 pl: Die Jahreszeiten 
 
-Hälfte, die
+Hälfte (n), die
 mn: Half
 pl: Die Hälften 
 
-Dummkopf, der
+Dummkopf (n), der
 mn: Fool
 pl: Die Narren 
 
-Tunnel, der
+Tunnel (n), der
 mn: Tunnel
 pl: Die Tunnel 
 
-Klient, der
+Klient (n), der
 mn: Client
 pl: Die Clients 
 
-Garage, die
+Garage (n), die
 mn: Garage
 pl: Die Garagen 
 
-Mission, die
+Mission (n), die
 mn: Mission
 pl: Die Missionen 
 
-Chef, der
+Chef (n), der
 mn: Chief
 pl: Die Häuptlinge 
 
-Kugel, die
+Kugel (n), die
 mn: Bullet
 pl: Die Kugeln 
 
-Markt, der
+Markt (n), der
 mn: Market
 pl: Die Märkte 
 
-Verlust, der
+Verlust (n), der
 mn: Loss
 pl: Die Verluste 
 
-Reihe, die
+Reihe (n), die
 mn: Series
 pl: Die Serieses 
 
-Stift, der
+Stift (n), der
 mn: Pen
 pl: Die Stifte 
 
-Begriff, der
+Begriff (n), der
 mn: Term
 pl: Die Begriffe 
 
-Gedicht, das
+Gedicht (n), das
 mn: Poem
 pl: Die Gedichte 
 
-Prinz, der
+Prinz (n), der
 mn: Prince
 pl: Die Fürsten 
 
-Ton, der
+Ton (n), der
 mn: Clay
 pl: Die Tone 
 
-Schloss, das
+Schloss (n), das
 mn: Lock
 pl: Die Schlösser 
 
-Realität, die
+Realität (n), die
 mn: Reality
 pl: Die Wirklichkeiten 
 
-Schlange, die
+Schlange (n), die
 mn: Snake
 pl: Die Schlangen 
 
-Apfel, der
+Apfel (n), der
 mn: Apple
 pl: Die Äpfel 
 
-Maske, die
+Maske (n), die
 mn: Mask
 pl: Die Masken 
 
 Customer – Dem Kunden
 pl: Die Kunden 
 
-Geburt, die
+Geburt (n), die
 mn: Birth
 pl: Die Geburten 
 
-Pause, die
+Pause (n), die
 mn: Break
 pl: Die Pausen 
 
-Wunder, das
+Wunder (n), das
 mn: Wonder
 pl: Die Wunder
 
-Sonnenlicht, das
+Sonnenlicht (n), das
 mn: Sunlight
 pl: Die Sunlights 
 
-Panzer, der
+Panzer (n), der
 mn: Tank
 pl: Die Tanks 
 
-Personal, das
+Personal (n), das
 mn: Staff
 pl: Die Mitarbeiter 
 
-Lüge, die
+Lüge (n), die
 mn: Lie
 pl: Die Lügen 
 
-Glaube, der
+Glaube (n), der
 mn: Faith
 pl: Die Glaubensrichtungen 
 
-Ehre, die
+Ehre (n), die
 mn: Honor
 pl: Die Ehrungen
 
-Creme, die
+Creme (n), die
 mn: Cream
 pl: Die Cremes 
 
-Wohl, das
+Wohl (n), das
 mn: Sake
 pl: Die Willen 
 
-Opfer, das
+Opfer (n), das
 mn: Victim
 pl: Die Opfer 
 
-Möglichkeit, die
+Möglichkeit (n), die
 mn: Possibility
 pl: Die Möglichkeiten 
 
-Kontakt, der
+Kontakt (n), der
 mn: Contact
 pl: Die Kontakte 
 
-Stimmung, die
+Stimmung (n), die
 mn: Mood
 pl: Die Stimmungen 
 
-Daumen, der
+Daumen (n), der
 mn: Thumb
 pl: Die Daumen 
 
-Lesen, das
+Lesen (n), das
 mn: Reading
 pl: Die Messwerte 
 
-Spaß, der
+Spaß (n), der
 mn: Fun
 pl: Die Funs 
 
-Kerze, die
+Kerze (n), die
 mn: Candle
 pl: Die Kerzen 
 
-Höhle, die
+Höhle (n), die
 mn: Cave
 pl: Die Höhlen 
 
-Post, die
+Post (n), die
 mn: Post
 pl: Die Pfosten 
 
-Gefängnis, das
+Gefängnis (n), das
 mn: Prison
 pl: Die Gefängnisse 
 
-Emotion, die
+Emotion (n), die
 mn: Emotion
 pl: Die Emotionen 
 
-Führer, der
+Führer (n), der
 mn: Leader
 pl: Die Führer 
 
-Grad, der
+Grad (n), der
 mn: Degree
 pl: Die Grade
 
-Eigenschaft, die
+Eigenschaft (n), die
 mn: Feature
 pl: Die Funktionen 
 
-Ticket, das
+Ticket (n), das
 mn: Ticket
 pl: Die Tickets 
 
-Alien, das
+Alien (n), das
 mn: Alien
 pl: Die Aliens 
 
-Unterricht, der
+Unterricht (n), der
 mn: Lesson
 pl: Die Stunden 
 
-Wüste, die
+Wüste (n), die
 mn: Desert
 pl: Die Wüsten 
 
-Schnitt, der
+Schnitt (n), der
 mn: Cut
 pl: Die Schnitte 
 
-Unordnung, die
+Unordnung (n), die
 mn: Mess
 pl: Die Kasinos 
 
-Warnung, die
+Warnung (n), die
 mn: Warning
 pl: Die Warnungen 
 
-Märchen, das
+Märchen (n), das
 mn: Tale
 pl: Die Geschichten 
 
-Begräbnis, das
+Begräbnis (n), das
 mn: Funeral
 pl: Die Beerdigungen 
 
-Taxi, das
+Taxi (n), das
 mn: Cab
 pl: Die Kabinen 
 
-Reporter, der
+Reporter (n), der
 mn: Reporter
 pl: Die Reporter 
 
-Geschenk, das
+Geschenk (n), das
 mn: Present
 pl: Die Geschenke 
 
-Theater, das
+Theater (n), das
 mn: Theater
 pl: Die Theater 
 
-Länge, die
+Länge (n), die
 mn: Length
 pl: Die Längen 
 
-Schlamm, der
+Schlamm (n), der
 mn: Mud
 pl: Die Schlämme 
 
-Wissenschaft, die
+Wissenschaft (n), die
 mn: Science
 pl: Die Wissenschaften 
 
-Fall, der
+Fall (n), der
 mn: Drop
 pl: Die Tropfen 
 
-Schnur, die
+Schnur (n), die
 mn: String
 pl: Die Streicher 
 
-Rede, die
+Rede (n), die
 mn: Speech
 pl: Die Reden 
 
-Kopie, die
+Kopie (n), die
 mn: Copy
 pl: Die Kopien 
 
-Kuh, die
+Kuh (n), die
 mn: Cow
 pl: Die Kühe 
 
-Arbeiter, der
+Arbeiter (n), der
 mn: Worker
 pl: Die Arbeiter 
 
-Oberschenkel, der
+Oberschenkel (n), der
 mn: Thigh
 pl: Die Thighes 
 
-Labor, das
+Labor (n), das
 mn: Lab
 pl: Die Labore 
 
-Rolle, die
+Rolle (n), die
 mn: Roll
 pl: Die Walzen 
 
-Obst, das
+Obst (n), das
 mn: Fruit
 pl: Die Früchte 
 
-Patch, der
+Patch (n), der
 mn: Patch
 pl: Die Patches 
 
-Seide, die
+Seide (n), die
 mn: Silk
 pl: Die Seide 
 
-Buck, der
+Buck (n), der
 mn: Buck
 pl: Die Böcke 
 
-Ziegel, die
+Ziegel (n), die
 mn: Brick
 pl: Die Ziegel 
 
-Gewehr, das
+Gewehr (n), das
 mn: Rifle
 pl: Die Gewehre 
 
-Karriere, die
+Karriere (n), die
 mn: Career
 pl: Die Karrieren 
 
-Thema, das
+Thema (n), das
 mn: Issue
 pl: Die Probleme 
 
-Gelegenheit, die
+Gelegenheit (n), die
 mn: Opportunity
 pl: Die Chancen 
 
-Direktor, der
+Direktor (n), der
 mn: Director
 pl: Die Direktoren 
 
-Monster, das
+Monster (n), das
 mn: Monster
 pl: Die Monster 
 
-Fahrzeug, das
+Fahrzeug (n), das
 mn: Vehicle
 pl: Die Fahrzeuge 
 
-Gasse, die
+Gasse (n), die
 mn: Alley
 pl: Die Gassen 
 
-Hülse, die
+Hülse (n), die
 mn: Sleeve
 pl: Die Ärmel 
 
-Grab, das
+Grab (n), das
 mn: Grave
 pl: Die Gräber 
 
-Busch, der
+Busch (n), der
 mn: Bush
 pl: Die Büsche 
 
-Speisesaal, der
+Speisesaal (n), der
 mn: Dining
 pl: Die Dinings 
 
-Eröffnung, die
+Eröffnung (n), die
 mn: Opening
 pl: Die Öffnungen 
 
-Zwilling, der
+Zwilling (n), der
 mn: Twin
 pl: Die Zwillinge 
 
-Scheune, die
+Scheune (n), die
 mn: Barn
 pl: Die Scheunen 
 
-Pfund, das
+Pfund (n), das
 mn: Pound
 pl: Die Pfunde 
 
-Standort, der
+Standort (n), der
 mn: Site
 pl: Die Websites 
 
-Blitz, der
+Blitz (n), der
 mn: Flash
 pl: Die Blitze 
 
-Richter, der
+Richter (n), der
 mn: Judge
 pl: Die Richter 
 
-Masse, die
+Masse (n), die
 mn: Mass
 pl: Die Massen 
 
-Prozess, der
+Prozess (n), der
 mn: Process
 pl: Die Prozesse 
 
-Band, das
+Band (n), das
 mn: Tie
 pl: Die Bande 
 
-Geldbeutel, der
+Geldbeutel (n), der
 mn: Purse
 pl: Die Geldbeutel 
 
-Rohr, das
+Rohr (n), das
 mn: Pipe
 pl: Die Röhren 
 
-Drache, der
+Drache (n), der
 mn: Dragon
 pl: Die Drachen 
 
-Horizont, der
+Horizont (n), der
 mn: Horizon
 pl: Die Horizonte 
 
-Schale, die
+Schale (n), die
 mn: Tray
 pl: Die Traies 
 
-Umschlag, der
+Umschlag (n), der
 mn: Envelope
 pl: Die Umschläge 
 
-Prüfung, die
+Prüfung (n), die
 mn: Check
 pl: Die Kontrollen 
 
-Erwachsene, die
+Erwachsene (n), die
 mn: Adult
 pl: Die Erwachsenen 
 
-Notfall, der
+Notfall (n), der
 mn: Emergency
 pl: Die Emergencys 
 
-Material, das
+Material (n), das
 mn: Material
 pl: Die Materialien 
 
-Kindheit, die
+Kindheit (n), die
 mn: Childhood
 pl: Die Kindheit 
 
-Angewohnheit, die
+Angewohnheit (n), die
 mn: Habit
 pl: Die Gewohnheiten 
 
-Künstler, der
+Künstler (n), der
 mn: Artist
 pl: Die Artisten 
 
-Adresse, die
+Adresse (n), die
 mn: Address
 pl: Die Adressen 
 
-Duft, der
+Duft (n), der
 mn: Scent
 pl: Die Düfte 
 
-Universum, das
+Universum (n), das
 mn: Universe
 pl: Die Universen 
 
-Kopfnicken, das
+Kopfnicken (n), das
 mn: Nod
 pl: Die Nickt 
 
-Muschel, die
+Muschel (n), die
 mn: Shell
 pl: Die Schalen 
 
-Gemeinde, die
+Gemeinde (n), die
 mn: Community
 pl: Die Gemeinden 
 
-Anfang, der
+Anfang (n), der
 mn: Start
 
-Beginnt, der
+Beginnt (n), der
 mn: Beginning
 
-Wunde, die
+Wunde (n), die
 mn: Wound
 pl: Die Wunden 
 
-Maus, die
+Maus (n), die
 mn: Mouse
 pl: Die Mäuse 
 
-Pilot, der
+Pilot (n), der
 mn: Pilot
 pl: Die Piloten 
 
-Klasse, die
+Klasse (n), die
 mn: Grade
 pl: Die Noten 
 
-Video, das
+Video (n), das
 mn: Video
 pl: Die Videos 
 
-Korb, der
+Korb (n), der
 mn: Basket
 pl: Die Körbe 
 
-Wagen, der
+Wagen (n), der
 mn: Wagon
 pl: Die Wagen 
 
-Versuch, der
+Versuch (n), der
 mn: Attempt
 pl: Die Versuche 
 
-Sofa, das
+Sofa (n), das
 mn: Sofa
 pl: Die Sofas 
 
-Kuchen, der
+Kuchen (n), der
 mn: Cake
 pl: Die Kuchen 
 
-Kerl, der
+Kerl (n), der
 mn: Fellow
 pl: Die Kerle 
 
-Affäre, die
+Affäre (n), die
 mn: Affair
 pl: Die Angelegenheiten 
 
-Küste, die
+Küste (n), die
 mn: Shore
 pl: Die Ufer 
 
-Allgemeine, die
+Allgemeine (n), die
 mn: General
 pl: Die Generäle 
 
-Ursprung, der
+Ursprung (n), der
 mn: Root
 pl: Die Wurzeln 
 
-Robe, die
+Robe (n), die
 mn: Robe
 pl: Die Gewänder 
 
-Sorge, die
+Sorge (n), die
 mn: Concern
 pl: Die Bedenken 
 
-Presse, die
+Presse (n), die
 mn: Press
 pl: Die Pressen 
 
-Ratte, die
+Ratte (n), die
 mn: Rat
 pl: Die Ratten 
 
-Gesellschaft, die
+Gesellschaft (n), die
 mn: Society
 pl: Die Gesellschaften 
 
-Stil, der
+Stil (n), der
 mn: Style
 pl: Die Stile 
 
-Kreis, die
+Kreis (n), die
 mn: County
 pl: Die Landkreise 
 
-Befehl, der
+Befehl (n), der
 mn: Command
 pl: Die Befehle 
 
-Besucher, der
+Besucher (n), der
 mn: Visitor
 pl: Die Besucher 
 
-Model, das
+Model (n), das
 mn: Model
 pl: Die Modelle 
 
-Kammer, die
+Kammer (n), die
 mn: Chamber
 pl: Die Kammern 
 
-Biest, das
+Biest (n), das
 mn: Beast
 pl: Die Tiere 
 
-Bündel, das
+Bündel (n), das
 mn: Bunch
 pl: Die Trauben 
 
-Hintergrund, der
+Hintergrund (n), der
 mn: Background
 pl: Die Hintergründe 
 
-Einheit, die
+Einheit (n), die
 mn: Unit
 pl: Die Einheiten 
 
-Möbel, die
+Möbel (n), die
 mn: Furniture
 pl: Die Möbel 
 
-Nagel, der
+Nagel (n), der
 mn: Nail
 pl: Die Nägel 
 
-Schrei, der
+Schrei (n), der
 mn: Scream
 pl: Die Schreie 
 
-Eigenschaft, die
+Eigenschaft (n), die
 mn: Property
 pl: Die Eigenschaften
 
-Ausrüstung, die
+Ausrüstung (n), die
 mn: Equipment
 pl: Die Ausrüstungen 
 
-Auffahrt, die
+Auffahrt (n), die
 mn: Driveway
 pl: Die Einfahrten 
 
-Griff, der
+Griff (n), der
 mn: Grip
 pl: Die Griffe 
 
-Rohr, das
+Rohr (n), das
 mn: Tube
 pl: Die Röhren 
 
-Asche, die
+Asche (n), die
 mn: Ash
 pl: Die Asche 
 
-Fan, der
+Fan (n), der
 mn: Fan
 pl: Die Fans 
 
-Meinung, die
+Meinung (n), die
 mn: Opinion
 pl: Die Ansichten 
 
-Daten, die
+Daten (n), die
 mn: Data
 pl: Die Daten 
 
-Verbindung, die
+Verbindung (n), die
 mn: Connection
 pl: Die Verbindungen 
 
-Trick, der
+Trick (n), der
 mn: Trick
 pl: Die Tricks 
 
-Mysterium, das
+Mysterium (n), das
 mn: Mystery
 pl: Die Geheimnisse 
 
-Periode, die
+Periode (n), die
 mn: Period
 pl: Die Perioden 
 
-Schreiben, das
+Schreiben (n), das
 mn: Writing
 pl: Die Schriften 
 
-Horror, der
+Horror (n), der
 mn: Horror
 pl: Die Schrecken 
 
-Süßigkeit, die
+Süßigkeit (n), die
 mn: Candy
 pl: Die Bonbons 
 
-Bitch, die
+Bitch (n), die
 mn: Bitch
 pl: Die Hündinnen 
 
-Gesundheit, die
+Gesundheit (n), die
 mn: Health
 pl: Die Healths 
 
-Geschäftsführer, der
+Geschäftsführer (n), der
 mn: Manager
 pl: Die Manager 
 
-Sicherheit, die
+Sicherheit (n), die
 mn: Safety
 pl: Die Sicherheiten 
 
-Höhe, die
+Höhe (n), die
 mn: Height
 pl: Die Höhen 
 
-Erscheinung, die
+Erscheinung (n), die
 mn: Appearance
 pl: Die Erscheinungen 
 
-Seufzer, der
+Seufzer (n), der
 mn: Sigh
 pl: Die Sighes 
 
-Mine, die
+Mine (n), die
 mn: Mine
 pl: Die Bergwerke 
 
-Kleidung, die
+Kleidung (n), die
 mn: Cloth
 pl: Die Tücher 
 
-Reaktion, die
+Reaktion (n), die
 mn: Reaction
 pl: Die Reaktionen 
 
-Quelle, die
+Quelle (n), die
 mn: Source
 pl: Die Quellen 
 
-Ich, das
+Ich (n), das
 mn: Self
 pl: Die Selfs 
 
-Pistole, die
+Pistole (n), die
 mn: Pistol
 pl: Die Pistolen 
 
-Flughafen, der
+Flughafen (n), der
 mn: Airport
 pl: Die Flughäfen 
 
-Held, der
+Held (n), der
 mn: Hero
 pl: Die Helden 
 
-Versprechen, das
+Versprechen (n), das
 mn: Promise
 pl: Die Versprechen 
 
-Bogen, der
+Bogen (n), der
 mn: Bow
 pl: Die Bögen 
 
-Zelt, das
+Zelt (n), das
 mn: Tent
 pl: Die Zelte 
 
-Messestand, der
+Messestand (n), der
 mn: Booth
 pl: Die Stände 
 
-Geld, das
+Geld (n), das
 mn: Cash
 pl: Die Kassen 
 
-Straße, die
+Straße (n), die
 mn: Avenue
 pl: Die Alleen 
 
-TShirt, das
+TShirt (n), das
 mn: TShirt
 pl: Die TShirts 
 
-Teppich, der
+Teppich (n), der
 mn: Carpet
 pl: Die Teppiche 
 
-Keller, der
+Keller (n), der
 mn: Basement
 pl: Die Keller 
 
-Freundin, die
+Freundin (n), die
 mn: Girlfriend
 pl: Die Freundinnen 
 
-Bart, der
+Bart (n), der
 mn: Beard
 pl: Die Bärte 
 
-Stirn, die
+Stirn (n), die
 mn: Brow
 pl: Die Augenbrauen 
 
-Bildschirm, der
+Bildschirm (n), der
 mn: Display
 pl: Die Anzeigen 
 
-Signal, das
+Signal (n), das
 mn: Signal
 pl: Die Signale 
 
-Diener, der
+Diener (n), der
 mn: Servant
 pl: Die Diener 
 
-Flüstern, das
+Flüstern (n), das
 mn: Whisper
 pl: Das Flüstern 
 
-Zweifel, der
+Zweifel (n), der
 mn: Doubt
 pl: Die Zweifel 
 
-Konto, das
+Konto (n), das
 mn: Account
 pl: Die Accounts 
 
-Magie, die
+Magie (n), die
 mn: Magic
 pl: Die Magie 
 
-Hank, die
+Hank (n), die
 mn: Hank
 pl: Die Stränge 
 
-Glied, das
+Glied (n), das
 mn: Limb
 pl: Die Schenkel 
 
-Bastard, der
+Bastard (n), der
 mn: Bastard
 pl: Die Bastarde 
 
-Schädel, der
+Schädel (n), der
 mn: Skull
 pl: Die Schädel 
 
-Satz, der
+Satz (n), der
 mn: Sentence
 pl: Die Sätze 
 
-Kragen, der
+Kragen (n), der
 mn: Collar
 pl: Die Kragen 
 
-Horn, das
+Horn (n), das
 mn: Horn
 pl: Die Hörner 
 
-Eiche, die
+Eiche (n), die
 mn: Oak
 pl: Die Eichen 
 
-Knöchel, der
+Knöchel (n), der
 mn: Ankle
 pl: Die Knöchel 
 
-Puppe, die
+Puppe (n), die
 mn: Doll
 pl: Die Puppen 
 
-Sandwich, das
+Sandwich (n), das
 mn: Sandwich
 pl: Die Sandwiches 
 
-Rotkehlchen, das
+Rotkehlchen (n), das
 mn: Robin
 pl: Die Rotkehlchen 
 
-Justiz, die
+Justiz (n), die
 mn: Justice
 pl: Die Richter 
 
-Stolz, der
+Stolz (n), der
 mn: Pride
 pl: Die Rudel 
 
-Jugend, die
+Jugend (n), die
 mn: Youth
 pl: Die Jugendlichen 
 
-Sekretär, der
+Sekretär (n), der
 mn: Secretary
 pl: Die Sekretäre 
 
-Forschung, die
+Forschung (n), die
 mn: Research
 pl: Die Forschungen 
 
-Sport, der
+Sport (n), der
 mn: Sport
 pl: Die Sport 
 
-Aufgabe, die
+Aufgabe (n), die
 mn: Task
 pl: Die Aufgaben 
 
-Zuschuss, der
+Zuschuss (n), der
 mn: Grant
 pl: Die Zuschüsse 
 
-Sheriff, der
+Sheriff (n), der
 mn: Sheriff
 pl: Die Sheriffs 
 
-Mitternachts, die
+Mitternachts (n), die
 mn: Midnight
 pl: Die Mitternächte 
 
-Chip, der
+Chip (n), der
 mn: Chip
 pl: Die Chips 
 
-Theorie, die
+Theorie (n), die
 mn: Theory
 pl: Die Theorien
 
 Alarm – Den Wecker
 pl: Die Alarme 
 
-Sammlung, die
+Sammlung (n), die
 mn: Collection
 pl: Die Sammlungen 
 
-Kreuz, das
+Kreuz (n), das
 mn: Cross
 pl: Die Kreuze 
 
-Kiefer, die
+Kiefer (n), die
 mn: Pine
 pl: Die Kiefern 
 
-Generation, die
+Generation (n), die
 mn: Generation
 pl: Die Generationen 
 
-Autorität, die
+Autorität (n), die
 mn: Authority
 pl: Die Behörden 
 
-Papa, die
+Papa (n), die
 mn: Papa
 pl: Die Papas 
 
-Reise, die
+Reise (n), die
 mn: Journey
 pl: Die Reisen 
 
-Perle, die
+Perle (n), die
 mn: Pearl
 pl: Die Perlen 
 
-Toilette, die
+Toilette (n), die
 mn: Toilet
 pl: Die Toiletten 
 
-Mörder, der
+Mörder (n), der
 mn: Killer
 pl: Die Mörder 
 
-Werkzeug, das
+Werkzeug (n), das
 mn: Tool
 pl: Die Werkzeuge 
 
-Medizin, die
+Medizin (n), die
 mn: Medicine
 pl: Die Medikamente 
 
-Zucker, der
+Zucker (n), der
 mn: Sugar
 pl: Die Zucker 
 
-Prinzessin, die
+Prinzessin (n), die
 mn: Princess
 pl: Die Prinzessinnen 
 
-Argument, das
+Argument (n), das
 mn: Argument
 pl: Die Argumente 
 
-Klippe, die
+Klippe (n), die
 mn: Cliff
 pl: Die Klippen 
 
-Wagen, der
+Wagen (n), der
 mn: Cart
 pl: Die Wagen 
 
-Kristall, der
+Kristall (n), der
 mn: Crystal
 pl: Die Kristalle 
 
-Bohne, die
+Bohne (n), die
 mn: Bean
 pl: Die Bohnen 
 
-Käfig, der
+Käfig (n), der
 mn: Cage
 pl: Die Käfige 
 
-Schokolade, die
+Schokolade (n), die
 mn: Chocolate
 pl: Die Pralinen 
 
-Küste, die
+Küste (n), die
 mn: Coast
 pl: Die Küsten 
 
-Jahrzehnt, das
+Jahrzehnt (n), das
 mn: Decade
 pl: Die Jahrzehnte 
 
-Bedeutung, die
+Bedeutung (n), die
 mn: Meaning
 pl: Die Bedeutungen 
 
-Getriebe, das
+Getriebe (n), das
 mn: Gear
 pl: Die Zahnräder 
 
-Koffer, der
+Koffer (n), der
 mn: Suitcase
 pl: Die Koffer 
 
-Operation, die
+Operation (n), die
 mn: Operation
 pl: Die Operationen 
 
-Atem, das
+Atem (n), das
 mn: Breathing
 pl: Die Breathings 
 
-Rolle, die
+Rolle (n), die
 mn: Role
 pl: Die Rollen 
 
-Version, die
+Version (n), die
 mn: Version
 pl: Die Fassungen
 
-Gefangene, der
+Gefangene (n), der
 mn: Prisoner
 pl: Die Gefangenen 
 
-Match, das
+Match (n), das
 mn: Match
 pl: Die Spiele 
 
-Strahl, der
+Strahl (n), der
 mn: Beam
 pl: Die Strahlen 
 
-Burg, die
+Burg (n), die
 mn: Castle
 pl: Die Schlösser 
 
-Ansturm, der
+Ansturm (n), der
 mn: Rush
 pl: Die Binsen 
 
-Fahrspur, die
+Fahrspur (n), die
 mn: Lane
 pl: Die Bahnen 
 
-Bekleidung, die
+Bekleidung (n), die
 mn: Clothing
 pl: Die Garnituren 
 
-Pol, der
+Pol (n), der
 mn: Pole
 pl: Die Pole 
 
-Freiheit, die
+Freiheit (n), die
 mn: Freedom
 pl: Die Freiheiten 
 
-Können, das
+Können (n), das
 mn: Skill
 pl: Die Fähigkeiten 
 
-Leidenschaft, die
+Leidenschaft (n), die
 mn: Passion
 pl: Die Leidenschaften 
 
-Aktivität, die
+Aktivität (n), die
 mn: Activity
 pl: Die Aktivitäten 
 
 Fuck – Zum Teufel
 pl: Die Fickt 
 
-Platform, die
+Platform (n), die
 mn: Platform
 pl: Die Plattformen 
 
-Salz, das
+Salz (n), das
 mn: Salt
 pl: Die Salze 
 
-Fahrrad, das
+Fahrrad (n), das
 mn: Bike
 pl: Die Fahrräder 
 
-Stapel, der
+Stapel (n), der
 mn: Stack
 pl: Die Stapel 
 
-Begleiter, der
+Begleiter (n), der
 mn: Companion
 pl: Die Gefährten 
 
-Schicksal, das
+Schicksal (n), das
 mn: Fate
 pl: Die Schicksale 
 
-Wut, die
+Wut (n), die
 mn: Rage
 pl: Die Wütet 
 
-Versorgung, die
+Versorgung (n), die
 mn: Supply
 pl: Die Lieferungen 
 
-Wal, der
+Wal (n), der
 mn: Whale
 pl: Die Wale 
 
-Schwein, das
+Schwein (n), das
 mn: Pig
 pl: Die Schweine 
 
-Hase, der
+Hase (n), der
 mn: Rabbit
 pl: Die Hasen 
 
-Gang, der
+Gang (n), der
 mn: Aisle
 pl: Die Gänge 
 
-Bildschirm, der
+Bildschirm (n), der
 mn: Monitor
 pl: Die Monitore 
 
-Helm, der
+Helm (n), der
 mn: Helmet
 pl: Die Helme 
 
-Respekt, der
+Respekt (n), der
 mn: Respect
 pl: Die Beziehung 
 
-Aufregung, die
+Aufregung (n), die
 mn: Excitement
 pl: Die Aufregungen 
 
-Lobby, die
+Lobby (n), die
 mn: Lobby
 pl: Die Lobbys 
 
-Freund, der
+Freund (n), der
 mn: Boyfriend
 pl: Die Freunde 
 
-Fell, das
+Fell (n), das
 mn: Fur
 pl: Die Felle 
 
-Bereich, der
+Bereich (n), der
 mn: Range
 pl: Die Bereiche 
 
-Dick, die
+Dick (n), die
 mn: Dick
 pl: Die Schwänze 
 
-Code, der
+Code (n), der
 mn: Code
 pl: Die Codes 
 
-Kapitel, das
+Kapitel (n), das
 mn: Chapter
 pl: Die Kapitel 
 
-Reflexion, die
+Reflexion (n), die
 mn: Reflection
 pl: Die Reflexionen 
 
-Post, die
+Post (n), die
 mn: Mail
 pl: Die EMails 
 
-Flug, der
+Flug (n), der
 mn: Fly
 pl: Die Fliegen 
 
-Kabinett, das
+Kabinett (n), das
 mn: Cabinet
 pl: Die Schränke 
 
-Spielzeug, das
+Spielzeug (n), das
 mn: Toy
 pl: Die Spielzeuge 
 
-Baseball, die
+Baseball (n), die
 mn: Baseball ~ The Baseballs 
 
-Innere, das
+Innere (n), das
 mn: Inside
 pl: Die Innenseiten 
 
-Geschwindigkeit, die
+Geschwindigkeit (n), die
 mn: Pace
 pl: Die Schritte 
 
-Griff, der
+Griff (n), der
 mn: Handle
 pl: Die Griffe 
 
-Führung, die
+Führung (n), die
 mn: Lead
 pl: Die Zuleitungen 
 
-Summe, die
+Summe (n), die
 mn: Amount
 pl: Die Beträge 
 
-Nerv, der
+Nerv (n), der
 mn: Nerve
 pl: Die Nerven 
 
-Schrecken, der
+Schrecken (n), der
 mn: Terror
 pl: Die Schrecken 
 
-Pullover, der
+Pullover (n), der
 mn: Sweater
 pl: Die Pullover 
 
-Qualität, die
+Qualität (n), die
 mn: Quality
 pl: Die Qualitäten 
 
-Jäger, der
+Jäger (n), der
 mn: Hunter
 pl: Die Jäger 
 
-Farbe, die
+Farbe (n), die
 mn: Paint
 pl: Die Anstriche 
 
-Buster, die
+Buster (n), die
 mn: Buster ~ The Busters 
 
-Baumwolle, die
+Baumwolle (n), die
 mn: Cotton
 pl: Die Baumwollstoffe 
 
-Wachtmeister, der
+Wachtmeister (n), der
 mn: Sergeant
 pl: Die Feldwebel 
 
-Kredit, der
+Kredit (n), der
 mn: Credit
 pl: Die Kredite 
 
-Schlag, der
+Schlag (n), der
 mn: Blow
 pl: Die Schläge 
 
-Teufel, der
+Teufel (n), der
 mn: Devil
 pl: Die Teufel 
 
-Bedrohung, die
+Bedrohung (n), die
 mn: Threat
 pl: Die Drohungen 
 
-Erfolg, der
+Erfolg (n), der
 mn: Success
 pl: Die Erfolge
 
 Eve – Dem Vorabend
 pl: Die Eves 
 
-Kabel, das
+Kabel (n), das
 mn: Cable
 pl: Die Kabel 
 
-Pfanne, die
+Pfanne (n), die
 mn: Pan
 pl: Die Pfannen 
 
-Angestellte, der
+Angestellte (n), der
 mn: Clerk
 pl: Die Schreiber 
 
 Title – Den Titel
 pl: Die Titel 
 
-Messgerät, das
+Messgerät (n), das
 mn: Meter
 pl: Die Zähler 
 
-Schande, die
+Schande (n), die
 mn: Shame
 pl: Die Schande 
 
-Nadel, die
+Nadel (n), die
 mn: Needle
 pl: Die Nadeln 
 
-Lunge, die
+Lunge (n), die
 mn: Lung
 pl: Die Lungen 
 
-Krieger, der
+Krieger (n), der
 mn: Warrior
 pl: Die Krieger 
 
-Umstand, der
+Umstand (n), der
 mn: Circumstance
 pl: Die Umstände 
 
-Studio, das
+Studio (n), das
 mn: Studio
 pl: Die Studios 
 
-Panik, die
+Panik (n), die
 mn: Panic
 pl: Die Panik 
 
-Mangel, der
+Mangel (n), der
 mn: Lack
 pl: Das Fehlt 
 
-Bauer, der
+Bauer (n), der
 mn: Farmer
 pl: Die Bauern 
 
-Akzent, der
+Akzent (n), der
 mn: Accent
 pl: Die Akzente 
 
-Bombe, die
+Bombe (n), die
 mn: Bomb
 pl: Die Bomben 
 
-Platte, die
+Platte (n), die
 mn: Panel
 pl: Die Paneele 
 
-Fähigkeit, die
+Fähigkeit (n), die
 mn: Ability
 pl: Die Das Können 
 
-Glück, das
+Glück (n), das
 mn: Fortune
 pl: Die Geschicke 
 
-Sieger, der
+Sieger (n), der
 mn: Victor
 pl: Die Sieger 
 
-Feder, die
+Feder (n), die
 mn: Feather
 pl: Die Federn 
 
-Oma, die
+Oma (n), die
 mn: Grandma
 pl: Die Großmütter 
 
-Glühen, das
+Glühen (n), das
 mn: Glow
 pl: Die Glüht 
 
-Verhalten, das
+Verhalten (n), das
 mn: Behavior
 pl: Die Verhaltensweisen 
 
-Durchgang, der
+Durchgang (n), der
 mn: Passage
 pl: Die Durchgänge 
 
-Slave, die
+Slave (n), die
 mn: Slave
 pl: Die Sklaven 
 
-Leutnant, der
+Leutnant (n), der
 mn: Lieutenant
 pl: Die Leutnants 
 
-Lauf, der
+Lauf (n), der
 mn: Barrel
 pl: Die Fässer 
 
-Wärme, die
+Wärme (n), die
 mn: Warmth
 pl: Die Warmths 
 
-Eindruck, der
+Eindruck (n), der
 mn: Impression
 pl: Die Eindrücke 
 
-Maurer, der
+Maurer (n), der
 mn: Mason
 pl: Die Maurer 
 
-Braut, die
+Braut (n), die
 mn: Bride
 pl: Die Bräute 
 
-Paket, das
+Paket (n), das
 mn: Package
 pl: Die Pakete 
 
-Nebel, der
+Nebel (n), der
 mn: Fog
 pl: Die Nebel 
 
-Gehen, das
+Gehen (n), das
 mn: Walking
 pl: Die Wanderungen 
 
-Balance, die
+Balance (n), die
 mn: Balance
 pl: Die Salden 
 
-Socke, die
+Socke (n), die
 mn: Sock
 pl: Die Socken 
 
-Roboter, der
+Roboter (n), der
 mn: Robot
 pl: Die Roboter 
 
-Kartoffel, die
+Kartoffel (n), die
 mn: Potato
 pl: Die Kartoffeln 
 
-Gegenstand, der
+Gegenstand (n), der
 mn: Item
 pl: Die Gegenstände 
 
-Bad, das
+Bad (n), das
 mn: Bath
 pl: Die Bäder 
 
-Diamant, der
+Diamant (n), der
 mn: Diamond
 pl: Die Diamanten 
 
-Leiche, die
+Leiche (n), die
 mn: Corpse
 pl: Die Leichen 
 
-Erklärung, die
+Erklärung (n), die
 mn: Explanation
 pl: Die Erläuterungen 
 
-Struktur, die
+Struktur (n), die
 mn: Structure
 pl: Die Strukturen 
 
-Ausgang, der
+Ausgang (n), der
 mn: Exit
 pl: Die Ausgänge 
 
-Pad, das
+Pad (n), das
 mn: Pad
 pl: Die Pads 
 
-Herd, der
+Herd (n), der
 mn: Stove
 pl: Die Öfen 
 
-Blaue, das
+Blaue (n), das
 mn: Blue
 pl: Der Blues 
 
-Amerikaner, die
+Amerikaner (n), die
 mn: American
 pl: Die Amerikaner 
 
-Rubin, der
+Rubin (n), der
 mn: Ruby
 pl: Die Rubinen 
 
-Blitz, der
+Blitz (n), der
 mn: Lightning
 pl: Die Blitze
 
-Grube, die
+Grube (n), die
 mn: Pit
 pl: Die Gruben 
 
-Oberst, der
+Oberst (n), der
 mn: Colonel
 pl: Die Obersten 
 
-Dock, das
+Dock (n), das
 mn: Dock
 pl: Die Docks 
 
-Bach, der
+Bach (n), der
 mn: Creek
 pl: Die Bäche 
 
-Ratschlag, der
+Ratschlag (n), der
 mn: Advice
 pl: Die Ratschläge 
 
-Tourist, der
+Tourist (n), der
 mn: Tourist
 pl: Die Touristen 
 
-Trauer, die
+Trauer (n), die
 mn: Grief
 pl: Die Schmerzen 
 
-Verteidigung, die
+Verteidigung (n), die
 mn: Defense
 pl: Die Abwehrkräfte 
 
-Biss, der
+Biss (n), der
 mn: Bite
 pl: Die Bisse 
 
-Museum, das
+Museum (n), das
 mn: Museum
 pl: Die Museen 
 
-Gunst, die
+Gunst (n), die
 mn: Favor
 pl: Die Wohltaten
 
-Abendessen, das
+Abendessen (n), das
 mn: Supper
 pl: Die Abendessen 
 
-Komfort, der
+Komfort (n), der
 mn: Comfort
 pl: Die Komfort
 
-Dekan, der
+Dekan (n), der
 mn: Dean
 pl: Die Dekane 
 
-Wert, der
+Wert (n), der
 mn: Value
 pl: Die Werte 
 
-Marsch, der
+Marsch (n), der
 mn: March
 pl: Die Märsche 
 
-Anwesen, das
+Anwesen (n), das
 mn: Estate
 pl: Die Stände 
 
-Poet, der
+Poet (n), der
 mn: Poet
 pl: Die Dichter 
 
-Palast, der
+Palast (n), der
 mn: Palace
 pl: Die Paläste 
 
-Suppe, die
+Suppe (n), die
 mn: Soup
 pl: Die Suppen 
 
-Nation, die
+Nation (n), die
 mn: Nation
 pl: Die Nationen 
 
-Gefäss, das
+Gefäss (n), das
 mn: Jar
 pl: Die Gläser 
 
-Ständige, der
+Ständige (n), der
 mn: Standing
 pl: Die Tabellenführung 
 
-Sack, der
+Sack (n), der
 mn: Sack
 pl: Die Säcke 
 
-Dämon, der
+Dämon (n), der
 mn: Demon
 pl: Die Dämonen 
 
-Konferenz, die
+Konferenz (n), die
 mn: Conference
 pl: Die Konferenzen 
 
-Saft, der
+Saft (n), der
 mn: Juice
 pl: Die Säfte 
 
-Verantwortung, die
+Verantwortung (n), die
 mn: Responsibility
 pl: Die Zuständigkeiten 
 
-Pinsel, der
+Pinsel (n), der
 mn: Brush
 pl: Die Bürsten 
 
-Route, die
+Route (n), die
 mn: Route
 pl: Die Strecken 
 
-Käse, der
+Käse (n), der
 mn: Cheese
 pl: Die Käse 
 
-Haube, die
+Haube (n), die
 mn: Hood
 pl: Die Hauben 
 
-Ente, die
+Ente (n), die
 mn: Duck
 pl: Die Ente 
 
-Heilige, der
+Heilige (n), der
 mn: Saint
 pl: Die Heiligen 
 
-Pass, der
+Pass (n), der
 mn: Pass
 pl: Die Pässe 
 
-Ziel, das
+Ziel (n), das
 mn: Target
 pl: Die Ziele 
 
-Orange, die
+Orange (n), die
 mn: Orange
 pl: Die Orangen 
 
-Kultur, die
+Kultur (n), die
 mn: Culture
 pl: Die Kulturen 
 
-Reise, die
+Reise (n), die
 mn: Tour
 pl: Die Touren 
 
-Kommandant, der
+Kommandant (n), der
 mn: Commander
 pl: Die Kommandeure 
 
-Haken, der
+Haken (n), der
 mn: Hook
 pl: Die Haken 
 
-Nebel, der
+Nebel (n), der
 mn: Mist
 pl: Die Nebel 
 
-Training, das
+Training (n), das
 mn: Training
 pl: Die Trainings 
 
-Suche, die
+Suche (n), die
 mn: Search
 pl: Die Suche 
 
-Münze, die
+Münze (n), die
 mn: Coin
 pl: Die Münzen 
 
-Wunder, das
+Wunder (n), das
 mn: Miracle
 pl: Die Wunder 
 
-Vorteil, der
+Vorteil (n), der
 mn: Advantage
 pl: Die Vorteile 
 
-Austausch, der
+Austausch (n), der
 mn: Exchange
 pl: Die Börsen 
 
-Fiktion, die
+Fiktion (n), die
 mn: Fiction
 pl: Die Fiktionen
 
-Teich, der
+Teich (n), der
 mn: Pond
 pl: Die Teiche 
 
-Assistent, der
+Assistent (n), der
 mn: Assistant
 pl: Die Assistenten 
 
-Design, das
+Design (n), das
 mn: Design
 pl: Die Entwürfe 
 
-Angel, die
+Angel (n), die
 mn: Fishing
 pl: Die Fishings 
 
-Piste, die
+Piste (n), die
 mn: Slope
 pl: Die Pisten 
 
-Graf, der
+Graf (n), der
 mn: Earl
 pl: Die Grafen 
 
-Kommentar, der
+Kommentar (n), der
 mn: Comment
 pl: Kommentare
 
-Kellner, der
+Kellner (n), der
 mn: Waiter
 pl: Die Kellner 
 
 Grocery – Von Lebensmittel
 pl: Die Lebensmittel 
 
-Leiter, die
+Leiter (n), die
 mn: Ladder
 pl: Die Leitern 
 
-Kurve, die
+Kurve (n), die
 mn: Curve
 pl: Die Kurven 
 
-Volumen, das
+Volumen (n), das
 mn: Volume
 pl: Die Volumina 
 
-Risiko, das
+Risiko (n), das
 mn: Risk
 pl: Die Risiken 
 
-Albtraum, der
+Albtraum (n), der
 mn: Nightmare
 pl: Die Alpträume 
 
-Existenz, die
+Existenz (n), die
 mn: Existence
 pl: Die Existenzen 
 
-Spur, die
+Spur (n), die
 mn: Trace
 pl: Die Spuren 
 
-Krankheit, die
+Krankheit (n), die
 mn: Disease
 pl: Die Krankheiten 
 
-Unterstützung, die
+Unterstützung (n), die
 mn: Support
 pl: Die Stützen 
 
-Zeuge, der
+Zeuge (n), der
 mn: Witness
 pl: Die Zeugen 
 
-Aktie, die
+Aktie (n), die
 mn: Stock
 pl: Die Bestände 
 
-Gerät, das
+Gerät (n), das
 mn: Device
 pl: Die Vorrichtungen 
 
-Landschaft, die
+Landschaft (n), die
 mn: Landscape
 pl: Die Landschaften 
 
-Urlaub, der
+Urlaub (n), der
 mn: Holiday
 pl: Die Feiertage 
 
-Ass, das
+Ass (n), das
 mn: Ace
 pl: Die Asse 
 
-Klavier, das
+Klavier (n), das
 mn: Piano
 pl: Die Klaviere 
 
-Eingeweide, die
+Eingeweide (n), die
 mn: Gut
 pl: Die Eingeweide 
 
-Talent, das
+Talent (n), das
 mn: Talent
 pl: Die Talente 
 
-Phantasie, die
+Phantasie (n), die
 mn: Imagination
 pl: Die Vorstellungen 
 
-Schwarze, die
+Schwarze (n), die
 mn: Black
 pl: Die Schwarzen 
 
-Reed, der
+Reed (n), der
 mn: Reed
 pl: Das Schilf 
 
-Deckel, der
+Deckel (n), der
 mn: Lid
 pl: Die Deckel 
 
-Hinweis, der
+Hinweis (n), der
 mn: Hint
 pl: Die Hinweise 
 
-Wanderer, der
+Wanderer (n), der
 mn: Walker
 pl: Die Wanderer 
 
-Kälte, die
+Kälte (n), die
 mn: Chill ~ Schüttelfrost 
 
-Studie, die
+Studie (n), die
 mn: Trial
 pl: Die Prüfungen 
 
-Interview, das
+Interview (n), das
 mn: Interview
 pl: Die Interviews 
 
-Ansatz, der
+Ansatz (n), der
 mn: Approach
 pl: Die Ansätze 
 
-Narbe, die
+Narbe (n), die
 mn: Scar
 pl: Die Narben 
 
-Mode, die
+Mode (n), die
 mn: Fashion
 pl: Die Mode 
 
-Kanal, der
+Kanal (n), der
 mn: Channel
 pl: Die Kanäle 
 
-Tritt, die
+Tritt (n), die
 mn: Footstep
 pl: Die Schritte 
 
-Aufnehmer, der
+Aufnehmer (n), der
 mn: Pickup
 pl: Die Pickups 
 
-Habicht, der
+Habicht (n), der
 mn: Hawk
 pl: Die Falken 
 
-Anhänger, der
+Anhänger (n), der
 mn: Trailer
 pl: Die Anhänger 
 
-Statue, die
+Statue (n), die
 mn: Statue
 pl: Die Statuen 
 
-Pille, die
+Pille (n), die
 mn: Pill
 pl: Die Pillen 
 
-Käfer, der
+Käfer (n), der
 mn: Bug
 pl: Die Bugs 
 
-Eimer, der
+Eimer (n), der
 mn: Bucket
 pl: Die Eimer 
 
 Vacation – Den Urlaub
 pl: Die Urlaub 
 
-Arten, die
+Arten (n), die
 mn: Species
 pl: Die Specieses 
 
-Kolumne, die
+Kolumne (n), die
 mn: Column
 pl: Die Spalten 
 
-Schaden, der
+Schaden (n), der
 mn: Damage
 pl: Die Schäden 
 
-Instrument, das
+Instrument (n), das
 mn: Instrument
 pl: Die Instrumente 
 
-Hafen, der
+Hafen (n), der
 mn: Port
 pl: Die Ports 
 
-Schicht, die
+Schicht (n), die
 mn: Layer
 pl: Die Schichten 
 
-Streifen, der
+Streifen (n), der
 mn: Strip
 pl: Die Streifen 
 
-Müll, der
+Müll (n), der
 mn: Garbage
 pl: Die Garbages 
 
-Rippe, die
+Rippe (n), die
 mn: Rib
 pl: Die Rippen 
 
-Notebook, das
+Notebook (n), das
 mn: Notebook
 pl: Die Notizbücher 
 
-Mais, der
+Mais (n), der
 mn: Corn
 pl: Die Hühneraugen 
 
-Angebot, das
+Angebot (n), das
 mn: Offer
 pl: Die Angebote 
 
-Zeichnung, die
+Zeichnung (n), die
 mn: Drawing
 pl: Die Zeichnungen 
 
-Aussage, die
+Aussage (n), die
 mn: Statement
 pl: Die Aussagen 
 
-Intelligenz, die
+Intelligenz (n), die
 mn: Intelligence
 pl: Die Intelligenzen 
 
-Entschuldigung, die
+Entschuldigung (n), die
 mn: Excuse
 pl: Die Ausreden 
 
-Landung, die
+Landung (n), die
 mn: Landing
 pl: Die Landungen 
 
-Urheberrechts, der
+Urheberrechts (n), der
 mn: Copyright
 pl: Die Urheberrechte 
 
-Stange, die
+Stange (n), die
 mn: Rod
 pl: Die Stäbe 
 
-Fantasie, die
+Fantasie (n), die
 mn: Fantasy
 pl: Die Phantasien 
 
-Neugier, die
+Neugier (n), die
 mn: Curiosity
 pl: Die Kuriositäten 
 
-Kleid, das
+Kleid (n), das
 mn: Gown
 pl: Die Kleider 
 
-Grenze, die
+Grenze (n), die
 mn: Border
 pl: Die Grenzen 
 
-Poesie, die
+Poesie (n), die
 mn: Poetry
 pl: Die Dichtungen 
 
-Firma, die
+Firma (n), die
 mn: Firm
 pl: Die Firmen 
 
-Aufgang, der
+Aufgang (n), der
 mn: Rise
 pl: Der Anstieg 
 
-Handvoll, die
+Handvoll (n), die
 mn: Handful
 pl: Die Hände Voll 
 
-China, die
+China (n), die
 mn: China
 pl: Die Chinas 
 
-Franzosen, die
+Franzosen (n), die
 mn: French
 pl: Die Frenches 
 
-Durchschnitts, die
+Durchschnitts (n), die
 mn: Mean
 pl: Die Mittel 
 
-Reh, das
+Reh (n), das
 mn: Deer
 pl: Die Hirsche 
 
-Druck, die
+Druck (n), die
 mn: Print
 pl: Die Drucke 
 
-Schiene, die
+Schiene (n), die
 mn: Rail
 pl: Die Schienen 
 
-Rate, die
+Rate (n), die
 mn: Rate
 pl: Die Preise 
 
-Mut, der
+Mut (n), der
 mn: Courage
 pl: Die Courages 
 
-Ankunft, die
+Ankunft (n), die
 mn: Arrival
 pl: Die Ankünfte 
 
-Wunsch, der
+Wunsch (n), der
 mn: Wish
 pl: Die Wünsche
 
-Grat, der
+Grat (n), der
 mn: Ridge
 pl: Die Grate 
 
-Idiot, der
+Idiot (n), der
 mn: Idiot
 pl: Die Idioten 
 
-Bulle, der
+Bulle (n), der
 mn: Bull
 pl: Die Bullen 
 
-Saat, die
+Saat (n), die
 mn: Seed
 pl: Die Samen 
 
-Fortschritt, der
+Fortschritt (n), der
 mn: Progress
 pl: Die Fortschritte 
 
-Gefühl, das
+Gefühl (n), das
 mn: Feel
 ex:
 - Es Fühlt Sich An
 
-Shorts, die
+Shorts (n), die
 mn: Shorts
 pl: Die Shortses 
 
-Bürger, der
+Bürger (n), der
 mn: Citizen
 pl: Die Bürger 
 
-Müll, der
+Müll (n), der
 mn: Trash
 pl: Die Trashes 
 
-Protokoll, das
+Protokoll (n), das
 mn: Log
 pl: Die Protokolle 
 
-Geduld, die
+Geduld (n), die
 mn: Patience
 pl: Die Patiencen 
 
-Fledermaus, die
+Fledermaus (n), die
 mn: Bat
 pl: Die Fledermäuse 
 
-Fußball, der
+Fußball (n), der
 mn: Football
 pl: Die Fußbälle 
 
-Routine, die
+Routine (n), die
 mn: Routine
 pl: Die Routinen 
 
-Explosion, die
+Explosion (n), die
 mn: Explosion
 pl: Die Explosionen 
 
-Inhalt, der
+Inhalt (n), der
 mn: Content
 pl: Die Inhalte 
 
-Wissenschaftler, der
+Wissenschaftler (n), der
 mn: Scientist
 pl: Die Wissenschaftler 
 
-Versagen, das
+Versagen (n), das
 mn: Failure
 pl: Die Ausfälle 
 
-Sünde, die
+Sünde (n), die
 mn: Sin
 pl: Die Sünden 
 
-Hintern, der
+Hintern (n), der
 mn: Butt
 pl: Die Füße 
 
-Verwirrung, die
+Verwirrung (n), die
 mn: Confusion
 pl: Die Verwirrungen 
 
-Verständnis, das
+Verständnis (n), das
 mn: Understanding
 pl: Die Absprachen 
 
-Handel, der
+Handel (n), der
 mn: Trade
 pl: Das Handwerk 
 
-Kühlschrank, der
+Kühlschrank (n), der
 mn: Refrigerator
 pl: Die Kühlschränke 
 
-Herr, der
+Herr (n), der
 mn: Mister
 pl: Die Misters 
 
-Taschenlampe, die
+Taschenlampe (n), die
 mn: Flashlight
 pl: Die Taschenlampen 
 
-Internet, das
+Internet (n), das
 mn: Net
 pl: Die Netze 
 
-Seemann, der
+Seemann (n), der
 mn: Sailor
 pl: Die Matrosen 
 
-Attitüde, die
+Attitüde (n), die
 mn: Attitude
 pl: Die Haltungen 
 
-Schuld, die
+Schuld (n), die
 mn: Guilt
 pl: Die Schuldgefühle 
 
-Weinen, das
+Weinen (n), das
 mn: Crying
 pl: Die Geschrei 
 
-Sip, die
+Sip (n), die
 mn: Sip ~ Sips 
 
-Reise, die
+Reise (n), die
 mn: Travel
 pl: Die Reisen 
 
-Keks, der
+Keks (n), der
 mn: Cookie
 pl: Die Kekse 
 
-Flucht, die
+Flucht (n), die
 mn: Escape
 pl: Die Fluchten 
 
-Anleitung, die
+Anleitung (n), die
 mn: Instruction
 pl: Die Anleitungen 
 
-Gewebe, das
+Gewebe (n), das
 mn: Fabric
 pl: Die Stoffe 
 
-Marmor, der
+Marmor (n), der
 mn: Marble
 pl: Die Murmeln 
 
-Blick, der
+Blick (n), der
 mn: Glimpse
 pl: Die Einblicke 
 
-Dämmerung, die
+Dämmerung (n), die
 mn: Dusk
 pl: Die Dämmerungen 
 
-Hütte, die
+Hütte (n), die
 mn: Cottage
 pl: Die Ferienhäuser 
 
-Affe, der
+Affe (n), der
 mn: Monkey
 pl: Die Affen 
 
-Makeup, das
+Makeup (n), das
 mn: Makeup
 pl: Die MakeUps 
 
-Doc, die
+Doc (n), die
 mn: Doc
 pl: Die Docs 
 
-Bluse, die
+Bluse (n), die
 mn: Blouse
 pl: Die Blusen 
 
-Rhythmus, der
+Rhythmus (n), der
 mn: Rhythm
 pl: Die Rhythmen 
 
-Dampf, der
+Dampf (n), der
 mn: Steam
 pl: Die Dämpfe 
 
-Satz, der
+Satz (n), der
 mn: Phrase
 pl: Die Phrasen 
 
-Mutter, die
+Mutter (n), die
 mn: Nut
 pl: Die Muttern 
 
-Bleistift, der
+Bleistift (n), der
 mn: Pencil
 pl: Die Stifte 
 
-Koch, der
+Koch (n), der
 mn: Cook
 pl: Die Köche 
 
-Flagge, die
+Flagge (n), die
 mn: Flag
 pl: Die Fahnen 
 
-Trainer, der
+Trainer (n), der
 mn: Coach
 pl: Die Trainer 
 
-Schaukel, die
+Schaukel (n), die
 mn: Swing
 pl: Die Schaukeln 
 
-Lautsprecher, der
+Lautsprecher (n), der
 mn: Speaker
 pl: Die Lautsprecher 
 
-Bolzen, der
+Bolzen (n), der
 mn: Bolt
 pl: Die Bolzen 
 
-Fett, das
+Fett (n), das
 mn: Fat
 pl: Die Fette 
 
-Teppich, der
+Teppich (n), der
 mn: Rug
 pl: Die Teppiche 
 
-Klopf, die
+Klopf (n), die
 mn: Knock
 pl: Die Schläge 
 
-Zauber, der
+Zauber (n), der
 mn: Spell
 pl: Die Zaubersprüche 
 
-Taxi, das
+Taxi (n), das
 mn: Taxi
 pl: Die Taxis 
 
-Runde, die
+Runde (n), die
 mn: Round
 pl: Die Runden 
 
-Strohhalm, der
+Strohhalm (n), der
 mn: Straw
 pl: Die Halme 
 
-Luke, die
+Luke (n), die
 mn: Hatch
 pl: Die Luken 
 
-Gabel, die
+Gabel (n), die
 mn: Fork
 pl: Die Gabeln 
 
-Böse, das
+Böse (n), das
 mn: Evil
 pl: Die Übel 
 
-Dienstmädchen, das
+Dienstmädchen (n), das
 mn: Maid
 pl: Die Zimmermädchen 
 
-Relative, die
+Relative (n), die
 mn: Relative
 pl: Die Verwandten 
 
-Hexe, die
+Hexe (n), die
 mn: Witch
 pl: Die Hexen 
 
-Hof, der
+Hof (n), der
 mn: Courtyard
 pl: Die Höfe 
 
-Sensation, die
+Sensation (n), die
 mn: Sensation
 pl: Die Empfindungen 
 
-Blase, die
+Blase (n), die
 mn: Bubble
 pl: Die Blasen 
 
-Leser, der
+Leser (n), der
 mn: Reader
 pl: Die Leser 
 
-Locke, die
+Locke (n), die
 mn: Curl
 pl: Die Locken 
 
-Kuchen, der
+Kuchen (n), der
 mn: Pie
 pl: Die Torten 
 
-Strahl, der
+Strahl (n), der
 mn: Jet
 pl: Die Jets 
 
-Verschiebung, die
+Verschiebung (n), die
 mn: Shift
 pl: Die Verschiebungen 
 
-Union, die
+Union (n), die
 mn: Union
 pl: Die Gewerkschaften 
 
-Teenager, der
+Teenager (n), der
 mn: Teenager
 pl: Die Teenager 
 
-Ebene, die
+Ebene (n), die
 mn: Plain
 pl: Die Ebenen 
 
-Kellnerin, die
+Kellnerin (n), die
 mn: Waitress
 pl: Die Kellnerinnen 
 
-Antwort, die
+Antwort (n), die
 mn: Reply
 pl: Die Antworten 
 
-Gerücht, das
+Gerücht (n), das
 mn: Rumor
 pl: Gerüchte
 
-Schwerkraft, die
+Schwerkraft (n), die
 mn: Gravity
 pl: Die Gewichte 
 
-Zuflucht, die
+Zuflucht (n), die
 mn: Shelter
 pl: Die Unterstände 
 
-Abenteuer, das
+Abenteuer (n), das
 mn: Adventure
 pl: Die Abenteuer 
 
-Löwe, der
+Löwe (n), der
 mn: Lion
 pl: Die Löwen 
 
-Wirbelsäule, die
+Wirbelsäule (n), die
 mn: Spine
 pl: Die Stacheln 
 
-Vertrauen, das
+Vertrauen (n), das
 mn: Confidence
 pl: Die Vertraulichkeiten 
 
-Tiefe, die
+Tiefe (n), die
 mn: Depth
 pl: Die Tiefen 
 
-Reichweite, die
+Reichweite (n), die
 mn: Reach
 pl: Die Reichweiten 
 
-Hammer, der
+Hammer (n), der
 mn: Hammer
 pl: Die Hämmer 
 
-Bibel, die
+Bibel (n), die
 mn: Bible
 pl: Die Bibeln 
 
-Vertrag, der
+Vertrag (n), der
 mn: Contract
 pl: Die Verträge 
 
-Geldbeutel, der
+Geldbeutel (n), der
 mn: Wallet
 pl: Die Brieftaschen 
 
-Dschungel, der
+Dschungel (n), der
 mn: Jungle
 pl: Die Dschungel 
 
-Fabrik, die
+Fabrik (n), die
 mn: Factory
 pl: Die Fabriken 
 
-Indische, die
+Indische (n), die
 mn: Indian
 pl: Die Indianer 
 
-Balkon, der
+Balkon (n), der
 mn: Balcony
 pl: Die Balkone 
 
-Reis, der
+Reis (n), der
 mn: Rice
 pl: Die Reis 
 
-Knoten, der
+Knoten (n), der
 mn: Knot
 pl: Die Knoten 
 
-Schnur, die
+Schnur (n), die
 mn: Cord
 pl: Die Schnüre 
 
-Kollege, der
+Kollege (n), der
 mn: Colleague
 pl: Die Kollegen 
 
-Absicht, die
+Absicht (n), die
 mn: Intention
 pl: Die Absichten 
 
-Stare, die
+Stare (n), die
 mn: Stare
 pl: Die Blicke 
 
-Motel, das
+Motel (n), das
 mn: Motel
 pl: Die Motels 
 
-Anwalt, der
+Anwalt (n), der
 mn: Attorney
 pl: Die Anwälte 
 
-Liebling, der
+Liebling (n), der
 mn: Darling
 pl: Die Lieblinge 
 
-Diskussion, die
+Diskussion (n), die
 mn: Discussion
 pl: Die Diskussionen 
 
 Atmosphere – Atmosphäre
 pl: Die Atmosphären 
 
-Leistung, die
+Leistung (n), die
 mn: Performance
 pl: Die Aufführungen 
 
-Spannung, die
+Spannung (n), die
 mn: Tension
 pl: Die Spannungen 
 
-Text, der
+Text (n), der
 mn: Text
 pl: Die Texte 
 
-Strang, der
+Strang (n), der
 mn: Strand
 pl: Die Litzen 
 
-Mittags, die
+Mittags (n), die
 mn: Noon
 pl: Die Noons 
 
-Vene, die
+Vene (n), die
 mn: Vein
 pl: Die Venen 
 
-Experte, der
+Experte (n), der
 mn: Expert
 pl: Die Experten 
 
-Gruppe, die
+Gruppe (n), die
 mn: Gang
 pl: Die Banden 
 
-Polizist, der
+Polizist (n), der
 mn: Policeman
 pl: Die Police 
 
-Krebs, der
+Krebs (n), der
 mn: Cancer
 pl: Die Krebs 
 
-Fuchs, der
+Fuchs (n), der
 mn: Fox
 pl: Die Foxs 
 
-Scheidung, die
+Scheidung (n), die
 mn: Divorce
 pl: Die Scheidungen 
 
-Impuls, die
+Impuls (n), die
 mn: Pulse
 pl: Die Pulse 
 
-Abwesenheit, die
+Abwesenheit (n), die
 mn: Absence
 pl: Die Abwesenheiten 
 
-Gewalt, die
+Gewalt (n), die
 mn: Violence
 pl: Die Gewalten 
 
-Humor, der
+Humor (n), der
 mn: Humor
 pl: Die Körpersäfte 
 
-Stuhl, der
+Stuhl (n), der
 mn: Stool
 pl: Die Stühle 
 
-Kies, der
+Kies (n), der
 mn: Gravel
 pl: Die Kiese 
 
-Schatz, der
+Schatz (n), der
 mn: Treasure
 pl: Schätze
 
-Butter, die
+Butter (n), die
 mn: Butter
 pl: Die Butter 
 
-Schalter, der
+Schalter (n), der
 mn: Switch
 pl: Die Schalter 
 
-Zigarre, die
+Zigarre (n), die
 mn: Cigar
 pl: Die Zigarren 
 
-Leinwand, die
+Leinwand (n), die
 mn: Canvas
 pl: Die Leinwände 
 
-Fröhlichkeit, die
+Fröhlichkeit (n), die
 mn: Happiness
 pl: Die Seligkeiten 
 
-Führer, der
+Führer (n), der
 mn: Guide
 pl: Die Führungen 
 
-Stift, der
+Stift (n), der
 mn: Pin
 pl: Die Stifte 
 
-Schauspieler, der
+Schauspieler (n), der
 mn: Actor
 pl: Die Akteure 
 
-Ganze, das
+Ganze (n), das
 mn: Whole
 pl: Die Löcher 
 
-Vereinbarung, die
+Vereinbarung (n), die
 mn: Arrangement
 pl: Die Vereinbarungen 
 
-Braune, die
+Braune (n), die
 mn: Brown
 pl: Die Brauntöne 
 
-Gastgeber, der
+Gastgeber (n), der
 mn: Host
 pl: Die Gastgeber 
 
-Farbband, das
+Farbband (n), das
 mn: Ribbon
 pl: Die Bänder 
 
-Schal, der
+Schal (n), der
 mn: Scarf
 pl: Die Schals 
 
-Skala, die
+Skala (n), die
 mn: Scale
 pl: Die Waagen 
 
-Beweis, der
+Beweis (n), der
 mn: Proof
 pl: Die Beweise 
 
-Pfeil, der
+Pfeil (n), der
 mn: Arrow
 pl: Die Pfeile 
 
-Temperatur, die
+Temperatur (n), die
 mn: Temperature
 pl: Die Temperaturen 
 
-Technologie, die
+Technologie (n), die
 mn: Technology
 pl: Technologien
 
-Erlaubnis, die
+Erlaubnis (n), die
 mn: Permission
 pl: Die Berechtigungen 
 
-Ort, der
+Ort (n), der
 mn: Location
 pl: Die Standorte 
 
-Klaue, die
+Klaue (n), die
 mn: Claw
 pl: Die Krallen 
 
-Cowboy, der
+Cowboy (n), der
 mn: Cowboy
 pl: Die Cowboies 
 
-Agentur, die
+Agentur (n), die
 mn: Agency
 pl: Die Agenturen 
 
-Konstruktion, die
+Konstruktion (n), die
 mn: Construction
 pl: Die Konstruktionen 
 
-Jagd, das
+Jagd (n), das
 mn: Hunting
 pl: Die Jagden 
 
-Gemüse, das
+Gemüse (n), das
 mn: Vegetable
 pl: Das Gemüse 
 
-Dose, die
+Dose (n), die
 mn: Tin
 pl: Die Dosen 
 
-Hubschrauber, der
+Hubschrauber (n), der
 mn: Helicopter
 pl: Die Hubschrauber 
 
-Falle, die
+Falle (n), die
 mn: Trap
 pl: Die Fallen 
 
-Pat, das
+Pat (n), das
 mn: Pat
 pl: Die Streicheleinheiten 
 
-Lücke, die
+Lücke (n), die
 mn: Gap
 pl: Die Lücken 
 
-Haustier, das
+Haustier (n), das
 mn: Pet
 pl: Die Haustiere 
 
-Bildung, die
+Bildung (n), die
 mn: Education
 pl: Die Ausbildungen 
 
-Einkaufen, das
+Einkaufen (n), das
 mn: Shopping
 pl: Die Einkäufe 
 
-Schuppen, der
+Schuppen (n), der
 mn: Shed
 pl: Die Schuppen 
 
-Vereinbarung, die
+Vereinbarung (n), die
 mn: Agreement
 pl: Vereinbarungen
 
-Erde, die
+Erde (n), die
 mn: Soil
 pl: Die Böden 
 
-Herzog, der
+Herzog (n), der
 mn: Duke
 pl: Die Herzöge 
 
-Schrotflinte, die
+Schrotflinte (n), die
 mn: Shotgun
 pl: Die Schrotflinten 
 
-Vorstellung, die
+Vorstellung (n), die
 mn: Notion
 pl: Die Begriffe 
 
 Rear – Es Gibt
 pl: Die Hintern 
 
-Zeremonie, die
+Zeremonie (n), die
 mn: Ceremony
 pl: Die Zeremonien 
 
-Löffel, der
+Löffel (n), der
 mn: Spoon
 pl: Die Löffel 
 
-Wanne, die
+Wanne (n), die
 mn: Tub
 pl: Die Wannen 
 
-Schlüssel, der
+Schlüssel (n), der
 mn: Clue
 pl: Die Hinweise 
 
-Iris, die
+Iris (n), die
 mn: Iris
 pl: Die Iris 
 
-Vorfall, der
+Vorfall (n), der
 mn: Incident
 pl: Die Vorfälle 
 
-Absturz, der
+Absturz (n), der
 mn: Crash
 pl: Die Abstürze 
 
-Tagebuch, das
+Tagebuch (n), das
 mn: Journal
 pl: Die Zeitschriften 
 
-Zugriffs, die
+Zugriffs (n), die
 mn: Access
 pl: Die Zugriffe 
 
 Brass – Erz
 pl: Die Brasses 
 
-Mama, die
+Mama (n), die
 mn: Mommy
 pl: Die Mamas 
 
-Seitenleiste, die
+Seitenleiste (n), die
 mn: Sidebar
 pl: Die Seitenleisten 
 
-Schaf, das
+Schaf (n), das
 mn: Sheep
 pl: Die Schafe 
 
-Ingenieur, der
+Ingenieur (n), der
 mn: Engineer
 pl: Die Ingenieure 
 
-Rumpf, der
+Rumpf (n), der
 mn: Hull
 pl: Die Rümpfe 
 
-Geruch, der
+Geruch (n), der
 mn: Odor
 pl: Die Gerüche 
 
-Termin, der
+Termin (n), der
 mn: Appointment
 pl: Die Termine 
 
-Einladung, die
+Einladung (n), die
 mn: Invitation
 pl: Die Einladungen 
 
-Lappen, die
+Lappen (n), die
 mn: Rag
 pl: Die Lumpen 
 
-Gute, das
+Gute (n), das
 mn: Good
 pl: Die Güter 
 
-Kumpel, der
+Kumpel (n), der
 mn: Dude
 pl: Die Dudes 
 
-Behandlung, die
+Behandlung (n), die
 mn: Treatment
 pl: Behandlungen
 
-Weisheit, die
+Weisheit (n), die
 mn: Wisdom
 pl: Die Weisheiten 
 
-Preis, der
+Preis (n), der
 mn: Prize
 pl: Die Preise 
 
-Element, das
+Element (n), das
 mn: Element
 pl: Die Elemente 
 
-Gigant, der
+Gigant (n), der
 mn: Giant
 pl: Die Riesen 
 
-Serviette, die
+Serviette (n), die
 mn: Napkin
 pl: Die Servietten 
 
-Wäsche, die
+Wäsche (n), die
 mn: Laundry
 pl: Die Wäschereien 
 
-Option, die
+Option (n), die
 mn: Option
 pl: Die Optionen 
 
-Regal, das
+Regal (n), das
 mn: Rack
 pl: Die Zahnstangen 
 
-Anforderung, die
+Anforderung (n), die
 mn: Request
 pl: Die Anfragen 
 
-Gefängnis, das
+Gefängnis (n), das
 mn: Jail
 pl: Die Gefängnisse 
 
-Opa, der
+Opa (n), der
 mn: Grandpa
 pl: Die Großväter 
 
-Ranch, die
+Ranch (n), die
 mn: Ranch
 pl: Die Ranches 
 
-Punkt, der
+Punkt (n), der
 mn: Dot
 pl: Die Punkte 
 
-Skript, das
+Skript (n), das
 mn: Script
 pl: Die Skripte 
 
-Einkaufshalle, die
+Einkaufshalle (n), die
 mn: Mall
 pl: Die Einkaufszentren 
 
-Ford, der
+Ford (n), der
 mn: Ford
 pl: Die Furten 
 
-Übung, die
+Übung (n), die
 mn: Exercise
 pl: Die Übungen 
 
-Witwe, die
+Witwe (n), die
 mn: Widow
 pl: Die Witwen 
 
-Krähe, die
+Krähe (n), die
 mn: Crow
 pl: Die Krähen 
 
-Faden, der
+Faden (n), der
 mn: Thread
 pl: Die Fäden 
 
-Selbstmord, die
+Selbstmord (n), die
 mn: Suicide
 pl: Die Selbstmorde 
 
-Notiz, die
+Notiz (n), die
 mn: Notice
 pl: Die Bekanntmachungen 
 
-Sonnenuntergang, der
+Sonnenuntergang (n), der
 mn: Sunset
 pl: Die Sonne Geht Unter 
 
-Gallerie, die
+Gallerie (n), die
 mn: Gallery
 pl: Die Galerien 
 
-Schiff, das
+Schiff (n), das
 mn: Vessel
 pl: Die Gefäße 
 
-Donner, der
+Donner (n), der
 mn: Thunder
 pl: Der Donner 
 
-Seife, die
+Seife (n), die
 mn: Soap
 pl: Seifen
 
-Whisky, der
+Whisky (n), der
 mn: Whiskey
 pl: Die Whiskys 
 
-Weibchen, das
+Weibchen (n), das
 mn: Female
 pl: Die Weibchen 
 
-Bürgermeister, der
+Bürgermeister (n), der
 mn: Mayor
 pl: Die Bürgermeister 
 
-Hub, der
+Hub (n), der
 mn: Stroke
 pl: Die Striche 
 
-Klick, der
+Klick (n), der
 mn: Click
 pl: Die Klicks 
 
-Ruf, der
+Ruf (n), der
 mn: Reputation
 pl: Der Ruf 
 
-Müller, der
+Müller (n), der
 mn: Miller
 pl: Die Müller 
 
-Rat, der
+Rat (n), der
 mn: Council
 pl: Die Räte 
 
-Stundenplan, der
+Stundenplan (n), der
 mn: Schedule
 pl: Der Spielplan 
 
-Friedhof, der
+Friedhof (n), der
 mn: Cemetery
 pl: Die Friedhöfe 
 
-Kampf, der
+Kampf (n), der
 mn: Struggle
 pl: Die Kämpfe 
 
-Instinkt, der
+Instinkt (n), der
 mn: Instinct
 pl: Die Instinkte 
 
-Ruhe, die
+Ruhe (n), die
 mn: Calm
 pl: Die Beruhigt 
 
-Arbeitnehmer, der
+Arbeitnehmer (n), der
 mn: Employee
 pl: Die Angestellten 
 
-Nest, das
+Nest (n), das
 mn: Nest
 pl: Die Nester 
 
-Limit, das
+Limit (n), das
 mn: Limit
 pl: Die Grenzwerte 
 
-Deutsche, der
+Deutsche (n), der
 mn: German
 pl: Die Deutschen 
 
-Mönch, der
+Mönch (n), der
 mn: Monk
 pl: Die Mönche 
 
-Wurm, der
+Wurm (n), der
 mn: Worm
 pl: Die Würmer 
 
-Dokument, das
+Dokument (n), das
 mn: Document
 pl: Die Dokumente 
 
-Traurigkeit, die
+Traurigkeit (n), die
 mn: Sadness
 pl: Die Traurigkeiten 
 
-Hütte, die
+Hütte (n), die
 mn: Hut
 pl: Die Hütten 
 
-Lebensdauer, die
+Lebensdauer (n), die
 mn: Lifetime
 pl: Die Lebensdauern 
 
-Tänzerin, die
+Tänzerin (n), die
 mn: Dancer
 pl: Die Tänzer 
 
-Versicherung, die
+Versicherung (n), die
 mn: Insurance
 pl: Die Versicherungen 
 
-Schwierigkeit, die
+Schwierigkeit (n), die
 mn: Difficulty
 pl: Die Schwierigkeiten 
 
-Matratze, die
+Matratze (n), die
 mn: Mattress
 pl: Die Matratzen 
 
-Mann, der
+Mann (n), der
 mn: Male
 pl: Die Männchen 
 
-Klinik, die
+Klinik (n), die
 mn: Clinic
 pl: Die Kliniken 
 
-Ad, die
+Ad (n), die
 mn: Ad
 pl: Die Anzeigen 
 
-Becher, der
+Becher (n), der
 mn: Mug
 pl: Die Becher 
 
-Kit, das
+Kit (n), das
 mn: Kit
 pl: Die Kits 
 
-Kommunikation, die
+Kommunikation (n), die
 mn: Communication
 pl: Die Kommunikations 
 
-Unglück, das
+Unglück (n), das
 mn: Disaster
 pl: Die Katastrophen 
 
-Fliese, die
+Fliese (n), die
 mn: Tile
 pl: Die Fliesen 
 
-Empfänger, der
+Empfänger (n), der
 mn: Receiver
 pl: Die Empfänger 
 
-Gebrüll, das
+Gebrüll (n), das
 mn: Roar
 pl: Die Brüllt 
 
-Truppe, die
+Truppe (n), die
 mn: Troop
 pl: Die Truppen 
 
-Sarg, der
+Sarg (n), der
 mn: Coffin
 pl: Die Särge 
 
-Freundschaft, die
+Freundschaft (n), die
 mn: Friendship
 pl: Die Freundschaften 
 
-Ermittlung, die
+Ermittlung (n), die
 mn: Investigation
 pl: Die Untersuchungen 
 
-Verkauf, der
+Verkauf (n), der
 mn: Sale
 pl: Die Verkäufe 
 
-Ziel, das
+Ziel (n), das
 mn: Goal
 pl: Die Ziele 
 
-Krankenwagen, der
+Krankenwagen (n), der
 mn: Ambulance
 pl: Die Krankenwagen 
 
-Mondlicht, das
+Mondlicht (n), das
 mn: Moonlight
 pl: Die Mondlicht 
 
 Ward – The Ward
 pl: Die Schutzzauber 
 
-Hosen, die
+Hosen (n), die
 mn: Trousers
 pl: Die Trouserses 
 
-Wolle, die
+Wolle (n), die
 mn: Wool
 pl: Die Wolle 
 
-Mac, die
+Mac (n), die
 mn: Mac
 pl: Die Macs 
 
-Minister, der
+Minister (n), der
 mn: Minister
 pl: Die Minister 
 
-Eintritt, der
+Eintritt (n), der
 mn: Entry
 pl: Die Einträge 
 
-Dieb, der
+Dieb (n), der
 mn: Thief
 pl: Die Diebe 
 
-Aktentasche, die
+Aktentasche (n), die
 mn: Briefcase
 pl: Die Aktentaschen 
 
-Mitleid, das
+Mitleid (n), das
 mn: Pity
 pl: Die Bemitleidet 
 
-Finger, die
+Finger (n), die
 mn: Fingertip
 pl: Die Fingerspitzen 
 
-Marine, die
+Marine (n), die
 mn: Navy
 pl: Die Marinen 
 
-Insekt, das
+Insekt (n), das
 mn: Insect
 pl: Die Insekten 
 
 Velvet – The Velvet
 pl: Die Samt 
 
-Biene, die
+Biene (n), die
 mn: Bee
 pl: Die Bienen 
 
-Stock, der
+Stock (n), der
 mn: Cane
 pl: Die Stöcke 
 
-Gen, das
+Gen (n), das
 mn: Gene
 pl: Die Gene 
 
-Salat, der
+Salat (n), der
 mn: Salad
 pl: Die Salate 
 
-Windschutzscheibe, die
+Windschutzscheibe (n), die
 mn: Windshield
 pl: Die Windschutzscheiben 
 
-Outfit, das
+Outfit (n), das
 mn: Outfit
 pl: Die Outfits 
 
-Shuttle, der
+Shuttle (n), der
 mn: Shuttle
 pl: Die Shuttles 
 
-Schrei, der
+Schrei (n), der
 mn: Shout
 pl: Die Rufe 
 
-Wut, die
+Wut (n), die
 mn: Fury
 pl: Die Furien 
 
-Herausforderung, die
+Herausforderung (n), die
 mn: Challenge
 pl: Die Herausforderungen 
 
-Zufriedenheit, die
+Zufriedenheit (n), die
 mn: Satisfaction
 pl: Die Zufriedenheiten 
 
-Motor, der
+Motor (n), der
 mn: Motor
 pl: Die Motoren 
 
-Produkt, das
+Produkt (n), das
 mn: Product
 pl: Die Produkte 
 
-Unkraut, das
+Unkraut (n), das
 mn: Weed
 pl: Das Unkraut 
 
-Strecke, die
+Strecke (n), die
 mn: Stretch
 pl: Die Strecken 
 
-Fitnesscenter, das
+Fitnesscenter (n), das
 mn: Gym
 pl: Die FitnessStudios 
 
-Kapital, das
+Kapital (n), das
 mn: Capital
 pl: Die Hauptstädte 
 
-Rand, der
+Rand (n), der
 mn: Rim
 pl: Die Felgen 
 
-Pfote, die
+Pfote (n), die
 mn: Paw
 pl: Die Pfoten 
 
-Festung, die
+Festung (n), die
 mn: Fort
 pl: Die Forts 
 
-Kosten, die
+Kosten (n), die
 mn: Cost
 pl: Die Kosten 
 
-Plakat, das
+Plakat (n), das
 mn: Poster
 pl: Die Poster 
 
-Vampir, der
+Vampir (n), der
 mn: Vampire
 pl: Die Vampire 
 
-Welle, die
+Welle (n), die
 mn: Shaft
 pl: Die Wellen 
 
-Identität, die
+Identität (n), die
 mn: Identity
 pl: Die Identitäten 
 
-Bürgersteig, der
+Bürgersteig (n), der
 mn: Pavement
 pl: Die Bürgersteige 
 
-Arschloch, das
+Arschloch (n), das
 mn: Asshole
 pl: Die Arschlöcher 
 
-Gurt, der
+Gurt (n), der
 mn: Strap
 pl: Die Gurte 
 
-Wohnzimmer, das
+Wohnzimmer (n), das
 mn: Parlor
 pl: Die Stuben 
 
-Hafen, der
+Hafen (n), der
 mn: Harbor
 pl: Die Häfen 
 
-Beispiel, das
+Beispiel (n), das
 mn: Example
 pl: Beispiele
 
-Netz, das
+Netz (n), das
 mn: Web
 pl: Die Stege 
 
-Golf, der
+Golf (n), der
 mn: Golf
 pl: Die Golfplätze 
 
-Freude, die
+Freude (n), die
 mn: Delight
 pl: Die Freuden 
 
-Decke, die
+Decke (n), die
 mn: Quilt
 pl: Diese Decken 
 
-Steuer, die
+Steuer (n), die
 mn: Tax
 pl: Die Taxs 
 
-Falte, die
+Falte (n), die
 mn: Fold
 pl: Die Falten 
 
-Porträt, das
+Porträt (n), das
 mn: Portrait
 pl: Die Porträts 
 
-Gewebe, das
+Gewebe (n), das
 mn: Tissue
 pl: Die Gewebe 
 
-Glaube, der
+Glaube (n), der
 mn: Belief
 pl: Die Überzeugungen 
 
-Kostüm, das
+Kostüm (n), das
 mn: Costume
 pl: Die Kostüme 
 
-Maß, das
+Maß (n), das
 mn: Measure
 ex:
 - Maßnahmen
 
-Wagen, der
+Wagen (n), der
 mn: Carriage
 pl: Die Wagen 
 
-Gitarre, die
+Gitarre (n), die
 mn: Guitar
 pl: Die Gitarren 
 
-Ritter, der
+Ritter (n), der
 mn: Knight
 pl: Die Ritter 
 
-Rang, der
+Rang (n), der
 mn: Rank
 pl: Die Reihen 
 
-Bürgermeister, der
+Bürgermeister (n), der
 mn: Major
 pl: Die Majors 
 
-Brunnen, der
+Brunnen (n), der
 mn: Fountain
 pl: Die Brunnen 
 
-Stall, der
+Stall (n), der
 mn: Stall
 pl: Die Stände 
 
-Ladung, die
+Ladung (n), die
 mn: Load
 pl: Die Lasten 
 
-Funke, der
+Funke (n), der
 mn: Spark
 pl: Die Funken 
 
-Müll, der
+Müll (n), der
 mn: Waste
 pl: Die Abfälle 
 
-Champagner, der
+Champagner (n), der
 mn: Champagne
 pl: Die Champagner 
 
-Viertel, das
+Viertel (n), das
 mn: District
 pl: Die Bezirke 
 
-Schutz, der
+Schutz (n), der
 mn: Protection
 pl: Die Schutz 
 
-Urteil, das
+Urteil (n), das
 mn: Judgment
 pl: Die Urteile 
 
-Sympathie, die
+Sympathie (n), die
 mn: Sympathy
 pl: Die Sympathien 
 
-Violett, das
+Violett (n), das
 mn: Violet
 pl: Die Veilchen 
 
-Aufprall, der
+Aufprall (n), der
 mn: Impact
 pl: Die Auswirkungen 
 
-Enttäuschung, die
+Enttäuschung (n), die
 mn: Disappointment
 pl: Die Enttäuschungen 
 
-Trink, das
+Trink (n), das
 mn: Drinking
 pl: Die Drinkings 
 
-Bewusstsein, das
+Bewusstsein (n), das
 mn: Consciousness
 pl: Die Bewussts 
 
-Taschentuch, das
+Taschentuch (n), das
 mn: Handkerchief
 pl: Die Taschentücher 
 
-Tanzen, das
+Tanzen (n), das
 mn: Dancing
 pl: Die Dancings 
 
-Parfüm, das
+Parfüm (n), das
 mn: Perfume
 pl: Die Düfte 
 
-Netzwerk, das
+Netzwerk (n), das
 mn: Network
 pl: Die Netzwerke 
 
-Anspruch, der
+Anspruch (n), der
 mn: Claim
 pl: Die Ansprüche 
 
-Nonne, die
+Nonne (n), die
 mn: Nun
 pl: Die Nonnen 
 
-Krone, die
+Krone (n), die
 mn: Crown
 pl: Die Kronen 
 
-Geländer, das
+Geländer (n), das
 mn: Railing
 pl: Die Geländer 
 
-Lizenz, die
+Lizenz (n), die
 mn: License
 pl: Die Lizenzen 
 
-Barmherzigkeit, die
+Barmherzigkeit (n), die
 mn: Mercy
 pl: Die Barmherzigkeit 
 
-Ballon, der
+Ballon (n), der
 mn: Balloon
 pl: Die Ballons 
 
-Chaos, das
+Chaos (n), das
 mn: Chaos
 pl: Die Chaoses 
 
-Fieber, das
+Fieber (n), das
 mn: Fever
 pl: Die Fieber 
 
-Schließfach, das
+Schließfach (n), das
 mn: Locker
 pl: Die Schließfächer 
 
-Sitzung, die
+Sitzung (n), die
 mn: Session
 pl: Die Sitzungen 
 
-Burst, die
+Burst (n), die
 mn: Burst
 pl: Die Bursts 
 
-Spitzer, der
+Spitzer (n), der
 mn: Peak
 pl: Die Peaks 
 
-Trommel, die
+Trommel (n), die
 mn: Drum
 pl: Die Trommeln 
 
-Fokus, der
+Fokus (n), der
 mn: Focus
 pl: Die Schwerpunkte 
 
-Frosch, der
+Frosch (n), der
 mn: Frog
 pl: Die Frösche 
 
-Vorteil, der
+Vorteil (n), der
 mn: Benefit
 pl: Die Vorteile 
 
-Bemerkung, die
+Bemerkung (n), die
 mn: Remark
 pl: Die Bemerkungen 
 
-Gezeiten, die
+Gezeiten (n), die
 mn: Tide
 pl: Die Gezeiten 
 
-Verdacht, der
+Verdacht (n), der
 mn: Suspicion
 pl: Der Verdacht 
 
-Jeep, der
+Jeep (n), der
 mn: Jeep
 pl: Die Jeeps 
 
-Sorge, die
+Sorge (n), die
 mn: Worry
 pl: Die Sorgen 
 
-Literatur, die
+Literatur (n), die
 mn: Literature
 pl: Die Literaturen 
 
-Bogenschütze, der
+Bogenschütze (n), der
 mn: Archer
 pl: Die Bogenschützen 
 
-Haushalt, der
+Haushalt (n), der
 mn: Household
 pl: Die Haushalte 
 
-Pulver, das
+Pulver (n), das
 mn: Powder
 pl: Die Pulver 
 
-Hirte, der
+Hirte (n), der
 mn: Shepherd
 pl: Die Hirten 
 
-Linse, die
+Linse (n), die
 mn: Lens
 pl: Die Linsen 
 
-Favorit, der
+Favorit (n), der
 mn: Favorite
 pl: Die Favoriten 
 
-Madame, die
+Madame (n), die
 mn: Madame
 pl: Die Madames 
 
-Villa, die
+Villa (n), die
 mn: Mansion
 pl: Die Herrenhäuser 
 
-Boom, der
+Boom (n), der
 mn: Boom
 pl: Die Ausleger 
 
-Spitze, die
+Spitze (n), die
 mn: Lace
 pl: Die Schnürsenkel 
 
-Überprüfung, die
+Überprüfung (n), die
 mn: Review
 pl: Die Bewertungen 
 
-Rezeption, die
+Rezeption (n), die
 mn: Reception
 pl: Die Empfänge 
 
-Schrott, der
+Schrott (n), der
 mn: Scrap
 pl: Die Fetzen 
 
-Wulst, der
+Wulst (n), der
 mn: Bead
 pl: Die Perlen 
 
-Blendung, die
+Blendung (n), die
 mn: Glare
 pl: Die Blicke 
 
-Strömung, die
+Strömung (n), die
 mn: Flow
 pl: Die Ströme 
 
-Cafe, das
+Cafe (n), das
 mn: Cafe
 pl: Die Cafés 
 
-Status, der
+Status (n), der
 mn: Status
 pl: Die Zustände 
 
-Pochen, das
+Pochen (n), das
 mn: Pounding
 pl: Die Poundings 
 
-Rakete, die
+Rakete (n), die
 mn: Rocket
 pl: Die Raketen 
 
-Schlucht, die
+Schlucht (n), die
 mn: Canyon
 pl: Die Schluchten 
 
-Trauer, die
+Trauer (n), die
 mn: Sorrow
 pl: Die Leiden 
 
-Spinne, die
+Spinne (n), die
 mn: Spider
 pl: Die Spinnen 
 
-Explosion, die
+Explosion (n), die
 mn: Blast
 pl: Die Blasten 
 
-Persönlichkeit, die
+Persönlichkeit (n), die
 mn: Personality
 pl: Die Persönlichkeiten 
 
-Campus, der
+Campus (n), der
 mn: Campus
 pl: Die Campus 
 
-Fluch, der
+Fluch (n), der
 mn: Curse
 pl: Die Flüche 
 
-Treppenhaus, das
+Treppenhaus (n), das
 mn: Staircase
 pl: Die Treppenhäuser 
 
-Drang, der
+Drang (n), der
 mn: Urge
 pl: Die Triebe 
 
-Frustration, die
+Frustration (n), die
 mn: Frustration
 pl: Die Frustrationen 
 
-Pumpe, die
+Pumpe (n), die
 mn: Pump
 pl: Die Pumpen 
 
-Leichtigkeit, die
+Leichtigkeit (n), die
 mn: Ease
 pl: Die Kungen 
 
-Zählung, die
+Zählung (n), die
 mn: Count
 pl: Die Grafen 
 
-Lösung, die
+Lösung (n), die
 mn: Solution
 pl: Die Lösungen 
 
-Schmuck, der
+Schmuck (n), der
 mn: Jewelry
 pl: Die Schmuck 
 
-Sirene, die
+Sirene (n), die
 mn: Siren
 pl: Die Sirenen 
 
-Schlag, der
+Schlag (n), der
 mn: Hit
 pl: Die Treffer 
 
-Tradition, die
+Tradition (n), die
 mn: Tradition
 pl: Die Traditionen 
 
-Leer, das
+Leer (n), das
 mn: Curb
 pl: Die Bordsteine 
 
-Vielfalt, die
+Vielfalt (n), die
 mn: Variety
 pl: Die Sorten 
 
-Pirat, der
+Pirat (n), der
 mn: Pirate
 pl: Die Piraten 
 
-Beschreibung, die
+Beschreibung (n), die
 mn: Description
 pl: Beschreibungen
 
-Liebe, der
+Liebe (n), der
 mn: Dear
 pl: Die Lieben 
 
-Angst, die
+Angst (n), die
 mn: Anxiety
 pl: Die Ängste 
 
-Tonhöhe, die
+Tonhöhe (n), die
 mn: Pitch
 pl: Die Stellplätze 
 
-Pizza, die
+Pizza (n), die
 mn: Pizza
 pl: Die Pizzas 
 
-Elefant, der
+Elefant (n), der
 mn: Elephant
 pl: Die Elefanten 
 
-Politik, die
+Politik (n), die
 mn: Politics
 pl: Die Politicses 
 
-Tennis, der
+Tennis (n), der
 mn: Tennis
 pl: Die Tennises 
 
-Hunger, der
+Hunger (n), der
 mn: Hunger
 pl: Die Hungert 
 
-Genie, das
+Genie (n), das
 mn: Genius
 pl: Die Genies 
 
-Ziege, die
+Ziege (n), die
 mn: Goat
 pl: Die Ziegen 
 
-Sieg, der
+Sieg (n), der
 mn: Victory
 pl: Die Siege 
 
-Kombination, die
+Kombination (n), die
 mn: Combination
 pl: Kombinationen
 
-Zugehörigkeit, die
+Zugehörigkeit (n), die
 mn: Affiliation
 pl: Die Zugehörigkeiten 
 
-Momma, das
+Momma (n), das
 mn: Momma
 pl: Die Mommas 
 
-Umhang, der
+Umhang (n), der
 mn: Cape
 pl: Die Umhänge 
 
-Scheinwerfer, der
+Scheinwerfer (n), der
 mn: Headlight
 pl: Die Scheinwerfer 
 
-Gouverneur, der
+Gouverneur (n), der
 mn: Governor
 pl: Die Gouverneure 
 
-Sauerstoff, die
+Sauerstoff (n), die
 mn: Oxygen
 pl: Sauerstoffe
 
-Bischof, der
+Bischof (n), der
 mn: Bishop
 pl: Die Bischöfe 
 
-Bündel, das
+Bündel (n), das
 mn: Bundle
 pl: Die Bündel 
 
-Entwicklung, die
+Entwicklung (n), die
 mn: Development
 pl: Die Entwicklungen 
 
-Fingernagel, der
+Fingernagel (n), der
 mn: Fingernail
 pl: Die Fingernägel 
 
-Punktzahl, die
+Punktzahl (n), die
 mn: Score
 pl: Die Noten 
 
-Steuermann, der
+Steuermann (n), der
 mn: Mate
 pl: Die Mates 
 
-Fahrer, der
+Fahrer (n), der
 mn: Rider
 pl: Die Fahrer 
 
-Umlaufbahn, die
+Umlaufbahn (n), die
 mn: Orbit
 pl: Die Bahnen 
 
-Weinstock, der
+Weinstock (n), der
 mn: Vine
 pl: Die Reben 
 
-Suite, die
+Suite (n), die
 mn: Suite
 pl: Die Suiten 
 
-Barkeeper, der
+Barkeeper (n), der
 mn: Bartender
 pl: Die Barkeeper 
 
-Koks, der
+Koks (n), der
 mn: Coke
 pl: Die Kokse 
 
-Melodie, die
+Melodie (n), die
 mn: Tune
 pl: Die Melodien 
 
-Herrlichkeit, die
+Herrlichkeit (n), die
 mn: Glory
 pl: Die Herrlichkeiten 
 
-Rabbi, der
+Rabbi (n), der
 mn: Rabbi
 pl: Die Rabbiner 
 
-Operation, die
+Operation (n), die
 mn: Surgery
 pl: Die Operationen 
 
-Vieh, das
+Vieh (n), das
 mn: Cattle
 pl: Die Rinder 
 
-Ritual, das
+Ritual (n), das
 mn: Ritual
 pl: Die Rituale 
 
-Begrüßung, die
+Begrüßung (n), die
 mn: Greeting
 pl: Die Grüße 
 
-Scheibe, die
+Scheibe (n), die
 mn: Slice
 pl: Die Scheiben 
 
-Homer, die
+Homer (n), die
 mn: Homer
 pl: Die Home Runs 
 
-Kamin, der
+Kamin (n), der
 mn: Fireplace
 pl: Die Kamine 
 
-Trikot, das
+Trikot (n), das
 mn: Jersey
 pl: Die Trikots 
 
-Medien, die
+Medien (n), die
 mn: Media
 pl: Die Medien 
 
-Pop, die
+Pop (n), die
 mn: Pop ~ The Pops 
 
-Fracht, die
+Fracht (n), die
 mn: Cargo
 pl: Die Ladungen 
 
-Gasthaus, das
+Gasthaus (n), das
 mn: Inn
 pl: Die Gasthöfe 
 
-Stellvertretende, der
+Stellvertretende (n), der
 mn: Deputy
 pl: Die Abgeordneten 
 
-Verzweiflung, die
+Verzweiflung (n), die
 mn: Despair
 pl: Die Verzweiflungen 
 
-Territorium, das
+Territorium (n), das
 mn: Territory
 pl: Die Gebiete 
 
-Schlag, der
+Schlag (n), der
 mn: Punch
 pl: Die Stempel 
 
-Jazz, die
+Jazz (n), die
 mn: Jazz
 pl: Die Jazzs 
 
-Umarmung, die
+Umarmung (n), die
 mn: Hug
 pl: Die Umarmungen 
 
-Pfeife, die
+Pfeife (n), die
 mn: Whistle
 pl: Die Pfeifen 
 
-Menschlichkeit, die
+Menschlichkeit (n), die
 mn: Humanity
 pl: Geisteswissenschaften
 
-Handwerk, das
+Handwerk (n), das
 mn: Craft
 pl: Das Handwerk 
 
-Tageslicht, das
+Tageslicht (n), das
 mn: Daylight
 pl: Die Daylighies 
 
-Wert, der
+Wert (n), der
 mn: Worth
 pl: Die Inneren Werte 
 
-Slip, der
+Slip (n), der
 mn: Slip
 pl: Die Schieber 
 
-Rüstung, die
+Rüstung (n), die
 mn: Armor
 pl: Die Rüstungen 
 
-Rucksack, der
+Rucksack (n), der
 mn: Backpack
 pl: Die Rucksäcke 
 
-Vorschlag, der
+Vorschlag (n), der
 mn: Suggestion
 pl: Die Vorschläge 
 
-Höhle, die
+Höhle (n), die
 mn: Den ~ Dens 
 
-Symbol, das
+Symbol (n), das
 mn: Symbol
 pl: Die Symbole 
 
-Kolonie, die
+Kolonie (n), die
 mn: Colony
 pl: Die Kolonien 
 
-Fazit, das
+Fazit (n), das
 mn: Conclusion
 pl: Die Schlussfolgerungen 
 
-Nasenloch, das
+Nasenloch (n), das
 mn: Nostril
 pl: Die Nasenlöcher 
 
-Speer, der
+Speer (n), der
 mn: Spear
 pl: Die Speere 
 
-Impuls, der
+Impuls (n), der
 mn: Impulse
 pl: Die Impulse 
 
-Tomate, die
+Tomate (n), die
 mn: Tomato
 pl: Die Tomaten 
 
-Kalb, das
+Kalb (n), das
 mn: Calf
 pl: Die Kälber 
 
-Herbst, der
+Herbst (n), der
 mn: Autumn
 pl: Die Herbste 
 
-Fund, der
+Fund (n), der
 mn: Discovery
 pl: Die Entdeckungen 
 
-Klassenzimmer, das
+Klassenzimmer (n), das
 mn: Classroom
 pl: Die Klassenzimmer 
 
-Lieferung, die
+Lieferung (n), die
 mn: Delivery
 pl: Die Einteilungen 
 
-Spray, das
+Spray (n), das
 mn: Spray
 pl: Die Spraies 
 
-Flüssigkeit, die
+Flüssigkeit (n), die
 mn: Liquid
 pl: Die Flüssigkeiten 
 
-Kraftstoff, die
+Kraftstoff (n), die
 mn: Fuel
 pl: Die Kraftstoffe 
 
-Unterwäsche, die
+Unterwäsche (n), die
 mn: Underwear
 pl: Die Unterwäsche 
 
-Kuppel, die
+Kuppel (n), die
 mn: Dome
 pl: Die Kuppeln 
 
-Bevölkerung, die
+Bevölkerung (n), die
 mn: Population
 pl: Die Populationen 
 
-Neigung, die
+Neigung (n), die
 mn: Affection
 pl: Die Neigungen 
 
-Religion, die
+Religion (n), die
 mn: Religion
 pl: Die Religionen 
 
-Sänger, der
+Sänger (n), der
 mn: Singer
 pl: Die Sänger 
 
-Begleiter, der
+Begleiter (n), der
 mn: Attendant
 pl: Die Teilnehmer 
 
-Illusion, die
+Illusion (n), die
 mn: Illusion
 pl: Die Illusionen 
 
-Link, der
+Link (n), der
 mn: Link ~ Links 
 
-Wohnzimmer, das
+Wohnzimmer (n), das
 mn: Lounge
 pl: Die Lounges 
 
-Innenraum, der
+Innenraum (n), der
 mn: Interior
 pl: Die Innenräume 
 
-Achselzucken, die
+Achselzucken (n), die
 mn: Shrug
 pl: Die Zuckt Mit Den Schultern 
 
-Zone, die
+Zone (n), die
 mn: Zone
 pl: Die Zonen 
 
-Standard, der
+Standard (n), der
 mn: Standard
 pl: Die Standards 
 
-Kohlen, die
+Kohlen (n), die
 mn: Coal
 pl: Die Kohlen 
 
-Jagd, die
+Jagd (n), die
 mn: Chase
 pl: Die Verfolgungsjagden 
 
-Klumpen, der
+Klumpen (n), der
 mn: Lump
 pl: Die Klumpen 
 
-Charm, der
+Charm (n), der
 mn: Charm
 pl: Der Charme 
 
-Legende, die
+Legende (n), die
 mn: Legend
 pl: Die Legenden 
 
-Konsequenz, die
+Konsequenz (n), die
 mn: Consequence
 pl: Die Konsequenzen 
 
-Beobachtung, die
+Beobachtung (n), die
 mn: Observation
 pl: Die Beobachtungen 
 
-Fahrrad, das
+Fahrrad (n), das
 mn: Bicycle
 pl: Die Fahrräder 
 
-Schaden, der
+Schaden (n), der
 mn: Harm
 pl: Die Schäden 
 
-Zahlung, die
+Zahlung (n), die
 mn: Pay
 pl: Das Zahlt 
 
-Prospekt, das
+Prospekt (n), das
 mn: Prospect
 pl: Die Aussichten 
 
-UBahn, die
+UBahn (n), die
 mn: Subway
 pl: Die UBahnen 
 
-Muster, das
+Muster (n), das
 mn: Sample
 pl: Die Beispiele 
 
-Kirsche, die
+Kirsche (n), die
 mn: Cherry
 pl: Die Kirschen 
 
-Händler, der
+Händler (n), der
 mn: Dealer
 pl: Die Händler 
 
-Zuordnung, die
+Zuordnung (n), die
 mn: Assignment
 pl: Die Zuordnungen 
 
-Eile, die
+Eile (n), die
 mn: Hurry
 pl: Die Eilt 
 
-Geliebte, die
+Geliebte (n), die
 mn: Mistress
 pl: Die Mätressen 
 
-Hügel, der
+Hügel (n), der
 mn: Mound
 pl: Die Hügel 
 
-Unsinn, der
+Unsinn (n), der
 mn: Nonsense
 pl: Die Unsinn 
 
-Komitee, das
+Komitee (n), das
 mn: Committee
 pl: Die Ausschüsse 
 
-Echo, das
+Echo (n), das
 mn: Echo
 pl: Die Echos 
 
-Durchhang, der
+Durchhang (n), der
 mn: Slack
 pl: Die Hose 
 
-Decker, die
+Decker (n), die
 mn: Decker
 pl: Die Decker 
 
-Warenhaus, das
+Warenhaus (n), das
 mn: Warehouse
 pl: Die Lagerhäuser 
 
-Kampf, der
+Kampf (n), der
 mn: Bout
 pl: Die Kämpfe 
 
-Toast, der
+Toast (n), der
 mn: Toast
 pl: Die Toasts 
 
-Einrichtung, die
+Einrichtung (n), die
 mn: Facility
 pl: Die Einrichtungen 
 
-Basketball, der
+Basketball (n), der
 mn: Basketball
 pl: Die Basketbälle 
 
-Schnurrbart, der
+Schnurrbart (n), der
 mn: Mustache
 pl: Die Schnurrbärte 
 
-Senator, der
+Senator (n), der
 mn: Senator
 pl: Die Senatoren 
 
-Teilen, das
+Teilen (n), das
 mn: Share
 pl: Die Aktien 
 
-Augenlid, das
+Augenlid (n), das
 mn: Eyelid
 pl: Die Augenlider 
 
-Begeisterung, die
+Begeisterung (n), die
 mn: Enthusiasm
 pl: Die Begeisterung 
 
-Chunk, die
+Chunk (n), die
 mn: Chunk
 pl: Die Brocken 
 
-Schildkröte, die
+Schildkröte (n), die
 mn: Turtle
 pl: Die Schildkröten 
 
-Alkohol, der
+Alkohol (n), der
 mn: Alcohol
 pl: Die Alkohole 
 
-Gummi, die
+Gummi (n), die
 mn: Gum
 pl: Die Gummis 
 
-Truthahn, der
+Truthahn (n), der
 mn: Turkey
 pl: Die Truthähne 
 
-Prediger, der
+Prediger (n), der
 mn: Preacher
 pl: Die Prediger 
 
-Besitz, der
+Besitz (n), der
 mn: Possession
 pl: Die Besitzungen 
 
-Dolly, der
+Dolly (n), der
 mn: Dolly
 pl: Die Dollies 
 
-Leinen, das
+Leinen (n), das
 mn: Linen
 pl: Die Bettwäsche 
 
-Entschuldigung, die
+Entschuldigung (n), die
 mn: Apology
 pl: Die Entschuldigung 
 
-Vortrag, der
+Vortrag (n), der
 mn: Lecture
 pl: Die Vorträge 
 
-Stein, der
+Stein (n), der
 mn: Boulder
 pl: Die Felsbrocken 
 
-Heap, der
+Heap (n), der
 mn: Heap
 pl: Die Haufen 
 
-Fotograf, der
+Fotograf (n), der
 mn: Photographer
 pl: Die Fotografen 
 
-Bremse, die
+Bremse (n), die
 mn: Brake
 pl: Die Bremsen 
 
-Nachfrage, die
+Nachfrage (n), die
 mn: Demand
 pl: Die Forderungen 
 
-Schürze, die
+Schürze (n), die
 mn: Apron
 pl: Die Schürzen 
 
-Mantel, der
+Mantel (n), der
 mn: Cloak
 pl: Die Umhänge 
 
-Jury, die
+Jury (n), die
 mn: Jury
 pl: Jurys
 
-Anhörung, die
+Anhörung (n), die
 mn: Hearing
 pl: Die Anhörungen 
 
-Graue, das
+Graue (n), das
 mn: Gray
 pl: Die Grautöne 
 
-Kiste, die
+Kiste (n), die
 mn: Crate
 pl: Die Kisten 
 
-Methode, die
+Methode (n), die
 mn: Method
 pl: Die Methoden
 
-Referenz, die
+Referenz (n), die
 mn: Reference
 pl: Die Verweise 
 
-Ekel, der
+Ekel (n), der
 mn: Disgust
 pl: Die Ekelt 
 
-Flotte, die
+Flotte (n), die
 mn: Liquor
 pl: Die Flotten 
 
-Lippenstift, der
+Lippenstift (n), der
 mn: Lipstick
 pl: Die Lippenstifte
 
-Kern, der
+Kern (n), der
 mn: Core
 pl: Die Kerne 
 
-Einzelne, der
+Einzelne (n), der
 mn: Individual
 pl: Die Personen 
 
-Container, der
+Container (n), der
 mn: Container
 pl: Die Behälter 
 
-Hure, die
+Hure (n), die
 mn: Whore
 pl: Die Huren 
 
-Kleinkind, das
+Kleinkind (n), das
 mn: Infant
 pl: Die Säuglinge 
 
-Sonnenbrille, die
+Sonnenbrille (n), die
 mn: Sunglasses
 pl: Die Sunglasseses 
 
-Schlauch, der
+Schlauch (n), der
 mn: Hose
 pl: Die Schläuche 
 
-Konzert, das
+Konzert (n), das
 mn: Concert
 pl: Die Konzerte
 
-Bullshit, das
+Bullshit (n), das
 mn: Bullshit
 pl: Die Bullshits 
 
-Eisenbahn, die
+Eisenbahn (n), die
 mn: Railroad
 pl: Die Eisenbahnen 
 
-Parade, die
+Parade (n), die
 mn: Parade
 pl: Die Paraden 
 
-Fach, das
+Fach (n), das
 mn: Compartment
 pl: Die Abteile 
 
-Bewohner, der
+Bewohner (n), der
 mn: Resident
 pl: Die Bewohner 
 
-Backofen, der
+Backofen (n), der
 mn: Oven
 pl: Die Öfen 
 
-Techniker, der
+Techniker (n), der
 mn: Technician
 pl: Die Techniker 
 
-Verfahren, das
+Verfahren (n), das
 mn: Procedure
 pl: Die Verfahren 
 
-Kämpfer, der
+Kämpfer (n), der
 mn: Fighter
 pl: Die Kämpfer 
 
-Korn, das
+Korn (n), das
 mn: Grain
 pl: Die Körner 
 
-Picknick, das
+Picknick (n), das
 mn: Picnic
 pl: Die Picknicks 
 
-Stamm, der
+Stamm (n), der
 mn: Tribe
 pl: Die Stämme 
 
-Knospe, die
+Knospe (n), die
 mn: Bud
 pl: Die Knospen 
 
-Wiese, die
+Wiese (n), die
 mn: Meadow
 pl: Die Wiesen 
 
-Öffentlichkeit, die
+Öffentlichkeit (n), die
 mn: Public
 pl: Die Öffentlichkeit 
 
-Gift, das
+Gift (n), das
 mn: Poison
 pl: Die Gifte 
 
-Büffel, der
+Büffel (n), der
 mn: Buffalo
 pl: Die Büffel 
 
-Region, die
+Region (n), die
 mn: Region
 pl: Die Regionen 
 
-Produktion, die
+Produktion (n), die
 mn: Production
 pl: Die Produktionen 
 
-Rennen, das
+Rennen (n), das
 mn: Running
 pl: Die Vorlauf 
 
-Schleife, die
+Schleife (n), die
 mn: Loop
 pl: Die Schlaufen 
 
-Schlaf, der
+Schlaf (n), der
 mn: Sleeping
 pl: Die Übernachtungsplätzen 
 
-Soda, die
+Soda (n), die
 mn: Soda
 pl: Die Limonaden 
 
-Eule, die
+Eule (n), die
 mn: Owl
 pl: Die Eulen 
 
-Menü, das
+Menü (n), das
 mn: Menu
 pl: Die Menüs 
 
-Kick, der
+Kick (n), der
 mn: Kick
 pl: Die Tritte 
 
-Ruine, die
+Ruine (n), die
 mn: Ruin
 pl: Die Ruinen 
 
-Rampe, die
+Rampe (n), die
 mn: Ramp
 pl: Die Rampen 
 
-Streifen, der
+Streifen (n), der
 mn: Streak
 pl: Die Streifen 
 
 Forearm – Unterarm
 pl: Die Unterarme 
 
-Büro, das
+Büro (n), das
 mn: Bureau
 pl: Die Büros 
 
-Achsschenkel, der
+Achsschenkel (n), der
 mn: Knuckle
 pl: Die Knöchel 
 
-Gans, die
+Gans (n), die
 mn: Goose
 pl: Die Gänse 
 
-Vormarsch, der
+Vormarsch (n), der
 mn: Advance
 pl: Die Fortschritte 
 
-Fee, die
+Fee (n), die
 mn: Fairy
 pl: Die Feen 
 
-Krankheit, die
+Krankheit (n), die
 mn: Illness
 pl: Die Krankheiten 
 
-Mannschaft, die
+Mannschaft (n), die
 mn: Squad
 pl: Die Kader 
 
-Offizielle, das
+Offizielle (n), das
 mn: Official
 pl: Die Beamten 
 
-Marke, die
+Marke (n), die
 mn: Brand
 pl: Die Marken 
 
-Orgel, die
+Orgel (n), die
 mn: Organ
 pl: Die Organe 
 
-Schmetterling, der
+Schmetterling (n), der
 mn: Butterfly
 pl: Die Schmetterlinge 
 
-Reich, das
+Reich (n), das
 mn: Empire
 pl: Die Reiche 
 
-Profil, das
+Profil (n), das
 mn: Profile
 pl: Die Profile 
 
-Freiheit, die
+Freiheit (n), die
 mn: Liberty
 pl: Die Freiheiten
 
-Unglaube, der
+Unglaube (n), der
 mn: Disbelief
 pl: Die Unglauben 
 
-Hain, der
+Hain (n), der
 mn: Grove
 pl: Die Haine 
 
-Schild, das
+Schild (n), das
 mn: Shield
 pl: Die Abschirmungen 
 
-Sattel, der
+Sattel (n), der
 mn: Saddle
 pl: Die Sättel 
 
-Chancen, die
+Chancen (n), die
 mn: Odds
 pl: Die Oddses 
 
-Cluster, die
+Cluster (n), die
 mn: Cluster
 pl: Die Cluster 
 
-Satellit, der
+Satellit (n), der
 mn: Satellite
 pl: Die Satelliten 
 
-Abzug, der
+Abzug (n), der
 mn: Trigger
 pl: Die Auslöser 
 
-Welpe, der
+Welpe (n), der
 mn: Puppy
 pl: Die Welpen 
 
-Warte, die
+Warte (n), die
 mn: Waiting
 pl: Die Erwartungen 
 
-Glühbirne, die
+Glühbirne (n), die
 mn: Bulb
 pl: Die Zwiebeln 
 
-Kommode, die
+Kommode (n), die
 mn: Dresser
 pl: Die Kommoden 
 
-Patrouille, die
+Patrouille (n), die
 mn: Patrol
 pl: Die Patrouillen 
 
-Adler, der
+Adler (n), der
 mn: Eagle
 pl: Die Adler 
 
-Privatsphäre, der
+Privatsphäre (n), der
 mn: Privacy
 pl: Die Privatsphären 
 
-Fluid, das
+Fluid (n), das
 mn: Fluid
 pl: Die Fluide
 
-Herde, die
+Herde (n), die
 mn: Herd
 pl: Die Herden 
 
-Kopfschmerz, der
+Kopfschmerz (n), der
 mn: Headache
 pl: Die Kopfschmerzen 
 
-Vergnügungspark, der
+Vergnügungspark (n), der
 mn: Amusement
 pl: Die Vergnügungen
 
-Rollstuhl, der
+Rollstuhl (n), der
 mn: Wheelchair
 pl: Die Rollstühle 
 
-Richtlinie, die
+Richtlinie (n), die
 mn: Policy
 pl: Die Politik 
 
-Belle, das
+Belle (n), das
 mn: Belle
 pl: Die Belles 
 
-Tabak, die
+Tabak (n), die
 mn: Tobacco
 pl: Die Tabake 
 
-Einstellung, die
+Einstellung (n), die
 mn: Setting
 pl: Die Einstellungen
 
-Tätowierung, die
+Tätowierung (n), die
 mn: Tattoo
 pl: Die Tattoos 
 
-Last, die
+Last (n), die
 mn: Burden
 pl: Die Lasten 
 
-Händler, der
+Händler (n), der
 mn: Merchant
 pl: Die Kaufleute 
 
-Rutsche, die
+Rutsche (n), die
 mn: Slide
 pl: Die Schieber 
 
-Fleck, der
+Fleck (n), der
 mn: Stain
 pl: Die Flecken 
 
-Essen, das
+Essen (n), das
 mn: Eating
 pl: Die Eatings 
 
-Bindung, die
+Bindung (n), die
 mn: Bond
 pl: Die Anleihen 
 
-Schwimmen, das
+Schwimmen (n), das
 mn: Swimming
 pl: Die Swimming 
 
-Grundlage, die
+Grundlage (n), die
 mn: Foundation
 pl: Die Grundlagen 
 
-Verletzung, die
+Verletzung (n), die
 mn: Injury
 pl: Die Verletzungen Haben 
 
-Liga, die
+Liga (n), die
 mn: League
 pl: Die Ligen 
 
-Batterie, die
+Batterie (n), die
 mn: Battery
 pl: Die Batterien 
 
-Regenschirm, der
+Regenschirm (n), der
 mn: Umbrella
 pl: Die Sonnenschirme 
 
-Kaiser, der
+Kaiser (n), der
 mn: Emperor
 pl: Die Kaiser 
 
-Pier, der
+Pier (n), der
 mn: Pier
 pl: Die Pfeiler 
 
-Wasserhahn, der
+Wasserhahn (n), der
 mn: Tap
 pl: Die Wasserhähne 
 
-Witz, der
+Witz (n), der
 mn: Wit
 pl: Die Verstand 
 
-Cutter, der
+Cutter (n), der
 mn: Cutter
 pl: Die Schneidwerkzeuge 
 
-Dachboden, der
+Dachboden (n), der
 mn: Attic
 pl: Die Dachböden 
 
-Tiger, der
+Tiger (n), der
 mn: Tiger
 pl: Die Tiger 
 
-Pal, die
+Pal (n), die
 mn: Pal
 pl: Die Kumpels 
 
-Vorfahr, der
+Vorfahr (n), der
 mn: Ancestor
 pl: Die Vorfahren 
 
-Konzentration, die
+Konzentration (n), die
 mn: Concentration
 pl: Die Konzentrationen 
 
-Berg, der
+Berg (n), der
 mn: Mount
 pl: Die Halterungen 
 
-Aufwand, der
+Aufwand (n), der
 mn: Expense
 pl: Die Kosten 
 
-Segen, der
+Segen (n), der
 mn: Blessing
 pl: Die Segnungen 
 
-Urlaub, der
+Urlaub (n), der
 mn: Leave
 pl: Das Laub 
 
-Leiste, die
+Leiste (n), die
 mn: Ledge
 pl: Die Leisten 
 
-Fackel, die
+Fackel (n), die
 mn: Torch
 pl: Die Fackeln 
 
-Tinten, die
+Tinten (n), die
 mn: Ink
 pl: Die Tinten 
 
-Handlung, die
+Handlung (n), die
 mn: Plot
 pl: Die Grundstücke 
 
-Miete, die
+Miete (n), die
 mn: Rent
 pl: Die Mieten 
 
-Maultier, das
+Maultier (n), das
 mn: Mule
 pl: Die Maultiere 
 
-Bogen, der
+Bogen (n), der
 mn: Arch
 pl: Die Bögen 
 
-Umgebung, die
+Umgebung (n), die
 mn: Environment
 pl: Die Umgebungen 
 
-Stirnrunzeln, das
+Stirnrunzeln (n), das
 mn: Frown
 pl: Die Stirn Runzelt 
 
-Inspektor, der
+Inspektor (n), der
 mn: Inspector
 pl: Die Inspektoren 
 
-Mitten, die
+Mitten (n), die
 mn: Midst
 pl: Die Midsts 
 
-Verlegenheit, die
+Verlegenheit (n), die
 mn: Embarrassment
 pl: Die Peinlichkeiten 
 
-Beschwerde, die
+Beschwerde (n), die
 mn: Complaint
 pl: Die Beschwerden 
 
-Portion, die
+Portion (n), die
 mn: Portion
 pl: Die Portionen 
 
-Spannfutter, das
+Spannfutter (n), das
 mn: Chuck
 pl: Die Spann 
 
-Clearing, die
+Clearing (n), die
 mn: Clearing
 pl: Die Lichtungen 
 
-Krise, die
+Krise (n), die
 mn: Crisis
 pl: Die Krisen 
 
-Halskette, die
+Halskette (n), die
 mn: Necklace
 pl: Die Halsketten 
 
-Laterne, die
+Laterne (n), die
 mn: Lantern
 pl: Die Laternen 
 
-Reichtum, der
+Reichtum (n), der
 mn: Wealth
 pl: Die Reichtümer 
 
-Mörder, der
+Mörder (n), der
 mn: Murderer
 pl: Die Mörder 
 
-Zivilisation, die
+Zivilisation (n), die
 mn: Civilization
 pl: Die Zivilisationen 
 
-Konzept, das
+Konzept (n), das
 mn: Concept
 pl: Die Konzepte 
 
-Lamm, das
+Lamm (n), das
 mn: Lamb
 pl: Die Lämmer 
 
-Schritt, die
+Schritt (n), die
 mn: Stride
 pl: Die Fortschritte 
 
-Manschette, die
+Manschette (n), die
 mn: Cuff
 pl: Die Manschetten 
 
-Jungfrau, die
+Jungfrau (n), die
 mn: Virgin
 pl: Die Jungfrauen 
 
-Eichhörnchen, das
+Eichhörnchen (n), das
 mn: Squirrel
 pl: Die Eichhörnchen 
 
-Kind, das
+Kind (n), das
 mn: Babe
 pl: Die Babes 
 
-Star, der
+Star (n), der
 mn: Starling
 pl: Die Stare 
 
-Depression, die
+Depression (n), die
 mn: Depression
 pl: Die Vertiefungen 
 
-Speicher, das
+Speicher (n), das
 mn: Storage
 pl: Die Speicher 
 
-Altar, der
+Altar (n), der
 mn: Altar
 pl: Die Altäre 
 
-Tragödie, die
+Tragödie (n), die
 mn: Tragedy
 pl: Die Tragödien 
 
-Ressource, die
+Ressource (n), die
 mn: Resource
 pl: Die Mittel 
 
-Reisende, der
+Reisende (n), der
 mn: Traveler
 pl: Die Reisenden 
 
-Vertrauen, das
+Vertrauen (n), das
 mn: Trust
 pl: Die Trusts 
 
-Bogen, die
+Bogen (n), die
 mn: Arc
 pl: Die Bögen 
 
-Königreich, das
+Königreich (n), das
 mn: Kingdom
 pl: Die Königreiche 
 
-Juwel, das
+Juwel (n), das
 mn: Jewel
 pl: Die Juwelen 
 
-Musiker, der
+Musiker (n), der
 mn: Musician
 pl: Die Musiker 
 
-Flugzeug, das
+Flugzeug (n), das
 mn: Airplane
 pl: Die Flugzeuge 
 
-Junk, die
+Junk (n), die
 mn: Junk
 pl: Die Dschunken 
 
-Sonnenschein, der
+Sonnenschein (n), der
 mn: Sunshine
 pl: Die Sonne Scheint 
 
-Knabe, der
+Knabe (n), der
 mn: Lad
 pl: Die Jungs 
 
-Elf, der
+Elf (n), der
 mn: Elf
 pl: Die Elfen 
 
-Protest, der
+Protest (n), der
 mn: Protest
 pl: Die Proteste 
 
-Jagd, die
+Jagd (n), die
 mn: Hunt
 pl: Die Jagden 
 
-Exekutive, die
+Exekutive (n), die
 mn: Executive
 pl: Die Führungskräfte 
 
-Tagebuch, das
+Tagebuch (n), das
 mn: Diary
 pl: Die Tagebücher 
 
-Aspekt, das
+Aspekt (n), das
 mn: Aspect
 pl: Die Aspekte 
 
-Zifferblatt, das
+Zifferblatt (n), das
 mn: Dial
 pl: Die Zifferblätter 
 
-Hausschuh, der
+Hausschuh (n), der
 mn: Slipper
 pl: Die Pantoffeln 
 
-Schauspielerin, die
+Schauspielerin (n), die
 mn: Actress
 pl: Die Schauspielerinnen 
 
-Shooting, das
+Shooting (n), das
 mn: Shooting
 pl: Die Dreharbeiten 
 
-Ohrring, der
+Ohrring (n), der
 mn: Earring
 pl: Die Ohrringe 
 
-Ameise, die
+Ameise (n), die
 mn: Ant
 pl: Die Ameisen 
 
-Patty, die
+Patty (n), die
 mn: Patty
 pl: Die Bratlinge 
 
-Sauce, die
+Sauce (n), die
 mn: Sauce
 pl: Die Soßen 
 
-Rakete, die
+Rakete (n), die
 mn: Missile
 pl: Die Raketen 
 
-Intensität, die
+Intensität (n), die
 mn: Intensity
 pl: Die Intensitäten 
 
-Graben, der
+Graben (n), der
 mn: Ditch
 pl: Die Gräben 
 
-Gänseblümchen, das
+Gänseblümchen (n), das
 mn: Daisy
 pl: Das Gänseblümchen 
 
-Kapelle, die
+Kapelle (n), die
 mn: Chapel
 pl: Die Kapellen 
 
-Sumpf, der
+Sumpf (n), der
 mn: Swamp
 pl: Die Sümpfe 
 
-Beziehung, die
+Beziehung (n), die
 mn: Relation
 pl: Die Beziehungen 
 
-Vermutung, die
+Vermutung (n), die
 mn: Guess
 pl: Die Vermutungen 
 
-Kran, der
+Kran (n), der
 mn: Crane
 pl: Die Kräne 
 
-Begegnung, die
+Begegnung (n), die
 mn: Encounter
 pl: Die Begegnungen 
 
-Sequenz, die
+Sequenz (n), die
 mn: Sequence
 pl: Die Sequenzen 
 
-Fragment, das
+Fragment (n), das
 mn: Fragment
 pl: Die Fragmente 
 
-Entwurf, der
+Entwurf (n), der
 mn: Draft
 pl: Die Entwürfe 
 
-Diner, das
+Diner (n), das
 mn: Diner ~ Diners 
 
-Funktion, die
+Funktion (n), die
 mn: Function
 pl: Die Funktionen 
 
-Organisation, die
+Organisation (n), die
 mn: Organization
 pl: Die Organisationen 
 
-Skelett, das
+Skelett (n), das
 mn: Skeleton
 pl: Die Skelette 
 
-Elend, das
+Elend (n), das
 mn: Misery
 pl: Das Elend 
 
-Kraut, das
+Kraut (n), das
 mn: Herb
 pl: Die Kräuter 
 
-Stumpf, der
+Stumpf (n), der
 mn: Stump
 pl: Die Stümpfe 
 
-Einsatz, der
+Einsatz (n), der
 mn: Stake
 pl: Die Einsätze 
 
-Puff, die
+Puff (n), die
 mn: Puff
 pl: Die Windbeutel 
 
-Kreation, die
+Kreation (n), die
 mn: Creation
 pl: Die Kreationen 
 
-Gefolge, das
+Gefolge (n), das
 mn: Wake
 pl: Die Totenwache 
 
-Zauberer, der
+Zauberer (n), der
 mn: Wizard
 pl: Die Zauberer 
 
-Matte, die
+Matte (n), die
 mn: Mat
 pl: Die Matten 
 
-Dichtung, die
+Dichtung (n), die
 mn: Seal
 pl: Die Dichtungen 
 
-Zwielicht, das
+Zwielicht (n), das
 mn: Twilight
 pl: Die Dämmerungen 
 
-Grunzen, das
+Grunzen (n), das
 mn: Grunt
 pl: Das Grunzen 
 
-Strafe, die
+Strafe (n), die
 mn: Punishment
 pl: Die Strafen 
 
-Clan, der
+Clan (n), der
 mn: Clan
 pl: Die Clans 
 
-Kupfer, das
+Kupfer (n), das
 mn: Copper
 pl: Die Kupfer 
 
-Trümmer, die
+Trümmer (n), die
 mn: Debris
 pl: Die Debrises 
 
-Maler, der
+Maler (n), der
 mn: Painter
 pl: Die Maler 
 
-Steuer, das
+Steuer (n), das
 mn: Steering
 pl: Die Lenkungen 
 
-Mathematik, die
+Mathematik (n), die
 mn: Math
 pl: Die Mathematik 
 
-Erkennung, die
+Erkennung (n), die
 mn: Recognition
 pl: Die Anerkennungen 
 
-Stimmung, die
+Stimmung (n), die
 mn: Temper
 pl: Die Gemüter 
 
-Bedauern, das
+Bedauern (n), das
 mn: Regret
 pl: Die Reue 
 
-Ziel, das
+Ziel (n), das
 mn: Destination
 pl: Die Ziele 
 
-Mühle, die
+Mühle (n), die
 mn: Mill
 pl: Die Mühlen 
 
-Fehler, der
+Fehler (n), der
 mn: Error
 pl: Die Fehler 
 
-Romantik, die
+Romantik (n), die
 mn: Romance
 pl: Die Romane 
 
-Thema, das
+Thema (n), das
 mn: Topic
 pl: Die Themen 
 
-Terrasse, die
+Terrasse (n), die
 mn: Patio
 pl: Die Innenhöfe 
 
-Schaufel, die
+Schaufel (n), die
 mn: Shovel
 pl: Die Schaufeln
 
-Schlafanzüge, die
+Schlafanzüge (n), die
 mn: Pajamas
 pl: Die Pajamases 
 
-Email, die
+Email (n), die
 mn: EMail
 pl: Die EMails 
 
-Taube, die
+Taube (n), die
 mn: Pigeon
 pl: Die Tauben 
 
-Dinosaurier, der
+Dinosaurier (n), der
 mn: Dinosaur
 pl: Die Dinosaurier 
 
-Branche, die
+Branche (n), die
 mn: Industry
 pl: Die Industrie 
 
-Betreiber, der
+Betreiber (n), der
 mn: Operator
 pl: Die Betreiber 
 
-Lift, der
+Lift (n), der
 mn: Lift
 pl: Die Lifte 
 
-Ratgeber, der
+Ratgeber (n), der
 mn: Counselor
 pl: Die Berater 
 
-Versammlung, die
+Versammlung (n), die
 mn: Gathering
 pl: Die Versammlungen 
 
-Prinzip, das
+Prinzip (n), das
 mn: Principle
 pl: Die Grundsätze 
 
-Drama, das
+Drama (n), das
 mn: Drama
 pl: Die Dramen 
 
-Küken, das
+Küken (n), das
 mn: Chick
 pl: Die Küken 
 
-Diagramm, das
+Diagramm (n), das
 mn: Chart
 pl: Die Charts 
 
-Kampagne, die
+Kampagne (n), die
 mn: Campaign
 pl: Die Kampagnen 
 
-Lorbeer, der
+Lorbeer (n), der
 mn: Laurel
 pl: Die Lorbeeren 
 
-Steak, das
+Steak (n), das
 mn: Steak
 pl: Die Steaks 
 
-Kriminelle, der
+Kriminelle (n), der
 mn: Criminal
 pl: Die Verbrecher 
 
-Globus, der
+Globus (n), der
 mn: Globe
 pl: Die Kugeln 
 
-Bluterguss, der
+Bluterguss (n), der
 mn: Bruise
 pl: Die Blauen Flecken 
 
-Knopf, der
+Knopf (n), der
 mn: Knob
 pl: Die Noppen 
 
-Töten, das
+Töten (n), das
 mn: Killing
 pl: Die Morde 
 
-Schatz, der
+Schatz (n), der
 mn: Sweetheart
 pl: Die Lieblinge 
 
-Oper, die
+Oper (n), die
 mn: Opera
 pl: Die Opern 
 
-Frost, der
+Frost (n), der
 mn: Frost
 pl: Die Fröste 
 
-Nippel, der
+Nippel (n), der
 mn: Nipple
 pl: Die Brustwarzen 
 
-Pfarrer, der
+Pfarrer (n), der
 mn: Reverend
 pl: Die Pastoren 
 
-Trübung, die
+Trübung (n), die
 mn: Haze
 pl: Die Trübungen 
 
-Hochwasser, das
+Hochwasser (n), das
 mn: Flood
 pl: Die Fluten 
 
-Weihnachtslied, das
+Weihnachtslied (n), das
 mn: Carol
 pl: Die Weihnachtslieder 
 
-Schwäche, die
+Schwäche (n), die
 mn: Weakness
 pl: Die Schwächen
 
-Kochen, das
+Kochen (n), das
 mn: Cooking
 pl: Die Cookings 
 
-Metzger, der
+Metzger (n), der
 mn: Butcher
 pl: Die Metzger 
 
-Würfel, der
+Würfel (n), der
 mn: Cube
 pl: Die Würfel 
 
-Keller, der
+Keller (n), der
 mn: Cellar
 pl: Die Keller 
 
-Hohl, der
+Hohl (n), der
 mn: Hollow
 pl: Die Hohlräume 
 
-Höcker, der
+Höcker (n), der
 mn: Bump
 pl: Die Höcker 
 
-Halt, der
+Halt (n), der
 mn: Halt
 pl: Die Haltepunkte 
 
-Heu, das
+Heu (n), das
 mn: Hay ~ Hays 
 
-Rinde, die
+Rinde (n), die
 mn: Bark
 pl: Die Rinden 
 
-Überlebens, die
+Überlebens (n), die
 mn: Survival
 pl: Die Überreste 
 
-Etagen, die
+Etagen (n), die
 mn: Bunk
 pl: Die Kojen 
 
-Biegung, die
+Biegung (n), die
 mn: Bend
 pl: Die Biegungen 
 
-Freigabe, die
+Freigabe (n), die
 mn: Approval
 pl: Die Zulassungen 
 
-Unternehmensbereich, der
+Unternehmensbereich (n), der
 mn: Division
 pl: Die Abteilungen 
 
-Cocktail, der
+Cocktail (n), der
 mn: Cocktail
 pl: Die Cocktails 
 
-Wettbewerb, der
+Wettbewerb (n), der
 mn: Contest
 pl: Die Neuesten Informationen 
 
-Paradies, das
+Paradies (n), das
 mn: Paradise
 pl: Die Paradiese 
 
-Rasiermesser, das
+Rasiermesser (n), das
 mn: Razor
 pl: Die Rasierer 
 
-Fang, der
+Fang (n), der
 mn: Catch
 pl: Die Fänge 
 
-Blüte, die
+Blüte (n), die
 mn: Blossom
 pl: Die Blüten 
 
-Pfütze, die
+Pfütze (n), die
 mn: Puddle
 pl: Die Pfützen 
 
-Strom, der
+Strom (n), der
 mn: Electricity
 pl: Die Elektricitäten 
 
-Zwiebel, die
+Zwiebel (n), die
 mn: Onion
 pl: Die Zwiebeln 
 
-Laser, die
+Laser (n), die
 mn: Laser
 pl: Die Laser 
 
-Kissen, das
+Kissen (n), das
 mn: Cushion
 pl: Die Kissen 
 
-Einfluss, der
+Einfluss (n), der
 mn: Influence
 pl: Die Einflüsse 
 
-Sprung, der
+Sprung (n), der
 mn: Jump
 pl: Die Sprünge 
 
-Zement, der
+Zement (n), der
 mn: Cement
 pl: Die Zemente 
 
-Gelbe, die
+Gelbe (n), die
 mn: Amber ~ The Ambers 
 
-Göttin, die
+Göttin (n), die
 mn: Goddess
 pl: Die Göttinnen 
 
 Shack – The Shack
 pl: Die Baracken 
 
-Verkäufe, die
+Verkäufe (n), die
 mn: Sales
 pl: Die Saleses 
 
-Drift, die
+Drift (n), die
 mn: Drift
 pl: Die Drifts 
 
-Kämpfe, die
+Kämpfe (n), die
 mn: Fighting
 pl: Die Kämpfe 
 
-Geflecht, das
+Geflecht (n), das
 mn: Braid
 pl: Die Zöpfe 
 
-Thema, das
+Thema (n), das
 mn: Theme
 pl: Die Themen 
 
-Würde, die
+Würde (n), die
 mn: Dignity
 pl: Die Dignität 
 
-Zitrone, die
+Zitrone (n), die
 mn: Lemon
 pl: Die Zitronen 
 
-Clown, der
+Clown (n), der
 mn: Clown
 pl: Die Clowns 
 
-Angriff, der
+Angriff (n), der
 mn: Assault
 pl: Die Angriffe 
 
-Brille, die
+Brille (n), die
 mn: Goggle
 pl: Die Schutzbrillen 
 
-Zerstörung, die
+Zerstörung (n), die
 mn: Destruction
 pl: Die Zerstörungen 
 
-Ausnahme, die
+Ausnahme (n), die
 mn: Exception
 pl: Die Ausnahmen 
 
-Pfirsich, der
+Pfirsich (n), der
 mn: Peach
 pl: Die Pfirsiche 
 
-Wasch, die
+Wasch (n), die
 mn: Wash
 pl: Die Wasch 
 
-Befreiung, die
+Befreiung (n), die
 mn: Release
 pl: Die Freigaben 
 
-Spion, der
+Spion (n), der
 mn: Spy
 pl: Die Spione 
 
-Tag, die
+Tag (n), die
 mn: Tag
 pl: Die Tags 
 
-Bh, der
+Bh (n), der
 mn: Bra
 pl: Die Bhs 
 
-Schuld, die
+Schuld (n), die
 mn: Debt
 pl: Die Schulden 
 
-Terrasse, die
+Terrasse (n), die
 mn: Terrace
 pl: Die Terrassen 
 
-Überbleibsel, die
+Überbleibsel (n), die
 mn: Remains
 pl: Die Remainses 
 
-Logik, die
+Logik (n), die
 mn: Logic
 pl: Die Logik 
 
-Joint, der
+Joint (n), der
 mn: Joint
 pl: Die Gelenke 
 
-Krug, der
+Krug (n), der
 mn: Pitcher
 pl: Die Krüge 
 
-Perspektive, die
+Perspektive (n), die
 mn: Perspective
 pl: Die Perspektiven 
 
-Ernte, die
+Ernte (n), die
 mn: Crop
 pl: Die Ernte 
 
-Diplom, der
+Diplom (n), der
 mn: Graduate
 pl: Die Absolventen 
 
-Chor, der
+Chor (n), der
 mn: Chorus
 pl: Die Chöre 
 
-Überlebende, der
+Überlebende (n), der
 mn: Survivor
 pl: Die Überlebenden 
 
-Bezahlung, die
+Bezahlung (n), die
 mn: Payment
 pl: Die Zahlungen
 
-Wette, die
+Wette (n), die
 mn: Bet
 pl: Die Wetten 
 
-Rache, die
+Rache (n), die
 mn: Revenge
 pl: Die Rache 
 
-Platz, der
+Platz (n), der
 mn: Plaza
 pl: Die Plätze 
 
-Ältere, der
+Ältere (n), der
 mn: Elder
 pl: Die Ältesten 
 
-Ingwer, der
+Ingwer (n), der
 mn: Ginger
 pl: Die Ingwer 
 
-Chirurg, der
+Chirurg (n), der
 mn: Surgeon
 pl: Die Chirurgen 
 
-Bindestrich, der
+Bindestrich (n), der
 mn: Dash
 pl: Die Striche 
 
-Sandale, die
+Sandale (n), die
 mn: Sandal
 pl: Die Sandalen 
 
-Hass, der
+Hass (n), der
 mn: Hatred
 pl: Die Hass 
 
-Abfahrt, die
+Abfahrt (n), die
 mn: Departure
 pl: Die Abfahrten 
 
-Umriss, der
+Umriss (n), der
 mn: Outline
 pl: Die Umrisse 
 
-Rabe, der
+Rabe (n), der
 mn: Raven
 pl: Die Raben 
 
-Läufer, der
+Läufer (n), der
 mn: Runner
 pl: Die Läufer 
 
-Vorfreude, die
+Vorfreude (n), die
 mn: Anticipation
 pl: Die Erwartungen 
 
-Übersetzung, die
+Übersetzung (n), die
 mn: Translation
 pl: Die Übersetzungen 
 
-Hauptquartier, das
+Hauptquartier (n), das
 mn: Headquarters
 pl: Die Headquarterses 
 
 Celebration – Feier
 pl: Die Feiern 
 
-Qual, die
+Qual (n), die
 mn: Agony
 pl: Die Qualen 
 
-Turnschuhe, die
+Turnschuhe (n), die
 mn: Sneakers
 pl: Die Sneakerses 
 
-Terminal, das
+Terminal (n), das
 mn: Terminal
 pl: Die Endgeräte 
 
-Erwartung, die
+Erwartung (n), die
 mn: Expectation
 pl: Die Erwartungen 
 
-Weide, die
+Weide (n), die
 mn: Pasture
 pl: Die Weiden 
 
-Konsole, die
+Konsole (n), die
 mn: Console
 pl: Die Konsolen 
 
-Streik, der
+Streik (n), der
 mn: Strike
 pl: Die Streiks 
 
-Rettung, die
+Rettung (n), die
 mn: Rescue
 pl: Die Rettungsaktionen 
 
-Abzeichen, das
+Abzeichen (n), das
 mn: Badge
 pl: Die Badges
 
-Fonds, der
+Fonds (n), der
 mn: Fund
 pl: Die Mittel 
 
-Versuch, der
+Versuch (n), der
 mn: Try
 pl: Die Versuche 
 
-Foyer, das
+Foyer (n), das
 mn: Foyer
 pl: Die Foyeies 
 
-Pastor, der
+Pastor (n), der
 mn: Pastor
 pl: Die Pastoren 
 
-Umarmung, die
+Umarmung (n), die
 mn: Embrace
 pl: Die Umarmungen 
 
-Puzzle, das
+Puzzle (n), das
 mn: Puzzle
 pl: Die Rätsel 
 
-Kanal, der
+Kanal (n), der
 mn: Canal
 pl: Die Kanäle 
 
-Wohlfahrt, die
+Wohlfahrt (n), die
 mn: Charity
 pl: Die Wohltätigkeitsorganisationen 
 
-Direktor, der
+Direktor (n), der
 mn: Principal
 pl: Die Auftraggeber 
 
-Applaus, der
+Applaus (n), der
 mn: Applause
 pl: Die Beifall 
 
-Philosophie, die
+Philosophie (n), die
 mn: Philosophy
 pl: Die Philosophien 
 
-Graben, der
+Graben (n), der
 mn: Trench
 pl: Die Gräben 
 
-Bis, die
+Bis (n), die
 mn: Up
 pl: Die Höhen 
 
-Neffe, der
+Neffe (n), der
 mn: Nephew
 pl: Die Neffen 
 
-Aufsatz, der
+Aufsatz (n), der
 mn: Essay
 pl: Die Aufsätze 
 
-Reparatur, die
+Reparatur (n), die
 mn: Repair
 pl: Die Reparaturen 
 
-Mix, der
+Mix (n), der
 mn: Mix
 pl: Die Mixs 
 
-Mob, der
+Mob (n), der
 mn: Mob
 pl: Die Mobs 
 
-Barriere, die
+Barriere (n), die
 mn: Barrier
 pl: Die Barrieren 
 
-Platte, die
+Platte (n), die
 mn: Disk
 pl: Die Scheiben 
 
-Güte, die
+Güte (n), die
 mn: Goodness
 pl: Die Goodnesses 
 
-Scout, der
+Scout (n), der
 mn: Scout
 pl: Die Pfadfinder 
 
-Wichtigkeit, die
+Wichtigkeit (n), die
 mn: Importance
 pl: Die Wichtigkeiten 
 
-Schicksal, das
+Schicksal (n), das
 mn: Destiny
 pl: Die Schicksale 
 
-Beihilfen, die
+Beihilfen (n), die
 mn: Aid
 pl: Die Beihilfen 
 
-Mikrofon, das
+Mikrofon (n), das
 mn: Microphone
 pl: Die Mikrofone 
 
-Etikett, das
+Etikett (n), das
 mn: Label
 pl: Die Etiketten 
 
-Pfeffer, der
+Pfeffer (n), der
 mn: Pepper
 pl: Die Paprika 
 
-Kojote, der
+Kojote (n), der
 mn: Coyote
 pl: Die Kojoten 
 
-Lehren, das
+Lehren (n), das
 mn: Teaching
 pl: Die Lehren 
 
-Brennvorgang, der
+Brennvorgang (n), der
 mn: Burn
 pl: Die Verbrennungen 
 
-Weste, die
+Weste (n), die
 mn: Vest
 pl: Die Westen 
 
-Pony, das
+Pony (n), das
 mn: Pony
 pl: Die Ponys 
 
-Esel, der
+Esel (n), der
 mn: Donkey
 pl: Die Esel 
 
-Kreislauf, der
+Kreislauf (n), der
 mn: Cycle
 pl: Die Zyklen 
 
-Keuchen, das
+Keuchen (n), das
 mn: Gasp
 pl: Die Keuchen 
 
-Ironie, die
+Ironie (n), die
 mn: Irony
 pl: Die Ironien 
 
-Auszeichnung, die
+Auszeichnung (n), die
 mn: Award
 pl: Die Auszeichnungen 
 
-Traube, die
+Traube (n), die
 mn: Grape
 pl: Die Trauben 
 
-Zögern, das
+Zögern (n), das
 mn: Hesitation
 pl: Die Bedenken 
 
-Taverne, die
+Taverne (n), die
 mn: Tavern
 pl: Die Tavernen 
 
-Lästige Pflicht, die
+Lästige Pflicht (n), die
 mn: Chore
 pl: Die Hausarbeiten 
 
-Kugel, die
+Kugel (n), die
 mn: Sphere
 pl: Die Kugeln 
 
-Segel, das
+Segel (n), das
 mn: Sail
 pl: Die Segel 
 
-Silhouette, die
+Silhouette (n), die
 mn: Silhouette
 pl: Die Silhouetten 
 
-Institut, das
+Institut (n), das
 mn: Institute
 pl: Die Institute 
 
-Lügner, der
+Lügner (n), der
 mn: Liar
 pl: Die Lügner 
 
-Technik, die
+Technik (n), die
 mn: Technique
 pl: Die Techniken 
 
-Index, der
+Index (n), der
 mn: Index
 pl: Die Indexs 
 
-Brett, das
+Brett (n), das
 mn: Plank
 pl: Die Bretter 
 
-Ruck, der
+Ruck (n), der
 mn: Jerk
 pl: Die Idioten 
 
-Wachstum, das
+Wachstum (n), das
 mn: Growth
 pl: Die Wucherungen 
 
-Strumpf, der
+Strumpf (n), der
 mn: Stocking
 pl: Die Strümpfe 
 
-Schwärze, die
+Schwärze (n), die
 mn: Blackness
 pl: Die Schwärzen 
 
-Teenager, der
+Teenager (n), der
 mn: Teen
 pl: Die Jugendlichen 
 
-Armband, das
+Armband (n), das
 mn: Bracelet
 pl: Die Armbänder 
 
 Jelly – Gelee
 pl: Die Gelees 
 
-Diät, die
+Diät (n), die
 mn: Diet
 pl: Die Diäten 
 
-Fleisch, das
+Fleisch (n), das
 mn: Beef
 pl: Die Beefs 
 
-Beton, der
+Beton (n), der
 mn: Concrete
 pl: Die Betone 
 
-Kontrast, der
+Kontrast (n), der
 mn: Contrast
 pl: Die Gegensätze 
 
-Banner, das
+Banner (n), das
 mn: Banner
 pl: Die Banner 
 
-Widerstand, der
+Widerstand (n), der
 mn: Resistance
 pl: Die Widerstände 
 
-Aufenthalt, der
+Aufenthalt (n), der
 mn: Stay
 pl: Die Aufenthalte 
 
-Haltung, die
+Haltung (n), die
 mn: Posture
 pl: Die Haltungen 
 
-Wodka, der
+Wodka (n), der
 mn: Vodka
 pl: Die Wodkas 
 
-Album, das
+Album (n), das
 mn: Album
 pl: Die Alben 
 
-Ära, die
+Ära (n), die
 mn: Era
 pl: Die Epochen 
 
-Bekanntschaft, die
+Bekanntschaft (n), die
 mn: Acquaintance
 pl: Die Bekannten 
 
-Revolution, die
+Revolution (n), die
 mn: Revolution
 pl: Die Revolutionen 
 
-Nap, der
+Nap (n), der
 mn: Nap
 pl: Die Noppen 
 
-Schleier, der
+Schleier (n), der
 mn: Veil
 pl: Die Schleier 
 
-Schauspiel, das
+Schauspiel (n), das
 mn: Spectacle
 pl: Die Brille 
 
-Wettbewerb, der
+Wettbewerb (n), der
 mn: Competition
 pl: Die Wettbewerbe 
 
-Kopfhaut, die
+Kopfhaut (n), die
 mn: Scalp
 pl: Die Kopfhaut 
 
-Stechpalme, die
+Stechpalme (n), die
 mn: Holly ~ The Hollies 
 
-Gewinner, der
+Gewinner (n), der
 mn: Winner
 pl: Die Gewinner 
 
-Appetit, der
+Appetit (n), der
 mn: Appetite
 pl: Die Appetit 
 
-Efeu, der
+Efeu (n), der
 mn: Ivy
 pl: Die Efeu 
 
-Cue, der
+Cue (n), der
 mn: Cue
 pl: Die Stichworte 
 
-Stamm, der
+Stamm (n), der
 mn: Strain
 pl: Die Stämme 
 
-Nichte, die
+Nichte (n), die
 mn: Niece
 pl: Die Nichten 
 
-Galaxie, die
+Galaxie (n), die
 mn: Galaxy
 pl: Die Galaxien 
 
-Nacht, die
+Nacht (n), die
 mn: Bedside
 pl: Die Bettseiten 
 
-Verrücktheit, die
+Verrücktheit (n), die
 mn: Madness
 pl: Die Verrücktheiten 
 
-Bäcker, der
+Bäcker (n), der
 mn: Baker
 pl: Die Bäcker 
 
-Virus, das
+Virus (n), das
 mn: Virus
 pl: Die Viren 
 
-Leiden, das
+Leiden (n), das
 mn: Suffering
 pl: Die Leiden 
 
-Schlitz, der
+Schlitz (n), der
 mn: Slot
 pl: Die Schlitze 
 
-Ordner, der
+Ordner (n), der
 mn: Folder
 pl: Die Hefte 
 
-Bekenntnis, das
+Bekenntnis (n), das
 mn: Confession
 pl: Die Geständnisse 
 
-Gepäckträger, der
+Gepäckträger (n), der
 mn: Porter
 pl: Die Torhüter 
 
-Dessert, das
+Dessert (n), das
 mn: Dessert
 pl: Die Desserts 
 
-Müllhalde, die
+Müllhalde (n), die
 mn: Dump
 pl: Die Deponien 
 
-Paket, das
+Paket (n), das
 mn: Packet
 pl: Die Pakete 
 
-Gewinn, der
+Gewinn (n), der
 mn: Profit
 pl: Die Gewinne 
 
-Enkel, der
+Enkel (n), der
 mn: Grandchild
 pl: Die Enkelkinder 
 
-Tratsch, der
+Tratsch (n), der
 mn: Gossip
 pl: Der Klatsch 
 
-Stute, die
+Stute (n), die
 mn: Mare
 pl: Die Stuten 
 
-Dna, die
+Dna (n), die
 mn: Dna
 pl: Die Dnas 
 
-Rumpf, der
+Rumpf (n), der
 mn: Torso
 pl: Die Torsi 
 
-Besen, der
+Besen (n), der
 mn: Broom
 pl: Die Besen 
 
-Huf, der
+Huf (n), der
 mn: Hoof
 pl: Die Hufe 
 
-Sensor, der
+Sensor (n), der
 mn: Sensor
 pl: Die Sensoren 
 
-Bauer, der
+Bauer (n), der
 mn: Peasant
 pl: Die Bauern 
 
-Gelehrte, der
+Gelehrte (n), der
 mn: Scholar
 pl: Die Gelehrten 
 
-Therapie, die
+Therapie (n), die
 mn: Therapy
 pl: Die Therapie 
 
-Erdnuss, die
+Erdnuss (n), die
 mn: Peanut
 pl: Die Erdnüsse 
 
-Schlagzeile, die
+Schlagzeile (n), die
 mn: Headline
 pl: Die Schlagzeilen
 
-Speck, der
+Speck (n), der
 mn: Bacon
 pl: Die Speck 
 
-Heck, das
+Heck (n), das
 mn: Stern
 pl: Die Hecks 
 
-Geige, die
+Geige (n), die
 mn: Violin
 pl: Die Violinen 
 
-Pest, die
+Pest (n), die
 mn: Plague
 pl: Die Plagen 
 
-Unschärfe, die
+Unschärfe (n), die
 mn: Blur
 pl: Die Unschärfen 
 
-Zwischenzeit, die
+Zwischenzeit (n), die
 mn: Meantime
 pl: Die Zwischenzeiten 
 
-Diakon, der
+Diakon (n), der
 mn: Deacon
 pl: Die Diakone 
 
-Lanze, die
+Lanze (n), die
 mn: Lance
 pl: Die Lanzen 
 
-Festnahme, die
+Festnahme (n), die
 mn: Arrest
 pl: Die Verhaftungen 
 
-Banane, die
+Banane (n), die
 mn: Banana
 pl: Die Bananen 
 
-Gin, der
+Gin (n), der
 mn: Gin
 pl: Die Gins 
 
-Weide, die
+Weide (n), die
 mn: Willow
 pl: Die Weiden 
 
-Hai, der
+Hai (n), der
 mn: Shark
 pl: Die Haie 
 
-Vorbereitung, die
+Vorbereitung (n), die
 mn: Preparation
 pl: Die Vorbereitungen 
 
-Kratz, die
+Kratz (n), die
 mn: Scratch
 pl: Die Kratzer 
 
-Verband, der
+Verband (n), der
 mn: Dressing
 pl: Die Verbände 
 
-Unterschrift, die
+Unterschrift (n), die
 mn: Signature
 pl: Die Unterschriften
 
-Admiral, der
+Admiral (n), der
 mn: Admiral
 pl: Die Admirale 
 
-Analyse, die
+Analyse (n), die
 mn: Analysis
 pl: Die Analysisies 
 
-Regenbogen, der
+Regenbogen (n), der
 mn: Rainbow
 pl: Die Regenbogen 
 
-Eidechse, die
+Eidechse (n), die
 mn: Lizard
 pl: Die Eidechsen 
 
-Zwerg, der
+Zwerg (n), der
 mn: Dwarf
 pl: Die Zwerge 
 
-Stress, der
+Stress (n), der
 mn: Stress
 pl: Die Belastungen 
 
-Hausaufgabe, die
+Hausaufgabe (n), die
 mn: Homework
 pl: Die Hausaufgaben 
 
-Mischung, die
+Mischung (n), die
 mn: Mixture
 pl: Die Mischungen 
 
-Vers, der
+Vers (n), der
 mn: Verse
 pl: Die Verse 
 
-Überzeugung, die
+Überzeugung (n), die
 mn: Conviction
 pl: Die Überzeugungen 
 
-Rover, der
+Rover (n), der
 mn: Rover
 pl: Die Rover 
 
-Zaunkönig, der
+Zaunkönig (n), der
 mn: Wren
 pl: Die Zaunkönige 
 
-Verbindung, die
+Verbindung (n), die
 mn: Compound
 pl: Die Verbindungen 
 
-Expedition, die
+Expedition (n), die
 mn: Expedition
 pl: Die Expeditionen 
 
-Belohnung, die
+Belohnung (n), die
 mn: Reward
 pl: Die Belohnungen 
 
-Säulen, die
+Säulen (n), die
 mn: Pillar
 pl: Die Säulen 
 
-Marmelade, die
+Marmelade (n), die
 mn: Jam
 pl: Die Marmeladen 
 
-Schnaps, der
+Schnaps (n), der
 mn: Brandy
 pl: Die Brände 
 
-Residenz, die
+Residenz (n), die
 mn: Residence
 pl: Die Residenzen 
 
-Baron, der
+Baron (n), der
 mn: Baron
 pl: Die Barone 
 
-Unternehmen, das
+Unternehmen (n), das
 mn: Enterprise
 pl: Die Unternehmen 
 
-Komplex, der
+Komplex (n), der
 mn: Complex
 pl: Die Complexs 
 
-Kandidat, der
+Kandidat (n), der
 mn: Candidate
 pl: Die Kandidaten 
 
-Triumph, der
+Triumph (n), der
 mn: Triumph
 pl: Die Triumphes 
 
-Wendung, die
+Wendung (n), die
 mn: Twist
 pl: Die Drehungen 
 
-Skizze, die
+Skizze (n), die
 mn: Sketch
 pl: Die Skizzen 
 
-Register, das
+Register (n), das
 mn: Register
 pl: Die Register 
 
-Herzschlag, der
+Herzschlag (n), der
 mn: Heartbeat
 pl: Die Herzschläge 
 
-Cafeteria, die
+Cafeteria (n), die
 mn: Cafeteria
 pl: Die Cafeterien 
 
-Gebühr, die
+Gebühr (n), die
 mn: Fee
 pl: Die Gebühren 
 
-Hang, die
+Hang (n), die
 mn: Hillside
 pl: Die Hänge 
 
-Labyrinth, das
+Labyrinth (n), das
 mn: Maze
 pl: Die Labyrinthe 
 
-Fischer, der
+Fischer (n), der
 mn: Fisherman
 pl: Das Fishermans 
 
-Brummen, das
+Brummen (n), das
 mn: Hum
 pl: Die Summt 
 
-Kätzchen, das
+Kätzchen (n), das
 mn: Kitten
 pl: Die Kätzchen 
 
 Dread – The Dread
 pl: Die Dreads 
 
-Substanz, die
+Substanz (n), die
 mn: Substance
 pl: Die Substanzen 
 
-Melodie, die
+Melodie (n), die
 mn: Melody
 pl: Die Melodien 
 
-Knall, der
+Knall (n), der
 mn: Bang
 pl: Der Pony 
 
-Dolch, der
+Dolch (n), der
 mn: Dagger
 pl: Die Dolche 
 
-Absicht, die
+Absicht (n), die
 mn: Intent
 pl: Die Absichten 
 
-Con, das
+Con (n), das
 mn: Con
 pl: Die Nachteile 
 
-Einsamkeit, die
+Einsamkeit (n), die
 mn: Loneliness
 pl: Die Einsamkeiten 
 
-Motorrad, das
+Motorrad (n), das
 mn: Motorcycle
 pl: Die Motorräder 
 
-Staunen, das
+Staunen (n), das
 mn: Amazement
 pl: Die Amazements 
 
-Peer, die
+Peer (n), die
 mn: Peer
 pl: Die Peers 
 
-Tech, die
+Tech (n), die
 mn: Tech
 pl: Die Teches 
 
-Beleidigung, die
+Beleidigung (n), die
 mn: Insult
 pl: Die Beleidigungen 
 
-Kapazität, die
+Kapazität (n), die
 mn: Capacity
 pl: Die Kapazität 
 
-Ehrfurcht, die
+Ehrfurcht (n), die
 mn: Awe
 pl: Die Awes 
 
-Chili, die
+Chili (n), die
 mn: Chili
 pl: Die Chilis 
 
-Lodge, die
+Lodge (n), die
 mn: Lodge
 pl: Die Logen 
 
-Clip, der
+Clip (n), der
 mn: Clip
 pl: Die Clips 
 
-Limousine, die
+Limousine (n), die
 mn: Limo
 pl: Die Limousinen 
 
-Mücke, die
+Mücke (n), die
 mn: Mosquito
 pl: Die Mücken 
 
-Würfel, der
+Würfel (n), der
 mn: Dice
 pl: Die Würfel 
 
-Shake, der
+Shake (n), der
 mn: Shake
 pl: Die Shakes 
 
-Festmahl, das
+Festmahl (n), das
 mn: Feast
 pl: Die Feste 
 
-Casino, das
+Casino (n), das
 mn: Casino
 pl: Die Casinos 
 
-Erbse, die
+Erbse (n), die
 mn: Pea
 pl: Die Erbsen 
 
-Murmeln, das
+Murmeln (n), das
 mn: Murmur
 pl: Das Murmeln 
 
-Konflikt, der
+Konflikt (n), der
 mn: Conflict
 pl: Die Konflikte 
 
-Stamm, der
+Stamm (n), der
 mn: Stem
 pl: Die Stiele 
 
-Genosse, der
+Genosse (n), der
 mn: Comrade
 pl: Die Genossen 
 
-Herde, die
+Herde (n), die
 mn: Flock
 pl: Die Herden 
 
 Sob – Sob
 pl: Das Schluchzen 
 
-Schwangerschaft, die
+Schwangerschaft (n), die
 mn: Pregnancy
 pl: Die Schwangerschaften
 
-Verdächtige, der
+Verdächtige (n), der
 mn: Suspect
 pl: Die Verdächtigen 
 
-Zusammentreffen, das
+Zusammentreffen (n), das
 mn: Coincidence
 pl: Die Zufälle 
 
-Waldläufer, der
+Waldläufer (n), der
 mn: Ranger
 pl: Die Ranger 
 
-Karikatur, die
+Karikatur (n), die
 mn: Cartoon
 pl: Die Karikaturen 
 
-Mitbewohner, der
+Mitbewohner (n), der
 mn: Roommate
 pl: Die Mitbewohner 
 
-Freundlichkeit, die
+Freundlichkeit (n), die
 mn: Kindness
 pl: Die Freundlichkeiten 
 
-Kreuzer, der
+Kreuzer (n), der
 mn: Cruiser
 pl: Die Kreuzer 
 
-Bramme, die
+Bramme (n), die
 mn: Slab
 pl: Die Brammen 
 
-Gewissen, das
+Gewissen (n), das
 mn: Conscience
 pl: Das Gewissen 
 
-Cheer, die
+Cheer (n), die
 mn: Cheer
 pl: Der Jubel 
 
-Konus, der
+Konus (n), der
 mn: Cone
 pl: Die Kegel 
 
-Schaltung, die
+Schaltung (n), die
 mn: Circuit
 pl: Die Schaltkreise 
 
-Elfenbein, das
+Elfenbein (n), das
 mn: Ivory
 pl: Die Elfenbeinarbeiten 
 
-Zimmermann, der
+Zimmermann (n), der
 mn: Carpenter
 pl: Die Zimmerleute 
 
-Reich, das
+Reich (n), das
 mn: Realm
 pl: Die Reiche 
 
-Penner, der
+Penner (n), der
 mn: Bum
 pl: Die Bums 
 
-Donna, die
+Donna (n), die
 mn: Donna ~ The Donnas 
 
-Reservierung, die
+Reservierung (n), die
 mn: Reservation
 pl: Die Reservierungen
 
-Unterhaltung, die
+Unterhaltung (n), die
 mn: Entertainment
 pl: Die Unterhaltungen 
 
-Krabbe, die
+Krabbe (n), die
 mn: Crab
 pl: Die Krabben 
 
-Stöhnen, das
+Stöhnen (n), das
 mn: Groan
 pl: Das Stöhnen 
 
-Akademie, die
+Akademie (n), die
 mn: Academy
 pl: Die Akademien 
 
-Sehnsucht, die
+Sehnsucht (n), die
 mn: Longing
 pl: Die Sehnsüchte 
 
-Kip, die
+Kip (n), die
 mn: Kip
 pl: Die Kips 
 
-Bohrer, der
+Bohrer (n), der
 mn: Drill
 pl: Die Bohrer 
 
-Gepäck, das
+Gepäck (n), das
 mn: Luggage
 pl: Die Den Gepäck 
 
-Baldachin, der
+Baldachin (n), der
 mn: Canopy
 pl: Die Baldachine 
 
-Nervenkitzel, der
+Nervenkitzel (n), der
 mn: Thrill ~ Den Nervenkitzel 
 
-Tugend, die
+Tugend (n), die
 mn: Virtue
 pl: Die Tugenden 
 
-Sumpf, der
+Sumpf (n), der
 mn: Marsh
 pl: Die Sümpfe 
 
-Schornstein, der
+Schornstein (n), der
 mn: Chimney
 pl: Die Schornsteine 
 
-Anker, die
+Anker (n), die
 mn: Anchor
 pl: Die Anker 
 
-Harmonie, die
+Harmonie (n), die
 mn: Harmony
 pl: Die Harmonien 
 
-Ahorn, das
+Ahorn (n), das
 mn: Maple
 pl: Die Ahorne 
 
-Kaninchen, das
+Kaninchen (n), das
 mn: Bunny
 pl: Die Hasen 
 
-Modus, der
+Modus (n), der
 mn: Mode
 pl: Die Modi 
 
-Thron, der
+Thron (n), der
 mn: Throne
 pl: Die Throne 
 
-Antrag, der
+Antrag (n), der
 mn: Application
 pl: Die Anwendungen
 
-Physik, die
+Physik (n), die
 mn: Physics
 pl: Die Physicsies 
 
-Neon, das
+Neon (n), das
 mn: Neon
 pl: Die Neons 
 
-Luftschleuse, die
+Luftschleuse (n), die
 mn: Airlock
 pl: Die Luftschleusen 
 
-Ermüdungs, die
+Ermüdungs (n), die
 mn: Fatigue
 pl: Die Strapazen 
 
-Danksagung, die
+Danksagung (n), die
 mn: Thanksgiving
 pl: Die Danksagungen 
 
-Manuskript, das
+Manuskript (n), das
 mn: Manuscript
 pl: Die Handschriften 
 
-Basis, die
+Basis (n), die
 mn: Basis
 pl: Die Basises 
 
-Denkmal, das
+Denkmal (n), das
 mn: Memorial
 pl: Die Gedenkstätten
 
-Schrank, der
+Schrank (n), der
 mn: Cupboard
 pl: Die Schränke 
 
-Sprung, der
+Sprung (n), der
 mn: Leap
 pl: Die Sprünge 
 
-Japaner, die
+Japaner (n), die
 mn: Japanese
 pl: Die Japaneses 
 
-Engineering, das
+Engineering (n), das
 mn: Engineering
 pl: Die Engineerings 
 
-Linke, die
+Linke (n), die
 mn: Left
 pl: Die Linke 
 
-Schmerz, der
+Schmerz (n), der
 mn: Ache
 pl: Die Schmerzen 
 
-Bronze, die
+Bronze (n), die
 mn: Bronze
 pl: Die Bronzen 
 
-Assoziation, die
+Assoziation (n), die
 mn: Association
 pl: Die Verbände 
 
-Flotte, die
+Flotte (n), die
 mn: Fleet
 pl: Die Flotten 
 
-Marker, der
+Marker (n), der
 mn: Marker
 pl: Die Marker 
 
-Beute, die
+Beute (n), die
 mn: Prey
 pl: Die Beute 
 
-Taube, die
+Taube (n), die
 mn: Dove
 pl: Die Tauben 
 
-Griff, der
+Griff (n), der
 mn: Grasp
 pl: Die Griffe 
 
-Episode, die
+Episode (n), die
 mn: Episode
 pl: Die Episoden 
 
-Ursprung, der
+Ursprung (n), der
 mn: Origin
 pl: Die Ursprünge 
 
-Vakuum, das
+Vakuum (n), das
 mn: Vacuum
 pl: Die Staubsauger 
 
-Kathedrale, die
+Kathedrale (n), die
 mn: Cathedral
 pl: Die Kathedralen 
 
-Management, das
+Management (n), das
 mn: Management
 pl: Die Unternehmensleitungen 
 
-Nach Unten, die
+Nach Unten (n), die
 mn: Down
 pl: Die Tiefen 
 
-Kontinent, der
+Kontinent (n), der
 mn: Continent
 pl: Die Kontinente 
 
 Dickens – Zum Teufel
 pl: Die Dickenses 
 
-Freiwillige, die
+Freiwillige (n), die
 mn: Volunteer
 pl: Die Freiwilligen 
 
 Soccer – Fußball
 pl: Die Soccers 
 
-Saum, der
+Saum (n), der
 mn: Hem
 pl: Die Säume 
 
-Erwähnung, die
+Erwähnung (n), die
 mn: Mention
 pl: Die Nennungen
 
-Lust, die
+Lust (n), die
 mn: Lust
 pl: Die Begierden 
 
-Kichern, die
+Kichern (n), die
 mn: Giggle
 pl: Das Kichern 
 
-Klassenkameraden, die
+Klassenkameraden (n), die
 mn: Classmate
 pl: Die Klassenkameraden 
 
-Reinigung, die
+Reinigung (n), die
 mn: Cleaning
 pl: Die Reinigungen 
 
-Rezeptionist, der
+Rezeptionist (n), der
 mn: Receptionist ~ An Der Rezeption 
 
-Anrufer, der
+Anrufer (n), der
 mn: Caller
 pl: Die Anrufer 
 
-Streben, das
+Streben (n), das
 mn: Pursuit
 pl: Die Beschäftigungen 
 
-Verachtung, die
+Verachtung (n), die
 mn: Contempt
 pl: Die Geringschätzungen 
 
-Opfer, das
+Opfer (n), das
 mn: Sacrifice
 pl: Die Opfer 
 
-Großeltern, die
+Großeltern (n), die
 mn: Grandparent
 pl: Die Großeltern 
 
-Grenzbereich, der
+Grenzbereich (n), der
 mn: Threshold
 pl: Die Schwellen 
 
-Tat, die
+Tat (n), die
 mn: Deed
 pl: Die Taten 
 
-Landschaft, die
+Landschaft (n), die
 mn: Countryside
 pl: Die Landschaften 
 
-Artefakt, das
+Artefakt (n), das
 mn: Artifact
 pl: Die Artefakte 
 
-Falten, die
+Falten (n), die
 mn: Wrinkle
 pl: Die Falten 
 
-Magier, der
+Magier (n), der
 mn: Magician
 pl: Die Zauberer 
 
-Stich, der
+Stich (n), der
 mn: Pang
 pl: Die Stiche 
 
-Italienische, die
+Italienische (n), die
 mn: Italian
 pl: Die Italiener 
 
-Ewigkeit, die
+Ewigkeit (n), die
 mn: Eternity
 pl: Die Ewigkeit 
 
-Schiefer, der
+Schiefer (n), der
 mn: Slate
 pl: Die Schiefertafeln 
 
-Treppenhaus, das
+Treppenhaus (n), das
 mn: Stairwell
 pl: Die Treppenhäuser 
 
-Ankündigung, die
+Ankündigung (n), die
 mn: Announcement
 pl: Die Ankündigungen 
 
-Motiv, das
+Motiv (n), das
 mn: Motive
 pl: Die Motive 
 
-Mechaniker, der
+Mechaniker (n), der
 mn: Mechanic
 pl: Die Mechanik 
 
-Verbündete, der
+Verbündete (n), der
 mn: Ally
 pl: Die Alliierten
 
-Vase, die
+Vase (n), die
 mn: Vase
 pl: Die Vasen 
 
-Verkäufer, der
+Verkäufer (n), der
 mn: Salesman
 pl: Die Salesmans 
 
-Therapeut, der
+Therapeut (n), der
 mn: Therapist
 pl: Die Therapeuten 
 
-Oma, die
+Oma (n), die
 mn: Granny
 pl: Die Omas 
 
-Außenseiter, der
+Außenseiter (n), der
 mn: Maverick
 pl: Die Mavericks 
 
-Bandage, die
+Bandage (n), die
 mn: Bandage
 pl: Die Bandagen 
 
-Schinken, der
+Schinken (n), der
 mn: Ham
 pl: Die Schinken 
 
-Fuhrmann, der
+Fuhrmann (n), der
 mn: Carter
 pl: Die Fuhr 
 
-Investition, die
+Investition (n), die
 mn: Investment
 pl: Die Investitionen 
 
-Beschwerde, die
+Beschwerde (n), die
 mn: Appeal
 pl: Die Rechtsmittel 
 
-Unschuld, die
+Unschuld (n), die
 mn: Innocence
 pl: Die Innocences 
 
-Kalender, der
+Kalender (n), der
 mn: Calendar
 pl: Die Kalender 
 
-Dach, die
+Dach (n), die
 mn: Rooftop
 pl: Die Dächer 
 
-Kampf, der
+Kampf (n), der
 mn: Combat
 pl: Die Kämpfe 
 
-Offenbarung, die
+Offenbarung (n), die
 mn: Revelation
 pl: Die Enthüllungen 
 
-Pfannkuchen, der
+Pfannkuchen (n), der
 mn: Pancake
 pl: Die Pfannkuchen 
 
-Asteroid, der
+Asteroid (n), der
 mn: Asteroid
 pl: Die Asteroiden 
 
-Postkarte, die
+Postkarte (n), die
 mn: Postcard
 pl: Die Postkarten 
 
-Kleidungsstück, das
+Kleidungsstück (n), das
 mn: Garment
 pl: Die Kleidungsstücke 
 
-Bestimmung, die
+Bestimmung (n), die
 mn: Determination
 pl: Die Bestimmungen 
 
-Traktor, der
+Traktor (n), der
 mn: Tractor
 pl: Die Traktoren 
 
-Beere, die
+Beere (n), die
 mn: Berry
 pl: Die Beeren 
 
-Umgebung, die
+Umgebung (n), die
 mn: Surroundings
 pl: Die Surroundingses 
 
-Klumpen, der
+Klumpen (n), der
 mn: Clump
 pl: Die Klumpen 
 
-Straftat, die
+Straftat (n), die
 mn: Offense
 pl: Die Straftaten 
 
-Einleitung, die
+Einleitung (n), die
 mn: Introduction
 pl: Die Einleitungen 
 
-Butler, der
+Butler (n), der
 mn: Butler ~ The Butlers 
 
-Husten, der
+Husten (n), der
 mn: Cough
 pl: Die Coughes 
 
-Granit, der
+Granit (n), der
 mn: Granite
 pl: Die Granite 
 
-Botschafter, der
+Botschafter (n), der
 mn: Ambassador
 pl: Die Botschafter 
 
-Wende, der
+Wende (n), der
 mn: Turning
 pl: Die Späne 
 
-Sitzung, die
+Sitzung (n), die
 mn: Sitting
 pl: Die Sitzungen 
 
-Kompliment, das
+Kompliment (n), das
 mn: Compliment
 pl: Die Komplimente 
 
-Karton, der
+Karton (n), der
 mn: Carton
 pl: Die Schachteln 
 
-Türklingel, die
+Türklingel (n), die
 mn: Doorbell
 pl: Die Türklingeln 
 
-Gewissheit, die
+Gewissheit (n), die
 mn: Certainty
 pl: Die Gewissheiten 
 
-Politiker, der
+Politiker (n), der
 mn: Politician
 pl: Die Politiker 
 
-Dankbarkeit, die
+Dankbarkeit (n), die
 mn: Gratitude
 pl: Die Danksagungen 
 
-Jetzige, die
+Jetzige (n), die
 mn: Current
 pl: Die Ströme 
 
-Dunkel, das
+Dunkel (n), das
 mn: Gloom
 pl: Die Düsterkeit 
 
-Putz, der
+Putz (n), der
 mn: Plaster
 pl: Die Pflaster 
 
-Siedlung, die
+Siedlung (n), die
 mn: Settlement
 pl: Die Siedlungen 
 
-Chop, die
+Chop (n), die
 mn: Chop
 pl: Die Koteletts 
 
-Mordkommission, die
+Mordkommission (n), die
 mn: Homicide
 pl: Die Tötungsdelikte 
 
-Aluminium, die
+Aluminium (n), die
 mn: Aluminum
 pl: Die Aluminums 
 
-Boulevard, der
+Boulevard (n), der
 mn: Boulevard
 pl: Die Boulevards 
 
-Schüler, der
+Schüler (n), der
 mn: Pupil
 pl: Die Schülerinnen Und Schüler 
 
-Schwimmer, der
+Schwimmer (n), der
 mn: Float
 pl: Die Schwimmer 
 
-Beruf, der
+Beruf (n), der
 mn: Profession
 pl: Die Berufe
 
-Rückzug, der
+Rückzug (n), der
 mn: Retreat
 pl: Die Exerzitien 
 
-Schnittpunkt, der
+Schnittpunkt (n), der
 mn: Intersection
 pl: Die Schnittpunkte 
 
-Regelung, die
+Regelung (n), die
 mn: Scheme
 pl: Die Systeme 
 
-Leere, die
+Leere (n), die
 mn: Emptiness
 pl: Die Emptinesses 
 
-Verlag, der
+Verlag (n), der
 mn: Publisher
 pl: Die Verleger 
 
-Zirkus, der
+Zirkus (n), der
 mn: Circus
 pl: Die Zirkusse 
 
-Abmessung, die
+Abmessung (n), die
 mn: Dimension
 pl: Die Dimensionen 
 
-Tierpark, der
+Tierpark (n), der
 mn: Zoo
 pl: Die Zoos 
 
-Krankheit, die
+Krankheit (n), die
 mn: Sickness
 pl: Die Krankheiten 
 
-Bote, der
+Bote (n), der
 mn: Messenger
 pl: Die Boten 
 
-Beau, das
+Beau (n), das
 mn: Beau
 pl: Die Beaus 
 
-Gewirr, das
+Gewirr (n), das
 mn: Tangle
 pl: Die Tangles 
 
-Personal, das
+Personal (n), das
 mn: Personnel
 pl: Die Personnels 
 
-Strategie, die
+Strategie (n), die
 mn: Strategy
 pl: Die Strategien 
 
-Verzweiflung, die
+Verzweiflung (n), die
 mn: Desperation
 pl: Die Verzweiflungen 
 
-Geschäftsmann, der
+Geschäftsmann (n), der
 mn: Businessman
 pl: Die Business 
 
 Pod – The Pod
 pl: Die Schoten 
 
-Abfluss, der
+Abfluss (n), der
 mn: Drain
 pl: Die Drain 
 
-Erdbeere, die
+Erdbeere (n), die
 mn: Strawberry
 pl: Die Erdbeeren 
 
-Jahrestag, der
+Jahrestag (n), der
 mn: Anniversary
 pl: Die Jahrestage 
 
-Fernglas, das
+Fernglas (n), das
 mn: Binoculars
 pl: Die Binocularses 
 
-Kluft, die
+Kluft (n), die
 mn: Gulf
 pl: Die Buchten 
 
-Disziplin, die
+Disziplin (n), die
 mn: Discipline
 pl: Die Disziplinen 
 
-Hecke, die
+Hecke (n), die
 mn: Hedge
 pl: Die Hecken 
 
-Stöhnen, das
+Stöhnen (n), das
 mn: Moan
 pl: Das Stöhnen 
 
-Einkommen, das
+Einkommen (n), das
 mn: Income
 pl: Die Einkommen 
 
-Mythos, der
+Mythos (n), der
 mn: Myth
 pl: Die Mythen 
 
-Verschluss, der
+Verschluss (n), der
 mn: Shutter
 pl: Die Fensterläden 
 
-Floß, das
+Floß (n), das
 mn: Raft
 pl: Die Flöße 
 
-Arzt, der
+Arzt (n), der
 mn: Physician
 pl: Die Ärzte 
 
-Ehrgeiz, der
+Ehrgeiz (n), der
 mn: Ambition
 pl: Die Ambitionen 
 
-Kamel, das
+Kamel (n), das
 mn: Camel
 pl: Die Kamele 
 
-Schlagen, das
+Schlagen (n), das
 mn: Beating
 pl: Die Schläge 
 
-Säure, die
+Säure (n), die
 mn: Acid
 pl: Die Säuren 
 
-Müsli, das
+Müsli (n), das
 mn: Cereal
 pl: Die Getreide
 
-Becken, das
+Becken (n), das
 mn: Basin
 pl: Die Becken 
 
-Nachthemd, das
+Nachthemd (n), das
 mn: Nightgown
 pl: Die Nachthemden 
 
-Internet, das
+Internet (n), das
 mn: Internet
 pl: Die Internets 
 
-Cockpit, das
+Cockpit (n), das
 mn: Cockpit
 pl: Die Cockpits 
 
-Wrack, das
+Wrack (n), das
 mn: Wreck
 pl: Die Wracks 
 
-Perücke, die
+Perücke (n), die
 mn: Wig
 pl: Die Perücken 
 
 Rein – Darin
 pl: Die Zügel 
 
-Recorder, der
+Recorder (n), der
 mn: Recorder
 pl: Die Rekorder 
 
-Schweinefleisch, das
+Schweinefleisch (n), das
 mn: Pork
 pl: Die Porks 
 
-Hund, der
+Hund (n), der
 mn: Hound
 pl: Die Hunde 
 
-Grenze, die
+Grenze (n), die
 mn: Boundary
 pl: Die Grenzen 
 
-Prüfung, die
+Prüfung (n), die
 mn: Exam
 pl: Die Prüfungen 
 
-Höflichkeit, die
+Höflichkeit (n), die
 mn: Courtesy
 pl: Die Höflichkeiten 
 
-Hilfe, die
+Hilfe (n), die
 mn: Assistance
 pl: Die Unterstützungen 
 
-Wangenknochen, die
+Wangenknochen (n), die
 mn: Cheekbone
 pl: Die Wangenknochen 
 
-Peitsche, die
+Peitsche (n), die
 mn: Whip
 pl: Die Peitschen 
 
-Pilger, der
+Pilger (n), der
 mn: Pilgrim
 pl: Die Pilger 
 
-Fett, das
+Fett (n), das
 mn: Grease
 pl: Die Fette 
 
-Kollaps, der
+Kollaps (n), der
 mn: Collapse
 pl: Die Zusammenbrüche 
 
-Fakultät, die
+Fakultät (n), die
 mn: Faculty
 pl: Die Fakultäten 
 
-Erinnerung, die
+Erinnerung (n), die
 mn: Reminder
 pl: Die Erinnerungen 
 
-Weise, der
+Weise (n), der
 mn: Sage
 pl: Die Weisen 
 
-Asphalt, der
+Asphalt (n), der
 mn: Asphalt
 pl: Die Asphalte 
 
-Privileg, das
+Privileg (n), das
 mn: Privilege
 pl: Die Privilegien 
 
-Treppenhaus, das
+Treppenhaus (n), das
 mn: Stairway
 pl: Die Treppen 
 
-Wartung, die
+Wartung (n), die
 mn: Maintenance
 pl: Die Wartungen 
 
-Süße, die
+Süße (n), die
 mn: Sweetie
 pl: Die Süßigkeiten 
 
-Obstgarten, der
+Obstgarten (n), der
 mn: Orchard
 pl: Die Obstgärten 
 
-Kinderbett, das
+Kinderbett (n), das
 mn: Cot
 pl: Die Kinderbetten 
 
-Beutel, der
+Beutel (n), der
 mn: Pouch
 pl: Die Taschen 
 
-Feuerzeug, das
+Feuerzeug (n), das
 mn: Lighter
 pl: Die Feuerzeuge 
 
-Katze, die
+Katze (n), die
 mn: Kitty
 pl: Die Kätzchen 
 
-Formation, die
+Formation (n), die
 mn: Formation
 pl: Die Formationen 
 
-Snack, die
+Snack (n), die
 mn: Snack
 pl: Die Snacks 
 
-Reden, das
+Reden (n), das
 mn: Talking
 pl: Die Gesprächen 
 
-Op, die
+Op (n), die
 mn: Op
 pl: Die Ops 
 
-Schrei, der
+Schrei (n), der
 mn: Shriek
 pl: Die Schreie 
 
-Skulptur, die
+Skulptur (n), die
 mn: Sculpture
 pl: Die Skulpturen 
 
-Vorsitzende, der
+Vorsitzende (n), der
 mn: Chairman
 pl: Die Chair 
 
-Summe, die
+Summe (n), die
 mn: Sum
 pl: Die Summen 
 
-Karotte, die
+Karotte (n), die
 mn: Carrot
 pl: Die Karotten 
 
-Welligkeit, die
+Welligkeit (n), die
 mn: Ripple
 pl: Die Wellen 
 
-Streifen, der
+Streifen (n), der
 mn: Stripe
 pl: Die Streifen 
 
-Höhle, die
+Höhle (n), die
 mn: Cavern
 pl: Die Höhlen 
 
-Radar, die
+Radar (n), die
 mn: Radar
 pl: Die Radare 
 
-Pferdeschwanz, der
+Pferdeschwanz (n), der
 mn: Ponytail
 pl: Die Pferdeschwänze 
 
-Designer, der
+Designer (n), der
 mn: Designer
 pl: Die Designer 
 
-Stoß, die
+Stoß (n), die
 mn: Surge
 pl: Die Überspannungen 
 
-Erbe, der
+Erbe (n), der
 mn: Heir
 pl: Die Erben 
 
-Bunker, der
+Bunker (n), der
 mn: Vault
 pl: Die Gewölbe 
 
-Sissy, die
+Sissy (n), die
 mn: Sissy
 pl: Die Weicheier 
 
-Schotten, die
+Schotten (n), die
 mn: Scotch
 pl: Die Bremsschuhe 
 
-Stille, die
+Stille (n), die
 mn: Stillness
 pl: Die Stillnesses 
 
-Tunika, die
+Tunika (n), die
 mn: Tunic
 pl: Die Tuniken 
 
-Think, der
+Think (n), der
 mn: Think
 pl: Das Denkt 
 
-Penis, der
+Penis (n), der
 mn: Penis
 pl: Die Penisse 
 
-Einheimische, der
+Einheimische (n), der
 mn: Native
 pl: Die Eingeborenen 
 
-Liebesspiel, das
+Liebesspiel (n), das
 mn: Lovemaking
 pl: Die Lovemakings 
 
-Adjutant, der
+Adjutant (n), der
 mn: Aide
 pl: Die Helfer 
 
-Großteil, der
+Großteil (n), der
 mn: Bulk
 pl: Die Massen 
 
-Poker, die
+Poker (n), die
 mn: Poker
 pl: Die Poker 
 
-Kalk, der
+Kalk (n), der
 mn: Lime
 pl: Der Limes 
 
-Überwachungs, das
+Überwachungs (n), das
 mn: Surveillance
 pl: Die Anwendungsbeobachtungen 
 
-Versammlung, die
+Versammlung (n), die
 mn: Assembly
 pl: Die Baugruppen 
 
-Enkel, der
+Enkel (n), der
 mn: Grandson
 pl: Die Enkel 
 
-Chopper, der
+Chopper (n), der
 mn: Chopper
 pl: Die Zerhacker 
 
-Träger, der
+Träger (n), der
 mn: Carrier
 pl: Die Träger 
 
-Verlobung, die
+Verlobung (n), die
 mn: Engagement
 pl: Die Engagements 
 
-Kin, das
+Kin (n), das
 mn: Kin
 pl: Die Kins 
 
-Mama, die
+Mama (n), die
 mn: Mum
 pl: Die Mütter 
 
-Beleuchtung, die
+Beleuchtung (n), die
 mn: Lighting
 pl: Die Beleuchtung 
 
-Passform, die
+Passform (n), die
 mn: Fit
 pl: Die Anfälle 
 
-Pull, die
+Pull (n), die
 mn: Pull
 pl: Die Zieht 
 
 Verge – The Verge
 pl: Die Seitenstreifen 
 
-Bauernhaus, das
+Bauernhaus (n), das
 mn: Farmhouse
 pl: Die Bauernhäuser 
 
-Warten, das
+Warten (n), das
 mn: Wait
 pl: Die Wartezeiten 
 
-Attentäter, der
+Attentäter (n), der
 mn: Assassin
 pl: Die Attentäter 
 
-Schaum, der
+Schaum (n), der
 mn: Foam
 pl: Die Schäume 
 
-Schlepper, der
+Schlepper (n), der
 mn: Tug
 pl: Die Schlepper 
 
-Journalist, der
+Journalist (n), der
 mn: Journalist
 pl: Die Journalisten 
 
-Aufnahme, die
+Aufnahme (n), die
 mn: Recording
 pl: Die Aufnahmen 
 
-Heilung, die
+Heilung (n), die
 mn: Cure
 pl: Die Heilungen 
 
-Abstieg, der
+Abstieg (n), der
 mn: Descent
 pl: Die Abfahrten 
 
-Klingeln, das
+Klingeln (n), das
 mn: Ringing
 pl: Die Ringings 
 
-Schere, die
+Schere (n), die
 mn: Scissors
 pl: Die Scissorses 
 
-Zweig, der
+Zweig (n), der
 mn: Twig
 pl: Die Zweige 
 
-Urlaubsort, der
+Urlaubsort (n), der
 mn: Resort
 pl: Die Ferienorte 
 
-Beschützer, der
+Beschützer (n), der
 mn: Guardian
 pl: Die Wächter 
 
-Gegner, der
+Gegner (n), der
 mn: Opponent
 pl: Die Gegner 
 
-Küchenchef, der
+Küchenchef (n), der
 mn: Chef
 pl: Die Köche 
 
-Weizen, der
+Weizen (n), der
 mn: Wheat
 pl: Die Weizen 
 
-Hurrikan, der
+Hurrikan (n), der
 mn: Hurricane
 pl: Die Hurrikane 
 
-Spielplatz, der
+Spielplatz (n), der
 mn: Playground
 pl: Die Spielplätze 
 
-Pilz, der
+Pilz (n), der
 mn: Mushroom
 pl: Die Pilze 
 
-Tastatur, die
+Tastatur (n), die
 mn: Keyboard
 pl: Die Keyboaries 
 
-Zeder, die
+Zeder (n), die
 mn: Cedar
 pl: Die Zedern 
 
-Wappen, das
+Wappen (n), das
 mn: Crest
 pl: Die Kämme 
 
-Jasmin, der
+Jasmin (n), der
 mn: Jasmine
 pl: Die Jasmin 
 
-Sessel, der
+Sessel (n), der
 mn: Armchair
 pl: Die Sessel 
 
-Attraktion, die
+Attraktion (n), die
 mn: Attraction
 pl: Die Attraktionen
 
@@ -10190,1681 +10190,1681 @@ pl: Die Blinds
 Cylinder – Zylinder
 pl: Die Zylinder 
 
-Schwalbe, die
+Schwalbe (n), die
 mn: Swallow
 pl: Die Schwalben 
 
-Berühmtheit, die
+Berühmtheit (n), die
 mn: Celebrity
 pl: Die Prominenten 
 
-Wildnis, die
+Wildnis (n), die
 mn: Wilderness
 pl: Die Wildnis 
 
-Dreieck, das
+Dreieck (n), das
 mn: Triangle
 pl: Die Dreiecke 
 
-Gestank, der
+Gestank (n), der
 mn: Stench
 pl: Die Gestank 
 
-Labor, das
+Labor (n), das
 mn: Laboratory
 pl: Die Laboratorien 
 
-Array, das
+Array (n), das
 mn: Array
 pl: Die Arraies 
 
 Valentine – The Valentine
 pl: Die Valentines 
 
-Renten, das
+Renten (n), das
 mn: Retirement
 pl: Die Pensionierungen 
 
-Ski, der
+Ski (n), der
 mn: Ski
 pl: Die Skier 
 
-Ausgabe, die
+Ausgabe (n), die
 mn: Edition
 pl: Die Ausgaben 
 
-Supervisor, der
+Supervisor (n), der
 mn: Supervisor
 pl: Die Aufsichtsbehörden 
 
-Weite, die
+Weite (n), die
 mn: Expanse
 pl: Die Weiten 
 
-Ende, das
+Ende (n), das
 mn: Ending
 pl: Die Endungen 
 
-Moos, das
+Moos (n), das
 mn: Moss
 pl: Die Moose 
 
-Sturm, der
+Sturm (n), der
 mn: Gale
 pl: Die Stürme 
 
-Treue, die
+Treue (n), die
 mn: Loyalty
 pl: Die Loyalitäten 
 
-Lavendel, der
+Lavendel (n), der
 mn: Lavender
 pl: Die Lavendel 
 
-Begnadigung, die
+Begnadigung (n), die
 mn: Pardon
 pl: Die Begnadigungen 
 
-Aschenbecher, der
+Aschenbecher (n), der
 mn: Ashtray
 pl: Die Aschenbecher 
 
-Scherbe, die
+Scherbe (n), die
 mn: Shard
 pl: Die Scherben 
 
-Unternehmen, das
+Unternehmen (n), das
 mn: Corporation
 pl: Die Konzerne 
 
-Ablenkung, die
+Ablenkung (n), die
 mn: Distraction
 pl: Die Ablenkungen 
 
-Majestät, die
+Majestät (n), die
 mn: Majesty
 pl: Die Majestäten 
 
-Pyramide, die
+Pyramide (n), die
 mn: Pyramid
 pl: Die Pyramiden 
 
-Ruhm, der
+Ruhm (n), der
 mn: Fame
 pl: Die Fames 
 
-Schulabschluss, der
+Schulabschluss (n), der
 mn: Graduation
 pl: Die Unterteilungen 
 
-Not, die
+Not (n), die
 mn: Distress
 pl: Die Nöte 
 
-Magier, der
+Magier (n), der
 mn: Mage
 pl: Die Magier 
 
-Unabhängigkeit, die
+Unabhängigkeit (n), die
 mn: Independence
 pl: Die Unabhängigkeiten 
 
-Schwarm, der
+Schwarm (n), der
 mn: Crush
 pl: Die Zermalmt 
 
-Lachen, das
+Lachen (n), das
 mn: Chuckle
 pl: Die Kichert 
 
-Dime, die
+Dime (n), die
 mn: Dime
 pl: Die Dimes 
 
-Ziel, das
+Ziel (n), das
 mn: Aim
 pl: Die Ziele 
 
-Böen, die
+Böen (n), die
 mn: Gust
 pl: Die Böen 
 
-Russe, der
+Russe (n), der
 mn: Russian
 pl: Die Russen 
 
-Festlichkeit, der
+Festlichkeit (n), der
 mn: Treat
 pl: Die Leckereien 
 
-Ausländer, der
+Ausländer (n), der
 mn: Foreigner
 pl: Die Ausländer 
 
-Gehalt, das
+Gehalt (n), das
 mn: Salary
 pl: Die Gehälter 
 
-Anwendungsbereich, der
+Anwendungsbereich (n), der
 mn: Scope
 pl: Die Bereiche 
 
-Rebell, der
+Rebell (n), der
 mn: Rebel
 pl: Die Rebellen 
 
-Schläger, der
+Schläger (n), der
 mn: Thug
 pl: Die Schläger 
 
-Grab, das
+Grab (n), das
 mn: Tomb
 pl: Die Gräber 
 
-Kühlschrank, der
+Kühlschrank (n), der
 mn: Fridge
 pl: Die Kühlschränke 
 
-Steckdose, die
+Steckdose (n), die
 mn: Socket
 pl: Die Buchsen 
 
-Dosis, die
+Dosis (n), die
 mn: Dose
 pl: Die Dosen 
 
-Wahl, die
+Wahl (n), die
 mn: Election
 pl: Die Wahlen 
 
-Flüchtling, der
+Flüchtling (n), der
 mn: Refugee
 pl: Die Flüchtlinge 
 
-Phase, die
+Phase (n), die
 mn: Phase
 pl: Die Phasen 
 
-Kürbis, der
+Kürbis (n), der
 mn: Pumpkin
 pl: Die Kürbisse 
 
-Dorn, der
+Dorn (n), der
 mn: Thorn
 pl: Die Dornen 
 
-Haut, die
+Haut (n), die
 mn: Hide
 pl: Die Häute 
 
-Wurst, die
+Wurst (n), die
 mn: Sausage
 pl: Die Würste 
 
-Dig, die
+Dig (n), die
 mn: Dig
 pl: Die Ausgrabungen 
 
-Tan, der
+Tan (n), der
 mn: Tan
 pl: Die Bräunt 
 
-Darlehen, das
+Darlehen (n), das
 mn: Loan
 pl: Die Kredite 
 
-Dorn, der
+Dorn (n), der
 mn: Spike
 pl: Die Spikes 
 
-Krume, die
+Krume (n), die
 mn: Crumb
 pl: Die Krümel 
 
-Wachs, das
+Wachs (n), das
 mn: Wax ~ Waxs 
 
-Knurren, das
+Knurren (n), das
 mn: Growl
 pl: Die Growls 
 
-Vermietung, die
+Vermietung (n), die
 mn: Rental
 pl: Die Vermietungen
 
-Futter, das
+Futter (n), das
 mn: Feed
 pl: Die Zuführungen 
 
-Eskorte, die
+Eskorte (n), die
 mn: Escort
 pl: Die Begleitpersonen 
 
-Erstaunen, das
+Erstaunen (n), das
 mn: Astonishment
 pl: Die Erstaunlichkeiten 
 
-Flora, die
+Flora (n), die
 mn: Flora
 pl: Die Floren 
 
-Fest, das
+Fest (n), das
 mn: Festival
 pl: Die Feste 
 
-Debatte, die
+Debatte (n), die
 mn: Debate
 pl: Die Debatten 
 
-Kritiker, der
+Kritiker (n), der
 mn: Critic
 pl: Die Kritiker 
 
-Besetzung, die
+Besetzung (n), die
 mn: Cast
 pl: Die Modelle 
 
-Blüte, die
+Blüte (n), die
 mn: Bloom
 pl: Die Blüten 
 
-Loft, das
+Loft (n), das
 mn: Loft
 pl: Die Dachböden 
 
-Kommission, die
+Kommission (n), die
 mn: Commission
 pl: Die Kommissionen 
 
-Flimmern, das
+Flimmern (n), das
 mn: Flicker
 pl: Die Flackert 
 
-Wirtschaft, die
+Wirtschaft (n), die
 mn: Economy
 pl: Die Volkswirtschaften 
 
-Strahlung, die
+Strahlung (n), die
 mn: Radiation
 pl: Die Strahlungen 
 
-Leibwächter, der
+Leibwächter (n), der
 mn: Bodyguard
 pl: Die Bodyguaries 
 
-Umsetzung, die
+Umsetzung (n), die
 mn: Realization
 pl: Die Erkenntnisse 
 
-Krater, der
+Krater (n), der
 mn: Crater
 pl: Die Krater 
 
-Reise, die
+Reise (n), die
 mn: Voyage
 pl: Die Reisen 
 
-Kongress, das
+Kongress (n), das
 mn: Congress
 pl: Die Kongresse 
 
-Wahl, die
+Wahl (n), die
 mn: Vote
 pl: Die Stimmen 
 
-Antrag, der
+Antrag (n), der
 mn: Proposal
 pl: Die Vorschläge
 
-Braten, der
+Braten (n), der
 mn: Fry
 pl: Die Pommes 
 
-Zittern, das
+Zittern (n), das
 mn: Shiver ~ Gänsehaut 
 
-Verpflichtung, die
+Verpflichtung (n), die
 mn: Obligation
 pl: Die Verpflichtungen
 
-Verlierer, der
+Verlierer (n), der
 mn: Loser
 pl: Die Verlierer 
 
-Lehrer, der
+Lehrer (n), der
 mn: Instructor
 pl: Die Ausbilder 
 
-Zuzwinkern, die
+Zuzwinkern (n), die
 mn: Wink
 pl: Die Zwinkert 
 
-Kies, die
+Kies (n), die
 mn: Pebble
 pl: Die Kieselsteine 
 
-Notwendigkeit, die
+Notwendigkeit (n), die
 mn: Necessity
 pl: Die Notwendigkeiten 
 
-Workshop, der
+Workshop (n), der
 mn: Workshop
 pl: Die Workshops 
 
-Sonnenaufgang, der
+Sonnenaufgang (n), der
 mn: Sunrise
 pl: Die Sonnenaufgang
 
-Erschöpfung, die
+Erschöpfung (n), die
 mn: Exhaustion
 pl: Die Erschöpfungs 
 
-Zelle, die
+Zelle (n), die
 mn: Cubicle
 pl: Die Schränke 
 
-Doppelgänger, der
+Doppelgänger (n), der
 mn: Double
 pl: Die Doppelgänger
 
-Umfang, der
+Umfang (n), der
 mn: Perimeter
 pl: Die Umfänge 
 
-Kamm, der
+Kamm (n), der
 mn: Comb
 pl: Die Kämme 
 
-Ende, das
+Ende (n), das
 mn: Finish
 pl: Die Oberflächen 
 
-Kauf, der
+Kauf (n), der
 mn: Purchase
 pl: Die Käufe 
 
-Intervall, das
+Intervall (n), das
 mn: Interval
 pl: Die Intervalle 
 
-Spritz, der
+Spritz (n), der
 mn: Splash
 pl: Die Spritzer 
 
-Konvention, die
+Konvention (n), die
 mn: Convention
 pl: Die Konventionen 
 
-Bewusstsein, das
+Bewusstsein (n), das
 mn: Awareness
 pl: Die Gewahrsein 
 
-Pose, die
+Pose (n), die
 mn: Pose
 pl: Die Posen 
 
-Wiege, die
+Wiege (n), die
 mn: Cradle
 pl: Die Wiegen 
 
-Stößel, der
+Stößel (n), der
 mn: Ram
 pl: Die Widder 
 
-Adel, der
+Adel (n), der
 mn: Gentry
 pl: Die Gentries 
 
-Naht, die
+Naht (n), die
 mn: Seam
 pl: Die Nähte 
 
-Assoziierte Unternehmen, das
+Assoziierte Unternehmen (n), das
 mn: Associate
 pl: Die Mitarbeiter 
 
-Scheibe, die
+Scheibe (n), die
 mn: Pane
 pl: Die Scheiben 
 
-Punk, der
+Punk (n), der
 mn: Punk
 pl: Die Punks 
 
-Überrest, der
+Überrest (n), der
 mn: Remnant
 pl: Die Reste 
 
-Cracker, der
+Cracker (n), der
 mn: Cracker
 pl: Die Cracker 
 
-Bluff, der
+Bluff (n), der
 mn: Bluff
 pl: Die Klippen 
 
-Düne, die
+Düne (n), die
 mn: Dune
 pl: Die Dünen 
 
-Zahnarzt, der
+Zahnarzt (n), der
 mn: Dentist
 pl: Die Zahnärzte 
 
-Zuflucht, die
+Zuflucht (n), die
 mn: Refuge
 pl: Die Schutzhütten 
 
-Satin, die
+Satin (n), die
 mn: Satin
 pl: Die Satins 
 
-Verbreitung, die
+Verbreitung (n), die
 mn: Spread
 pl: Die Spreads 
 
-Unternehmen, das
+Unternehmen (n), das
 mn: Entity
 pl: Die Entitäten 
 
-Postfach, das
+Postfach (n), das
 mn: Mailbox
 pl: Die Mailboxs 
 
-Ärger, der
+Ärger (n), der
 mn: Annoyance
 pl: Die Ärgernisse 
 
-Zischen, das
+Zischen (n), das
 mn: Hiss
 pl: Die Zischt 
 
-Lokal, das
+Lokal (n), das
 mn: Local
 pl: Die Einheimischen 
 
-Bums, der
+Bums (n), der
 mn: Thud
 pl: Die Schläge 
 
-Bestürzung, die
+Bestürzung (n), die
 mn: Dismay
 pl: Die Bestürzt 
 
-Mehl, das
+Mehl (n), das
 mn: Flour
 pl: Die Mehle 
 
-Freak, der
+Freak (n), der
 mn: Freak
 pl: Die Freaks 
 
-Haarschnitt, der
+Haarschnitt (n), der
 mn: Haircut
 pl: Die Abschläge 
 
-Süße, die
+Süße (n), die
 mn: Sweet
 pl: Die Süßigkeiten 
 
-Waise, die
+Waise (n), die
 mn: Orphan
 pl: Die Waisen 
 
-Schach, das
+Schach (n), das
 mn: Chess
 pl: Die Chesses 
 
-Blütenblatt, die
+Blütenblatt (n), die
 mn: Petal
 pl: Die Blütenblätter 
 
-Schreibarbeit, die
+Schreibarbeit (n), die
 mn: Paperwork
 pl: Die Papierarbeiten 
 
-Psychiater, der
+Psychiater (n), der
 mn: Psychiatrist
 pl: Die Psychiater 
 
-Gesang, der
+Gesang (n), der
 mn: Singing
 pl: Die Gesänge 
 
-Interrupt, das
+Interrupt (n), das
 mn: Interrupt
 pl: Die Interrupts 
 
-Untersuchung, die
+Untersuchung (n), die
 mn: Examination
 pl: Die Untersuchungen
 
-Bewunderung, die
+Bewunderung (n), die
 mn: Admiration
 pl: Die Bewunderung 
 
-Gefrier, das
+Gefrier (n), das
 mn: Freezer
 pl: Die Gefriergeräte 
 
-Illustration, die
+Illustration (n), die
 mn: Illustration
 pl: Die Abbildungen
 
-Eintopf, der
+Eintopf (n), der
 mn: Stew
 pl: Die Eintöpfe 
 
-Ermittler, der
+Ermittler (n), der
 mn: Investigator
 pl: Die Ermittler 
 
-Vorort, der
+Vorort (n), der
 mn: Suburb
 pl: Der Stadtrand 
 
-Keks, der
+Keks (n), der
 mn: Biscuit
 pl: Die Kekse 
 
-Holster, das
+Holster (n), das
 mn: Holster
 pl: Die Holster 
 
-Faktor, der
+Faktor (n), der
 mn: Factor
 pl: Die Faktoren 
 
-Intimität, die
+Intimität (n), die
 mn: Intimacy
 pl: Die Intimitäten 
 
-Peitsche, die
+Peitsche (n), die
 mn: Lash
 pl: Die Wimpern 
 
-Einsparung, die
+Einsparung (n), die
 mn: Saving
 pl: Die Einsparungen 
 
-Software, die
+Software (n), die
 mn: Software
 pl: Die Software 
 
-Henne, die
+Henne (n), die
 mn: Hen
 pl: Die Hennen 
 
-Birke, die
+Birke (n), die
 mn: Birch
 pl: Die Birken 
 
-Untersuchung, die
+Untersuchung (n), die
 mn: Inquiry
 pl: Die Anfragen 
 
-Kindergarten, der
+Kindergarten (n), der
 mn: Nursery
 pl: Die Baumschulen 
 
-Transport, der
+Transport (n), der
 mn: Transport
 pl: Die Transporte 
 
-Ausmaß, das
+Ausmaß (n), das
 mn: Extent
 pl: Die Ausdehnungen 
 
-Definition, die
+Definition (n), die
 mn: Definition
 pl: Die Definitionen 
 
-Monument, das
+Monument (n), das
 mn: Monument
 pl: Die Denkmäler 
 
-Pflaume, die
+Pflaume (n), die
 mn: Plum
 pl: Die Pflaumen 
 
-Nichts, das
+Nichts (n), das
 mn: Void
 pl: Die Hohlräume 
 
-Verzögerung, die
+Verzögerung (n), die
 mn: Delay
 pl: Die Verzögerungen 
 
-Inspektion, die
+Inspektion (n), die
 mn: Inspection
 pl: Die Inspektionen 
 
-Essenz, die
+Essenz (n), die
 mn: Essence
 pl: Die Essenzen 
 
-Kanone, die
+Kanone (n), die
 mn: Cannon
 pl: Die Kanonen 
 
-Fransen, die
+Fransen (n), die
 mn: Fringe
 pl: Die Fransen 
 
-Stereo, die
+Stereo (n), die
 mn: Stereo
 pl: Die Stereoanlagen 
 
-Fella, die
+Fella (n), die
 mn: Fella
 pl: Die Fellas
 
-Lob, das
+Lob (n), das
 mn: Praise
 pl: Das Lob 
 
-Pinguin, der
+Pinguin (n), der
 mn: Penguin
 pl: Die Pinguine 
 
-Folter, die
+Folter (n), die
 mn: Torture
 pl: Die Qualen 
 
-Briefmarke, die
+Briefmarke (n), die
 mn: Stamp
 pl: Die Briefmarken 
 
-Partikel, die
+Partikel (n), die
 mn: Particle
 pl: Die Teilchen 
 
-Übersetzer, der
+Übersetzer (n), der
 mn: Translator
 pl: Die Übersetzer 
 
 Easter – Ostern
 pl: Die Easters 
 
-Einfrieren, das
+Einfrieren (n), das
 mn: Freeze
 pl: Die Friert 
 
-Pew, die
+Pew (n), die
 mn: Pew
 pl: Die Bänke 
 
-Pfropfen, der
+Pfropfen (n), der
 mn: Wad
 pl: Die Bündel 
 
-Höschen, das
+Höschen (n), das
 mn: Panties
 pl: Die Pantieses 
 
-Gegenleistung, die
+Gegenleistung (n), die
 mn: Consideration
 pl: Die Überlegungen
 
-Spieß, der
+Spieß (n), der
 mn: Spit
 pl: Die Spieße 
 
-Kühler, der
+Kühler (n), der
 mn: Cooler
 pl: Die Kühler 
 
-Grill, der
+Grill (n), der
 mn: Grill
 pl: Die Grills 
 
-Krug, der
+Krug (n), der
 mn: Jug
 pl: Die Krüge 
 
-Spitzname, der
+Spitzname (n), der
 mn: Nickname
 pl: Die Spitznamen 
 
-Revolver, der
+Revolver (n), der
 mn: Revolver
 pl: Die Revolver 
 
-Maschinen, die
+Maschinen (n), die
 mn: Machinery
 pl: Die Maschinen 
 
-Damen Und Herren, die
+Damen Und Herren (n), die
 mn: Madam
 pl: Die Herren 
 
-Hecht, der
+Hecht (n), der
 mn: Pike ~ Pikes 
 
-Terrorist, der
+Terrorist (n), der
 mn: Terrorist
 pl: Die Terroristen 
 
-Laptop, der
+Laptop (n), der
 mn: Laptop
 pl: Die Laptops 
 
-Angebot, das
+Angebot (n), das
 mn: Offering
 pl: Das Angebot 
 
-Schnabel, der
+Schnabel (n), der
 mn: Beak
 pl: Die Schnäbel 
 
-Institution, die
+Institution (n), die
 mn: Institution
 pl: Die Institutionen 
 
-Vergleich, der
+Vergleich (n), der
 mn: Comparison
 pl: Die Vergleiche
 
-Macher, der
+Macher (n), der
 mn: Maker
 pl: Die Macher 
 
-Einsicht, die
+Einsicht (n), die
 mn: Insight
 pl: Die Erkenntnisse 
 
-Geschwister, die
+Geschwister (n), die
 mn: Sibling
 pl: Die Geschwister 
 
-Kleiderschrank, der
+Kleiderschrank (n), der
 mn: Wardrobe
 pl: Die Schränke 
 
-Klappe, die
+Klappe (n), die
 mn: Flap
 pl: Die Klappen 
 
-Einzige, der
+Einzige (n), der
 mn: Sole
 pl: Die Sohlen 
 
-Mitgefühl, das
+Mitgefühl (n), das
 mn: Compassion
 pl: Die Barmherzigkeit 
 
-Ego, das
+Ego (n), das
 mn: Ego
 pl: Die Egos 
 
-Antennen, die
+Antennen (n), die
 mn: Antenna
 pl: Die Antennen 
 
-Grille, die
+Grille (n), die
 mn: Cricket
 pl: Die Grillen 
 
-Troll, der
+Troll (n), der
 mn: Troll
 pl: Die Trolle 
 
-Bücherladen, der
+Bücherladen (n), der
 mn: Bookstore
 pl: Die Buchhandlungen 
 
-Ankunft, die
+Ankunft (n), die
 mn: Coming
 pl: Das Kommen 
 
-Einwand, der
+Einwand (n), der
 mn: Objection
 pl: Die Einwände 
 
-Halter, der
+Halter (n), der
 mn: Holder
 pl: Die Inhaber 
 
 Backseat – Rücksitz
 pl: Die Rücksitze 
 
-Unwissenheit, die
+Unwissenheit (n), die
 mn: Ignorance
 pl: Die Unwissenheit 
 
-Budget, das
+Budget (n), das
 mn: Budget
 pl: Die Budgets 
 
-Flugzeug, das
+Flugzeug (n), das
 mn: Aircraft
 pl: Die Flugzeuge 
 
-Korps, das
+Korps (n), das
 mn: Corps
 pl: Die Leichen 
 
-Brot, das
+Brot (n), das
 mn: Loaf
 pl: Die Laibe 
 
-Erweiterung, die
+Erweiterung (n), die
 mn: Extension
 pl: Die Verlängerungen 
 
-Autobahn, die
+Autobahn (n), die
 mn: Freeway
 pl: Die Autobahnen 
 
-Einsamkeit, die
+Einsamkeit (n), die
 mn: Solitude
 pl: Die Einsamkeit 
 
-Chemische, die
+Chemische (n), die
 mn: Chemical
 pl: Die Chemikalien
 
-Dorfbewohner, der
+Dorfbewohner (n), der
 mn: Villager
 pl: Die Dorfbewohner 
 
-Perfektion, die
+Perfektion (n), die
 mn: Perfection
 pl: Die Vollkommen 
 
-Papst, der
+Papst (n), der
 mn: Pope
 pl: Die Päpste 
 
-Semester, das
+Semester (n), das
 mn: Semester
 pl: Die Semester 
 
-Leber, die
+Leber (n), die
 mn: Liver
 pl: Die Lebern 
 
-Untertasse, die
+Untertasse (n), die
 mn: Saucer
 pl: Die Untertassen 
 
-Dringlichkeit, die
+Dringlichkeit (n), die
 mn: Urgency
 pl: Die Dringlichkeiten 
 
-Vulkan, der
+Vulkan (n), der
 mn: Volcano
 pl: Die Vulkane 
 
-Würze, die
+Würze (n), die
 mn: Spice
 pl: Die Gewürze 
 
-Geisel, die
+Geisel (n), die
 mn: Hostage
 pl: Die Geiseln 
 
-Chor, der
+Chor (n), der
 mn: Choir
 pl: Die Chöre 
 
-Teig, der
+Teig (n), der
 mn: Dough
 pl: Die Teigrunder 
 
-Aufregung, die
+Aufregung (n), die
 mn: Commotion
 pl: Die Unruhen 
 
 Courthouse – Gerichtsgebäude
 pl: Die Gerichtsgebäuden 
 
-Lachs, der
+Lachs (n), der
 mn: Salmon
 pl: Die Lachse 
 
-Boxer, der
+Boxer (n), der
 mn: Boxer
 pl: Die Boxer 
 
-Besorgung, die
+Besorgung (n), die
 mn: Errand
 pl: Die Besorgungen 
 
 Mechanism – Wobei Der Mechanismus
 pl: Die Mechanismen 
 
-Teleskop, das
+Teleskop (n), das
 mn: Telescope
 pl: Die Teleskope 
 
-Fähre, die
+Fähre (n), die
 mn: Ferry
 pl: Die Fähren 
 
-Nigger, der
+Nigger (n), der
 mn: Nigger
 pl: Die Nigger 
 
-Passant, der
+Passant (n), der
 mn: PasserBy
 pl: Die Passanten 
 
-Reizung, die
+Reizung (n), die
 mn: Irritation
 pl: Die Irritationen 
 
-Limousine, die
+Limousine (n), die
 mn: Sedan
 pl: Die Limousinen 
 
-Engagement, das
+Engagement (n), das
 mn: Commitment
 pl: Die Verpflichtungen
 
-Feigling, der
+Feigling (n), der
 mn: Coward
 pl: Die Feiglinge 
 
-Git, die
+Git (n), die
 mn: Git
 pl: Die Gits 
 
-Fackel, die
+Fackel (n), die
 mn: Flare
 pl: Die Fackeln 
 
-Heulen, das
+Heulen (n), das
 mn: Howl
 pl: Das Heulen 
 
-Fang, die
+Fang (n), die
 mn: Fang
 pl: Die Reißzähne 
 
-Römisch, die
+Römisch (n), die
 mn: Roman
 pl: Die Römer 
 
-Farbton, der
+Farbton (n), der
 mn: Hue
 pl: Die Farbtöne 
 
-Unbehagen, das
+Unbehagen (n), das
 mn: Discomfort
 pl: Die Unannehmlichkeiten 
 
-Entlüftungs, das
+Entlüftungs (n), das
 mn: Vent
 pl: Die Lüftungsschlitze 
 
-Kanu, das
+Kanu (n), das
 mn: Canoe
 pl: Die Kanus 
 
-Rezept, das
+Rezept (n), das
 mn: Recipe
 pl: Die Rezepte 
 
-Hamburger, der
+Hamburger (n), der
 mn: Hamburger
 pl: Die Hamburger 
 
-Traufe, die
+Traufe (n), die
 mn: Eave
 pl: Die Traufe 
 
-Barbier, der
+Barbier (n), der
 mn: Barber
 pl: Die Barbiere 
 
-Ableben, das
+Ableben (n), das
 mn: Passing
 pl: Die Passings 
 
-Verrat, der
+Verrat (n), der
 mn: Betrayal
 pl: Der Verrat 
 
-Sweatshirt, das
+Sweatshirt (n), das
 mn: Sweatshirt
 pl: Die Sweatshirts 
 
-Tentakel, die
+Tentakel (n), die
 mn: Tentacle
 pl: Die Tentakeln 
 
-Brandung, die
+Brandung (n), die
 mn: Surf
 pl: Die Brandungen 
 
-Plaid, das
+Plaid (n), das
 mn: Plaid
 pl: Die Plaids 
 
-Gehweg, der
+Gehweg (n), der
 mn: Walkway
 pl: Die Gehwege 
 
-Hinken, das
+Hinken (n), das
 mn: Limp
 pl: Die Hinkt 
 
-Verwaltung, die
+Verwaltung (n), die
 mn: Administration
 pl: Die Verwaltungen 
 
-Bequemlichkeit, die
+Bequemlichkeit (n), die
 mn: Convenience
 pl: Die Bequemlichkeiten
 
-Windel, die
+Windel (n), die
 mn: Diaper
 pl: Die Windeln 
 
-Maulwurf, der
+Maulwurf (n), der
 mn: Mole
 pl: Die Maulwürfe 
 
-Reiniger, der
+Reiniger (n), der
 mn: Cleaner
 pl: Die Reinigungskräfte 
 
-Dünung, die
+Dünung (n), die
 mn: Swell
 pl: Die Schwillt 
 
-Erwachsene, der
+Erwachsene (n), der
 mn: GrownUp
 pl: Die Erwachsenen 
 
-Scan, die
+Scan (n), die
 mn: Scan
 pl: Die Abtastungen 
 
-Klarheit, die
+Klarheit (n), die
 mn: Clarity
 pl: Die Klarheiten 
 
-Salon, der
+Salon (n), der
 mn: Salon
 pl: Die Salons 
 
-Produzent, der
+Produzent (n), der
 mn: Producer
 pl: Die Hersteller 
 
-Flug, die
+Flug (n), die
 mn: Flying
 pl: Die Flusen 
 
-Rechtsmittelgrund, der
+Rechtsmittelgrund (n), der
 mn: Plea
 pl: Die Rechtsmittelgründe 
 
-Prärie, die
+Prärie (n), die
 mn: Prairie
 pl: Die Prärien 
 
-Pass, der
+Pass (n), der
 mn: Passport
 pl: Die Pässe 
 
-Alternative, die
+Alternative (n), die
 mn: Alternative
 pl: Die Alternativen
 
-Eitelkeit, die
+Eitelkeit (n), die
 mn: Vanity
 pl: Die Eitelkeiten 
 
-Damm, der
+Damm (n), der
 mn: Dam
 pl: Die Dämme 
 
-Missbrauch, der
+Missbrauch (n), der
 mn: Abuse
 pl: Die Missbräuche 
 
-Olive, die
+Olive (n), die
 mn: Olive
 pl: Die Oliven 
 
-Bergmann, der
+Bergmann (n), der
 mn: Miner
 pl: Die Bergleute 
 
-Reserve, die
+Reserve (n), die
 mn: Reserve
 pl: Die Reserven 
 
-Sicherungs, die
+Sicherungs (n), die
 mn: Backup
 pl: Die Sicherungen 
 
-Gegensprechanlage, die
+Gegensprechanlage (n), die
 mn: Intercom
 pl: Die Gegensprechanlagen 
 
-Tuch, das
+Tuch (n), das
 mn: Shawl
 pl: Die Schals 
 
-Plattenteller, der
+Plattenteller (n), der
 mn: Platter
 pl: Die Platten 
 
-Implikation, die
+Implikation (n), die
 mn: Implication
 pl: Die Auswirkungen 
 
-Poltern, das
+Poltern (n), das
 mn: Rumble
 pl: Die Rumpelt 
 
-Ansager, der
+Ansager (n), der
 mn: Announcer
 pl: Die Ansager 
 
-Trümmer, die
+Trümmer (n), die
 mn: Rubble
 pl: Die Trümmern 
 
-Axt, die
+Axt (n), die
 mn: Axe
 pl: Die Achsen 
 
-Übertragungs, die
+Übertragungs (n), die
 mn: Transmission
 pl: Die Übertragungen 
 
-Krippe, die
+Krippe (n), die
 mn: Crib
 pl: Die Krippen 
 
-Sprung, die
+Sprung (n), die
 mn: Hop
 pl: Der Hopfen 
 
-Friedhof, der
+Friedhof (n), der
 mn: Graveyard
 pl: Die Friedhöfe 
 
-Aroma, das
+Aroma (n), das
 mn: Aroma
 pl: Die Aromen 
 
-Dialog, der
+Dialog (n), der
 mn: Dialogue
 pl: Die Dialoge 
 
-Walze, die
+Walze (n), die
 mn: Roller
 pl: Die Rollen 
 
 Congregation – Gemeinde
 pl: Die Gemeinden 
 
-Gelände, das
+Gelände (n), das
 mn: Terrain
 pl: Die Terrains 
 
-Transfer, der
+Transfer (n), der
 mn: Transfer
 pl: Die Transfers 
 
-Hardware, die
+Hardware (n), die
 mn: Hardware
 pl: Die Hardwares 
 
-Generator, der
+Generator (n), der
 mn: Generator
 pl: Die Generatoren 
 
-Luxus, die
+Luxus (n), die
 mn: Luxury
 pl: Der Luxus 
 
-Auditorium, das
+Auditorium (n), das
 mn: Auditorium
 pl: Die Auditorien 
 
-Kobold, der
+Kobold (n), der
 mn: Goblin
 pl: Die Goblins 
 
-Zapfen, der
+Zapfen (n), der
 mn: Peg
 pl: Die Zapfen 
 
-Niederlage, die
+Niederlage (n), die
 mn: Defeat
 pl: Die Niederlagen 
 
 Haven – The Haven
 pl: Die Oasen 
 
-Probe, die
+Probe (n), die
 mn: Specimen
 pl: Die Proben 
 
-Herd, der
+Herd (n), der
 mn: Hearth
 pl: Die Feuerstellen 
 
-Zulassung, die
+Zulassung (n), die
 mn: Admission
 pl: Die Zulassungs 
 
-Besessenheit, die
+Besessenheit (n), die
 mn: Obsession
 pl: Die Obsessionen 
 
-Start, der
+Start (n), der
 mn: Launch
 pl: Die Starts 
 
-Patsy, die
+Patsy (n), die
 mn: Patsy
 pl: Die Sündenböcke 
 
-Wohnheim, das
+Wohnheim (n), das
 mn: Dorm
 pl: Die Schlafsäle 
 
 Glen – The Glen
 pl: Die Täler 
 
-Säge, die
+Säge (n), die
 mn: Saw
 pl: Die Sägen 
 
-Til, die
+Til (n), die
 mn: Til
 pl: Die Tils 
 
-Affe, der
+Affe (n), der
 mn: Ape
 pl: Die Affen 
 
-Staffelungs, der
+Staffelungs (n), der
 mn: Stagger
 pl: Die Wankt 
 
-Fotze, die
+Fotze (n), die
 mn: Pussy
 pl: Die Fotzen 
 
-Sammler, der
+Sammler (n), der
 mn: Collector
 pl: Die Kollektoren 
 
-Erdbeben, das
+Erdbeben (n), das
 mn: Earthquake
 pl: Die Erdbeben 
 
-Flocke, die
+Flocke (n), die
 mn: Flake
 pl: Die Flocken 
 
-Silbe, die
+Silbe (n), die
 mn: Syllable
 pl: Die Silben 
 
-Bouquet, das
+Bouquet (n), das
 mn: Bouquet
 pl: Die Blumensträuße 
 
-Auswahl, die
+Auswahl (n), die
 mn: Selection
 pl: Die Selektionen 
 
-Schwur, der
+Schwur (n), der
 mn: Vow
 pl: Die Gelübde 
 
-Enkelin, die
+Enkelin (n), die
 mn: Granddaughter
 pl: Die Enkel 
 
-Symptom, das
+Symptom (n), das
 mn: Symptom
 pl: Die Symptome 
 
-Szenario, das
+Szenario (n), das
 mn: Scenario
 pl: Die Szenarien 
 
-Aufruhr, der
+Aufruhr (n), der
 mn: Riot
 pl: Die Unruhen 
 
-Timing, das
+Timing (n), das
 mn: Timing
 pl: Die Zeitpunkte 
 
-Burger, der
+Burger (n), der
 mn: Burger
 pl: Die Burger 
 
-Plus, die
+Plus (n), die
 mn: Plus
 pl: Die Pluspunkte 
 
-Spatz, der
+Spatz (n), der
 mn: Sparrow
 pl: Die Spatzen 
 
-Botschaft, die
+Botschaft (n), die
 mn: Embassy
 pl: Die Botschaften 
 
-Podium, das
+Podium (n), das
 mn: Podium
 pl: Die Podestplätze 
 
-Vorwurf, der
+Vorwurf (n), der
 mn: Accusation
 pl: Die Vorwürfe 
 
-Herrenhaus, das
+Herrenhaus (n), das
 mn: Manor
 pl: Die Herrenhäuser 
 
-Schlurfen, das
+Schlurfen (n), das
 mn: Shuffling
 pl: Die Shufflings 
 
-Delfin, der
+Delfin (n), der
 mn: Dolphin
 pl: Die Delphine 
 
-Wasserkocher, der
+Wasserkocher (n), der
 mn: Kettle
 pl: Die Kessel 
 
-Soldat, der
+Soldat (n), der
 mn: Trooper
 pl: Die Soldaten 
 
-Rettung, die
+Rettung (n), die
 mn: Salvation
 pl: Die Rettungen 
 
-Tierarzt, der
+Tierarzt (n), der
 mn: Vet
 pl: Die Tierärzte 
 
-Landebahn, die
+Landebahn (n), die
 mn: Runway
 pl: Die Start Und Landebahnen 
 
-Mohn, der
+Mohn (n), der
 mn: Poppy
 pl: Der Mohn 
 
 Upstairs – Im Obergeschoss
 pl: Die Upstairses 
 
-Lava, die
+Lava (n), die
 mn: Lava
 pl: Die Laven 
 
-Inspiration, die
+Inspiration (n), die
 mn: Inspiration
 pl: Die Inspirationen 
 
-Busen, der
+Busen (n), der
 mn: Bosom
 pl: Die Busen 
 
-Eindringling, der
+Eindringling (n), der
 mn: Intruder
 pl: Die Eindringlinge 
 
-Supermarkt, der
+Supermarkt (n), der
 mn: Supermarket
 pl: Die Supermärkte 
 
-Pokal, der
+Pokal (n), der
 mn: Trophy
 pl: Die Trophäen 
 
-Eifersucht, die
+Eifersucht (n), die
 mn: Jealousy
 pl: Die Eifersucht 
 
-Aufseher, der
+Aufseher (n), der
 mn: Warden
 pl: Die Des Direktors
 
-Durchgang, der
+Durchgang (n), der
 mn: Passageway
 pl: Die Durchgänge 
 
-Yachthafen, der
+Yachthafen (n), der
 mn: Marina
 pl: Die Jachthäfen 
 
-Lebewohl, das
+Lebewohl (n), das
 mn: Farewell
 pl: Die Abschiede 
 
-Gegenstände, die
+Gegenstände (n), die
 mn: Belongings
 pl: Der Zugehörigkeit 
 
-Prozession, die
+Prozession (n), die
 mn: Procession
 pl: Die Prozessionen 
 
-Astronaut, der
+Astronaut (n), der
 mn: Astronaut
 pl: Die Astronauten 
 
-Schritt, der
+Schritt (n), der
 mn: Crotch
 pl: Die Gabelungen 
 
-Sweep, die
+Sweep (n), die
 mn: Sweep
 pl: Die Sweeps 
 
-Erholung, die
+Erholung (n), die
 mn: Recovery
 pl: Die Wiederfindungen 
 
-Kabelbaum, der
+Kabelbaum (n), der
 mn: Harness
 pl: Die Kabelbäume 
 
-Angst, die
+Angst (n), die
 mn: Anguish
 pl: Die Ängste 
 
-Logo, das
+Logo (n), das
 mn: Logo
 pl: Die Logos 
 
-Wurf, der
+Wurf (n), der
 mn: Litter
 pl: Die Würfe 
 
-Marine, die
+Marine (n), die
 mn: Marine
 pl: Die Marines 
 
-Groll, der
+Groll (n), der
 mn: Resentment
 pl: Die Ressentiments 
 
-CoOp, der
+CoOp (n), der
 mn: CoOp
 pl: Die Genossenschaften 
 
 Drake – The Drake
 pl: Die Drachen 
 
-Zigeuner, der
+Zigeuner (n), der
 mn: Gypsy
 pl: Die Zigeuner 
 
-Nachahmung, die
+Nachahmung (n), die
 mn: Imitation
 pl: Die Imitationen 
 
-Arbeitgeber, der
+Arbeitgeber (n), der
 mn: Employer
 pl: Die Arbeitgeber
 
-Neuling, der
+Neuling (n), der
 mn: Freshman
 pl: Die Freshmans 
 
-Phänomen, das
+Phänomen (n), das
 mn: Phenomenon
 pl: Die Phänomene 
 
-Flöte, die
+Flöte (n), die
 mn: Flute
 pl: Die Flöten 
 
-Grieche, der
+Grieche (n), der
 mn: Greek
 pl: Die Griechen 
 
-Wohnung, die
+Wohnung (n), die
 mn: Condo
 pl: Die Eigentumswohnungen 
 
-Zeigefinger, der
+Zeigefinger (n), der
 mn: Forefinger
 pl: Die Zeigefingern 
 
-Begräbnis, das
+Begräbnis (n), das
 mn: Burial
 pl: Die Bestattungen 
 
-Republik, die
+Republik (n), die
 mn: Republic
 pl: Die Republiken 
 
-Smaragd, der
+Smaragd (n), der
 mn: Emerald
 pl: Die Smaragde 
 
-Bademantel, der
+Bademantel (n), der
 mn: Bathrobe
 pl: Die Bademäntel 
 
-Zeugnis, das
+Zeugnis (n), das
 mn: Testimony
 pl: Die Zeugenaussagen 
 
-Scharnier, das
+Scharnier (n), das
 mn: Hinge
 pl: Die Scharniere 
 
-Bäckerei, die
+Bäckerei (n), die
 mn: Bakery
 pl: Die Bäckereien 
 
-Kontext, der
+Kontext (n), der
 mn: Context
 pl: Die Kontexte 
 
-Schnäppchen, das
+Schnäppchen (n), das
 mn: Bargain
 pl: Die Schnäppchen 
 
-Sprichwort, das
+Sprichwort (n), das
 mn: Saying
 pl: Die Sprüche 
 
-Vorarbeiter, der
+Vorarbeiter (n), der
 mn: Foreman
 pl: Die Foremans 
 
-Schwan, der
+Schwan (n), der
 mn: Swan
 pl: Die Schwäne 
 
-Flanell, die
+Flanell (n), die
 mn: Flannel
 pl: Die Waschlappen 
 
-Angabe, die
+Angabe (n), die
 mn: Indication
 pl: Die Indikationen 
 
-Signifikanz, die
+Signifikanz (n), die
 mn: Significance
 pl: Die Bedeutungen 
 
-Käfer, der
+Käfer (n), der
 mn: Beetle
 pl: Die Käfer 
 
-Lern, die
+Lern (n), die
 mn: Learning
 pl: Die Erkenntnisse 
 
-Lokal, das
+Lokal (n), das
 mn: Pub
 pl: Die Pubs 
 
-Fraktion, die
+Fraktion (n), die
 mn: Fraction
 pl: Die Fraktionen 
 
-Forelle, die
+Forelle (n), die
 mn: Trout
 pl: Die Forellen 
 
-Kruste, die
+Kruste (n), die
 mn: Crust
 pl: Die Krusten 
 
-Überzugs, die
+Überzugs (n), die
 mn: Overcoat
 pl: Die Mäntel 
 
-Glitzern, das
+Glitzern (n), das
 mn: Glint
 pl: Die Reflexen 
 
-Medaille, die
+Medaille (n), die
 mn: Medal
 pl: Die Medaillen 
 
-Wahrnehmung, die
+Wahrnehmung (n), die
 mn: Perception
 pl: Die Wahrnehmungen 
 
-Willkommen, das
+Willkommen (n), das
 mn: Welcome
 pl: Die Willkommen 
 
-Wörterbuch, das
+Wörterbuch (n), das
 mn: Dictionary
 pl: Die Wörterbücher 
 
-Metapher, die
+Metapher (n), die
 mn: Metaphor
 pl: Die Metaphern 
 
-Armut, die
+Armut (n), die
 mn: Poverty
 pl: Die Poverties 
 
-Haupt, die
+Haupt (n), die
 mn: Main
 pl: Die Netz
 
-Anstieg, der
+Anstieg (n), der
 mn: Climb
 pl: Die Anstiege 
 
-Leine, die
+Leine (n), die
 mn: Leash
 pl: Die Leinen

@@ -1,0 +1,749 @@
+aalglatt (adj)
+mn: slippery
+
+abenteuerlich (adj)
+mn: adventurous
+
+abhängig (adj)
+mn: dependent
+
+aggressiv (adj)
+mn: aggressive
+
+ähnlich (adj)
+mn: similar
+
+ahnungslos (adj)
+mn: clueless
+
+aktiv (adj)
+mn: active
+
+allein (adj)
+mn: alone
+
+alt (adj)
+mn: old
+
+anpassungsfähig (adj)
+mn: adaptable
+
+anständig (adj)
+mn: decent
+
+ärgerlich (adj)
+mn: annoying
+
+arm (adj)
+mn: poor
+
+art (adj)
+mn: kind
+
+attraktiv (adj)
+mn: attractive
+
+aufgeklärt (adj)
+mn: enlightened
+
+aufgeregt (adj)
+mn: excited, upset, nervous
+
+aufgeschlossen (adj)
+mn: open-minded
+
+aufrichtig (adj)
+mn: sincere, genuine, candid
+
+blass (adj)
+mn: pale
+
+begabt (adj)
+mn: gifted, talented
+
+begeistert (adj)
+mn: excited, enthusiastic, thrilled
+
+berühmt (adj)
+mn: famous
+
+beliebt, populär (adj)
+mn: popular
+
+bestimmt (adj)
+mn: special, certain
+
+besser (adj)
+mn: better
+
+bequem (adj)
+mn: comfortable
+
+bescheiden (adj)
+mn: modest, humble
+
+beste (adj)
+mn: best
+
+bezaubernd (adj)
+mn: enchanting, fascinating
+
+billig (adj)
+mn: cheap, inexpensive
+
+blöd (adj)
+mn: stupid, ignorant
+
+blondine (adj)
+mn: blond
+
+boshaft (adj)
+mn: malicious, mean
+
+brav (adj)
+mn: well-behaved, good
+
+charmant (adj)
+mn: charming
+
+dankbar (adj)
+mn: grateful, thankful
+
+dick (adj)
+mn: thick
+
+direkt (adj)
+mn: direct, straight
+
+doof, dumm (adj)
+mn: stupid, dumb
+
+dunkel (adj)
+mn: dark
+
+dünn (adj)
+mn: thin
+
+ehrgeizig (adj)
+mn: ambitious
+
+ehrlich (adj)
+mn: honest
+
+eifersüchtig (adj)
+mn: jealous
+
+einfach (adj)
+mn: simple, plain, easy
+
+eingebildet (adj)
+mn: conceited, vain
+
+einmalig (adj)
+mn: unique
+
+einsam (adj)
+mn: lonely
+
+ekelhaft (adj)
+mn: nasty, detestable
+
+eklig (adj)
+mn: disgusting, gross
+
+empfindlich (adj)
+mn: sensitive
+
+eng (adj)
+mn: narrow, close
+
+engagiert (adj)
+mn: dedicated, committed
+
+engstirnig (adj)
+mn: narrow-minded
+
+entscheidend (adj)
+mn: decisive
+
+entspannend (adj)
+mn: laidback
+
+erfolgreich (adj)
+mn: successful
+
+ernst (adj)
+mn: serious
+
+erste (adj)
+mn: first
+
+erstklassig (adj)
+mn: first-class, high-quality, topnotch
+
+falsch (adj)
+mn: wrong, false
+
+fantastisch (adj)
+mn: fantastic
+
+faszinierend (adj)
+mn: fascinating
+
+faul (adj)
+mn: lazy
+
+feig (adj)
+mn: cowardly
+
+fein (adj)
+mn: fine
+
+fest (adj)
+mn: solid, strong, firm
+
+fett (adj)
+mn: fat
+
+feigling (adj)
+mn: coward
+
+fleißig (adj)
+mn: diligent, hard-working, industrious
+
+fortgeschritten (adj)
+mn: advanced
+
+frech (adj)
+mn: naughty, cheeky, sassy
+
+frei (adj)
+mn: free
+
+fremd (adj)
+mn: foreign, strange
+
+freundlich (adj)
+mn: friendly, kind
+
+froh (adj)
+mn: happy
+
+fröhlich (adj)
+mn: cheerful
+
+fromm (adj)
+mn: pious
+
+früh (adj)
+mn: early
+
+ganz (adj)
+mn: whole
+
+gastfreundlich (adj)
+mn: hospitable
+
+gebildet (adj)
+mn: educated, cultured
+
+geduldig (adj)
+mn: patient
+
+gefährlich (adj)
+mn: dangerous
+
+gefühlvoll (adj)
+mn: sensitive, emotional
+
+geistreich (adj)
+mn: witty, brilliant
+
+geizig (adj)
+mn: stingy, cheap
+
+gemein (adj)
+mn: low, rude, vulgar
+
+gemeinsam (adj)
+mn: common, mutual
+
+gemütlich (adj)
+mn: pleasant, cozy
+
+genial (adj)
+mn: ingenious, brilliant
+
+gerecht (adj)
+mn: just, righteous
+
+geschätzt (adj)
+mn: dear, valued
+
+gescheit (adj)
+mn: clever, bright
+
+geschickt (adj)
+mn: skillful
+
+geschwätzig (adj)
+mn: talkative, chatty
+
+gesellig (adj)
+mn: sociable, friendly
+
+gesund (adj)
+mn: healthy
+
+gierig (adj)
+mn: greedy
+
+glaubwürdig (adj)
+mn: credible, believable
+
+gleich (adj)
+mn: same, right away, just
+
+gleichzeitig (adj)
+mn: simultaneous
+
+glücklich (adj)
+mn: happy, lucky, blessed
+
+grausam (adj)
+mn: cruel
+
+grob (adj)
+mn: coarse, uncouth, rude
+
+großzügig (adj)
+mn: generous
+
+groß (adj)
+mn: big, large, tall
+
+grün (adj)
+mn: green
+
+gut (adj)
+mn: good, well
+
+gut angezogen (adj)
+mn: well-dressed
+
+gut gelaunt (adj)
+mn: cheerful, in a good mood
+
+halb (adj)
+mn: half
+
+halsstarrig (adj)
+mn: stubborn
+
+hart (adj)
+mn: hard, tough
+
+hartnäckig (adj)
+mn: hard-headed, stubborn
+
+hässlich (adj)
+mn: ugly
+
+häufig (adj)
+mn: frequent
+
+heiß (adj)
+mn: hot
+
+heiter (adj)
+mn: cheerful
+
+hell (adj)
+mn: bright, vivid
+
+hemmungslos (adj)
+mn: uninhibited, unrestrained
+
+herrlich (adj)
+mn: wonderful, magnificent, marvelous
+
+herzlos (adj)
+mn: heartless, unfeeling
+
+hilfreich (adj)
+mn: helpful
+
+hinterlistig (adj)
+mn: deceitful, treacherous
+
+hoch (adj)
+mn: high
+
+hochmütig (adj)
+mn: haughty, proud
+
+hochnäsig (adj)
+mn: snooty, stuck up
+
+höflich (adj)
+mn: polite
+
+hübsch (adj)
+mn: pretty, handsome
+
+hundemüde (adj)
+mn: dog-tired
+
+hungrig (adj)
+mn: hungry
+
+idealistisch (adj)
+mn: idealistic
+
+intelligent (adj)
+mn: intelligent
+
+interessant (adj)
+mn: interesting
+
+intolerant (adj)
+mn: intolerant
+
+jung (adj)
+mn: young
+
+kalt (adj)
+mn: cold, unfriendly
+
+kindisch (adj)
+mn: childish
+
+kindlich (adj)
+mn: childlike
+
+klar (adj)
+mn: clear
+
+klasse, toll, super (adj)
+mn: great, super
+
+klein (adj)
+mn: small, little, short
+
+kleinlich (adj)
+mn: petty, nit-picky
+
+klug (adj)
+mn: smart, clever
+
+komisch (adj)
+mn: funny, comical, odd
+
+kompliziert (adj)
+mn: complicated
+
+konservativ (adj)
+mn: conservative
+
+kontaktfreudig (adj)
+mn: sociable, outgoing
+
+kräftig (adj)
+mn: strong
+
+krank (adj)
+mn: sick
+
+kreativ (adj)
+mn: creative
+
+kritisch (adj)
+mn: critical
+
+krumm (adj)
+mn: crooked, hunched, bent
+
+labil (adj)
+mn: unstable, frail
+
+lang (adj)
+mn: long
+
+langsam (adj)
+mn: slow
+
+langweilig (adj)
+mn: boring
+
+launisch (adj)
+mn: moody, temperamental
+
+laut (adj)
+mn: loud, rowdy
+
+lebendig (adj)
+mn: alive, lively
+
+leicht (adj)
+mn: light, easy
+
+leidenschaftlich (adj)
+mn: passionate
+
+leise (adj)
+mn: quiet, soft
+
+letzte (adj)
+mn: last
+
+lieb (adj)
+mn: dear, beloved
+
+liebenswürdig (adj)
+mn: lovable, amiable
+
+lustig (adj)
+mn: funny
+
+merkwürdig (adj)
+mn: unusual, strange
+
+misstrauisch (adj)
+mn: mistrustful, distrustful
+
+modisch (adj)
+mn: fashionable, stylish
+
+mollig (adj)
+mn: plump, chubby
+
+möglich (adj)
+mn: possible
+
+moralisch (adj)
+mn: moral, ethical
+
+mutig (adj)
+mn: brave
+
+nächste (adj)
+mn: next
+
+nachlässig (adj)
+mn: careless, negligent
+
+nah (adj)
+mn: near
+
+naß (adj)
+mn: wet
+
+neidisch (adj)
+mn: envious
+
+nervös (adj)
+mn: nervous
+
+nett (adj)
+mn: kind, nice (person)
+
+neu (adj)
+mn: new
+
+neugierig (adj)
+mn: curious
+
+niedergeschlagen (adj)
+mn: depressed, dejected
+
+niedlich (adj)
+mn: cute
+
+niedrig (adj)
+mn: low
+
+notwendig (adj)
+mn: necessary
+
+oberflächlich (adj)
+mn: superficial, shallow
+
+offen (adj)
+mn: open
+
+öffentlich (adj)
+mn: public
+
+optimistisch (adj)
+mn: optimistic
+
+ordentlich (adj)
+mn: orderly
+
+passiv (adj)
+mn: passive
+
+parteiisch (adj)
+mn: partial, biased, one-sided
+
+peinlich (adj)
+mn: embarrassing
+
+pessimistisch (adj)
+mn: pessimistic
+
+praktisch (adj)
+mn: practical
+
+privat (adj)
+mn: private
+
+pünktlich (adj)
+mn: punctual, prompt
+
+radikal (adj)
+mn: radical, revolutionary
+
+raffiniert (adj)
+mn: refined, elegant
+
+rauh (adj)
+mn: rough
+
+rebellisch (adj)
+mn: rebellious
+
+rechthaberisch (adj)
+mn: self-opinionated
+
+redlich (adj)
+mn: honest
+
+reich (adj)
+mn: rich
+
+reif (adj)
+mn: mature
+
+rein (adj)
+mn: pure, clean, clear
+
+religiös (adj)
+mn: religious
+
+richtig (adj)
+mn: correct, proper
+
+riesig (adj)
+mn: huge
+
+romantisch (adj)
+mn: romantic
+
+rot (adj)
+mn: red
+
+rücksichtslos (adj)
+mn: ruthless, inconsiderate
+
+rücksichtsvoll (adj)
+mn: considerate
+
+ruhig (adj)
+mn: calm
+
+sauber (adj)
+mn: clean
+
+sauer (adj)
+mn: angry, sour
+
+schick (adj)
+mn: chic, stylish, fancy
+
+schlampig (adj)
+mn: messy, sloppy
+
+schlau (adj)
+mn: clever, cunning
+
+schlecht, schlimm (adj)
+mn: bad, awful
+
+schmutzig (adj)
+mn: dirty, filthy, soiled
+
+schnell (adj)
+mn: fast, quick
+
+schön (adj)
+mn: beautiful, pretty, nice
+
+schüchtern (adj)
+mn: shy
+
+schwach (adj)
+mn: weak, frail
+
+schwarz (adj)
+mn: black
+
+schwer, schwierig (adj)
+mn: difficult, heavy
+
+schwerfällig (adj)
+mn: cumbersome, heavy, sluggish
+
+schwermütig (adj)
+mn: gloomy, melancholic
+
+selbstlos (adj)
+mn: unselfish
+
+selbstsicher (adj)
+mn: self-confident
+
+selbstsüchtig (adj)
+mn: selfish
+
+selten (adj)
+mn: rare
+
+seltsam (adj)
+mn: strange, weird
+
+sensationell (adj)
+mn: sensational
+
+sensibel (adj)
+mn: sensitive
+
+sicher (adj)
+mn: safe, secure, certainly
+
+sorgenlos, sorgenfrei (adj)
+mn: carefree
+
+sorgfältig (adj)
+mn: careful
+
+spät (adj)
+mn: late
+
+spontan (adj)
+mn: spontaneous
+
+sportlich (adj)
+mn: athletic
+
+spöttisch (adj)
+mn: mocking, scornful
+
+ständig (adj)
+mn: constant
+
+stark (adj)
+mn: strong, powerful
+
+stolz (auf) (adj)
+mn: proud (of)
