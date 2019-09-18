@@ -8,7 +8,7 @@ from .word_meaning import run as WordMeaning
 
 def make_signal_handler(game):
     def signal_handler(sig, frame):
-        print("\nFINAL REPORT\nWord\t\t\t\t\t\tResult\n"
+        print("\nFINAL REPORT\nWord\t\t\t\tResult\n"
               "-----------------------------------------------")
 
         for (word_text, correct, count) in game.results:

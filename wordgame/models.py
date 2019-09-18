@@ -7,6 +7,7 @@ WORD_DELIMITER = '\n'
 RGX_VERSION = re.compile(r'^@version (\d+\.\d+\.\d+)$')
 RGX_ENTRY_NOUN = re.compile(r'^(?P<noun>.+) \(n\), (der|die|das)')
 RGX_ENTRY_VERB = re.compile(r'^(?P<verb>.+) \(v\)(?:, (sich))?')
+RGX_ENTRY_ADJ = re.compile(r'^(?P<adj>.+) \(a\)')
 RGX_LIST_ITEM = re.compile(r'^- (.+)')
 RGX_KEY_STR_VALUE = re.compile(r'^(?P<key>.+): (?P<value>.+)$')
 RGX_KEY_LIST_VALUE = re.compile('^ex:$')
@@ -31,7 +32,9 @@ class Word(object):
         if self.category == 'noun':
             return '{} {}'.format(self.gender, self.text)
         elif self.category == 'verb':
-            return '{} {}'.format(self.reflexive, self.text)
+            return '{} {}'.format(self.reflexive, self.text) if self.reflexive is not None else self.text
+        elif self.category == 'adjective':
+            return self.text
         else:
             return 'word({}, ({}))'.format(self.text, self.category)
 
@@ -61,7 +64,7 @@ class Game(object):
                 'value': match[1]
             }
         else:
-            match = RGX_ENTRY_NOUN.match(line) or RGX_ENTRY_VERB.match(line)
+            match = RGX_ENTRY_NOUN.match(line) or RGX_ENTRY_VERB.match(line) or RGX_ENTRY_ADJ.match(line)
             if match is not None:
                 if 'noun' in match.groupdict():
                     word = Word(match.group('noun'), 'noun',
@@ -69,6 +72,8 @@ class Game(object):
                 elif 'verb' in match.groupdict():
                     word = Word(match.group('verb'), 'verb',
                                 reflexive=match[2])
+                elif 'adj' in match.groupdict():
+                    word = Word(match.group('adj'), 'adjective')
                 else:
                     return None
 

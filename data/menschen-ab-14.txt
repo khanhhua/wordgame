@@ -1,0 +1,111 @@
+@version 1.0.0
+
+Absender (n), der
+mn: sender
+pl: die Absender
+
+Briefkasten (n), der
+mn: mailbox
+pl: die Briefkasten
+
+Empfänger (n), der
+mn: receiver
+pl: die Empfänger
+
+Päckchen (n), das
+mn: packet
+pl: die Päckchen
+
+Paket (n), das
+mn: packet
+pl: die Pakete
+
+Schalter (n), der
+mn: switch
+pl: die Schalter
+
+Unterschrift (n), die
+mn: signature
+pl: die Unterschriften
+
+einpacken (v)
+mn: pack in
+pt: einpackte, eingepackt
+
+packen (v)
+mn: pack
+pt: packte, gepackt
+
+transportieren (v)
+mn: transport
+pt: transportiert, transportieren
+
+unterschreiben (v)
+mn: sign
+pt: unterschrieb, unterschrieben
+
+Gesicht (n), das
+mn: face
+pl: die Gesichter
+
+Junge (n), der
+mn: boy
+pl: die Jungen
+
+Mädchen (n), das
+mn: girl
+pl: die Mädchen
+
+Projekt (n), das
+mn: project
+pl: die Projekte
+
+Schritt (n), der
+mn: step
+pl: die Schritte
+
+Tafel (n), die
+mn: blackboard
+pl: die Tafeln
+
+Zentimeter (n), der
+mn: centimeter
+pl: die Zentimeter
+
+ankreuzen (v)
+mn: to mark with a cross
+
+benutzen (v)
+mn: to use
+
+denken an (v)
+mn: to think about
+pt: dachte an an gedacht
+
+ergänzen (v)
+mn: to complete
+pt: ergänzte, ergänzt
+
+gebrauchen (v)
+mn: to use
+pt: gebrauchte gebraucht
+
+Creme (n), die
+mn: cream
+pl: die Cremes
+
+Gebrauchsanweisung (n), die
+mn: guide, instructions
+pl: die Gebrauchsanweisungen
+ex:
+- Befolgen sie die gebrauchsanweisung!
+
+arm (a)
+mn: poor
+
+verschieden (a)
+mn: different
+
+schliesßlich (a)
+mn: finally
+ 
